@@ -1,0 +1,9 @@
+Name,Type,Disabled,BgFileName,BgExportName,ButtonTomlConfig,BoothTomlConfig,TID
+string,int,Boolean,string,string,string,string,string
+Featured,1,,sc/ui.sc,bg_anim_skulls,,,
+Season,1,TRUE,sc/ui.sc,bg_anim_skulls,,,
+TimeLimited1,1,TRUE,sc/ui.sc,bg_anim_skulls,,,
+TimeLimited2,1,TRUE,sc/ui.sc,bg_anim_skulls,,,
+TimeLimited3,1,TRUE,sc/ui.sc,bg_anim_skulls,,,
+OdditiesShop,1,TRUE,sc/ui.sc,bg_anim_skulls,,,
+Currencies,1,TRUE,sc/ui.sc,bg_anim_skulls,,,
