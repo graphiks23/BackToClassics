@@ -6,7 +6,9 @@ A mod that recreates many of the old aspects of Brawl Stars
 
 
 # Building
-To build this mod, you will need to have Adobe Animate 2022 or later, and [SupercellSWF-Animate](https://github.com/sc-workshop/SupercellSWF-Animate) plugin to export to `.sc`.
+To build this mod, you will need to have Adobe Animate 2022 or 2023, and [SupercellSWF-Animate](https://github.com/sc-workshop/SupercellSWF-Animate) plugin to export to `.sc`.
+>[!IMPORTANT]
+>Adobe Animate 2024 does not have proper 9-slice support, so any symbol with 9-slice needs to be manually converted to fills
 
 - UI  
 Go to UI folder, then open startup.fla to compile ui patches
