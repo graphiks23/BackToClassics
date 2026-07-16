@@ -1,9 +1,9 @@
 Name,Type,Disabled,BgFileName,BgExportName,ButtonTomlConfig,BoothTomlConfig,TID
 string,int,Boolean,string,string,string,string,string
-Featured,1,,sc/ui.sc,bg_anim_skulls,,,
-Season,1,TRUE,sc/ui.sc,bg_anim_skulls,,,
-TimeLimited1,1,TRUE,sc/ui.sc,bg_anim_skulls,,,
-TimeLimited2,1,TRUE,sc/ui.sc,bg_anim_skulls,,,
-TimeLimited3,1,TRUE,sc/ui.sc,bg_anim_skulls,,,
-OdditiesShop,1,TRUE,sc/ui.sc,bg_anim_skulls,,,
-Currencies,1,TRUE,sc/ui.sc,bg_anim_skulls,,,
+Currencies,7,,sc/ui.sc,bg_anim_skulls,,bazaar_booth_default,TID_SHOP_TAB_RESOURCES
+Season,7,TRUE,sc/ui.sc,bg_anim_skulls,,bazaar_booth_default,TID_SHOP_TAB_SEASON
+TimeLimited1,7,TRUE,sc/ui.sc,bg_anim_skulls,,bazaar_booth_default,TID_SHOP_TAB_TIME_LIMITED_1
+TimeLimited2,7,TRUE,sc/ui.sc,bg_anim_skulls,,bazaar_booth_default,TID_SHOP_TAB_TIME_LIMITED_2
+TimeLimited3,7,TRUE,sc/ui.sc,bg_anim_skulls,,bazaar_booth_default,TID_SHOP_TAB_TIME_LIMITED_3
+OdditiesShop,7,,sc/ui.sc,bg_anim_skulls,,bazaar_booth_oddities_shop,TID_SHOP_TAB_ODDITIES_SHOP
+Featured,7,TRUE,sc/ui.sc,bg_anim_skulls,,bazaar_booth_default,
