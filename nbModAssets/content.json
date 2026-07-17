@@ -42,7 +42,7 @@
 		"logic/randomReward.json",
 		"logic/resources.json",
 		"logic/shopTabs.json",
-		"logic/skinBackgroundPatch.json"
+		"logic/skinBackgroundPatch.json",
 		"logic/rarities.json"
 				]
 }
