@@ -1,0 +1,162 @@
+{
+    "brawler_early_access": {
+        "DancerEarlyAccess": {
+            "TicketIconExportPath": "sc/ui.sc#icon_ticket",
+            "BrawlerBoxRewardContainer": "MegaBox",
+            "BoxIcon": "sc/daily_wins.sc#emoji_classic_box_mega",
+            "EventIcon": "icon_skins_mega",
+            "GameModeRoomIcon": "icon_skins_mega",
+            "GachaBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear"
+        },
+        "FuryEarlyAccess": {
+            "TicketIconExportPath": "sc/ui.sc#icon_ticket",
+            "BrawlerBoxRewardContainer": "MegaBox",
+            "BoxIcon": "sc/daily_wins.sc#emoji_classic_box_mega",
+            "EventIcon": "icon_skins_mega",
+            "GameModeRoomIcon": "icon_skins_mega",
+            "GachaBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear"
+        },
+        "DaredevilEarlyAccess": {
+            "TicketIconExportPath": "sc/ui.sc#icon_ticket",
+            "BrawlerBoxRewardContainer": "MegaBox",
+            "BoxIcon": "sc/daily_wins.sc#emoji_classic_box_mega",
+            "EventIcon": "icon_skins_mega",
+            "GameModeRoomIcon": "icon_skins_mega",
+            "GachaBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear"
+        },
+        "BulletstormEarlyAccess": {
+            "TicketIconExportPath": "sc/ui.sc#icon_ticket",
+            "BrawlerBoxRewardContainer": "MegaBox",
+            "BoxIcon": "sc/daily_wins.sc#emoji_classic_box_mega",
+            "EventIcon": "icon_skins_mega",
+            "GameModeRoomIcon": "icon_skins_mega",
+            "GachaBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear",
+            "EventBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear"
+        },
+        "MenderEarlyAccess": {
+            "TicketIconExportPath": "sc/ui.sc#icon_ticket",
+            "BrawlerBoxRewardContainer": "MegaBox",
+            "BoxIcon": "sc/daily_wins.sc#emoji_classic_box_mega",
+            "EventIcon": "icon_skins_mega",
+            "GameModeRoomIcon": "icon_skins_mega",
+            "GachaBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear",
+            "EventBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear"
+        },
+        "ShadowdemonEarlyAccess": {
+            "TicketIconExportPath": "sc/ui.sc#icon_ticket",
+            "BrawlerBoxRewardContainer": "MegaBox",
+            "BoxIcon": "sc/daily_wins.sc#emoji_classic_box_mega",
+            "EventIcon": "icon_skins_mega",
+            "GameModeRoomIcon": "icon_skins_mega",
+            "BoxRotations": [
+                0,
+                60,
+                15
+            ],
+            "BoxStartFrameOffsets": [
+                8,
+                4
+            ],
+            "GachaBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear",
+            "EventBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear"
+        },
+        "RedirecterEarlyAccess": {
+            "TicketIconExportPath": "sc/ui.sc#icon_ticket",
+            "BrawlerBoxRewardContainer": "MegaBox",
+            "BoxIcon": "sc/daily_wins.sc#emoji_classic_box_mega",
+            "EventIcon": "icon_skins_mega",
+            "GameModeRoomIcon": "icon_skins_mega",
+            "GachaBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear",
+            "EventBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear"
+        },
+        "GladiatorEarlyAccess": {
+            "TicketIconExportPath": "sc/ui.sc#icon_normal_ticket",
+            "BoxIcon": "sc/daily_wins.sc#emoji_classic_box_mega",
+            "EventIcon": "icon_skins_mega",
+            "GameModeRoomIcon": "icon_skins_mega",
+            "BoxRotations": [
+                2,
+                0,
+                -2
+            ],
+            "BoxStartFrameOffsets": [
+                8,
+                4
+            ],
+            "GachaBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear",
+            "EventBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear"
+        },
+        "MagicalGirlEarlyAccess": {
+            "TicketIconExportPath": "sc/ui.sc#reward_profilebutton_7",
+            "BrawlerBoxRewardContainer": "GladiatorBox",
+            "BoxIcon": "sc/daily_wins.sc#emoji_classic_box_mega",
+            "EventIcon": "icon_skins_mega",
+            "GameModeRoomIcon": "icon_skins_mega",
+            "BoxRotations": [
+                2,
+                0,
+                -2
+            ],
+            "BoxStartFrameOffsets": [
+                8,
+                4
+            ],
+            "GachaBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear",
+            "EventBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear"
+        },
+        "RockEarlyAccess": {
+            "TicketIconExportPath": "sc/ui.sc#reward_profilebutton_7",
+            "BrawlerBoxRewardContainer": "GladiatorBox",
+            "BoxIcon": "sc/daily_wins.sc#emoji_classic_box_mega",
+            "EventIcon": "icon_skins_mega",
+            "GameModeRoomIcon": "icon_skins_mega",
+            "BoxRotations": [
+                2,
+                0,
+                -2
+            ],
+            "BoxStartFrameOffsets": [
+                8,
+                4
+            ],
+            "GachaBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear",
+            "EventBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear"
+        },
+        "KatanaKidEarlyAccess": {
+            "TicketIconExportPath": "sc/ui.sc#reward_profilebutton_7",
+            "BrawlerBoxRewardContainer": "GladiatorBox",
+            "BoxIcon": "sc/daily_wins.sc#emoji_classic_box_mega",
+            "EventIcon": "icon_skins_mega",
+            "GameModeRoomIcon": "icon_skins_mega",
+            "BoxRotations": [
+                2,
+                0,
+                -2
+            ],
+            "BoxStartFrameOffsets": [
+                8,
+                4
+            ],
+            "GachaBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear",
+            "EventBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear"
+        },
+        "FutureGirlEarlyAccess": {
+            "TicketIconExportPath": "sc/ui.sc#reward_profilebutton_7",
+            "BrawlerBoxRewardContainer": "GladiatorBox",
+            "BoxIcon": "sc/daily_wins.sc#emoji_classic_box_mega",
+            "EventIcon": "icon_skins_mega",
+            "GameModeRoomIcon": "icon_skins_mega",
+            "BoxRotations": [
+                2,
+                0,
+                -2
+            ],
+            "BoxStartFrameOffsets": [
+                8,
+                4
+            ],
+            "GachaBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear",
+            "EventBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear"
+        }
+    }
+}

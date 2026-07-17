@@ -1,0 +1,19 @@
+{
+"$schema": "https://ext.nulls.gg/mods/schema/schema.json",
+    
+    "@title": { 
+        "EN": "V14 mainscreen mod",
+        "RU": "Мод на V14 mainscreen"
+},
+    "@description": {
+"EN": "Experimental mod which brings back the old mainscreen ui from v14",
+"RU": "Экспериментальный мод, возвращающий UI mainscreen из версии v14"
+    },
+
+    "@version": "1.0.0",
+    "@author": "@graphik23",
+    "@categories": [
+        "gui"
+    ],
+    "@gv": 67
+}

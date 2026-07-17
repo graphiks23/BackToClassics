@@ -1,0 +1,48 @@
+{
+"$schema": "https://ext.nulls.gg/mods/schema/schema.json",
+    "@title": { 
+        "EN": "Back To Classics Playtest",
+        "RU": "Back To Classics Playtest"
+        },
+    "@description": {
+     "EN": "<nt:nolib>This mod works best on 16:9 or wider aspect ratios!\n</nt:nolib>Back To Classics is a remix on the classic feeling of Brawl Stars, with many features reimplemented from old versions of the game",
+     "RU": "<nt:nolib>This mod works best on 16:9 or wider aspect ratios!\n</nt:nolib>Back To Classics is a remix on the classic feeling of Brawl Stars, with many features reimplemented from old versions of the game"
+    },
+    "@author": "graphiks, milkmid, thangcamxeng, Daniil SV",
+    "@version": "2.1.87",
+    "@ilib": true,
+    "@categories": [
+        "gui",
+        "sfx"
+    ],
+    "@gv": 68,
+
+	"@features": {
+		"oldshop": {
+			"@name": {"EN": "Old shop", "RU": "Старый магазин"},
+			"@description": {"EN": "Enables the old shop", "RU": "Включает старую версию магазина"},
+			"@enabled": false,
+			"@priority": 1,
+			"@patches": "shop/oldshop.json"
+					}
+				},
+				
+	"@patches": [
+		"locale/btcCustomStrings.json",
+		"locale/chromaPatch.json",
+		"locale/starPoints.json",
+		"locale/tokens.json",
+		"client/effects.json",
+		"client/shopItems.json",
+		"client/sounds.json",
+		"logic/btcTheme.json",
+		"logic/earlyAccess.json",
+		"logic/milestones.json",
+		"logic/playerCards.json",
+		"logic/randomReward.json",
+		"logic/resources.json",
+		"logic/shopTabs.json",
+		"logic/skinBackgroundPatch.json"
+		"logic/rarities.json"
+				]
+}

@@ -1,0 +1,11 @@
+{
+    "themes": {
+        "*": {
+            "FileName": "sc/background_basic.sc",
+            "ExportName": "bgr",
+            "ThemeMusic": "MenuMusic",
+            "LoadingJingle": "sfx/btc_load.ogg",
+            "LoadingScreen": "sc/loading_btc.sc"
+        }
+    }
+}

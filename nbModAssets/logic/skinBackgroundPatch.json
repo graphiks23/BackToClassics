@@ -1,0 +1,11 @@
+{
+  "skin_campaigns": {
+    "*": {
+      "BgItemName": null,
+      "BgOfferScFilename": null,
+      "BgOfferPopup": null,
+      "BundledUnderCatalogCategory": null,
+      "UseSecondCampaing": null
+    }
+  }
+}

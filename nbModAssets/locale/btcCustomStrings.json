@@ -1,0 +1,52 @@
+{
+    "texts_patch": {
+        "TID_SPECIAL_THANKS": {
+            "EN": "Daniil SV"
+        },
+        "TID_CREDITS_THANKS": {
+            "EN": "Special thanks to:"
+        },
+        "TID_CREATOR": {
+            "EN": "graphiks"
+        },
+        "TID_CREATOR_TITLE": {
+            "EN": "Made by:"
+        },
+        "TID_HELPERS_TITLE": {
+            "EN": "with help from:"
+        },
+        "TID_HELPERS_THANG": {
+            "EN": "thangcamxengtm"
+        },
+        "TID_HELPERS_MILKMID": {
+            "EN": "milkmid"
+        },
+        "TID_BTC_CHROMA_DOWNGRADE_INFO": {
+            "EN": "The rarity of a CHROMATIC Brawler decreases with each Brawl Pass Season. It starts at LEGENDARY, then decreases to MYTHIC and finally becomes EPIC."
+        },
+        "TID_BTC_CHROMATIC_COINS": {
+            "EN": "Previously, <cf88f25>Chroma Credits</c> were the main source of unlocking Chromatic brawlers, now, you collect <c0e90ff>Credits</c> to unlock them in the STARR ROAD"
+        },
+        "TID_BTC_CHROMA_RETURN_TITLE": {
+            "EN": "CHROMATICS ARE BACK!"
+        },
+        "TID_BTC_CHROMA_RETURN_DESC": {
+            "EN": "What are Chromatic Brawlers?"
+        },
+        "TID_BTC_CHROMA_SEASON1": {
+            "EN": "FIRST SEASON"
+        },
+        "TID_BTC_CHROMA_SEASON2": {
+            "EN": "SECOND SEASON"
+        },
+        "TID_BTC_CHROMA_SEASON3": {
+            "EN": "THIRD SEASON"
+        },
+        "TID_BTC_BOXRANDOM": {
+            "EN": "RANDOM BOX"
+        },
+        "TID_BTC_TOKENREWARD": {
+            "EN": "TOKEN REWARDS"
+        }
+    }
+}

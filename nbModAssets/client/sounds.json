@@ -1,0 +1,53 @@
+{
+    "sounds": {
+        "Get_powerpoints_small": {
+            "FileNames": [
+                "sfx/get_powerpoints_01v2.ogg",
+                "sfx/get_powerpoints_02v2.ogg",
+                "sfx/get_powerpoints_03v2.ogg"
+            ],
+            "MinVolume": [
+                100,
+                100,
+                100
+            ],
+            "MaxVolume": [
+                100,
+                100,
+                100
+            ],
+            "MinPitch": [
+                100,
+                100,
+                100
+            ],
+            "MaxPitch": [
+                100,
+                100,
+                100
+            ],
+            "Priority": [
+                1,
+                1,
+                1
+            ],
+            "MaximumByType": [
+                3,
+                3,
+                3
+            ]
+        },
+        "Deathmatch_Victory_VO": {
+            "FileNames": null
+        },
+        "Deathmatch_Defeat_VO": {
+            "FileNames": null
+        },
+        "Announcer_goal_vo": {
+            "FileNames": null
+        },
+        "Announcer_overtime_vo": {
+            "FileNames": null
+        }
+    }
+}

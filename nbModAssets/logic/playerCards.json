@@ -1,0 +1,128 @@
+{
+    "player_frames": {
+        "battle_card_frame_ranked_bronze_bg": {
+            "DelayMilliseconds": 9000
+        },
+        "battle_card_frame_ranked_silver_bg": {
+            "DelayMilliseconds": 9000
+        },
+        "battle_card_frame_ranked_gold_bg": {
+            "DelayMilliseconds": 9000
+        },
+        "battle_card_frame_ranked_diamond_bg": {
+            "DelayMilliseconds": 9000
+        },
+        "battle_card_frame_ranked_mythic_bg": {
+            "DelayMilliseconds": 9000
+        },
+        "battle_card_frame_ranked_legendary_bg": {
+            "DelayMilliseconds": 9000
+        },
+        "battle_card_frame_ranked_masters_bg": {
+            "DelayMilliseconds": 9000
+        },
+        "globalFrame": {
+            "DelayMilliseconds": 9000
+        },
+        "lunarFrame": {
+            "DelayMilliseconds": 9000
+        },
+        "martialFrame": {
+            "DelayMilliseconds": 9000
+        },
+        "saturnalFrame": {
+            "DelayMilliseconds": 9000
+        },
+        "solarFrame": {
+            "DelayMilliseconds": 9000
+        },
+        "meteorFrame": {
+            "DelayMilliseconds": 9000
+        },
+        "alienFrame": {
+            "DelayMilliseconds": 9000
+        },
+        "battle_card_frame_ranked_bronze_bg_2": {
+            "DelayMilliseconds": 9000
+        },
+        "battle_card_frame_ranked_silver_bg_2": {
+            "DelayMilliseconds": 9000
+        },
+        "battle_card_frame_ranked_gold_bg_2": {
+            "DelayMilliseconds": 9000
+        },
+        "battle_card_frame_ranked_diamond_bg_2": {
+            "IconExportName": "battle_card_frame_ranked_gold_bg_2",
+            "IconExportNameFront": "battle_card_frame_ranked_gold_front_2",
+            "IconExportNameLevels": "battle_card_frame_ranked_gold_levels_2",
+            "Banner": "battle_card_frame_ranked_gold_2025_ui",
+            "DelayMilliseconds": 9000
+        },
+        "battle_card_frame_ranked_mythic_bg_2": {
+            "DelayMilliseconds": 9000
+        },
+        "battle_card_frame_ranked_legendary_bg_2": {
+            "DelayMilliseconds": 9000
+        },
+        "battle_card_frame_ranked_masters_bg_2": {
+            "DelayMilliseconds": 9000
+        },
+        "battle_card_frame_ranked_pro_bg_2": {
+            "DelayMilliseconds": 9000
+        },
+        "records_frame_level_1": {
+            "DelayMilliseconds": 9000
+        },
+        "records_frame_level_2": {
+            "DelayMilliseconds": 9000
+        },
+        "records_frame_level_3": {
+            "DelayMilliseconds": 9000
+        },
+        "records_frame_level_4": {
+            "DelayMilliseconds": 9000
+        },
+        "records_frame_level_5": {
+            "DelayMilliseconds": 9000
+        },
+        "records_frame_level_6": {
+            "DelayMilliseconds": 9000
+        },
+        "records_frame_level_7": {
+            "DelayMilliseconds": 9000
+        },
+        "records_frame_level_8": {
+            "DelayMilliseconds": 9000
+        },
+        "records_frame_level_9": {
+            "DelayMilliseconds": 9000
+        },
+        "records_frame_level_10": {
+            "DelayMilliseconds": 9000
+        },
+        "records_frame_level_11": {
+            "DelayMilliseconds": 9000
+        },
+        "records_frame_level_12": {
+            "DelayMilliseconds": 9000
+        },
+        "starrforceFrame": {
+            "DelayMilliseconds": 9000
+        },
+        "prestige_1": {
+            "DelayMilliseconds": 9000
+        },
+        "prestige_2": {
+            "DelayMilliseconds": 9000
+        },
+        "prestige_3": {
+            "DelayMilliseconds": 9000
+        },
+        "prestige_4": {
+            "DelayMilliseconds": 9000
+        },
+        "prestige_5": {
+            "DelayMilliseconds": 9000
+        }
+    }
+}
