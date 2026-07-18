@@ -46,10 +46,10 @@
             "EN": "Spend Star Points on Skins, Pins, Sprays or Profile Icons before collecting more.\\n\\nSTAR POINTS COLLECTED THAT IS OVER THE LIMIT WILL BE LOST FOREVER!"
         },
         "TID_TOP_TOOL_TIP_BLING": {
-            "EN": "<c53C5F7>Star Points</c> are used to buy Skins, Pins, Sprays and Profile Icons.\\n\\nCollect Star Points on the Brawl Pass, Trophy Reset, Ranked, Starr Drops and from Brawler Rank Ups.\\n\\nMax: <c53C5F7><MAX></c><EXTRAINFO>"
+            "EN": "<cff00ff>Star Points</c> are used to buy Skins, Pins, Sprays and Profile Icons.\\n\\nCollect Star Points on the Brawl Pass, Trophy Reset, Ranked, Starr Drops and from Brawler Rank Ups.\\n\\nMax: <c53C5F7><MAX></c><EXTRAINFO>"
         },
         "TID_TOP_TOOL_TIP_BLING_GENERIC": {
-            "EN": "<c53C5F7>Star Points</c> are used to spend in the Oddities Shop to get Skins, Pins, Sprays, Profile Icons, resources, and to pull Bling Buffies from the Buffie Claw Machine.\\n\\nCollect Star Points from the Brawl Pass, various Drops, and as rewards from Quests and Challenges."
+            "EN": "<cff00ff>Star Points</c> are used to spend in the Oddities Shop to get Skins, Pins, Sprays, Profile Icons, resources, and to pull Bling Buffies from the Buffie Claw Machine.\\n\\nCollect Star Points from the Brawl Pass, various Drops, and as rewards from Quests and Challenges."
         },
         "TID_NOT_ENOUGH_BLING": {
             "EN": "Not enough Star Points!"
