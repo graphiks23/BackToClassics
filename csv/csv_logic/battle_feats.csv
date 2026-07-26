@@ -1,0 +1,5 @@
+Name,TID,Gradient
+string,string,String
+MostKills,TID_FEAT_MOST_KILLS,
+MostDamage,TID_FEAT_MOST_DAMAGE,
+MostHeal,TID_FEAT_MOST_HEAL,
