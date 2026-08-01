@@ -1,0 +1,125 @@
+{
+  "ShamanGold": {
+    "Ins": "ShamanDefault"
+  },
+  "ShamanSilver": {
+    "Ins": "ShamanDefault"
+  },
+  "ShamanPanda": {
+    "Ins": "ShamanDefault"
+  },
+  "ShamanKoala": {
+    "Ins": "ShamanDefault"
+  },
+  "ShamanDragon_black": {
+    "Ins": "ShamanDragon"
+  },
+  "ShamanStarrForce": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ShamanChristmas": {
+    "Ins": "ShamanDefault"
+  },
+  "ShamanDarkcircus": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ShamanDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ShamanDragon": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ShamanGodzilla": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ShamanGummybear": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ShamanReindeer": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ShamanShiba": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ShamanSummer": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ShamanStrangeOverchargeChroma2": {
+    "Ins": "ShamanStrangeOvercharge"
+  },
+  "ShamanStrangeOverchargeChroma1": {
+    "Ins": "ShamanStrangeOvercharge"
+  },
+  "ShamanStrangeOvercharge": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ShamanAprilFools": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

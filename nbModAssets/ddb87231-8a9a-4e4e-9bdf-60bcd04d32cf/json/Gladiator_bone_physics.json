@@ -1,0 +1,17 @@
+{
+  "GladiatorDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "GladiatorGold": {
+    "Ins": "GladiatorDefault"
+  },
+  "GladiatorSilver": {
+    "Ins": "GladiatorDefault"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "CookerGold": {
+    "Ins": "CookerDefault"
+  },
+  "CookerSilver": {
+    "Ins": "CookerDefault"
+  },
+  "CookerDeepsea": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CookerOnceupon": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CookerPorcelain": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CookerDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CookerRare": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

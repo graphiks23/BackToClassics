@@ -1,0 +1,74 @@
+{
+  "SnakeOilGold": {
+    "Ins": "SnakeOilDefault"
+  },
+  "SnakeOilSilver": {
+    "Ins": "SnakeOilDefault"
+  },
+  "SnakeOilTropical": {
+    "Ins": "SnakeOilDefault"
+  },
+  "SnakeOilWizard_white": {
+    "Ins": "SnakeOilWizard"
+  },
+  "SnakeOilDarkcircus": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "SnakeOilDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "SnakeOilVillain": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "SnakeOilWizard": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "SnakeOilSurfer": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "SnakeOilWindstockChroma2": {
+    "Ins": "SnakeOilWindstock"
+  },
+  "SnakeOilWindstockChroma1": {
+    "Ins": "SnakeOilWindstock"
+  },
+  "SnakeOilWindstock": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

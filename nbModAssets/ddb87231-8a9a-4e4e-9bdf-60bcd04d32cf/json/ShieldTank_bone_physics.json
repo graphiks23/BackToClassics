@@ -1,0 +1,56 @@
+{
+  "ShieldTankGold": {
+    "Ins": "ShieldTankDefault"
+  },
+  "ShieldTankSilver": {
+    "Ins": "ShieldTankDefault"
+  },
+  "ShieldTankRare": {
+    "Ins": "ShieldTankDefault"
+  },
+  "ShieldTankAngel": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ShieldTankCroc": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ShieldTankChainsaw": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ShieldTankDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ShieldTankSupercellMake": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "RedirecterDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "RedirecterGold": {
+    "Ins": "RedirecterDefault"
+  },
+  "RedirecterSilver": {
+    "Ins": "RedirecterDefault"
+  }
+}

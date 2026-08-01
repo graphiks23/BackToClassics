@@ -1,0 +1,77 @@
+{
+    "animations": {
+        "ShellyIdle": {
+            "FileName": "shelly_remix_idle.glb",
+            "TransitionOutMs": 100,
+            "Looping": "true"
+        },
+        "ShellyWalk": {
+            "FileName": "shelly_remix_walk.glb",
+            "StartFrame": 1,
+            "EndFrame": 29,
+            "Speed": 140
+        },
+        "ShellyPrimary": {
+            "FileName": "shelly_remix_attack.glb",
+            "StartFrame": 1,
+            "EndFrame": 5,
+            "AutoFadeMs": 10
+        },
+        "ShellySecondary": {
+            "FileName": "shelly_remix_attack.glb",
+            "StartFrame": 3,
+            "EndFrame": 5,
+            "TransitionOutMs": 10
+        },
+        "ShellyRecoil": {
+            "FileName": "shelly_remix_attack.glb",
+            "StartFrame": 5,
+            "EndFrame": 20,
+            "TransitionInMs": 25
+        },
+        "ShellyReload": {
+            "FileName": "shelly_remix_idle.glb",
+            "Speed": 200
+        },
+        "ShellyPushback": {
+            "FileName": "shelly_remix_pushback.glb"
+        },
+        "ShellyWin": {
+            "FileName": "shelly_remix_win.glb",
+            "StartFrame": 1,
+            "EndFrame": 85
+        },
+        "ShellyWinloop": {
+            "FileName": "shelly_remix_win.glb",
+            "StartFrame": 85,
+            "EndFrame": 124,
+            "Looping": true
+        },
+        "ShellyLose": {
+            "FileName": "shelly_remix_lose.glb",
+            "StartFrame": 1,
+            "EndFrame": 60
+
+        },
+        "ShellyLoseloop": {
+            "FileName": "shelly_remix_lose.glb",
+            "StartFrame": 60,
+            "EndFrame": 60,
+            "Looping": true
+        },
+        "ShellyProfile": {
+            "FileName": "shelly_remix_win.glb"
+        }
+    },
+    "skins": {
+        "BanditGirlDefault": {
+            "DiffuseTexture": "shelly_remix_tex.sctx",
+            "SpecularTexture": "shelly_remix_tex.sctx"
+        }
+    },
+    "skin_confs": {
+        "BanditGirlDefault": {
+            "Model": "shelly_remix_geo.glb"
+        }
+    }
+}

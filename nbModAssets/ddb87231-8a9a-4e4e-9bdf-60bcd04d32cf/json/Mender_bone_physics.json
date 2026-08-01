@@ -1,0 +1,26 @@
+{
+  "MenderDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "Mender199Gem": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "MenderGold": {
+    "Ins": "MenderDefault"
+  },
+  "MenderSilver": {
+    "Ins": "MenderDefault"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "BulletstormDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "Bulletstorm199Gem": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "Bulletstorm199GemChroma1": {
+    "Ins": "Bulletstorm199Gem"
+  },
+  "Bulletstorm199GemChroma2": {
+    "Ins": "Bulletstorm199Gem"
+  },
+  "BulletstormGold": {
+    "Ins": "BulletstormDefault"
+  },
+  "BulletstormSilver": {
+    "Ins": "BulletstormDefault"
+  }
+}

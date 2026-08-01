@@ -1,0 +1,179 @@
+{
+  "GunslingerTrueGold": {
+    "Ins": "GunSlingerDefault"
+  },
+  "GunslingerRedux": {
+    "Ins": "GunSlingerDefault"
+  },
+  "GunslingerOutlaw": {
+    "Ins": "GunSlingerDefault"
+  },
+  "GunslingerTrueSilver": {
+    "Ins": "GunSlingerDefault"
+  },
+  "GunslingerMechaGold": {
+    "Ins": "GunslingerMecha"
+  },
+  "GunslingerMechaPurple": {
+    "Ins": "GunslingerMecha"
+  },
+  "GunslingerClubAmerica": {
+    "Ins": "GunSlingerDefault"
+  },
+  "GunSlingerCerroPorteno": {
+    "Ins": "GunSlingerDefault"
+  },
+  "GunSlingerHanbok": {
+    "Ins": "GunSlingerDefault"
+  },
+  "GunSlingerRiverPlate": {
+    "Ins": "GunSlingerDefault"
+  },
+  "GunSlingerRockstar": {
+    "Ins": "GunSlingerDefault"
+  },
+  "GunSlingerAtlNacional": {
+    "Ins": "GunSlingerDefault"
+  },
+  "GunslingerDarkAngelChroma": {
+    "Ins": "GunslingerDarkAngel"
+  },
+  "GunSlingerWoody": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "GunslingerRoyalAgent": {
+    "Ins": "GunSlingerDefault"
+  },
+  "GunslingerPlayer": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "GunslingerPaintball": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "GunslingerMecha": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "GunslingerDarkAngel": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "GunslingerBadass": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "GunSlinger2025RankedProgrsesionSkinLevel2": {
+    "Ins": "GunSlingerDefault"
+  },
+  "GunSlinger2025RankedProgrsesionSkinLevel3": {
+    "Ins": "GunSlingerDefault"
+  },
+  "GunSlinger2025RankedProgrsesionSkinLevel1": {
+    "Ins": "GunSlingerDefault"
+  },
+  "GunSlinger2025RankedProgrsesionSkinLevel11": {
+    "Ins": "GunSlinger2025RankedProgrsesionSkinLevel9"
+  },
+  "GunSlinger2025RankedProgrsesionSkinLevel9": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "GunSlinger2025RankedProgrsesionSkinLevel10": {
+    "Ins": "GunSlinger2025RankedProgrsesionSkinLevel9"
+  },
+  "GunSlinger2025RankedProgrsesionSkinLevel4": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "GunSlinger2025RankedProgrsesionSkinLevel5": {
+    "Ins": "GunSlinger2025RankedProgrsesionSkinLevel4"
+  },
+  "GunSlinger2025RankedProgrsesionSkinLevel6": {
+    "Ins": "GunSlinger2025RankedProgrsesionSkinLevel4"
+  },
+  "GunSlinger2025RankedProgrsesionSkinLevel7": {
+    "Ins": "GunSlinger2025RankedProgrsesionSkinLevel4"
+  },
+  "GunSlinger2025RankedProgrsesionSkinLevel8": {
+    "Ins": "GunSlinger2025RankedProgrsesionSkinLevel4"
+  },
+  "GunSlingerDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "GunslingerPirate": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "GunslingerMonkey": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "GunslingerHeist": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

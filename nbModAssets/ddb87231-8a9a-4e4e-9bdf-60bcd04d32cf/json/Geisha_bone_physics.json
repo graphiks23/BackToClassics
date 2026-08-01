@@ -1,0 +1,20 @@
+{
+  "GeishaRare": {
+    "Ins": "GeishaDefault"
+  },
+  "GeishaDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "GeishaGold": {
+    "Ins": "GeishaDefault"
+  },
+  "GeishaSilver": {
+    "Ins": "GeishaDefault"
+  }
+}

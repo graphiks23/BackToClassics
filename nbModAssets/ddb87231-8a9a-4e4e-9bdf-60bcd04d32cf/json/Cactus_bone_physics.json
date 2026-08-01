@@ -1,0 +1,110 @@
+{
+  "CactusGold": {
+    "Ins": "CactusDefault"
+  },
+  "CactusSilver": {
+    "Ins": "CactusDefault"
+  },
+  "FleaSpaceCactus": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CactusLord": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CactusMask": {
+    "Ins": "CactusDefault"
+  },
+  "Cactusmecha": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CactusPink": {
+    "Ins": "CactusDefault"
+  },
+  "CactusDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CactusLog": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CactusPoop": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CactusCarreta": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "Cactuscartoon": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CactusFireproof": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CactusStarrGirlsChroma1": {
+    "Ins": "CactusStarrGirls"
+  },
+  "CactusStarrGirlsChroma2": {
+    "Ins": "CactusStarrGirls"
+  },
+  "CactusStarrGirls": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "BeamerGold": {
+    "Ins": "BeamerDefault"
+  },
+  "BeamerSilver": {
+    "Ins": "BeamerDefault"
+  },
+  "BeamerLavaQueen": {
+    "Ins": "BeamerDefault"
+  },
+  "BeamerMC": {
+    "Ins": "BeamerDefault"
+  },
+  "BeamerOnceupon": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "BeamerDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "BeamerCarnival": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "BeamerMechaPurple": {
+    "Ins": "BeamerMecha"
+  },
+  "BeamerMechaYellow": {
+    "Ins": "BeamerMecha"
+  },
+  "Beamerharvest": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "BeamerMecha": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "BeamerSCStore": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

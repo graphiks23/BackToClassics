@@ -1,0 +1,988 @@
+{
+    "animations": {
+        "Turret": {
+            "FileName": "turret_jessie_geo.scw"
+        },
+        "TurretSpawn": {
+            "FileName": "turret_jessie_spawn.scw"
+        },
+        "TurretIdle": {
+            "FileName": "turret_jessie_idle.scw"
+        },
+        "TurretAttack": {
+            "FileName": "turret_jessie_attack.scw"
+        },
+        "ShellyIdle": {
+            "FileName": "shelly_remix_idle.glb"
+        },
+        "ShellyWalk": {
+            "FileName": "shelly_remix_walk.glb"
+        },
+        "ShellyPrimary": {
+            "FileName": "shelly_remix_attack.glb"
+        },
+        "ShellySecondary": {
+            "FileName": "shelly_remix_attack.glb"
+        },
+        "ShellyRecoil": {
+            "FileName": "shelly_remix_attack.glb"
+        },
+        "ShellyPushback": {
+            "FileName": "shelly_remix_pushback.glb"
+        },
+        "ShellyWin": {
+            "FileName": "shelly_remix_win.glb",
+            "EndFrame": 85
+        },
+        "ShellyWinloop": {
+            "FileName": "shelly_remix_win.glb",
+            "StartFrame": 85,
+            "EndFrame": 124
+        },
+        "ShellyLose": {
+            "FileName": "shelly_remix_lose.glb"
+        },
+        "ShellyLoseloop": {
+            "FileName": "shelly_remix_lose.glb"
+        },
+        "ShellyProfile": {
+            "FileName": "shelly_remix_win.glb"
+        },
+        "BrockIdle": {
+            "FileName": "brock_hotrod_idle.glb"
+        },
+        "BrockWalk": {
+            "FileName": "brock_hotrod_run.glb",
+            "StartFrame": -1
+        },
+        "BrockPrimary": {
+            "FileName": "brock_hotrod_attack.glb",
+            "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+        },
+        "BrockSecondary": {
+            "FileName": "brock_hotrod_attack.glb"
+        },
+        "BrockRecoil": {
+            "FileName": "brock_hotrod_attack.glb",
+            "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+        },
+        "BrockRecoil2": {
+            "FileName": "brock_hotrod_attack.glb"
+        },
+        "BrockWin": {
+            "FileName": "brock_hotrod_win.glb",
+            "EndFrame": 50,
+            "TransitionInMs": null,
+            "TransitionOutMs": 500,
+            "AutoFadeMs": 500
+        },
+        "BrockWinloop": {
+            "FileName": "brock_hotrod_winloop.glb",
+            "StartFrame": null,
+            "EndFrame": 59,
+            "TransitionInMs": 500,
+            "TransitionOutMs": null,
+            "AutoFadeMs": 500
+        },
+        "BrockLose": {
+            "FileName": "brock_hotrod_lose.glb",
+            "EndFrame": 70
+        },
+        "BrockLoseloop": {
+            "FileName": "brock_hotrod_lose.glb",
+            "StartFrame": 70,
+            "EndFrame": 110
+        },
+        "BrockHero": {
+            "FileName": "brock_win1.scw"
+        },
+        "BrockProfile": {
+            "FileName": "brock_ghost_portrait.glb"
+        },
+        "ArtilleryGalIdle": {
+            "FileName": "mari_idle.scw",
+            "StartFrame": null,
+            "EndFrame": -1
+        },
+        "ArtilleryGalWalk": {
+            "FileName": "mari_walk.scw"
+        },
+        "ArtilleryGalPrimary": {
+            "FileName": "mari_attack.scw",
+            "EndFrame": 5
+        },
+        "ArtilleryGalUltiAttack": {
+            "FileName": "mari_ult.scw",
+            "StartFrame": null
+        },
+        "ArtilleryGalRecoil": {
+            "FileName": "mari_attack.scw"
+        },
+        "ArtilleryGalUltiRecoil": {
+            "FileName": "mari_ult.scw",
+            "EndFrame": 20
+        },
+        "ArtilleryGalReload": {
+            "FileName": "mari_idle.scw"
+        },
+        "ArtilleryGalPushback": {
+            "FileName": "mari_pushback.scw"
+        },
+        "ArtilleryGalWin": {
+            "FileName": "mari_win.scw"
+        },
+        "ArtilleryGalWinloop": {
+            "FileName": "mari_win.scw"
+        },
+        "ArtilleryGalLose": {
+            "FileName": "mari_lose.scw",
+            "EndFrame": 50
+        },
+        "ArtilleryGalLoseloop": {
+            "FileName": "mari_lose.scw"
+        },
+        "ArtilleryGalProfile": {
+            "FileName": "mari_win.scw"
+        },
+        "ArtillerySpawn": {
+            "FileName": "turret_spawn.scw",
+            "StartFrame": -1
+        },
+        "ArtilleryIdle": {
+            "FileName": "turret_idle.scw",
+            "StartFrame": -1
+        },
+        "ArtilleryAttack": {
+            "FileName": "turret_attack.scw"
+        },
+        "ArtilleryBunnySpawn": {
+            "FileName": "bunny_turret_anim_spawn.scw"
+        },
+        "ArtilleryBunnyIdle": {
+            "FileName": "bunny_turret_anim_idle.scw"
+        },
+        "ArtilleryBunnyIdleMenu": {
+            "FileName": "bunny_turret_anim_idlemenu.scw"
+        },
+        "ArtilleryBunnyAttack": {
+            "FileName": "bunny_turret_anim_attack.scw"
+        },
+        "ArtilleryGalBunnyWalk": {
+            "FileName": "penny_bunny_walk.scw",
+            "EndFrame": 28
+        },
+        "ArtilleryGalBunnyWin": {
+            "FileName": "penny_bunny_win.scw",
+            "EndFrame": 62
+        },
+        "ArtilleryGalBunnyWinloop": {
+            "FileName": "penny_bunny_win.scw",
+            "StartFrame": 63,
+            "EndFrame": 92
+        },
+        "ArtilleryGalBunnyLose": {
+            "FileName": "penny_bunny_win.scw"
+        },
+        "ArtilleryGalBunnyLoseloop": {
+            "FileName": "mari_lose.scw",
+            "StartFrame": 40,
+            "EndFrame": 50
+        },
+        "PennySmugglerIdle": {
+            "FileName": "penny_smuggler_idle.glb"
+        },
+        "PennySmugglerIdleMenu": {
+            "FileName": "penny_smuggler_turret_idle_menu.glb"
+        },
+        "JessieIdle": {
+            "FileName": "jessie_idle.scw"
+        },
+        "JessieWalk": {
+            "FileName": "jessie_walk.scw"
+        },
+        "JessiePrimary": {
+            "FileName": "jessie_attack.scw",
+            "StartFrame": 1,
+            "EndFrame": 5
+        },
+        "JessieUltiAttack": {
+            "FileName": "jessie_idle.scw"
+        },
+        "JessieRecoil": {
+            "FileName": "jessie_attack.scw",
+            "StartFrame": 5
+        },
+        "JessieUltiRecoil": {
+            "FileName": "jessie_idle.scw"
+        },
+        "JessieReload": {
+            "FileName": "jessie_idle.scw",
+            "EndFrame": -1
+        },
+        "JessiePushback": {
+            "FileName": "jessie_pushback.scw",
+            "EndFrame": -1
+        },
+        "JessieWin": {
+            "FileName": "jessie_win.scw",
+            "EndFrame": 107
+        },
+        "JessieWinloop": {
+            "FileName": "jessie_win.scw",
+            "StartFrame": 107,
+            "EndFrame": 139
+        },
+        "JessieLose": {
+            "FileName": "jessie_lose.scw",
+            "EndFrame": 56
+        },
+        "JessieLoseloop": {
+            "FileName": "jessie_lose.scw",
+            "StartFrame": 56,
+            "EndFrame": 70
+        },
+        "JessieProfile": {
+            "FileName": "jessie_portrait.scw",
+            "StartFrame": 1,
+            "EndFrame": 1
+        },
+        "JessieTurretIdle": {
+            "FileName": "turret_jessie_idle.scw"
+        },
+        "JessieTurretAttack": {
+            "FileName": "turret_jessie_attack.scw",
+            "EndFrame": -1
+        },
+        "JessieTurretSpawn": {
+            "FileName": "turret_jessie_spawn.scw"
+        },
+        "PennyIdle": {
+            "FileName": "mari_idle.scw",
+            "Speed": null
+        },
+        "PennyWalk": {
+            "FileName": "mari_walk.scw",
+            "EndFrame": 28,
+            "Speed": 150
+        },
+        "PennyPrimary": {
+            "FileName": "mari_attack.scw",
+            "EndFrame": 5,
+            "AutoFadeMs": 1,
+            "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+        },
+        "PennyUltiAttack": {
+            "FileName": "mari_ult.scw"
+        },
+        "PennyRecoil": {
+            "FileName": "mari_attack.scw",
+            "StartFrame": 5
+        },
+        "PennyUltiRecoil": {
+            "FileName": "mari_ult.scw",
+            "EndFrame": 20
+        },
+        "PennyReload": {
+            "FileName": "mari_idle.scw"
+        },
+        "PennyPushback": {
+            "FileName": "mari_pushback.scw"
+        },
+        "PennyWin": {
+            "FileName": "mari_win.scw",
+            "EndFrame": 62
+        },
+        "PennyWinloop": {
+            "FileName": "mari_win.scw",
+            "StartFrame": 63,
+            "EndFrame": 92
+        },
+        "PennyLose": {
+            "FileName": "mari_lose.scw",
+            "EndFrame": 50
+        },
+        "PennyLoseloop": {
+            "FileName": "mari_lose.scw",
+            "StartFrame": 40,
+            "EndFrame": 50
+        },
+        "PennyProfile": {
+            "FileName": "penny_portrait.glb",
+            "StartFrame": null,
+            "EndFrame": null,
+            "Looping": null
+        },
+        "ArtilleryTurretDefaultIdle": {
+            "FileName": "turret_idle.scw",
+            "StartFrame": -1,
+            "TransitionInMs": null,
+            "TransitionOutMs": null
+        },
+        "ArtilleryTurretDefaultAttack": {
+            "FileName": "turret_attack.scw",
+            "StartFrame": -1,
+            "Speed": 100,
+            "AutoFadeMs": 1
+        },
+        "ArtilleryTurretDefaultSpawn": {
+            "FileName": "turret_spawn.scw",
+            "StartFrame": -1,
+            "EndFrame": -1,
+            "AutoFadeMs": 1
+        },
+        "ArtilleryDudeDarkBunnyIdle": {
+            "FileName": "mari_idle.scw",
+            "StartFrame": null,
+            "EndFrame": -1
+        },
+        "ArtilleryDudeDarkBunnyWalk": {
+            "FileName": "penny_bunny_walk.scw",
+            "StartFrame": null,
+            "EndFrame": 28,
+            "Speed": 150
+        },
+        "ArtilleryDudeDarkBunnyPrimary": {
+            "FileName": "mari_attack.scw",
+            "EndFrame": 5,
+            "AutoFadeMs": 1,
+            "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+        },
+        "ArtilleryDudeDarkBunnyUltiAttack": {
+            "FileName": "mari_ult.scw"
+        },
+        "ArtilleryDudeDarkBunnyRecoil": {
+            "FileName": "mari_attack.scw",
+            "StartFrame": 5
+        },
+        "ArtilleryDudeDarkBunnyUltiRecoil": {
+            "FileName": "mari_ult.scw",
+            "EndFrame": 20
+        },
+        "ArtilleryDudeDarkBunnyReload": {
+            "FileName": "mari_idle.scw"
+        },
+        "ArtilleryDudeDarkBunnyPushback": {
+            "FileName": "mari_pushback.scw",
+            "EndFrame": -1
+        },
+        "ArtilleryDudeDarkBunnyWin": {
+            "FileName": "penny_bunny_win.scw",
+            "EndFrame": 62
+        },
+        "ArtilleryDudeDarkBunnyWinloop": {
+            "FileName": "penny_bunny_win.scw",
+            "StartFrame": 63,
+            "EndFrame": 92
+        },
+        "ArtilleryDudeDarkBunnyLose": {
+            "FileName": "mari_lose.scw",
+            "EndFrame": 50
+        },
+        "ArtilleryDudeDarkBunnyLoseloop": {
+            "FileName": "mari_lose.scw",
+            "StartFrame": 40,
+            "EndFrame": 50
+        },
+        "ArtilleryDudeDarkBunnyProfile": {
+            "FileName": "penny_base_cam.scw",
+            "Looping": null
+        },
+        "ArtilleryDudeSmugglerIdle": {
+            "FileName": "mari_idle.scw"
+        },
+        "ArtilleryDudeSmugglerArtilleryGalWalk": {
+            "FileName": "mari_walk.scw"
+        },
+        "ArtilleryDudeSmugglerArtilleryGalPrimary": {
+            "FileName": "mari_attack.scw"
+        },
+        "ArtilleryDudeSmugglerArtilleryGalUltiAttack": {
+            "FileName": "mari_ult.scw",
+            "StartFrame": null
+        },
+        "ArtilleryDudeSmugglerArtilleryGalRecoil": {
+            "FileName": "mari_attack.scw"
+        },
+        "ArtilleryDudeSmugglerArtilleryGalUltiRecoil": {
+            "FileName": "mari_ult.scw"
+        },
+        "ArtilleryDudeSmugglerArtilleryGalReload": {
+            "FileName": "mari_idle.scw"
+        },
+        "ArtilleryDudeSmugglerArtilleryGalPushback": {
+            "FileName": "mari_pushback.scw"
+        },
+        "ArtilleryDudeSmugglerWin": {
+            "FileName": "penny_smuggler_win.glb",
+            "StartFrame": 1
+        },
+        "ArtilleryDudeSmugglerWinloop": {
+            "StartFrame": 62
+        },
+        "ArtilleryDudeSmugglerArtilleryGalLose": {
+            "FileName": "mari_lose.scw"
+        },
+        "ArtilleryDudeSmugglerArtilleryGalLoseloop": {
+            "FileName": "mari_lose.scw"
+        },
+        "ArtilleryDudeSmugglerPortrait": {
+            "FileName": "penny_base_cam.scw",
+            "StartFrame": null
+        },
+        "NewPennyIdle": {
+            "FileName": "penny_idle.glb",
+            "EndFrame": -1,
+            "Speed": 130,
+            "TransitionInMs": 100,
+            "TransitionOutMs": 100,
+            "Looping": true
+        },
+        "NewPennyWalk": {
+            "FileName": "penny_walk.glb",
+            "EndFrame": 19,
+            "TransitionInMs": 100,
+            "TransitionOutMs": 100,
+            "Looping": true,
+            "Priority": "1"
+        },
+        "NewPennyPrimary": {
+            "FileName": "penny_attack.glb",
+            "StartFrame": 1,
+            "EndFrame": 4,
+            "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+        },
+        "NewPennyUltiAttack": {
+            "FileName": "mari_ult.glb",
+            "EndFrame": 5,
+            "AutoFadeMs": 10,
+            "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+        },
+        "NewPennyRecoil": {
+            "FileName": "penny_attack.glb",
+            "StartFrame": 1,
+            "EndFrame": 20,
+            "AutoFadeMs": 150,
+            "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+        },
+        "NewPennyUltiRecoil": {
+            "FileName": "mari_ult.glb",
+            "StartFrame": 5,
+            "EndFrame": 22,
+            "AutoFadeMs": 250,
+            "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+        },
+        "NewPennyReload": {
+            "FileName": "penny_idle.glb",
+            "EndFrame": 5,
+            "TransitionInMs": 200,
+            "TransitionOutMs": 200,
+            "AutoFadeMs": 200
+        },
+        "NewPennyPushback": {
+            "FileName": "penny_idle.glb",
+            "EndFrame": -1,
+            "TransitionInMs": 100,
+            "TransitionOutMs": 100,
+            "AutoFadeMs": 200,
+            "Priority": "5"
+        },
+        "NewPennyWin": {
+            "FileName": "penny_win.glb",
+            "StartFrame": 1,
+            "EndFrame": 146
+        },
+        "NewPennyWinloop": {
+            "FileName": "penny_win.glb",
+            "StartFrame": 147,
+            "EndFrame": 201,
+            "Looping": true
+        },
+        "NewPennyLose": {
+            "FileName": "penny_lose.glb",
+            "StartFrame": 1,
+            "EndFrame": 158
+        },
+        "NewPennyLoseloop": {
+            "FileName": "penny_lose.glb",
+            "StartFrame": 159,
+            "EndFrame": 196,
+            "Looping": true
+        },
+        "NewPennyProfile": {
+            "FileName": "penny_portrait_redux.glb",
+            "StartFrame": 1,
+            "EndFrame": 1,
+            "Looping": true
+        }
+    },
+    "skins": {
+        "BanditGirlDefault": {
+            "DiffuseTexture": "shelly_remix_tex.sctx",
+            "SpecularTexture": "shelly_remix_tex.sctx"
+        },
+        "BullGuyDefault": {
+            "DiffuseTexture": "bull_tex.png",
+            "SpecularTexture": "bull_tex.png"
+        },
+        "RocketGirlDefault": {
+            "DiffuseTexture": "brock_tex.png",
+            "SpecularTexture": "brock_tex.png"
+        },
+        "TurretDefault": {
+            "DiffuseTexture": "dogturret.png",
+            "SpecularTexture": "dogturret.png"
+        },
+        "MechanicDefault": {
+            "DiffuseTexture": "jessie_tex.png",
+            "SpecularTexture": "jessie_tex.png"
+        },
+        "ArtilleryGalDefault": {
+            "DiffuseTexture": "mari_tex.png",
+            "SpecularTexture": "mari_tex.png"
+        },
+        "ArtilleryTurretDefault": {
+            "DiffuseTexture": "mari_tex.png",
+            "SpecularTexture": "mari_tex.png"
+        },
+        "ArtilleryGalElf": {
+            "DiffuseTexture": "penny_elf_tex.png",
+            "SpecularTexture": "penny_elf_tex.png"
+        },
+        "ArtilleryGalBunny": {
+            "DiffuseTexture": "penny_bunny_tex.png",
+            "SpecularTexture": "penny_bunny_tex.png"
+        },
+        "ArtilleryTurretBunny": {
+            "DiffuseTexture": "penny_bunny_tex.png",
+            "SpecularTexture": "penny_bunny_tex.png"
+        },
+        "ArtilleryDudeDarkBunny": {
+            "DiffuseTexture": "penny_bunnydark_tex.png",
+            "SpecularTexture": "penny_bunnydark_tex.png"
+        },
+        "ArtilleryTurretDarkBunny": {
+            "DiffuseTexture": "penny_bunnydark_tex.png",
+            "SpecularTexture": "penny_bunnydark_tex.png"
+        },
+        "PowerLevelerDefault": {
+            "DiffuseTexture": "surge_tex.png",
+            "SpecularTexture": "surge_tex.png"
+        },
+        "ArtilleryDudeSmuggler": {
+            "DiffuseTexture": "penny_smuggler_tex.png",
+            "SpecularTexture": "penny_smuggler_tex.png"
+        },
+        "ArtilleryDudeSmugglerTurret": {
+            "DiffuseTexture": "penny_smuggler_tex.png",
+            "SpecularTexture": "penny_smuggler_tex.png"
+        },
+        "RocketGirlSilver": {
+            "DiffuseTexture": "brock_silver_tex.png",
+            "SpecularTexture": "brock_silver_tex.png"
+        },
+        "RocketGirlGold": {
+            "DiffuseTexture": "brock_gold_tex.png",
+            "SpecularTexture": "brock_gold_tex.png"
+        },
+        "ArtilleryDudeGold": {
+            "DiffuseTexture": "penny_gold_tex.png",
+            "SpecularTexture": "penny_gold_tex.png"
+        },
+        "ArtilleryDudeSilver": {
+            "DiffuseTexture": "penny_silver_tex.png",
+            "SpecularTexture": "penny_silver_tex.png"
+        },
+        "ArtilleryDudeTurretTrueGold": {
+            "DiffuseTexture": "penny_gold_tex.png",
+            "SpecularTexture": "penny_gold_tex.png"
+        },
+        "ArtilleryDudeTurretTrueSilver": {
+            "DiffuseTexture": "penny_silver_tex.png",
+            "SpecularTexture": "penny_silver_tex.png"
+        },
+        "ArtilleryDudeSmuggler_orange": {
+            "DiffuseTexture": "penny_power_league_chroma_tex.png",
+            "SpecularTexture": "penny_power_league_chroma_tex.png"
+        },
+        "ArtilleryDudeTurretSmuggler_orange": {
+            "DiffuseTexture": "penny_power_league_chroma_tex.png"
+        },
+        "RocketGirl_Original": {
+            "Disabled": true,
+            "MasterSkin": null
+        },
+        "PowerLevelerRare": {
+            "DiffuseTexture": "surge_agent_tex.png",
+            "SpecularTexture": "surge_agent_tex.png"
+        },
+        "RosaWindstockChroma1": {
+            "TID": "TID_WINDSTOCK_ROSA_CHROMA_1_SKIN",
+            "ShopTID": "TID_WINDSTOCK_ROSA_CHROMA_1_SHOP"
+        },
+        "RosaWindstockChroma2": {
+            "TID": "TID_WINDSTOCK_ROSA_CHROMA_2_SKIN"
+        }
+    },
+    "skin_confs": {
+        "BullGuyDefault": {
+            "Model": "bull_geo.scw"
+        },
+        "RocketGirlDefault": {
+            "Model": "brock_geo.scw",
+            "PortraitCameraFile": "brock_base_cam.scw",
+            "HappyAnim": "BrockHotrodWin",
+            "HappyLoopAnim": "BrockHotrodWinloop"
+        },
+        "TurretDefault": {
+            "Model": "turret_jessie_geo.scw"
+        },
+        "CactusPink": {
+            "Projectiles": "Spike002Projectile;Spike002UltiProjectile;Spike002Spike"
+        },
+        "MechanicDefault": {
+            "Model": "jessie_geo.scw"
+        },
+        "ArtilleryGalDefault": {
+            "Model": "mari_geo.scw",
+            "PortraitCameraFile": "penny_portrait.glb"
+        },
+        "ArtilleryTurretDefault": {
+            "Model": "turret_geo.scw"
+        },
+        "ArtilleryGalElf": {
+            "Model": "penny_elf_geo.scw",
+            "PortraitCameraFile": "penny_base_cam.scw",
+            "IdleAnim": "PennyIdle",
+            "WalkAnim": "PennyWalk",
+            "PrimarySkillAnim": "PennyPrimary",
+            "SecondarySkillAnim": "PennyUltiAttack",
+            "OverchargedSecondarySkillAnim": "PennyUltiAttack",
+            "PrimarySkillRecoilAnim": "PennyRecoil",
+            "SecondarySkillRecoilAnim": "PennyUltiRecoil",
+            "ReloadingAnim": "PennyReload",
+            "PushbackAnim": "PennyPushback",
+            "HappyAnim": "PennyWin",
+            "HappyLoopAnim": "PennyWinloop",
+            "SadAnim": "PennyLose",
+            "SadLoopAnim": "PennyLoseloop",
+            "LobbyAnim": "PennyWin",
+            "LobbyLoopAnim": "PennyWinloop",
+            "HeroScreenIdleAnim": "PennyIdle",
+            "HeroScreenAnim": "PennyWin",
+            "HeroScreenLoopAnim": "PennyWinloop",
+            "SignatureAnim": "PennyWin",
+            "HappyEnterAnim": "PennyIdle",
+            "SadEnterAnim": "PennyIdle",
+            "ProfileAnim": "PennyProfile"
+        },
+        "ArtilleryTurretElf": {
+            "Model": "penny_elf_turret_geo.scw"
+        },
+        "ArtilleryGalBunny": {
+            "Model": "penny_bunny_geo.scw",
+            "IdleFace": "Penny003Still",
+            "WalkFace": "Penny003Still",
+            "HappyFace": "Penny003Win",
+            "HappyLoopFace": "Penny003WinLoop",
+            "SadFace": "Penny003Lose",
+            "SadLoopFace": "Penny003LoseLoop",
+            "LobbyFace": "Penny003Win",
+            "LobbyLoopFace": "Penny003WinLoop",
+            "HeroScreenIdleFace": "Penny003WinLoop",
+            "HeroScreenFace": "Penny003Win",
+            "HeroScreenLoopFace": "Penny003WinLoop",
+            "SignatureFace": "Penny003Win",
+            "ProfileFace": "Penny003Still",
+            "IntroFace": "Penny003Still",
+            "LobbyEffect": null,
+            "HeroScreenEffect": null,
+            "SignatureEffect": null,
+            "HappyEffect": null,
+            "SadEffect": null
+        },
+        "ArtilleryTurretBunny": {
+            "Model": "bunny_turret_geo.scw"
+        },
+        "Cactusmecha": {
+            "Projectiles": "Spike003Projectile;Spike003UltiProjectile;Spike003Frag"
+        },
+        "ArtilleryDudeDarkBunny": {
+            "Model": "penny_bunny_geo.scw",
+            "IdleFace": "Penny003Still",
+            "WalkFace": "Penny003Still",
+            "HappyFace": "Penny003Win",
+            "HappyLoopFace": "Penny003WinLoop",
+            "SadFace": "Penny003Lose",
+            "SadLoopFace": "Penny003LoseLoop",
+            "LobbyFace": "Penny003Win",
+            "LobbyLoopFace": "Penny003WinLoop",
+            "HeroScreenIdleFace": "Penny003WinLoop",
+            "HeroScreenFace": "Penny003Win",
+            "HeroScreenLoopFace": "Penny003WinLoop",
+            "SignatureFace": "Penny003Win",
+            "ProfileFace": "Penny003Still",
+            "IntroFace": "Penny003Still",
+            "HeroScreenEffect": null,
+            "SignatureEffect": null,
+            "HappyEffect": null,
+            "SadEffect": null
+        },
+        "ArtilleryTurretDarkBunny": {
+            "Model": "bunny_turret_geo.scw"
+        },
+        "ClusterBombMonster": {
+            "Projectiles": "Tick002Projectile;Tick002Projectile2;Tick002UltiProjectile"
+        },
+        "ClusterBombDudeSnowman": {
+            "Projectiles": "Tick003Projectile;Tick003Projectile2;Tick003UltiProjectile"
+        },
+        "CactusLord": {
+            "Projectiles": "Spike004Projectile;Spike004UltiProjectile;Spike004Frag"
+        },
+        "ArtilleryDudeSmuggler": {
+            "ReloadingAnim": "PennyReload",
+            "PushbackAnim": "PennyPushback",
+            "HappyAnim": "PennyWin",
+            "HappyLoopAnim": "PennyWinloop",
+            "SadAnim": "PennyLose",
+            "SadLoopAnim": "PennyLoseloop",
+            "LobbyAnim": "PennyWin",
+            "LobbyLoopAnim": "PennyWinloop",
+            "HeroScreenIdleAnim": "PennyIdle",
+            "HeroScreenAnim": "PennyWin",
+            "HeroScreenLoopAnim": "PennyWinloop",
+            "SignatureAnim": "PennyWin",
+            "HappyEnterAnim": "PennyIdle",
+            "SadEnterAnim": "PennyIdle",
+            "ProfileAnim": "PennyProfile",
+            "IntroAnim": "PennyProfile",
+            "EnvAnim": "PennyIdle",
+            "IdleFace": "Penny003Still",
+            "WalkFace": "Penny003Still",
+            "HappyFace": "Penny003Win",
+            "HappyLoopFace": "Penny003WinLoop",
+            "SadFace": "Penny003Lose",
+            "SadLoopFace": "Penny003LoseLoop",
+            "LobbyFace": "Penny003Win",
+            "LobbyLoopFace": "Penny003WinLoop",
+            "HeroScreenIdleFace": "Penny003WinLoop",
+            "HeroScreenFace": "Penny003Win",
+            "HeroScreenLoopFace": "Penny003WinLoop",
+            "SignatureFace": "Penny003Win",
+            "ProfileFace": "Penny003Still",
+            "IntroFace": "Penny003Still"
+        },
+        "RocketGirlSilver": {
+            "Model": "brock_geo.scw"
+        },
+        "RocketGirlGold": {
+            "Model": "brock_geo.scw"
+        },
+        "CactusLog": {
+            "Projectiles": "Spike005Projectile;Spike005UltiProjectile;Spike005Frag"
+        },
+        "ArtilleryDudeGold": {
+            "Model": "mari_geo.scw",
+            "IdleAnim": "PennyIdle",
+            "WalkAnim": "PennyWalk",
+            "PrimarySkillAnim": "PennyPrimary",
+            "SecondarySkillAnim": "PennyUltiAttack",
+            "OverchargedSecondarySkillAnim": "PennyUltiAttack",
+            "PrimarySkillRecoilAnim": "PennyRecoil",
+            "SecondarySkillRecoilAnim": "PennyUltiRecoil",
+            "ReloadingAnim": "PennyReload",
+            "PushbackAnim": "PennyPushback",
+            "HappyAnim": "PennyWin",
+            "HappyLoopAnim": "PennyWinloop",
+            "SadAnim": "PennyLose",
+            "SadLoopAnim": "PennyLoseloop",
+            "LobbyAnim": "PennyWin",
+            "LobbyLoopAnim": "PennyWinloop",
+            "HeroScreenIdleAnim": "PennyIdle",
+            "HeroScreenAnim": "PennyWin",
+            "HeroScreenLoopAnim": "PennyWinloop",
+            "SignatureAnim": "PennyWin",
+            "HappyEnterAnim": "PennyIdle",
+            "SadEnterAnim": "PennyIdle",
+            "ProfileAnim": "PennyProfile",
+            "IntroAnim": "PennyProfile",
+            "EnvAnim": "PennyIdle"
+        },
+        "ArtilleryDudeSilver": {
+            "Model": "mari_geo.scw",
+            "IdleAnim": "PennyIdle",
+            "WalkAnim": "PennyWalk",
+            "PrimarySkillAnim": "PennyPrimary",
+            "SecondarySkillAnim": "PennyUltiAttack",
+            "OverchargedSecondarySkillAnim": "PennyUltiAttack",
+            "PrimarySkillRecoilAnim": "PennyRecoil",
+            "SecondarySkillRecoilAnim": "PennyUltiRecoil",
+            "ReloadingAnim": "PennyReload",
+            "PushbackAnim": "PennyPushback",
+            "HappyAnim": "PennyWin",
+            "HappyLoopAnim": "PennyWinloop",
+            "SadAnim": "PennyLose",
+            "SadLoopAnim": "PennyLoseloop",
+            "LobbyAnim": "PennyWin",
+            "LobbyLoopAnim": "PennyWinloop",
+            "HeroScreenIdleAnim": "PennyIdle",
+            "HeroScreenAnim": "PennyWin",
+            "HeroScreenLoopAnim": "PennyWinloop",
+            "SignatureAnim": "PennyWin",
+            "HappyEnterAnim": "PennyIdle",
+            "SadEnterAnim": "PennyIdle",
+            "ProfileAnim": "PennyProfile",
+            "IntroAnim": "PennyProfile",
+            "EnvAnim": "PennyIdle"
+        },
+        "ArtilleryDudeTurretTrueGold": {
+            "Model": "turret_geo.scw"
+        },
+        "ArtilleryDudeTurretTrueSilver": {
+            "Model": "turret_geo.scw"
+        },
+        "ClusterBombDudeShooky": {
+            "Projectiles": "Tick004Projectile;Tick004Projectile2;Tick004UltiProjectile",
+            "Items": "Tick004Mine"
+        },
+        "CactusFireproof": {
+            "Projectiles": "Spike006Projectile;Spike006UltiProjectile;Spike006Frag"
+        },
+        "ClusterBombDudeCerberus": {
+            "Projectiles": "Tick005Projectile;Tick005Projectile2;Tick005UltiProjectile"
+        },
+        "Cactuscartoon": {
+            "Projectiles": "Spike007Projectile;Spike007UltiProjectile;Spike007Frag"
+        },
+        "CactusPoop": {
+            "Projectiles": "Spike008Projectile;Spike008UltiProjectile;Spike008Frag"
+        },
+        "ClusterBombDudeGodzilla": {
+            "Projectiles": "Tick006Projectile;Tick006Projectile2;Tick006UltiProjectile"
+        },
+        "ArtilleryDudeSmuggler_orange": {
+            "IdleAnim": "PennyIdle",
+            "WalkAnim": "PennyWalk",
+            "PrimarySkillAnim": "PennyPrimary",
+            "SecondarySkillAnim": "PennyUltiAttack",
+            "OverchargedSecondarySkillAnim": "PennyUltiAttack",
+            "PrimarySkillRecoilAnim": "PennyRecoil",
+            "SecondarySkillRecoilAnim": "PennyUltiRecoil",
+            "ReloadingAnim": "PennyReload",
+            "PushbackAnim": "PennyPushback",
+            "HappyAnim": "PennyWin",
+            "HappyLoopAnim": "PennyWinloop",
+            "SadAnim": "PennyLose",
+            "SadLoopAnim": "PennyLoseloop",
+            "LobbyAnim": "PennyWin",
+            "LobbyLoopAnim": "PennyWinloop",
+            "HeroScreenIdleAnim": "PennyIdle",
+            "HeroScreenAnim": "PennyWin",
+            "HeroScreenLoopAnim": "PennyWinloop",
+            "SignatureAnim": "PennyWin",
+            "HappyEnterAnim": "PennyIdle",
+            "SadEnterAnim": "PennyIdle",
+            "ProfileAnim": "PennyProfile",
+            "IntroAnim": "PennyProfile",
+            "EnvAnim": "PennyIdle",
+            "IdleFace": "Penny003Still",
+            "WalkFace": "Penny003Still",
+            "HappyFace": "Penny003Win",
+            "HappyLoopFace": "Penny003WinLoop",
+            "SadFace": "Penny003Lose",
+            "SadLoopFace": "Penny003LoseLoop",
+            "LobbyFace": "Penny003Win",
+            "LobbyLoopFace": "Penny003WinLoop",
+            "HeroScreenIdleFace": "Penny003WinLoop",
+            "HeroScreenFace": "Penny003Win",
+            "HeroScreenLoopFace": "Penny003WinLoop",
+            "SignatureFace": "Penny003Win",
+            "ProfileFace": "Penny003Still",
+            "IntroFace": "Penny003Still"
+        },
+        "ClusterBombDudeGodzillaDark": {
+            "Projectiles": "Tick006Projectile;Tick006Projectile2;Tick006UltiProjectile"
+        },
+        "ClusterBombDudeGodzillaGold": {
+            "Projectiles": "Tick006Projectile;Tick006Projectile2;Tick006UltiProjectile"
+        },
+        "ClusterBombDudeSB": {
+            "Projectiles": "Tick007Projectile;Tick007Projectile2;Tick007UltiProjectile",
+            "Items": "Tick007Mine"
+        },
+        "ArtilleryGalCyber": {
+            "IdleAnim": "NewPennyIdle",
+            "WalkAnim": "NewPennyWalk",
+            "PrimarySkillAnim": "NewPennyPrimary",
+            "SecondarySkillAnim": "NewPennyUltiAttack",
+            "OverchargedSecondarySkillAnim": "NewPennyUltiAttack",
+            "PrimarySkillRecoilAnim": "NewPennyRecoil",
+            "SecondarySkillRecoilAnim": "NewPennyUltiRecoil",
+            "ReloadingAnim": "NewPennyReload",
+            "PushbackAnim": "NewPennyPushback",
+            "HappyAnim": "NewPennyWin",
+            "HappyLoopAnim": "NewPennyWinloop",
+            "SadAnim": "NewPennyLose",
+            "SadLoopAnim": "NewPennyLoseloop",
+            "LobbyAnim": "NewPennyWin",
+            "LobbyLoopAnim": "NewPennyWinloop",
+            "HeroScreenIdleAnim": "NewPennyIdle",
+            "HeroScreenAnim": "NewPennyWin",
+            "HeroScreenLoopAnim": "NewPennyWinloop",
+            "SignatureAnim": "NewPennyWin",
+            "HappyEnterAnim": "NewPennyIdle",
+            "IntroAnim": "NewPennyProfile",
+            "EnvAnim": "NewPennyIdle",
+            "IdleFace": "Penny008Still",
+            "WalkFace": "Penny008Still",
+            "HappyFace": "Penny008Win",
+            "HappyLoopFace": "Penny008WinLoop",
+            "SadFace": "Penny008Lose",
+            "SadLoopFace": "Penny008LoseLoop",
+            "LobbyFace": "Penny008Win",
+            "LobbyLoopFace": "Penny008WinLoop",
+            "HeroScreenIdleFace": "Penny008WinLoop",
+            "HeroScreenFace": "Penny008Win",
+            "HeroScreenLoopFace": "Penny008WinLoop",
+            "SignatureFace": "Penny008Win",
+            "ProfileFace": "Penny008Still",
+            "IntroFace": "Penny008Still"
+        },
+        "ClusterBombBrawloween": {
+            "Projectiles": "Tick009Projectile;Tick009Projectile2;Tick009UltiProjectile"
+        },
+        "CactusCarreta": {
+            "Projectiles": "Spike009Projectile;Spike009UltiProjectile;Spike009Frag"
+        },
+        "MegaClusterBombBrawloween": {
+            "Projectiles": "Tick009Projectile;Tick009Projectile2;Tick009UltiProjectile"
+        },
+        "MegaBossSpikeCarreta": {
+            "Projectiles": "Spike009Projectile;Spike009UltiProjectile;Spike009Frag"
+        },
+        "CactusStarrGirls": {
+            "Projectiles": "Spike010Projectile;Spike010UltiProjectile;Spike010Frag"
+        },
+        "CactusStarrGirlsChroma1": {
+            "Projectiles": "Spike010Projectile;Spike010UltiProjectile;Spike010Frag"
+        },
+        "CactusStarrGirlsChroma2": {
+            "Projectiles": "Spike010Projectile;Spike010UltiProjectile;Spike010Frag"
+        },
+        "TempBrawlerCactusStarrGirls": {
+            "Projectiles": "Spike010Projectile;Spike010UltiProjectile;Spike010Frag"
+        },
+        "ClusterBombKatanakingdom": {
+            "Projectiles": "Tick010Projectile;Tick010Projectile2;Tick010UltiProjectile"
+        },
+        "MechaDudeCybernoodlesOvercharge": {
+            "Projectiles": "Mecha007Projectile;Mecha007BuddyOverchargedProjectile"
+        },
+        "MechaDudeCybernoodlesChroma1": {
+            "Projectiles": "Mecha007Projectile;Mecha007BuddyOverchargedProjectile"
+        },
+        "MechaDudeCybernoodlesChroma2": {
+            "Projectiles": "Mecha007Projectile;Mecha007BuddyOverchargedProjectile"
+        }
+    }
+}

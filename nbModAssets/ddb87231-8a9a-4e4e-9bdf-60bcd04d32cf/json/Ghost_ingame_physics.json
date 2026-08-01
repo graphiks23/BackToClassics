@@ -1,0 +1,23 @@
+{
+  "GhostDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "GhostGold": {
+    "Ins": "GhostDefault"
+  },
+  "GhostGraffiti": {
+    "Ins": "GhostDefault"
+  },
+  "GhostSilver": {
+    "Ins": "GhostDefault"
+  },
+  "GhostSwag": {
+    "Ins": "GhostDefault"
+  }
+}

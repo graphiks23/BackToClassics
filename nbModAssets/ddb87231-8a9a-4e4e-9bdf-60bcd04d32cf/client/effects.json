@@ -1,0 +1,354 @@
+{
+    "effects": {
+        "chapter1_mutation_idle": {
+            "Type": [
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "SWF"
+            ],
+            "FileName": [
+                null,
+                "sc/effects_brawler.sc"
+            ],
+            "ExportName": [
+                null,
+                "mutant_circle_indicator_blue"
+            ],
+            "ParticleEmitterName": [
+                "mutant_body_aura",
+                "mutant_body_glow",
+                "mutant_body_liquid_bubble",
+                "mutant_moving_ground_liquid",
+                "mutant_body_liquid_bubble_02"
+            ],
+            "Layer": [
+                "GroundHigh",
+                "Above",
+                "Above",
+                "GroundLow",
+                "Above",
+                "GroundTop"
+            ],
+            "GroundBasis": [
+                null,
+                true,
+                true
+            ],
+            "Scale": [
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            "SWFScaleX": [
+                null,
+                18
+            ],
+            "SWFScaleY": [
+                null,
+                18
+            ],
+            "EnemyVersion": "mutantbrawler_red"
+        },
+        "chapter1_mutation_idle_menu": {
+            "Type": [
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "ParticleEmitter"
+            ],
+            "ParticleEmitterName": [
+                "mutant_body_dna_bubble",
+                "mutant_body_liquid_bubble_02",
+                "mutant_body_liquid_bubble_main",
+                "mutant_body_aura_main"
+            ],
+            "Layer": [
+                "Above",
+                "Above",
+                "GroundLow",
+                "GroundLow"
+            ],
+            "Scale": [
+                100,
+                100,
+                100,
+                100
+            ]
+        },
+        "chapter1_mutation_idle_red": {
+            "Type": [
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "SWF"
+            ],
+            "FileName": [
+                null,
+                "sc/effects_brawler.sc"
+            ],
+            "ExportName": [
+                null,
+                "mutant_circle_indicator_red"
+            ],
+            "ParticleEmitterName": [
+                "mutant_body_aura_red",
+                "mutant_body_glow_red",
+                "mutant_body_liquid_bubble_red",
+                "mutant_moving_ground_liquid_red",
+                "mutant_body_liquid_bubble_02_red"
+            ],
+            "Layer": [
+                "GroundHigh",
+                "Above",
+                "Above",
+                "GroundLow",
+                "Above",
+                "GroundTop"
+            ],
+            "GroundBasis": [
+                null,
+                true,
+                true
+            ],
+            "Scale": [
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            "SWFScaleX": [
+                null,
+                18
+            ],
+            "SWFScaleY": [
+                null,
+                18
+            ]
+        },
+        "chapter1_mutation_idle_s2": {
+            "Type": [
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "SWF"
+            ],
+            "FileName": [
+                null,
+                "sc/effects_brawler.sc"
+            ],
+            "ExportName": [
+                null,
+                "mutant_circle_indicator_blue"
+            ],
+            "ParticleEmitterName": [
+                "mutant_body_aura",
+                "mutant_body_glow",
+                "mutant_body_liquid_bubble",
+                "mutant_moving_ground_liquid",
+                "mutant_body_liquid_bubble_02"
+            ],
+            "Layer": [
+                "GroundHigh",
+                "Above",
+                "Above",
+                "GroundLow",
+                "Above",
+                "GroundTop"
+            ],
+            "GroundBasis": [
+                null,
+                true,
+                true
+            ],
+            "Scale": [
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            "SWFScaleX": [
+                null,
+                18
+            ],
+            "SWFScaleY": [
+                null,
+                18
+            ],
+            "EnemyVersion": "mutantbrawler_red"
+        },
+        "chapter1_mutation_idle_s2_menu": {
+            "Type": [
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "ParticleEmitter"
+            ],
+            "ParticleEmitterName": [
+                "mutant_body_dna_bubble",
+                "mutant_body_liquid_bubble_02",
+                "mutant_body_liquid_bubble_main",
+                "mutant_body_aura_main"
+            ],
+            "Layer": [
+                "Above",
+                "Above",
+                "GroundLow",
+                "GroundLow"
+            ],
+            "Scale": [
+                100,
+                100,
+                100,
+                100
+            ]
+        },
+        "chapter1_mutation_idle_s2_red": {
+            "Type": [
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "SWF"
+            ],
+            "FileName": [
+                null,
+                "sc/effects_brawler.sc"
+            ],
+            "ExportName": [
+                null,
+                "mutant_circle_indicator_red"
+            ],
+            "ParticleEmitterName": [
+                "mutant_body_aura_red",
+                "mutant_body_glow_red",
+                "mutant_body_liquid_bubble_red",
+                "mutant_moving_ground_liquid_red",
+                "mutant_body_liquid_bubble_02_red"
+            ],
+            "Layer": [
+                "GroundHigh",
+                "Above",
+                "Above",
+                "GroundLow",
+                "Above",
+                "GroundTop"
+            ],
+            "Scale": [
+                100,
+                100,
+                100,
+                100,
+                100
+            ],
+            "SWFScaleX": [
+                null,
+                18
+            ],
+            "SWFScaleY": [
+                null,
+                18
+            ]
+        },
+        "overchargeactive": {
+            "Loop": null,
+            "Type": [
+                "ParticleEmitter",
+                "Sound",
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "ParticleEmitter"
+            ],
+            "ParticleEmitterName": [
+                "oc_idle_main",
+                "oc_idle_glow",
+                "oc_lightning_01",
+                "oc_lightning_02"
+            ],
+            "Layer": [
+                "GroundTop",
+                "Above",
+                "Above",
+                "Above"
+            ],
+            "GroundBasis": [
+                true,
+                true,
+                true,
+                true
+            ],
+            "Scale": null,
+            "EnemyVersion": null
+        },
+        "overchargeactive_red": {
+            "Loop": null,
+            "ParticleEmitterName": [
+                "oc_idle_main_red",
+                "oc_idle_glow_red",
+                "oc_lightning_01",
+                "oc_lightning_02"
+            ],
+            "Layer": [
+                "GroundTop",
+                "Above",
+                "Above",
+                "Above"
+            ],
+            "GroundBasis": [
+                true,
+                true,
+                true
+            ],
+            "Scale": null
+        },
+        "overchargeactivemenu": {
+            "Type": [
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "ParticleEmitter",
+                "SWF"
+            ],
+            "FileName": [
+                null,
+                "sc/effects_brawler.sc"
+            ],
+            "ExportName": [
+                null,
+                "jessie_def_oc_lightning"
+            ],
+            "Layer": [
+                "GroundTop",
+                "Above",
+                "Above",
+                "Above",
+                "Above"
+            ],
+            "GroundBasis": [
+                true,
+                true,
+                true,
+                true
+            ],
+            "Scale": [
+                null,
+                20
+            ],
+            "SWFScaleX": [
+                null,
+                20
+            ]
+        }
+    }
+}

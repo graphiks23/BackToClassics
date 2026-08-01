@@ -1,0 +1,65 @@
+{
+  "ElectroSniperGold": {
+    "Ins": "ElectroSniperDefault"
+  },
+  "ElectroSniperSilver": {
+    "Ins": "ElectroSniperDefault"
+  },
+  "ElectroSniperRare": {
+    "Ins": "ElectroSniperDefault"
+  },
+  "ElectroSniperDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ElectroSniperSCmake": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ElectroSniperPlanthunter": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ElectroSniperBoss": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ElectroSniperFantasy": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ElectroSniperCoral": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

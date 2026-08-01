@@ -1,0 +1,14 @@
+{
+  "KatanaKidCybernoodles": {
+    "Ins": "KatanaKidDefault"
+  },
+  "KatanaKidDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

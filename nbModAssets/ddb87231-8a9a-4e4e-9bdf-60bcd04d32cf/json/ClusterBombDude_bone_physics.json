@@ -1,0 +1,92 @@
+{
+  "ClusterBombDudeGold": {
+    "Ins": "ClusterBombDefault"
+  },
+  "ClusterBombDudeSilver": {
+    "Ins": "ClusterBombDefault"
+  },
+  "ClusterBombDudeShooky": {
+    "Ins": "ClusterBombDefault"
+  },
+  "ClusterBombDudeSnowman": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ClusterBombDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ClusterBombMonster": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ClusterBombDudeCerberus": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ClusterBombDudeGodzillaDark": {
+    "Ins": "ClusterBombDudeGodzilla"
+  },
+  "ClusterBombDudeGodzillaGold": {
+    "Ins": "ClusterBombDudeGodzilla"
+  },
+  "ClusterBombDudeGodzilla": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ClusterBombDudeSB": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ClusterBombDudeRare": {
+    "Ins": "ClusterBombDefault"
+  },
+  "ClusterBombBrawloween": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ClusterBombKatanakingdom": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

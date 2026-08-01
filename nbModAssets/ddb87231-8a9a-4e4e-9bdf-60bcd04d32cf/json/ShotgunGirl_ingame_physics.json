@@ -1,0 +1,83 @@
+{
+  "BanditGirlBandita": {
+    "Ins": "BanditGirlDefault"
+  },
+  "BanditGirlPrereg": {
+    "Ins": "BanditGirlDefault"
+  },
+  "BanditGirlStar_remake": {
+    "Ins": "BanditGirlDefault"
+  },
+  "ShotgunGirlAmerica": {
+    "Ins": "BanditGirlDefault"
+  },
+  "ShotgunGirlBocaJuniors": {
+    "Ins": "BanditGirlDefault"
+  },
+  "ShotgunGirlBrawloween": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ShotgunGirlClassic_white": {
+    "Ins": "BanditGirlDefault"
+  },
+  "ShotgunGirlDancerBlue": {
+    "Ins": "ShotgunGirlDancer"
+  },
+  "ShotgunGirlDancerPurple": {
+    "Ins": "ShotgunGirlDancer"
+  },
+  "ShotgunGirlFootball": {
+    "Ins": "BanditGirlDefault"
+  },
+  "ShotgunGirlGold": {
+    "Ins": "BanditGirlDefault"
+  },
+  "ShotgunGirloldschool": {
+    "Ins": "BanditGirlDefault"
+  },
+  "ShotgunGirlPrincess": {
+    "Ins": "BanditGirlDefault"
+  },
+  "ShotgunGirlSilver": {
+    "Ins": "BanditGirlDefault"
+  },
+  "ShotgunGirlUDeChile": {
+    "Ins": "BanditGirlDefault"
+  },
+  "ShotgunGirlWitch": {
+    "Ins": "BanditGirlDefault"
+  },
+  "BanditGirlDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ShotgunGirlSquad": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ShotgunGirlDancer": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "CrossBomberGold": {
+    "Ins": "CrossBomberDefault"
+  },
+  "CrossBomberSilver": {
+    "Ins": "CrossBomberDefault"
+  },
+  "CrossBomberDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CrossBomberEaster": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CrossBomberFranken": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CrossBomberSupercellMake": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CrossBomberRare": {
+    "Ins": "CrossBomberDefault"
+  },
+  "CrossBomberHindu": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CrossBomberDragon": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

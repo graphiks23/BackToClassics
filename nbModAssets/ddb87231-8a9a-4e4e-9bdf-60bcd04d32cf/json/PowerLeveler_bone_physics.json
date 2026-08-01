@@ -1,0 +1,104 @@
+{
+  "PowerLevelerGold": {
+    "Ins": "PowerLevelerDefault"
+  },
+  "PowerLevelerSilver": {
+    "Ins": "PowerLevelerDefault"
+  },
+  "PowerLevelerDIY": {
+    "Ins": "PowerLevelerDefault"
+  },
+  "PowerLevelerGenie": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "PowerLevelerKnight": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "PowerLevelerKong": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "PowerLevelerKraken": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "PowerLevelerDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "PowerLevelerKnight_red": {
+    "Ins": "PowerLevelerKnight"
+  },
+  "PowerLevelerOnceupon_Red": {
+    "Ins": "PowerLevelerOnceupon"
+  },
+  "PowerLevelerOnceupon_Gold": {
+    "Ins": "PowerLevelerOnceupon"
+  },
+  "PowerLevelerOnceupon": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "PowerLevelerBuzz": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "PowerLevelerRare": {
+    "Ins": "PowerLevelerDefault"
+  },
+  "PowerLevelerPorcelain": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "PowerLevelerStrikers": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

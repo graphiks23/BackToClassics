@@ -1,0 +1,178 @@
+{
+"$schema": "https://ext.nulls.gg/mods/schema/schema.json",
+    "@title": { 
+        "EN": "Back To Classics Playtest",
+        "RU": "Тестовая версия Back To Classics"
+        },
+    "@description": {
+     	"EN": "<nt:nolib>This mod works best on 16:9 or wider aspect ratios!\n</nt:nolib>Back To Classics is a remix on the classic feeling of Brawl Stars, with many features reimplemented from old versions of the game",
+    	"RU": "<nt:nolib>Этот мод лучше всего работает при соотношении сторон 16:9 или шире!</nt:nolib>Back To Classics — это масштабное переосмысление классической атмосферы Brawl Stars, возвращающее множество элементов из старых версий игры."
+    },
+    "@author": "<a href=\"https://t.me/backtoclassics\">@BackToClassics</a>",
+    "@version": "2.1.87",
+    "@ilib": true,
+    "@categories": [
+        "gui",
+        "sfx",
+		"texts"
+    ],
+    "@gv": 68,
+
+		"@feature_groups": {
+			"misc": {
+			"@name": 		"Pin settings",
+			"@description": "Changes behaviour of pins. Select none for default behaviour.",
+			"@type": 		"RADIO_GROUP",
+			"@features": 	["staticEmoji", "coolerEmoji"]
+					},
+
+			"swfPatch": {
+			"@name": 		"SupercellSWF Patches",
+			"@description": "Enable/Disable certain aspects of the mod",
+			"@type": 		"DEFAULT",
+			"@features": [	"uiPatch", 
+							"brawlPassPatch", 
+							"buddyPatch", 
+							"themePatch", 
+							"dailyWinsPatch", 
+							"eventsPatch", 
+							"profilePatch", 
+							"twCommonPatch", 
+							"shopPatch"		]
+				}
+			},
+
+		"@features": {
+			"oldshop": {
+				"@name":        {"EN": "Old shop",             "RU": "Старый магазин"},
+				"@description": {"EN": "Enables the old shop", "RU": "Включает старую версию магазина"},
+				"@enabled": false,
+				"@priority": 1,
+				"@patches": "shop/oldshop.json"	},
+		
+			"staticEmoji": {
+				"@name":        "Static Pins",           
+				"@description": "Removes all animation from pins",    
+				"@enabled": true,              
+				"@priority": 0,             
+				"@root": 		"emojiPatches/staticEmoji",
+				"@patches": 	"emojiPatches/staticEmoji/emojiPatchStatic.json"
+			},
+			"coolerEmoji": {
+				"@name":        "Pop-in Pins",           
+				"@description": "Adds a small scale-in animation to pins (will break pins in shop and brawl pass)",    
+				"@enabled": false,              
+				"@priority": 0,             
+				"@root": 		"emojiPatches/coolerEmoji",
+				"@patches": 	"emojiPatches/coolerEmoji/emojiPatchCooler.json" 
+				},
+
+			"mutePins": {
+				"@name":        {"EN": "Disable pin sounds"},
+				"@description": {"EN": "Removes all sounds played by pins"},
+				"@enabled": true,
+				"@priority": 1,
+				"@patches": 			"emojiPatches/mutePins.json" 
+				},
+
+			"oldPortraits": {
+				"@name":        {"EN": "Old brawler portraits"},
+				"@description": {"EN": "Use old brawler portraits"},
+				"@enabled": true,
+				"@priority": 1,
+				"@root":			   "skins/oldPortraits",
+				"@patches": 		   "emojiPatches/mutePins.json" 
+				},
+				
+			"uiPatch": {
+				"@name":        {"EN": "Enable UI Patches"},
+				"@description": {"EN": "Things like homescreen, battle end screen, combat hud, etc."},
+				"@enabled": true,
+				"@priority": 1,
+				"@root": 			   "swfPatch/ui"
+				},
+
+			"brawlPassPatch": {
+				"@name":        {"EN": "Enable Brawl Pass Patch"},
+				"@description": {"EN": "Enable or disable old Brawl Pass"},
+				"@enabled": true,
+				"@priority": 1,
+				"@root": 		       "swfPatch/brawlPass"
+				},
+
+			"buddyPatch": {
+				"@name":        {"EN": "Enable Buddy Patches"},
+				"@enabled": true,
+				"@priority": 1,
+				"@root": 			   "swfPatch/buddy"
+				},
+
+			"themePatch": {
+				"@name":        {"EN": "Enable classic theme"},
+				"@description": {"EN": "Enable or disable the custom loading screen and lobby background"},
+				"@enabled": true,
+				"@priority": 1,
+				"@root": 			   "swfPatch/classicTheme",
+				"@patches": 		   "swfPatch/classicTheme/btcTheme.json" 
+				},
+
+			"dailyWinsPatch": {
+				"@name":        {"EN": "Enable Daily Wins Patches"},
+				"@enabled": true,
+				"@priority": 1,
+				"@root": 			   "swfPatch/dailyWins"
+				},
+
+			"eventsPatch": {
+				"@name":        {"EN": "Enable static event banners"},
+				"@enabled": true,
+				"@priority": 1,
+				"@root": 			   "swfPatch/events"
+				},
+
+			"profilePatch": {
+				"@name":        {"EN": "Enable old profile"},
+				"@enabled": true,
+				"@priority": 1,
+				"@root": 			   "swfPatch/profile"
+				},
+
+			"twCommonPatch": {
+				"@name":        {"EN": "twCommon patch"},
+				"@enabled": true,
+				"@priority": 1,
+				"@root": 			   "swfPatch/twCommon"
+				},
+
+			"shopPatch": {
+				"@name":        {"EN": "Enable New Shop Patches"},
+				"@enabled": true,
+				"@priority": 1,
+				"@description": {"EN": "Enable patches for the new version of shop (like removing tabs)"},
+				"@patches": 		   "swfPatch/shop/shopTabs.json",
+				"@root": 			   "swfPatch/shop"
+				}
+			},
+			
+		"@patches": [
+			"locale/btcCustomStrings.json",
+			"locale/chromaPatch.json",
+			"locale/starPoints.json",
+			"locale/tokens.json",
+			"locale/ranks.json",
+			"client/effects.json",
+			"client/sounds.json",
+			"logic/earlyAccess.json",
+			"logic/milestones.json",
+			"logic/playerCards.json",
+			"logic/randomReward.json",
+			"logic/resources.json",
+			"logic/skinBackgroundPatch.json",
+			"logic/rarities.json",
+			"logic/noPets.json",
+			"emojiPatches/oldPins.json",
+			"shop/shopItems.json",
+			"logic/battleIntroHeroOffsets.json",
+			"envs/config/darrylsShip.json"
+		]
+}

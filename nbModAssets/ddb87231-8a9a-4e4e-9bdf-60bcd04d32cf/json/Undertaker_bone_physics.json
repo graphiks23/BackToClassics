@@ -1,0 +1,122 @@
+{
+  "UndertakerGold": {
+    "Ins": "UndertakerDefault"
+  },
+  "UndertakerSilver": {
+    "Ins": "UndertakerDefault"
+  },
+  "UndertakerHatSilver": {
+    "Ins": "UndertakerDefault"
+  },
+  "UndertakerHatGold": {
+    "Ins": "UndertakerDefault"
+  },
+  "UndertakerChromaDark": {
+    "Ins": "UndertakerMecha"
+  },
+  "UndertakerChromaLight": {
+    "Ins": "UndertakerMecha"
+  },
+  "UndertakerHat": {
+    "Ins": "UndertakerDefault"
+  },
+  "UndertakerGala": {
+    "Ins": "UndertakerDefault"
+  },
+  "UndertakerSBBlue": {
+    "Ins": "UndertakerSB"
+  },
+  "UndertakerSBPink": {
+    "Ins": "UndertakerSB"
+  },
+  "UndertakerDemonChroma1": {
+    "Ins": "UndertakerDemon"
+  },
+  "UndertakerDemonChroma2": {
+    "Ins": "UndertakerDemon"
+  },
+  "UndertakerDemon": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "UndertakerGreekGodChroma1": {
+    "Ins": "UndertakerGreekGod"
+  },
+  "UndertakerGreekGod": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "UndertakerGreekGodChroma2": {
+    "Ins": "UndertakerGreekGod"
+  },
+  "UndertakerBazaar": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "UndertakerDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "UndertakerBeach": {
+    "Ins": "UndertakerDefault"
+  },
+  "UndertakerGreaser": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "UndertakerMecha": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "UndertakerNightwitch": {
+    "Ins": "UndertakerDefault"
+  },
+  "UndertakerSB": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "UndertakerUndertakerHockey": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

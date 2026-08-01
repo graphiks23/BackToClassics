@@ -1,0 +1,32 @@
+{
+    "texts_patch": {
+		    "TID_RARITY_COLOR_5": {
+            "EN": "FFF11E",
+			"RU": "FFF11E"
+        },
+        "TID_RARITY_COLOR_6": {
+            "EN": "F88F25",
+			"RU": "F88F25"
+        },
+        "TID_RARITY_NAME_6": {
+            "EN": "Chromatic",
+			"RU": "Хроматический"
+        },
+        "TID_RARITY_NAME_6_UPPER": {
+            "EN": "CHROMATIC",
+			"RU": "ХРОМАТИЧЕСКИЙ"
+        },
+        "TID_VAULT_BRAWLERS_ULTRA_LEGENDARY": {
+            "EN": "CHROMATIC",
+			"RU": "ХРОМАТИЧЕСКИЕ"
+        },
+        "TID_VAULT_INFO_POPUP_INFO3": {
+            "EN": "Get Chromatic, Legendary, Mythic, or Epic Brawlers!",
+			"RU": "Получи хроматических, легендарных, мифических или эпических бойцов!"
+        },
+        "TID_TITLE_BRAWLER_ULTRA": {
+            "EN": "CHROMATIC BRAWLER!",
+			"RU": "ХРОМАТИЧЕСКИЙ БОЕЦ!"
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+  "TwinsRare": {
+    "Ins": "TwinsDefault"
+  },
+  "TwinsGold": {
+    "Ins": "TwinsDefault"
+  },
+  "TwinsSilver": {
+    "Ins": "TwinsDefault"
+  },
+  "TwinsAngelChroma1": {
+    "Ins": "TwinsAngel"
+  },
+  "TwinsAngelChroma2": {
+    "Ins": "TwinsAngel"
+  },
+  "TwinsAngel": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "TwinsDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "TwinsVirus": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "TwinsSandsOfTime": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

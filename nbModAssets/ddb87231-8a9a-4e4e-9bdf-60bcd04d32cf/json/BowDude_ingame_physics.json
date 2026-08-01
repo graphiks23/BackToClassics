@@ -1,0 +1,26 @@
+{
+  "BowDudeBrawlentine": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "BowDudeFantasy": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "BowDudeFantasyChroma1": {
+    "Ins": "BowDudeFantasy"
+  },
+  "BowDudeFantasyChroma2": {
+    "Ins": "BowDudeFantasy"
+  }
+}

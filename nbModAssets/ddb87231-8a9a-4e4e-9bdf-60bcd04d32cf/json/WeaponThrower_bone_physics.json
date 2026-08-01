@@ -1,0 +1,65 @@
+{
+  "WeaponThrowerSilver": {
+    "Ins": "WeaponThrowerDefault"
+  },
+  "WeaponThrowerValentines": {
+    "Ins": "WeaponThrowerDefault"
+  },
+  "WeaponThrowerYeti": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "WeaponThrowerDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "WeaponThrowerDarkcircus": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "WeaponThrowerEmperor": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "WeaponThrowerGold": {
+    "Ins": "WeaponThrowerDefault"
+  },
+  "WeaponThrowerSteamPunk": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "WeaponThrowerSupercellMake": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "StalkerRare": {
+    "Ins": "StalkerDefault"
+  },
+  "StalkerDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

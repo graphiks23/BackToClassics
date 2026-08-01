@@ -1,0 +1,65 @@
+{
+  "SpawnerDudeTrueGold": {
+    "Ins": "SpawnerDudeDefault"
+  },
+  "SpawnerDudeTrueSilver": {
+    "Ins": "SpawnerDudeDefault"
+  },
+  "SpawnerDudeAgentP": {
+    "Ins": "SpawnerDudeDefault"
+  },
+  "SpawnerDudeDaruma": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "SpawnerDudeFly": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "SpawnerDudeDracula": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "SpawnerDudeMake": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "SpawnerDudeGym": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "SpawnerDudeDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

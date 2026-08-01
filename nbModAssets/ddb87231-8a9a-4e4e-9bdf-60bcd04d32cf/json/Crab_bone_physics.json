@@ -1,0 +1,29 @@
+{
+  "CrabRare": {
+    "Ins": "CrabDefault"
+  },
+  "CrabGold": {
+    "Ins": "CrabDefault"
+  },
+  "CrabSilver": {
+    "Ins": "CrabDefault"
+  },
+  "CrabDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CrabKaiju": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "PainterRare": {
+    "Ins": "PainterDefault"
+  },
+  "PainterGold": {
+    "Ins": "PainterDefault"
+  },
+  "PainterSilver": {
+    "Ins": "PainterDefault"
+  },
+  "PainterStarrForce": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "PainterDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "PainterGreekGod": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "PainterStrange": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "PainterKatanakingdom": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

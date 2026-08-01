@@ -1,0 +1,145 @@
+{
+    "texts_patch": {
+        "TID_RANK_POPUP_SEASON_END_INFO": {
+            "EN": "When the Trophy League ends, your 10 highest Trophy Brawlers with more than <DECAYSTART> Trophies will lose some of their Trophies. This loss will be compensated with Star Points that you can use to purchase cosmetic items."
+        },
+        "TID_RANK_INFO_POPUP_SEASON_REWARDS_1": {
+            "EN": "Trophy League Star Point rewards"
+        },
+        "TID_RANK_INFO_POPUP_LABEL_STAR_POINTS": {
+            "EN": "Star Points Reward"
+        },
+        "TID_RANKED_SEASON_END_NOTIFICATION": {
+            "EN": "RANKED SEASON END REWARD: <AMOUNT> STAR POINTS gained!"
+        },
+        "TID_COSMETIC_COINS_INFO_TITLE": {
+            "EN": "STAR POINTS"
+        },
+        "TID_COSMETIC_COINS_INFO_TXT1": {
+            "EN": "Collect Star Points to spend in the Oddities Shop to get Skins, Pins, Sprays, Profile icons, and all kinds of Resources!"
+        },
+        "TID_STAR_POINTS_TO_COSMETIC_COINS_POPUP_NEW_GEAR_DESCRIPTION": {
+            "EN": "Use Star Points to purchase most Skins, Pins, Sprays and Profile Icons"
+        },
+        "TID_BLING": {
+            "EN": "Star Points"
+        },
+        "TID_SHOP_OFFER_TITLE_45": {
+            "EN": "STAR POINTS"
+        },
+        "TID_SHOP_OFFER_INFO_45": {
+            "EN": "Contains <AMOUNT> Star Points. Collect Star Points to spend in the Oddities Shop to get Skins, Pins, Sprays, Profile Icons, resources, and pull Bling Buffies from the Buffie Claw Machine."
+        },
+        "TID_GATCHA_SCREEN_BLING_DROP_TITLE": {
+            "EN": "STAR POINTS"
+        },
+        "TID_GATCHA_SCREEN_BLING_DROP_DESC": {
+            "EN": "Use Star Points to buy Skins, Pins, Sprays and Profile Icons."
+        },
+        "TID_BLING_CAP_REACHED_TITLE": {
+            "EN": "STAR POINTS LIMIT REACHED"
+        },
+        "TID_BLING_CAP_REACHED_DESC": {
+            "EN": "Spend Star Points on Skins, Pins, Sprays or Profile Icons before collecting more."
+        },
+        "TID_BLING_CAP_REACHED_DESC_OFFER": {
+            "EN": "Spend Star Points on Skins, Pins, Sprays or Profile Icons before collecting more.\\n\\nSTAR POINTS COLLECTED THAT IS OVER THE LIMIT WILL BE LOST FOREVER!"
+        },
+        "TID_TOP_TOOL_TIP_BLING": {
+            "EN": "<cff00ff>Star Points</c> are used to buy Skins, Pins, Sprays and Profile Icons.\\n\\nCollect Star Points on the Brawl Pass, Trophy Reset, Ranked, Starr Drops and from Brawler Rank Ups.\\n\\nMax: <c53C5F7><MAX></c><EXTRAINFO>"
+        },
+        "TID_TOP_TOOL_TIP_BLING_GENERIC": {
+            "EN": "<cff00ff>Star Points</c> are used to spend in the Oddities Shop to get Skins, Pins, Sprays, Profile Icons, resources, and to pull Bling Buffies from the Buffie Claw Machine.\\n\\nCollect Star Points from the Brawl Pass, various Drops, and as rewards from Quests and Challenges."
+        },
+        "TID_NOT_ENOUGH_BLING": {
+            "EN": "Not enough Star Points!"
+        },
+        "TID_HERO_INFO_BUY_MISSING_BLING1": {
+            "EN": "YOU NEED <MISSINGBLING> MORE STAR POINTS"
+        },
+        "TID_HERO_INFO_BUY_MISSING_BLING2": {
+            "EN": "Purchase this item now with Star Points and Gems?"
+        },
+        "TID_HERO_INFO_BUY_MISSING_BLING_GEMS2": {
+            "EN": "Get <MISSINGGEMS> more Gems to buy missing Star Points"
+        },
+        "TID_NOT_ENOUGH_BLING_TITLE": {
+            "EN": "Get more Gems to buy missing Star Points"
+        },
+        "TID_DIRECT_PURCHASE_GEM_PACKS_DESC_BLING": {
+            "EN": "Get <cC5F724><REQUIREDGEMS> more Gems</c> to buy missing Star Points"
+        },
+        "TID_SHOP_OFFER_PURCHASE_ERROR_11": {
+            "EN": "Purchase with Star Points is not yet available"
+        },
+        "TID_CATALOG_BLING_PRICE_NOT_YET_AVAILABLE": {
+            "EN": "This item can be bought with Star Points later"
+        },
+        "TID_HOW_TO_GET_COSMETIC_COINS_INFO_TITLE": {
+            "EN": "HOW TO GET MORE STAR POINTS"
+        },
+        "TID_HOW_TO_GET_COSMETIC_COINS_INFO_TXT1": {
+            "EN": "Star Point rewards at every 5 ranks"
+        },
+        "TID_HOW_TO_GET_COSMETIC_COINS_INFO_TXT2": {
+            "EN": "Excess Trophies at the end of the Trophy League will be converted to Star Points"
+        },
+        "TID_HOW_TO_GET_COSMETIC_COINS_INFO_TXT3": {
+            "EN": "Star Point rewards at every Ranked Rank Up"
+        },
+        "TID_TROPHY_ROAD_BLING_DESCRIPTION": {
+            "EN": "Get more Star Points!"
+        },
+        "TID_BRAWL_PASS_INFO_TEXT_17": {
+            "EN": "Earn tons of extra rewards, including:\\n\\n<BRAWLER>- the new Chromatic Brawler!\\n\\nTIMED EXCLUSIVE SKIN: <SKIN_1>!\\n\\nTIMED EXCLUSIVE and COOL PINS for <BRAWLER>\\n\\nTIMED EXCLUSIVE SPRAY & PROFILE ICON\\n\\nEXTRA COINS, POWER POINTS & STAR POINTS!\\n\\nEXTRA QUESTS to complete your Brawl Pass faster!\\n\\nEXCLUSIVE CHROMATIC NAME for the duration of the season!"
+        },
+        "TID_RANKED_BLING_TITLE": {
+            "EN": "STAR POINTS"
+        },
+        "TID_RANKED_SEASON_START_NOTIFICATION": {
+            "EN": "RANKED SEASON RESET REWARD: <AMOUNT> STAR POINTS gained!"
+        },
+        "TID_TOP_TOOL_TIP_COSMETIC_COINS_EXTRAINFO_MAX_REACHED": {
+            "EN": "\\n\\n<cFF0000>You have reached the max limit. Spend some Star Points before collecting more.</c>"
+        },
+        "TID_RANKED_RANK_UP_REWARD_NOTIFICATION": {
+            "EN": "RANKED REWARD: <AMOUNT> STAR POINTS gained for reaching <RANK> in <MODE>!"
+        },
+        "TID_LOGIN_CALENDAR_REWARD_BLING": {
+            "EN": "STAR POINTS"
+        },
+        "TID_LOGIN_CALENDAR_REWARD_DESC_BLING": {
+            "EN": "Use Star Points to spend in the Oddities Shop to get Skins, Pins, Sprays, Profile icons, and all kinds of Resources."
+        },
+        "TID_LOGIN_CALENDAR_RE_ENGAGEMENT_BLING_DESCRIPTION": {
+            "EN": "USE STAR POINTS TO PURCHASE MOST SKINS, PINS, SPRAYS & PROFILE ICONS!"
+        },
+        "TID_LOGIN_CALENDAR_RE_ENGAGEMENT_FINAL_REWARD_MESSAGE": {
+            "EN": "PLENTY OF STAR POINTS ON DAY <NUM>!"
+        },
+        "TID_INBOX_TROPHY_LEAGUE": {
+            "EN": "Trophy League ended while you were away. You received <NUM> Star Points as a reward."
+        },
+        "TID_STYLE_SHIPMENT_LABEL": {
+            "EN": "<NUMBER> STAR POINTS"
+        },
+        "TID_BP_CONTENT_BLING": {
+            "EN": "<AMOUNT> STAR POINTS"
+        },
+        "TID_SHOP_OFFER_TROPHY_ROAD_45": {
+            "EN": "Use Star Points to spend in the Oddities Shop to get Skins, Pins, Sprays, Profile icons, and all kinds of Resources!"
+        },
+        "TID_BRAWLER_EARLY_ACCESS_MINA_INFO_3": {
+            "EN": "Every Brawler Box can give Cosmetics, Credits, Coins, Power Points, Star Points, Gems and a small chance for the new Brawler!"
+        },
+        "TID_BRAWLER_EARLY_ACCESS_ZIGGY_INFO_3": {
+            "EN": "Every Brawler Box can give Cosmetics, Credits, Coins, Power Points, Star Points, Gems and a small chance for the new Brawler!"
+        },
+        "TID_VAULT_INFO_POPUP_INFO2": {
+            "EN": "Get Coins, Power Points, or Star Points!"
+        },
+        "TID_ODDITIES_SHOP_GET_MORE_BLING": {
+            "EN": "GET MORE STAR POINTS!"
+        }
+    }
+}

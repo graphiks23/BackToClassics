@@ -1,0 +1,68 @@
+{
+  "LeaperGold": {
+    "Ins": "LeaperDefault"
+  },
+  "LeaperSilver": {
+    "Ins": "LeaperDefault"
+  },
+  "LeaperDarkXmas": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "LeaperDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "LeaperRare": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "LeaperKaiju": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "Leaperwukong": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "LeaperKatanakingdomChroma1": {
+    "Ins": "LeaperKatanakingdom"
+  },
+  "LeaperKatanakingdomChroma2": {
+    "Ins": "LeaperKatanakingdom"
+  },
+  "LeaperKatanakingdom": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

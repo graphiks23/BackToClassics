@@ -1,0 +1,10 @@
+{
+   "characters": {
+        "Mechanic": {
+            "AlwaysShowWithPet": null
+        },
+        "Shaman": {
+            "AlwaysShowWithPet": null
+        }
+	}
+}

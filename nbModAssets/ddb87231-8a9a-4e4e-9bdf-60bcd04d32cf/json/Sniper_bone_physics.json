@@ -1,0 +1,110 @@
+{
+  "SniperGold": {
+    "Ins": "SniperDefault"
+  },
+  "SniperPink": {
+    "Ins": "SniperDefault"
+  },
+  "SniperSilver": {
+    "Ins": "SniperDefault"
+  },
+  "SniperDani": {
+    "Ins": "SniperDefault"
+  },
+  "Sniperrose": {
+    "Ins": "SniperDefault"
+  },
+  "SniperCarnival": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "SniperGreek": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "SniperMariposa": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "SniperMoon": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "SniperValentines": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "SniperJapanChromaBlue": {
+    "Ins": "SniperJapan"
+  },
+  "SniperJapanChromaGreen": {
+    "Ins": "SniperJapan"
+  },
+  "SniperJapan": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "SniperMechaOverchargePink": {
+    "Ins": "SniperMechaOvercharge"
+  },
+  "SniperMechaOverchargeRed": {
+    "Ins": "SniperMechaOvercharge"
+  },
+  "SniperLine": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "SniperDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "SniperMechaOvercharge": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

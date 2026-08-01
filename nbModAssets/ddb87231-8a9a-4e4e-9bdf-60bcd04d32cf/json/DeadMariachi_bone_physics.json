@@ -1,0 +1,95 @@
+{
+  "DeadMariachiGold": {
+    "Ins": "DeadMariachiDefault"
+  },
+  "DeadMariachiSilver": {
+    "Ins": "DeadMariachiDefault"
+  },
+  "DeadMariachiorigins": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "PocoPirate": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "PocoStarr": {
+    "Ins": "DeadMariachiDefault"
+  },
+  "PocoValentine": {
+    "Ins": "DeadMariachiDefault"
+  },
+  "DeadMariachiPunk": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "DeadMariachiGoodRandoms": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "DeadMariachiOnceupon": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "DeadMariachiRare": {
+    "Ins": "DeadMariachiDefault"
+  },
+  "PocoSurferOverchargeChromaBlue": {
+    "Ins": "PocoSurferOvercharge"
+  },
+  "PocoSurferOverchargeChromaYellow": {
+    "Ins": "PocoSurferOvercharge"
+  },
+  "PocoSurferOvercharge": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "DeadMariachiDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "DeadMariachiOutlaw": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

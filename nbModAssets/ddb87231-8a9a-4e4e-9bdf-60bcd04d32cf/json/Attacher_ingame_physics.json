@@ -1,0 +1,65 @@
+{
+  "AttacherDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "AttacherGold": {
+    "Ins": "AttacherDefault"
+  },
+  "AttacherRare": {
+    "Ins": "AttacherDefault"
+  },
+  "AttacherRareChroma1": {
+    "Ins": "AttacherDefault"
+  },
+  "AttacherRareChroma2": {
+    "Ins": "AttacherDefault"
+  },
+  "AttacherRareChroma3": {
+    "Ins": "AttacherDefault"
+  },
+  "AttacherRareChroma4": {
+    "Ins": "AttacherDefault"
+  },
+  "AttacherRareChroma5": {
+    "Ins": "AttacherDefault"
+  },
+  "AttacherRareChroma6": {
+    "Ins": "AttacherDefault"
+  },
+  "AttacherSilver": {
+    "Ins": "AttacherDefault"
+  },
+  "AttacherToy": {
+    "Ins": "AttacherDefault"
+  },
+  "AttacherOnceupon": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "AttacherBoxer": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "AttacherBoxerChromaDarkpaw": {
+    "Ins": "AttacherBoxer"
+  },
+  "AttacherBoxerChromaGoldpaw": {
+    "Ins": "AttacherBoxer"
+  }
+}

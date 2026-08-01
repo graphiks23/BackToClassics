@@ -1,0 +1,88 @@
+{
+    "emotes": {
+        "emoji_brock_angry": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_brock_gg": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_brock_sad": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_brock_thanks": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_jessie": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_jessie_angry": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_jessie_gg": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_jessie_sad": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_jessie_thanks": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_penny": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_penny_angry": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_penny_gg": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_penny_sad": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_penny_thanks": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_brock_happy": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_jessie_happy": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_penny_happy": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_brock_phew": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_jessie_phew": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_penny_phew": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_brock_clap": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_jessie_clap": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_penny_clap": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_jessie_special": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_brock_special": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_jessie_team": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_brock_facepalm": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        },
+        "emoji_jessie_facepalm": {
+            "IconSWF": "sc/effects_brawler_grom.sc"
+        }
+    }
+}

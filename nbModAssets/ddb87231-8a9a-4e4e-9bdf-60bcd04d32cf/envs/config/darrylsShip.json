@@ -1,0 +1,10 @@
+{
+  "locations": {
+       "Wanted7": {
+         "LocationTheme": "DarrylsShip"
+    }
+  },
+       "DarrylsShip": {
+       "Disabled": null
+  }
+}

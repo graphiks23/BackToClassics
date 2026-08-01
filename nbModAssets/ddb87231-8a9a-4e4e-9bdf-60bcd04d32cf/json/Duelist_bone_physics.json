@@ -1,0 +1,71 @@
+{
+  "DuelistSilver": {
+    "Ins": "DuelistDefault"
+  },
+  "DuelistGold": {
+    "Ins": "DuelistDefault"
+  },
+  "DuelistToxic": {
+    "Ins": "DuelistDefault"
+  },
+  "DuelistToon": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "DuelistBrain": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "DuelistOdin": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "DuelistSandsOfTimeChroma1": {
+    "Ins": "DuelistSandsOfTime"
+  },
+  "DuelistSandsOfTimeChroma2": {
+    "Ins": "DuelistSandsOfTime"
+  },
+  "DuelistDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "DuelistWasteland": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "DuelistSandsOfTime": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

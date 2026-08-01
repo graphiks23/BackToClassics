@@ -1,0 +1,56 @@
+{
+  "MinigunDudeSilver": {
+    "Ins": "MinigunDudeDefault"
+  },
+  "MinigunDudeGold": {
+    "Ins": "MinigunDudeDefault"
+  },
+  "MinigunDudeDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "MinigunDudeQueen": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "MinigunDudeSummer": {
+    "Ins": "MinigunDudeDefault"
+  },
+  "MinigunDudeAprilFools": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "MinigunDudeBroker": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "MinigunDudeZombie": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

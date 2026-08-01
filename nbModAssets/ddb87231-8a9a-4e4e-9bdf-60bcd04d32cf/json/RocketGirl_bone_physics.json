@@ -1,0 +1,173 @@
+{
+  "RocketGirlGold": {
+    "Ins": "RocketGirlDefault"
+  },
+  "RocketGirlOg": {
+    "Ins": "RocketGirlDefault"
+  },
+  "RocketGirlSilver": {
+    "Ins": "RocketGirlDefault"
+  },
+  "RocketGirlBoombox": {
+    "Ins": "RocketGirlDefault"
+  },
+  "RocketGirlCny": {
+    "Ins": "RocketGirlDefault"
+  },
+  "RocketGirlGhost": {
+    "Ins": "RocketGirlDefault"
+  },
+  "RocketGirlHotrod": {
+    "Ins": "RocketGirlDefault"
+  },
+  "RocketGirlBeach": {
+    "Ins": "RocketGirlDefault"
+  },
+  "RocketGirlRanger_blue": {
+    "Ins": "RocketGirlRanger_black"
+  },
+  "RocketGirlRanger_pink": {
+    "Ins": "RocketGirlRanger_black"
+  },
+  "RocketGirlRanger_red": {
+    "Ins": "RocketGirlRanger_black"
+  },
+  "RocketGirlRanger_yellow": {
+    "Ins": "RocketGirlRanger_black"
+  },
+  "RocketGirlVirusGold": {
+    "Ins": "RocketGirlVirus"
+  },
+  "RocketGirlVirusRGB": {
+    "Ins": "RocketGirlVirus"
+  },
+  "RocketGirlClassic_white": {
+    "Ins": "RocketGirlDefault"
+  },
+  "RocketGirl_Original": {
+    "Ins": "RocketGirlDefault"
+  },
+  "RocketGirlOriginal_gold": {
+    "Ins": "RocketGirlDefault"
+  },
+  "RocketGirlOriginal_silver": {
+    "Ins": "RocketGirlDefault"
+  },
+  "RocketGirlBrown": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "RocketGirlDelivery": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "RocketGirlRanger": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "RocketGirlRanger_black": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "RocketGirlVirus": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "RocketGirlZeus": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "RocketGirlDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "RocketGirlSteamPunk": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "RocketGirlRankedProgrsesionSkinLevel1": {
+    "Ins": "RocketGirlDefault"
+  },
+  "RocketGirlRankedProgrsesionSkinLevel2": {
+    "Ins": "RocketGirlDefault"
+  },
+  "RocketGirlRankedProgrsesionSkinLevel3": {
+    "Ins": "RocketGirlDefault"
+  },
+  "RocketGirlRankedProgrsesionSkinLevel5": {
+    "Ins": "RocketGirlRankedProgrsesionSkinLevel4"
+  },
+  "RocketGirlRankedProgrsesionSkinLevel6": {
+    "Ins": "RocketGirlRankedProgrsesionSkinLevel4"
+  },
+  "RocketGirlRankedProgrsesionSkinLevel7": {
+    "Ins": "RocketGirlRankedProgrsesionSkinLevel4"
+  },
+  "RocketGirlRankedProgrsesionSkinLevel8": {
+    "Ins": "RocketGirlRankedProgrsesionSkinLevel4"
+  },
+  "RocketGirlRankedProgrsesionSkinLevel10": {
+    "Ins": "RocketGirlRankedProgrsesionSkinLevel9"
+  },
+  "RocketGirlRankedProgrsesionSkinLevel11": {
+    "Ins": "RocketGirlRankedProgrsesionSkinLevel9"
+  },
+  "RocketGirlRankedProgrsesionSkinLevel4": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "RocketGirlRankedProgrsesionSkinLevel9": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

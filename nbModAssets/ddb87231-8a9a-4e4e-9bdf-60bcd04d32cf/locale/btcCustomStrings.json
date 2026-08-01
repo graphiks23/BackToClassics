@@ -1,0 +1,84 @@
+{
+    "texts_patch": {
+		    "TID_TRANSLATORS_TITLE": {
+            "EN": "Translation help:",
+			"RU": "Помощь в переводе:"
+        },
+			"TID_TRANSLATORS_VANYA": {
+            "EN": "Vanya25",
+			"RU": "Vanya25"
+        },
+        "TID_SETTINGS_DESC": {
+            "EN": "Daniil SV",
+			"RU": "Daniil SV"
+        },
+        "TID_CREDITS_THANKS": {
+            "EN": "Special thanks to:",
+			"RU": "Особая благодарность:"
+        },
+        "TID_CREATOR": {
+            "EN": "graphiks",
+			"RU": "graphiks"
+        },
+        "TID_CREATOR_TITLE": {
+            "EN": "Made by:",
+			"RU": "Сделано:"
+        },
+        "TID_HELPERS_TITLE": {
+            "EN": "with help from:",
+			"RU": "с помощью от:"
+        },
+        "TID_HELPERS_THANG": {
+            "EN": "thangcamxengtm",
+			"RU": "thangcamxengtm"
+        },
+        "TID_HELPERS_MILKMID": {
+            "EN": "milkmid",
+			"RU": "milkmid"
+        },
+        "TID_BTC_CHROMA_DOWNGRADE_INFO": {
+            "EN": "The rarity of a CHROMATIC Brawler decreases with each Brawl Pass Season. It starts at LEGENDARY, then decreases to MYTHIC and finally becomes EPIC.",
+			"RU": "Редкость ХРОМАТИЧЕСКОГО бойца понижается с каждым сезоном Brawl Pass. Сначала она соответствует ЛЕГЕНДАРНОЙ, затем МИФИЧЕСКОЙ и, наконец, ЭПИЧЕСКОЙ."
+        },
+        "TID_BTC_CHROMATIC_COINS": {
+            "EN": "Previously, <cf88f25>Chroma Credits</c> were the main source of unlocking Chromatic brawlers, now, you collect <c0e90ff>Credits</c> to unlock them in the STARR ROAD",
+			"RU": "Ранее <cf88f25>Хромакредиты</c> были основным способом открытия Хроматических бойцов. Сейчас необходимо собирать <c0e90ff>Кредиты</c>, чтобы открывать их на ДОРОГЕ СТАРР."
+        },
+        "TID_BTC_CHROMA_RETURN_TITLE": {
+            "EN": "CHROMATICS ARE BACK!",
+			"RU": "ХРОМАТИКИ ВЕРНУЛИСЬ!"
+        },
+        "TID_BTC_CHROMA_RETURN_DESC": {
+            "EN": "What are Chromatic Brawlers?",
+			"RU": "Что такое Хроматические бойцы?"
+        },
+        "TID_BTC_CHROMA_SEASON1": {
+            "EN": "FIRST SEASON",
+			"RU": "ПЕРВЫЙ СЕЗОН"
+        },
+        "TID_BTC_CHROMA_SEASON2": {
+            "EN": "SECOND SEASON",
+			"RU": "ВТОРОЙ СЕЗОН"
+        },
+        "TID_BTC_CHROMA_SEASON3": {
+            "EN": "THIRD SEASON",
+			"RU": "ТРЕТИЙ СЕЗОН"
+        },
+        "TID_BTC_BOXRANDOM": {
+            "EN": "RANDOM BOX",
+			"RU": "СЛУЧАЙНЫЙ ЯЩИК"
+        },
+        "TID_BTC_TOKENREWARD": {
+            "EN": "TOKEN REWARDS",
+			"RU": "ЖЕТОНЫ В НАГРАДУ"
+        },
+		"TID_BTC_EXP_TITLE": {
+            "EN": "EXPERIENCE",
+			"RU": "ОПЫТ"
+        },
+		"TID_BTC_TOKENS_EXHAUSTED": {
+            "EN": "Battle Tokens exhausted",
+			"RU": "Боевые жетоны закончились."
+        }
+    }
+}

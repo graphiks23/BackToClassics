@@ -1,0 +1,32 @@
+{
+  "FuryDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "Fury199Gem": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "Fury199GemChroma1": {
+    "Ins": "Fury199Gem"
+  },
+  "Fury199GemChroma2": {
+    "Ins": "Fury199Gem"
+  },
+  "FuryGold": {
+    "Ins": "FuryDefault"
+  },
+  "FurySilver": {
+    "Ins": "FuryDefault"
+  }
+}

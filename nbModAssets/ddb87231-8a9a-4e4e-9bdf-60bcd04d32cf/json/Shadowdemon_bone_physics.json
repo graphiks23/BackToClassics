@@ -1,0 +1,17 @@
+{
+  "ShadowdemonDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ShadowdemonGold": {
+    "Ins": "ShadowdemonDefault"
+  },
+  "ShadowdemonSilver": {
+    "Ins": "ShadowdemonDefault"
+  }
+}

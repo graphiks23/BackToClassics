@@ -1,0 +1,14 @@
+{
+  "FrankCavemanRed": {
+    "Ins": "FrankCaveman"
+  },
+  "FrankCaveman": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

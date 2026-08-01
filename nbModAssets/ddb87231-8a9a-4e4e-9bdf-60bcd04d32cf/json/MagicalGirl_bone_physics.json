@@ -1,0 +1,17 @@
+{
+  "MagicalGirlDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "MagicalGirlGold": {
+    "Ins": "MagicalGirlDefault"
+  },
+  "MagicalGirlSilver": {
+    "Ins": "MagicalGirlDefault"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "SoulCollectorGold": {
+    "Ins": "SoulCollectorDefault"
+  },
+  "SoulCollectorRare": {
+    "Ins": "SoulCollectorDefault"
+  },
+  "SoulCollectorSally": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "SoulCollectorSilver": {
+    "Ins": "SoulCollectorDefault"
+  },
+  "SoulCollectorDemon": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "SoulCollectorDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "SoulCollectorZombie": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

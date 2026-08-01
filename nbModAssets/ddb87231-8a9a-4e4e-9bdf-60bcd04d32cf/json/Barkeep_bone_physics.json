@@ -1,0 +1,86 @@
+{
+  "BarkeepTrueGold": {
+    "Ins": "BarkeepDefault"
+  },
+  "BarkeepTrueSilver": {
+    "Ins": "BarkeepDefault"
+  },
+  "BarkeepWizardRed": {
+    "Ins": "BarkeepWizard"
+  },
+  "BarkeepGold": {
+    "Ins": "BarkeepDefault"
+  },
+  "BarkeepMaple": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "BarkeepMs": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "BarkeepPirate": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "BarkeepUnicorn": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "BarkeepDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "BarkeepBrawlAcademy": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "BarkeepDrunken": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "BarkeepWizard": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "MaisieGold": {
+    "Ins": "MaisieDefault"
+  },
+  "MaisieMaisieCyber": {
+    "Ins": "MaisieDefault"
+  },
+  "MaisieSilver": {
+    "Ins": "MaisieDefault"
+  },
+  "MaisieToonChroma2": {
+    "Ins": "MaisieToon"
+  },
+  "MaisieToonChroma1": {
+    "Ins": "MaisieToon"
+  },
+  "MaisieDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "MaisieSnake": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "MaisieWasteland": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "MaisieToon": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "MaisieDragons": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

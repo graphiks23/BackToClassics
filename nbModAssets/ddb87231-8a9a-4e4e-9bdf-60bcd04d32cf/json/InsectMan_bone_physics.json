@@ -1,0 +1,59 @@
+{
+  "InsectManSilver": {
+    "Ins": "InsectManDefault"
+  },
+  "InsectManGold": {
+    "Ins": "InsectManDefault"
+  },
+  "InsectManJapan": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "InsectManBrawlentine": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "InsectManBrawlentineChroma2": {
+    "Ins": "InsectManBrawlentine"
+  },
+  "InsectManBrawlentineChroma1": {
+    "Ins": "InsectManBrawlentine"
+  },
+  "InsectManGreek": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "InsectManRare": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "InsectManDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

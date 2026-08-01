@@ -1,0 +1,38 @@
+{
+  "GhostSwag": {
+    "Ins": "GhostDefault"
+  },
+  "GhostDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "GhostGold": {
+    "Ins": "GhostDefault"
+  },
+  "GhostSilver": {
+    "Ins": "GhostDefault"
+  },
+  "GhostGraffiti": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "GhostBrawlentine": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

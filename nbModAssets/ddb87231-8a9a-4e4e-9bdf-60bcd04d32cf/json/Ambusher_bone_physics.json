@@ -1,0 +1,53 @@
+{
+  "AmbusherRare": {
+    "Ins": "AmbusherDefault"
+  },
+  "AmbusherGold": {
+    "Ins": "AmbusherDefault"
+  },
+  "AmbusherSilver": {
+    "Ins": "AmbusherDefault"
+  },
+  "AmbusherAngel": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "AmbusherDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "AmbusherFantasy": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "AmbusherSandsOfTimeChromaRed": {
+    "Ins": "AmbusherSandsOfTime"
+  },
+  "AmbusherSandsOfTimeChromaGreen": {
+    "Ins": "AmbusherSandsOfTime"
+  },
+  "AmbusherSandsOfTime": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

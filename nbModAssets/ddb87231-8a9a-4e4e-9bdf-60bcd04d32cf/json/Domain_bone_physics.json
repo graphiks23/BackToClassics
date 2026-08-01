@@ -1,0 +1,29 @@
+{
+  "DomainRare": {
+    "Ins": "DomainDefault"
+  },
+  "DomainDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "DomainGold": {
+    "Ins": "DomainDefault"
+  },
+  "DomainSilver": {
+    "Ins": "DomainDefault"
+  },
+  "DomainSupercellStore": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

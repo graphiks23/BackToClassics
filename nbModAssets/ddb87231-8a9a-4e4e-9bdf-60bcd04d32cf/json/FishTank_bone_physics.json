@@ -1,0 +1,47 @@
+{
+  "FishTankShark": {
+    "Ins": "FishTankDefault"
+  },
+  "FishTankWasteland": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "FishTankDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "FishTankHarvest": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "FishTankGold": {
+    "Ins": "FishTankDefault"
+  },
+  "FishTankSilver": {
+    "Ins": "FishTankDefault"
+  },
+  "FishTankSurfer": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

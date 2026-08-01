@@ -1,0 +1,107 @@
+{
+  "RopeDudeSilver": {
+    "Ins": "RopeDudeDefault"
+  },
+  "RopeDudeFenrirBlack": {
+    "Ins": "RopeDudeFenrir"
+  },
+  "RopeDudeFenrirRed": {
+    "Ins": "RopeDudeFenrir"
+  },
+  "RopeDudeGold": {
+    "Ins": "RopeDudeDefault"
+  },
+  "RopeDudeKaiju": {
+    "Ins": "RopeDudeDefault"
+  },
+  "RopeDudeGodzillaRed": {
+    "Ins": "RopeDudeGodzilla"
+  },
+  "RopeDudeDirector_blue": {
+    "Ins": "RopeDudeDirector"
+  },
+  "RopeDudeSB": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "RopeDudeSpc": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "RopeDudeDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "RopeDudeDirector": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "RopeDudeFenrir": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "RopeDudeGodzilla": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "RopeDudeGodzillaBlack": {
+    "Ins": "RopeDudeGodzilla"
+  },
+  "RopeDudeGoodRandoms": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "RopeDudeLollipop": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "RopeDudePunk": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

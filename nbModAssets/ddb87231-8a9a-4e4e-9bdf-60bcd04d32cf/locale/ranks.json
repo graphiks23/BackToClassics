@@ -1,0 +1,37 @@
+{
+    "texts": {
+        "TID_HERO_INFO_RANK": {
+            "EN": "RANK"
+        },
+        "TID_RANK_UP_POPUP_TITLE": {
+            "EN": "RANK UP!"
+        },
+        "TID_RANK_UP_POPUP_REWARD_BONUS": {
+            "EN": "RANK UP BONUS"
+        },
+        "TID_RANK_UP_POPUP_RANK": {
+            "EN": "RANK <RANK>"
+        },
+        "TID_BATTLE_END_GAIN_LABEL_RANK_UP": {
+            "EN": "Rank up"
+        },
+        "TID_BATTLE_END_GAIN_LABEL_SURVIVAL": {
+            "EN": "Rank score"
+        },
+        "TID_HERO_SCORE_INFO": {
+            "EN": "Collect Trophies for this Brawler by winning games against other players.\\n\\nReach <PROGRESS> Trophies to achieve next Trophy Rank"
+        },
+        "TID_HERO_SCORE_INFO_MAXED": {
+            "EN": "Maximum Trophy Rank reached! Wins now give Season Trophies."
+        },
+        "TID_HERO_SCORE_INFO_COMPACT": {
+            "EN": "Reach <PROGRESS> Trophies to achieve next Trophy Rank"
+        },
+        "TID_HERO_SORTING_RANKUP": {
+            "EN": "Closest to Next Rank"
+        },
+        "TID_HERO_SCORE_INFO_MAXED_COMPACT_NEW": {
+            "EN": "Maximum Trophy Rank reached!\\n\\nTrophies earned above 1000 are Season Trophies! Brawler Trophies reset back to 1000 at the end of Season."
+        }
+    }
+}

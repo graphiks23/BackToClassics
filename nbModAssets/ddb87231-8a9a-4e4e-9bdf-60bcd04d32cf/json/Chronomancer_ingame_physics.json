@@ -1,0 +1,35 @@
+{
+  "ChronomancerGold": {
+    "Ins": "ChronomancerDefault"
+  },
+  "ChronomancerRare": {
+    "Ins": "ChronomancerDefault"
+  },
+  "ChronomancerSilver": {
+    "Ins": "ChronomancerDefault"
+  },
+  "ChronomancerKaijuChromaGreen": {
+    "Ins": "ChronomancerKaiju"
+  },
+  "ChronomancerKaijuChromaWhite": {
+    "Ins": "ChronomancerKaiju"
+  },
+  "ChronomancerKaiju": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "ChronomancerDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

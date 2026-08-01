@@ -1,0 +1,38 @@
+{
+  "DragonRiderRare": {
+    "Ins": "DragonRiderDefault"
+  },
+  "DragonRiderGold": {
+    "Ins": "DragonRiderDefault"
+  },
+  "DragonRiderSilver": {
+    "Ins": "DragonRiderDefault"
+  },
+  "DragonRiderDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "DragonRiderOnceupon": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "DragonRiderStrange": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

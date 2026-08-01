@@ -1,0 +1,98 @@
+{
+  "HammerDudeClashKingChromaRed": {
+    "Ins": "HammerDudeClashKingChromaBlue"
+  },
+  "HammerDudeGold": {
+    "Ins": "FrankDefault"
+  },
+  "HammerDudeDJ": {
+    "Ins": "FrankDefault"
+  },
+  "HammerDudeSilver": {
+    "Ins": "FrankDefault"
+  },
+  "HammerDudeVacation": {
+    "Ins": "FrankDefault"
+  },
+  "FrankCavemanRed": {
+    "Ins": "FrankCaveman"
+  },
+  "HammerDudeSandsOfTimesDark": {
+    "Ins": "HammerDudeSandsOfTimes"
+  },
+  "HammerDudeSandsOfTimesLight": {
+    "Ins": "HammerDudeSandsOfTimes"
+  },
+  "FrankCaveman": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "FrankDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "HammerDudeClashKingChromaBlue": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "HammerDudeHindu": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "HammerDudeknight": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "HammerDudeXmas": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "HammerDudeSandsOfTimes": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "FrankFairies": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "Alternator29gem": {
+    "Ins": "AlternatorDefault"
+  },
+  "AlternatorGold": {
+    "Ins": "AlternatorDefault"
+  },
+  "AlternatorSilver": {
+    "Ins": "AlternatorDefault"
+  },
+  "AlternatorDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "AlternatorCybernoodles": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "AlternatorCybernoodlesChroma1": {
+    "Ins": "AlternatorCybernoodles"
+  },
+  "AlternatorCybernoodlesChroma2": {
+    "Ins": "AlternatorCybernoodles"
+  }
+}

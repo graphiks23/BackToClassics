@@ -1,0 +1,143 @@
+{
+  "CrowMechaGold": {
+    "Ins": "CrowMecha"
+  },
+  "CrowSilver": {
+    "Ins": "CrowDefault"
+  },
+  "CrowMechaNight": {
+    "Ins": "CrowMecha"
+  },
+  "CrowWhite": {
+    "Ins": "CrowDefault"
+  },
+  "CrowGold": {
+    "Ins": "CrowDefault"
+  },
+  "CrowHarvest": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CrowThanksgiving": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CrowMaverick": {
+    "Ins": "CrowDefault"
+  },
+  "CrowDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CrowMecha": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CrowPheonix": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CrowSuper": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CrowBrawloweenWhite": {
+    "Ins": "CrowBrawloween"
+  },
+  "CrowBrawloweenRed": {
+    "Ins": "CrowBrawloween"
+  },
+  "CrowBrawloween": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CrowVulture": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CrowRankedProgrsesionSkinLevel3": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CrowRankedProgrsesionSkinLevel5": {
+    "Ins": "CrowRankedProgrsesionSkinLevel4"
+  },
+  "CrowRankedProgrsesionSkinLevel6": {
+    "Ins": "CrowRankedProgrsesionSkinLevel4"
+  },
+  "CrowRankedProgrsesionSkinLevel7": {
+    "Ins": "CrowRankedProgrsesionSkinLevel4"
+  },
+  "CrowRankedProgrsesionSkinLevel8": {
+    "Ins": "CrowRankedProgrsesionSkinLevel4"
+  },
+  "CrowRankedProgrsesionSkinLevel10": {
+    "Ins": "CrowRankedProgrsesionSkinLevel9"
+  },
+  "CrowRankedProgrsesionSkinLevel11": {
+    "Ins": "CrowRankedProgrsesionSkinLevel9"
+  },
+  "CrowRankedProgrsesionSkinLevel9": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "CrowRankedProgrsesionSkinLevel4": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

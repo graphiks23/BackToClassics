@@ -1,0 +1,292 @@
+{
+    "milestones": {
+        "goal_1_0": {
+            "Progress": 10,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankNumberValue": 1
+        },
+        "goal_1_1": {
+            "ProgressStart": 10,
+            "Progress": 10,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 1,
+            "RankNumberValue": 2,
+            "RankFaceFrame": 0
+        },
+        "goal_1_2": {
+            "ProgressStart": 20,
+            "Progress": 10,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 2,
+            "RankNumberValue": 3,
+            "RankFaceFrame": 0
+        },
+        "goal_1_3": {
+            "ProgressStart": 30,
+            "Progress": 10,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 3,
+            "RankNumberValue": 4,
+            "RankFaceFrame": 0
+        },
+        "goal_1_4": {
+            "ProgressStart": 40,
+            "Progress": 20,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 4,
+            "RankNumberValue": 5,
+            "RankFaceFrame": 0
+        },
+        "goal_1_5": {
+            "ProgressStart": 60,
+            "Progress": 20,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 5,
+            "RankNumberValue": 6,
+            "RankFaceFrame": 0
+        },
+        "goal_1_6": {
+            "ProgressStart": 80,
+            "Progress": 20,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 6,
+            "RankNumberValue": 7,
+            "RankFaceFrame": 0
+        },
+        "goal_1_7": {
+            "ProgressStart": 100,
+            "Progress": 20,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 7,
+            "RankNumberValue": 8,
+            "RankFaceFrame": 0
+        },
+        "goal_1_8": {
+            "ProgressStart": 120,
+            "Progress": 20,
+            "PrimaryLvlUpRewardCount": 10,
+            "SecondaryLvlUpRewardType": 45,
+            "SecondaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 8,
+            "RankNumberValue": 9,
+            "RankFaceFrame": 0
+        },
+        "goal_1_9": {
+            "ProgressStart": 140,
+            "Progress": 20,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 9,
+            "RankNumberValue": 10,
+            "RankFaceFrame": 0
+        },
+        "goal_1_10": {
+            "ProgressStart": 160,
+            "Progress": 20,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 10,
+            "RankNumberValue": 11,
+            "RankFaceFrame": 0
+        },
+        "goal_1_11": {
+            "ProgressStart": 180,
+            "Progress": 40,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 11,
+            "RankNumberValue": 12,
+            "RankFaceFrame": 0
+        },
+        "goal_1_12": {
+            "ProgressStart": 220,
+            "Progress": 40,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 12,
+            "RankNumberValue": 13,
+            "RankFaceFrame": 0
+        },
+        "goal_1_13": {
+            "ProgressStart": 250,
+            "Progress": 40,
+            "PrimaryLvlUpRewardCount": 10,
+            "SecondaryLvlUpRewardType": 45,
+            "SecondaryLvlUpRewardCount": 20,
+            "RankAssetFrame": 13,
+            "RankNumberValue": 14,
+            "RankFaceFrame": 1
+        },
+        "goal_1_14": {
+            "ProgressStart": 300,
+            "Progress": 40,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 14,
+            "RankNumberValue": 15,
+            "RankFaceFrame": 1
+        },
+        "goal_1_15": {
+            "ProgressStart": 340,
+            "Progress": 40,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 15,
+            "RankNumberValue": 16,
+            "RankFaceFrame": 1
+        },
+        "goal_1_16": {
+            "ProgressStart": 380,
+            "Progress": 40,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 16,
+            "RankNumberValue": 17,
+            "RankFaceFrame": 1
+        },
+        "goal_1_17": {
+            "ProgressStart": 420,	
+            "Progress": 40,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 17,
+            "RankNumberValue": 18,
+            "RankFaceFrame": 1
+        },
+        "goal_1_18": {
+            "ProgressStart": 460,
+            "Progress": 40,
+            "PrimaryLvlUpRewardCount": 10,
+            "SecondaryLvlUpRewardType": 45,
+            "SecondaryLvlUpRewardCount": 30,
+            "RankAssetFrame": 18,
+            "RankNumberValue": 19,
+            "RankFaceFrame": 1
+        },
+        "goal_1_19": {
+            "ProgressStart": 500,
+            "Progress": 50,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 19,
+            "RankNumberValue": 20,
+            "RankFaceFrame": 2
+        },
+        "goal_1_20": {
+            "ProgressStart": 550,
+            "Progress": 50,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 20,
+            "RankNumberValue": 21,
+            "RankFaceFrame": 2
+        },
+        "goal_1_21": {
+            "ProgressStart": 600,
+            "Progress": 50,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 21,
+            "RankNumberValue": 22,
+            "RankFaceFrame": 2
+        },
+        "goal_1_22": {
+            "ProgressStart": 650,
+            "Progress": 50,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 22,
+            "RankNumberValue": 23,
+            "RankFaceFrame": 2
+        },
+        "goal_1_23": {
+            "ProgressStart": 700,
+            "Progress": 50,
+            "PrimaryLvlUpRewardCount": 10,
+            "SecondaryLvlUpRewardType": 45,
+            "SecondaryLvlUpRewardCount": 40,
+            "RankAssetFrame": 23,
+            "RankNumberValue": 24,
+            "RankFaceFrame": 2
+        },
+        "goal_1_24": {
+            "ProgressStart": 750,
+            "Progress": 50,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 24,
+            "RankNumberValue": 25,
+            "RankFaceFrame": 2
+        },
+        "goal_1_25": {
+            "ProgressStart": 800,
+            "Progress": 50,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 25,
+            "RankNumberValue": 26,
+            "RankFaceFrame": 2
+        },
+        "goal_1_26": {
+            "ProgressStart": 850,
+            "Progress": 50,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 26,
+            "RankNumberValue": 27,
+            "RankFaceFrame": 2
+        },
+        "goal_1_27": {
+            "ProgressStart": 900,
+            "Progress": 50,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 27,
+            "RankNumberValue": 28,
+            "RankFaceFrame": 2
+        },
+        "goal_1_28": {
+            "ProgressStart": 950,
+            "Progress": 50,
+            "PrimaryLvlUpRewardCount": 10,
+            "SecondaryLvlUpRewardType": 45,
+            "SecondaryLvlUpRewardCount": 50,
+            "RankAssetFrame": 28,
+            "RankNumberValue": 29,
+            "RankFaceFrame": 2
+        },
+        "goal_1_29": {
+            "ProgressStart": 1000,
+            "Progress": 50,
+            "PrimaryLvlUpRewardCount": 10,
+			"RankAssetFrame": 29,
+            "RankNumberValue": 30,
+            "RankFaceFrame": 3
+        },
+        "goal_1_30": {
+            "ProgressStart": 1050,
+            "Progress": 50,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 30,
+            "RankNumberValue": 31,
+            "RankFaceFrame": 3
+        },
+        "goal_1_31": {
+            "ProgressStart": 1100,
+            "Progress": 50,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 31,
+            "RankNumberValue": 32,
+            "RankFaceFrame": 3
+        },
+        "goal_1_32": {
+            "ProgressStart": 1150,
+            "Progress": 50,
+            "PrimaryLvlUpRewardCount": 10,
+            "RankAssetFrame": 32,
+            "RankNumberValue": 33,
+            "RankFaceFrame": 3
+        },
+        "goal_1_33": {
+            "ProgressStart": 1200,
+            "Progress": 50,
+            "PrimaryLvlUpRewardCount": 10,
+            "SecondaryLvlUpRewardType": 45,
+            "SecondaryLvlUpRewardCount": 60,
+            "RankAssetFrame": 33,
+            "RankNumberValue": 34,
+            "RankFaceFrame": 3
+        },
+        "goal_1_34": {
+            "ProgressStart": 1250,
+            "Progress": 1000000,
+            "RankAssetFrame": 34,
+            "RankNumberValue": 35,
+            "RankFaceFrame": 3
+        }
+    }
+}

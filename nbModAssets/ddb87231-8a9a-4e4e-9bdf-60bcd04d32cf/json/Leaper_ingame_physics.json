@@ -1,0 +1,35 @@
+{
+  "LeaperDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "LeaperGold": {
+    "Ins": "LeaperDefault"
+  },
+  "LeaperKaiju": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "LeaperSilver": {
+    "Ins": "LeaperDefault"
+  },
+  "LeaperRare": {
+    "Ins": "LeaperDefault"
+  },
+  "LeaperDarkXmas": {
+    "Ins": "LeaperDefault"
+  },
+  "Leaperwukong": {
+    "Ins": "LeaperDefault"
+  }
+}

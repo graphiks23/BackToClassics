@@ -1,0 +1,74 @@
+{
+  "UndertakerChromaDark": {
+    "Ins": "UndertakerMecha"
+  },
+  "UndertakerChromaLight": {
+    "Ins": "UndertakerMecha"
+  },
+  "UndertakerDemon": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "UndertakerDemonChroma1": {
+    "Ins": "UndertakerDemon"
+  },
+  "UndertakerDemonChroma2": {
+    "Ins": "UndertakerDemon"
+  },
+  "UndertakerSB": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "UndertakerSBBlue": {
+    "Ins": "UndertakerSB"
+  },
+  "UndertakerSBPink": {
+    "Ins": "UndertakerSB"
+  },
+  "UndertakerDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "UndertakerBeach": {
+    "Ins": "UndertakerDefault"
+  },
+  "UndertakerGala": {
+    "Ins": "UndertakerDefault"
+  },
+  "UndertakerGold": {
+    "Ins": "UndertakerDefault"
+  },
+  "UndertakerHat": {
+    "Ins": "UndertakerDefault"
+  },
+  "UndertakerHatGold": {
+    "Ins": "UndertakerDefault"
+  },
+  "UndertakerHatSilver": {
+    "Ins": "UndertakerDefault"
+  },
+  "UndertakerMecha": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

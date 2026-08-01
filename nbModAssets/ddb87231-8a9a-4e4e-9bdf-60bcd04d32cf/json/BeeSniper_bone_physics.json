@@ -1,0 +1,77 @@
+{
+  "BeeSniperGold": {
+    "Ins": "BeeSniperDefault"
+  },
+  "BeeSniperSilver": {
+    "Ins": "BeeSniperDefault"
+  },
+  "BeeSniperCatGold": {
+    "Ins": "BeeSniperCat"
+  },
+  "BeeSniperLadyBug": {
+    "Ins": "BeeSniperDefault"
+  },
+  "BeeSniperArchvillain": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "BeeSniperDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "BeeSniperMonster": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "BeeSniperVirus": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "BeeSniperCat": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "BeeSniperBrawloween": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "BeeSniperStarrGirls": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}

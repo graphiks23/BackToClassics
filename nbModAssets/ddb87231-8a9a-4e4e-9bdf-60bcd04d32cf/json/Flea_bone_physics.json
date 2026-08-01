@@ -1,0 +1,56 @@
+{
+  "FleaGold": {
+    "Ins": "FleaDefault"
+  },
+  "FleaSilver": {
+    "Ins": "FleaDefault"
+  },
+  "FleaSpaceCactus": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "FleaDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "FleaBiker": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "FleaGodzilla": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "FleaStarrForce": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "FleaRare": {
+    "Ins": "FleaDefault"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "LuchadorDragonChroma": {
+    "Ins": "LuchadorDragon"
+  },
+  "LuchadorGold": {
+    "Ins": "LuchadorDefault"
+  },
+  "LuchadorSilver": {
+    "Ins": "LuchadorDefault"
+  },
+  "LuchadorClubNacional": {
+    "Ins": "LuchadorDefault"
+  },
+  "LuchadorCorinthians": {
+    "Ins": "LuchadorDefault"
+  },
+  "LuchadorUniversitario": {
+    "Ins": "LuchadorDefault"
+  },
+  "LuchadorAtomic": {
+    "Ins": "LuchadorDefault"
+  },
+  "LuchadorSB": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "LuchadorVampire": {
+    "Ins": "LuchadorDefault"
+  },
+  "LuchadorBabyShark": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "LuchadorBrown": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "LuchadorButler": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "LuchadorCorazon": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "LuchadorDefault": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "LuchadorDragon": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "LuchadorRey": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "LuchadorRudo": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "LuchadorSuperbowl": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "LuchadorTiger": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "LuchadorCarreta": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  },
+  "LuchadorMHA": {
+    "bone": [],
+    "dir": [],
+    "max": [],
+    "min": [],
+    "soft": [],
+    "follow": [],
+    "child": []
+  }
+}
