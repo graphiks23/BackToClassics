@@ -3,5 +3,10 @@
     "Pirate_Brawl_Ingame": {
       "Disabled": null
     }
+  },
+    "locations": {
+    "Wanted7": {
+      "LocationTheme": "DarrylsShip"
+    }
   }
 }

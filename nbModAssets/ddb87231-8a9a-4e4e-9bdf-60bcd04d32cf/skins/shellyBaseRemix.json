@@ -73,5 +73,29 @@
         "BanditGirlDefault": {
             "Model": "shelly_remix_geo.glb"
         }
+    },
+
+   "faces": {
+        "ShellyFace": {
+            "FileName": null,
+            "ExportName": null
+        },
+        "ShellyStill": {
+            "FileName": null,
+            "ExportName": null
+        },
+        "ShellyHappy": {
+            "FileName": null,
+            "ExportName": null
+        },
+        "ShellySad": {
+            "FileName": null,
+            "ExportName": null
+        },
+        "ShellySadLoop": {
+            "FileName": null,
+            "ExportName": null
+        }
+        
     }
 }

@@ -1,0 +1,10 @@
+{
+ "locations": {
+    "Training": {
+      "LocationTheme": "MineTutorial"
+    },
+    "Tutorial": {
+      "LocationTheme": "MineTutorial"
+    }
+  }
+}

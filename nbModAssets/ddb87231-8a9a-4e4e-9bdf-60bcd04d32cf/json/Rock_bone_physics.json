@@ -1,17 +1,1 @@
-{
-  "RockDefault": {
-    "bone": [],
-    "dir": [],
-    "max": [],
-    "min": [],
-    "soft": [],
-    "follow": [],
-    "child": []
-  },
-  "RockGold": {
-    "Ins": "RockDefault"
-  },
-  "RockSilver": {
-    "Ins": "RockDefault"
-  }
-}
+{}

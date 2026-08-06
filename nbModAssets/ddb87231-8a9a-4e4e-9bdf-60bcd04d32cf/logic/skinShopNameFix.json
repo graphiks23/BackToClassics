@@ -1,0 +1,3298 @@
+{
+    "skins": {
+        "GunSlingerRockstar": {
+            "ShopTID": "TID_GUNSLINGER_ROCKSTAR_SKIN"
+        },
+        "RocketGirlBeach": {
+            "ShopTID": "TID_ROCKET_BEACH_SKIN"
+        },
+        "CactusPink": {
+            "ShopTID": "TID_CACTUS_PINK_SKIN"
+        },
+        "ShamanPanda": {
+            "ShopTID": "TID_SHAMAN_PANDA_SKIN"
+        },
+        "CrowWhite": {
+            "ShopTID": "TID_CROW_WHITE_SKIN"
+        },
+        "BullGuyHair": {
+            "ShopTID": "TID_BULL_HAIR_SKIN"
+        },
+        "TrickshotGold": {
+            "ShopTID": "TID_TRICKSHOT_GOLD_SKIN"
+        },
+        "BarkeepGold": {
+            "ShopTID": "TID_BARKEEP_GOLD_SKIN"
+        },
+        "LuchadorRudo": {
+            "ShopTID": "TID_LUCHADOR_RUDO_SKIN"
+        },
+        "BanditGirlBandita": {
+            "ShopTID": "TID_SHOTGUN_BANDITA_SKIN"
+        },
+        "LuchadorRey": {
+            "ShopTID": "TID_LUCHADOR_KING_SKIN"
+        },
+        "MechanicKnight": {
+            "ShopTID": "TID_MECHANIC_KNIGHT_SKIN"
+        },
+        "FrankCaveman": {
+            "ShopTID": "TID_FRANK_CAVEMAN_SKIN"
+        },
+        "MechanicSummer": {
+            "ShopTID": "TID_MECHANIC_SUMMER_SKIN"
+        },
+        "CrowPheonix": {
+            "ShopTID": "TID_CROW_PHEONIX_SKIN"
+        },
+        "UndertakerGreaser": {
+            "ShopTID": "TID_UNDERTAKER_GREASER_SKIN"
+        },
+        "BanditGirlPrereg": {
+            "ShopTID": "TID_SHOTGUN_STAR_SKIN"
+        },
+        "TntGuySanta": {
+            "ShopTID": "TID_DYNAMIKE_SANTA_SKIN"
+        },
+        "TntGuyChef": {
+            "ShopTID": "TID_DYNAMIKE_CHEF_SKIN"
+        },
+        "RocketGirlBoombox": {
+            "ShopTID": "TID_BROCK_BOOMBOX_SKIN"
+        },
+        "BarkeepWizard": {
+            "ShopTID": "TID_BARLEY_WIZARD_SKIN"
+        },
+        "ShamanReindeer": {
+            "ShopTID": "TID_NITA_REINDEER_SKIN"
+        },
+        "ArtilleryGalElf": {
+            "ShopTID": "TID_PENNY_ELF_SKIN"
+        },
+        "UndertakerHat": {
+            "ShopTID": "TID_UNDERTAKER_HAT_SKIN"
+        },
+        "BullGuyFootbull": {
+            "ShopTID": "TID_SKIN_FOOTBULL"
+        },
+        "TrickshotPopcorn": {
+            "ShopTID": "TID_SKIN_POPCORN_RICO"
+        },
+        "GunSlingerHanbok": {
+            "ShopTID": "TID_SKIN_LUNAR_COLT"
+        },
+        "BarrelbotCny": {
+            "ShopTID": "TID_SKIN_DUMPLING_DARRYL"
+        },
+        "PocoValentine": {
+            "ShopTID": "TID_SKIN_VALENTINE_POCO"
+        },
+        "RocketGirlCny": {
+            "ShopTID": "TID_SKIN_LUNAR_BROCK"
+        },
+        "UndertakerNightwitch": {
+            "ShopTID": "TID_UNDERTAKER_NIGHTWITCH_SKIN"
+        },
+        "ShamanShiba": {
+            "ShopTID": "TID_SHAMAN_SHIBA_SKIN"
+        },
+        "ArtilleryGalBunny": {
+            "ShopTID": "TID_PENNY_BUNNY_SKIN"
+        },
+        "BarkeepMs": {
+            "ShopTID": "TID_BARLEY_MS_SKIN"
+        },
+        "RocketGirlHotrod": {
+            "ShopTID": "TID_BROCK_HOTROD_SKIN"
+        },
+        "BarkeepMaple": {
+            "ShopTID": "TID_BARLEY_MAPLE_SKIN"
+        },
+        "WhirlwindRR": {
+            "ShopTID": "TID_CARL_RR_SKIN"
+        },
+        "BoMecha": {
+            "ShopTID": "TID_BO_MECHA_SKIN"
+        },
+        "CrowMecha": {
+            "ShopTID": "TID_CROW_MECHA_SKIN"
+        },
+        "Cactusmecha": {
+            "ShopTID": "TID_SPIKE_ROBO_SKIN"
+        },
+        "TntDudeMecha": {
+            "ShopTID": "TID_MIKE_ROBO_SKIN"
+        },
+        "BowDudeMechaWhite": {
+            "ShopTID": "TID_BO_MECHA_LIGHT_SKIN"
+        },
+        "BowDudeMechaGold": {
+            "ShopTID": "TID_BO_MECHA_GOLD_SKIN"
+        },
+        "CrowMechaGold": {
+            "ShopTID": "TID_CROW_MECHA_GOLD_SKIN"
+        },
+        "CrowMechaNight": {
+            "ShopTID": "TID_CROW_MECHA_NIGHT_SKIN"
+        },
+        "BullDudeFootbullBlue": {
+            "ShopTID": "TID_BULL_LINEBACKER_SKIN"
+        },
+        "GunslingerOutlaw": {
+            "ShopTID": "TID_COLT_OUTLAW_SKIN"
+        },
+        "WhirlwindHogrider": {
+            "ShopTID": "TID_CARL_HOG_RIDER_SKIN"
+        },
+        "SniperPink": {
+            "ShopTID": "TID_PIPER_PINK_SKIN"
+        },
+        "ArcadeClassic": {
+            "ShopTID": "TID_8BIT_CLASSIC_SKIN"
+        },
+        "NinjaShark": {
+            "ShopTID": "TID_LEON_SHARK_SKIN"
+        },
+        "BlackHoleBlue": {
+            "ShopTID": "TID_TARA_BLUE_SKIN"
+        },
+        "BarkeepWizardRed": {
+            "ShopTID": "TID_BARLEY_RED_WIZARD_SKIN"
+        },
+        "HookPirate": {
+            "ShopTID": "TID_GENE_PIRATE_SKIN"
+        },
+        "Sandstormsleepy": {
+            "ShopTID": "TID_SANDY_SLEEPY_SKIN"
+        },
+        "Sniperrose": {
+            "ShopTID": "TID_PIPER_CALAVERA_SKIN"
+        },
+        "ShotgunGirlWitch": {
+            "ShopTID": "TID_SHELLY_WITCH_SKIN"
+        },
+        "MechanicKnightDark": {
+            "ShopTID": "TID_JESSIE_DARK_KNIGHT_SKIN"
+        },
+        "HammerDudeDJ": {
+            "ShopTID": "TID_FRANK_DJ_SKIN"
+        },
+        "NinjaWolf": {
+            "ShopTID": "TID_LEON_WEREWOLF_SKIN"
+        },
+        "LuchadorBrown": {
+            "ShopTID": "TID_EL_PRIMO_BROWN_SKIN"
+        },
+        "TrickshotDudeTotal": {
+            "ShopTID": "TID_RICO_BETA_SKIN"
+        },
+        "NinjaSally": {
+            "ShopTID": "TID_LEON_SALLY_SKIN"
+        },
+        "WhirlwindLeonard": {
+            "ShopTID": "TID_CARL_LEONARD_SKIN"
+        },
+        "WhirlwindPirate": {
+            "ShopTID": "TID_CARL_CAPTAIN_SKIN"
+        },
+        "GunslingerPirate": {
+            "ShopTID": "TID_COLT_CORSAIR_SKIN"
+        },
+        "SpeedyGT": {
+            "ShopTID": "TID_MAX_BLUE_SKIN"
+        },
+        "BeeSniperLadyBug": {
+            "ShopTID": "TID_BEA_LADYBUG_SKIN"
+        },
+        "PocoPirate": {
+            "ShopTID": "TID_POCO_PIRATE_SKIN"
+        },
+        "ArcadeVirus": {
+            "ShopTID": "TID_8BIT_VIRUS_SKIN"
+        },
+        "BlackHoleStreetNinja": {
+            "ShopTID": "TID_TARA_STREET_NINJA_SKIN"
+        },
+        "BaseballGamer": {
+            "ShopTID": "TID_BIBI_GAMER_SKIN"
+        },
+        "SniperValentines": {
+            "ShopTID": "TID_PIPER_CUPID_SKIN"
+        },
+        "ShamanKoala": {
+            "ShopTID": "TID_NITA_KOALA_SKIN"
+        },
+        "SpawnerDudeAgentP": {
+            "ShopTID": "TID_MRP_AGENT_SKIN"
+        },
+        "BarrelBotFootball": {
+            "ShopTID": "TID_MASCOT_DARRYL_SKIN"
+        },
+        "ShotgunGirlFootball": {
+            "ShopTID": "TID_PSG_SHELLY_SKIN"
+        },
+        "TntDudeFootball": {
+            "ShopTID": "TID_COACH_MIKE_SKIN"
+        },
+        "MechanicTanuki": {
+            "ShopTID": "TID_TANUKI_JESSIE_SKIN"
+        },
+        "BowDudeHorus": {
+            "ShopTID": "TID_HORUS_BO_SKIN"
+        },
+        "ArtilleryDudeDarkBunny": {
+            "ShopTID": "TID_BLACK_BUNNY_PENNY_SKIN"
+        },
+        "MummyCollege": {
+            "ShopTID": "TID_COLLEGE_EMZ_SKIN"
+        },
+        "TrickshotDudeBazaar": {
+            "ShopTID": "TID_GUARD_RICO_SKIN"
+        },
+        "HookDudeBazaar": {
+            "ShopTID": "TID_EVIL_GENE_SKIN"
+        },
+        "UndertakerBazaar": {
+            "ShopTID": "TID_ROGUE_MORTIS_SKIN"
+        },
+        "MechanicRedDragon": {
+            "ShopTID": "TID_RED_DRAGON_JESSIE_SKIN"
+        },
+        "DrillerConstructor": {
+            "ShopTID": "TID_CONSTRUCTOR_JACKY_SKIN"
+        },
+        "WallyHawaii": {
+            "ShopTID": "TID_TROPICAL_SPROUT_SKIN"
+        },
+        "BullDudeBarbking": {
+            "ShopTID": "TID_BARBARIAN_KING_BULL_SKIN"
+        },
+        "MinigunDudeSummer": {
+            "ShopTID": "TID_HOLIDAY_PAM_SKIN"
+        },
+        "BlowerTrader": {
+            "ShopTID": "TID_MERCHANT_GALE_SKIN"
+        },
+        "LuchadorGold": {
+            "ShopTID": "TID_TRUE_GOLD_EL_PRIMO_SKIN"
+        },
+        "MummyGold": {
+            "ShopTID": "TID_TRUE_GOLD_EMZ_SKIN"
+        },
+        "MummySilver": {
+            "ShopTID": "TID_TRUE_SILVER_EMZ_SKIN"
+        },
+        "LuchadorSilver": {
+            "ShopTID": "TID_TRUE_SILVER_EL_PRIMO_SKIN"
+        },
+        "BeeSniperMonster": {
+            "ShopTID": "TID_MEGA_BEETLE_BEA_SKIN"
+        },
+        "DrillerMonster": {
+            "ShopTID": "TID_ULTRA_DRILLER_JACKY_SKIN"
+        },
+        "ClusterBombMonster": {
+            "ShopTID": "TID_KING_CRAB_TICK_SKIN"
+        },
+        "ControllerRetro": {
+            "ShopTID": "TID_RETRO_NANI_SKIN"
+        },
+        "ShotgunGirlGold": {
+            "ShopTID": "TID_TRUE_GOLD_SHELLY_SKIN"
+        },
+        "ShotgunGirlSilver": {
+            "ShopTID": "TID_TRUE_SILVER_SHELLY_SKIN"
+        },
+        "SniperGold": {
+            "ShopTID": "TID_TRUE_GOLD_PIPER_SKIN"
+        },
+        "SniperSilver": {
+            "ShopTID": "TID_TRUE_SILVER_PIPER_SKIN"
+        },
+        "NinjaGold": {
+            "ShopTID": "TID_TRUE_GOLD_LEON_SKIN"
+        },
+        "NinjaSilver": {
+            "ShopTID": "TID_TRUE_SILVER_LEON_SKIN"
+        },
+        "RocketGirlRanger": {
+            "ShopTID": "TID_SUPER_RANGER_BROCK_SKIN"
+        },
+        "SpeedyTracksuit": {
+            "ShopTID": "TID_STREETWEAR_MAX_SKIN"
+        },
+        "PowerLevelerKnight": {
+            "ShopTID": "TID_MECHA_PALADIN_SURGE_SKIN"
+        },
+        "CactusMask": {
+            "ShopTID": "TID_MASK_SPIKE_SKIN"
+        },
+        "MummyGiftShop": {
+            "ShopTID": "TID_SUPER_FAN_EMZ_SKIN"
+        },
+        "SandstormGiftShop": {
+            "ShopTID": "TID_SUGAR_RUSH_SANDY_SKIN"
+        },
+        "WallyMoon": {
+            "ShopTID": "TID_LUNAR_SPROUT_SKIN"
+        },
+        "PercenterTrixie": {
+            "ShopTID": "TID_TRIXIE_COLETTE_SKIN"
+        },
+        "LuchadorAtomic": {
+            "ShopTID": "TID_EL_ATOMICO_SKIN"
+        },
+        "PocoStarr": {
+            "ShopTID": "TID_POCO_STARR_SKIN"
+        },
+        "RosaRosaBrawloween": {
+            "ShopTID": "TID_BRAWLOWEEN_ROSA_SKIN"
+        },
+        "BowDudeDemonic": {
+            "ShopTID": "TID_UNDERWORLD_BO_SKIN"
+        },
+        "GunslingerPlayer": {
+            "ShopTID": "TID_CHALLENGER_COLT_SKIN"
+        },
+        "BullDudeGold": {
+            "ShopTID": "TID_TRUE_GOLD_BULL_SKIN"
+        },
+        "BullDudeSilver": {
+            "ShopTID": "TID_TRUE_SILVER_BULL_SKIN"
+        },
+        "BarkeepTrueGold": {
+            "ShopTID": "TID_TRUE_GOLD_BARLEY_SKIN"
+        },
+        "BarkeepTrueSilver": {
+            "ShopTID": "TID_TRUE_SILVER_BARLEY_SKIN"
+        },
+        "BaseballZombibi": {
+            "ShopTID": "TID_ZOMBIBI_SKIN"
+        },
+        "TrickshotDudeTrueGold": {
+            "ShopTID": "TID_TRUE_GOLD_RICO_SKIN"
+        },
+        "TrickshotDudeSilver": {
+            "ShopTID": "TID_TRUE_SILVER_RICO_SKIN"
+        },
+        "HammerDudeGold": {
+            "ShopTID": "TID_TRUE_GOLD_FRANK_SKIN"
+        },
+        "HammerDudeSilver": {
+            "ShopTID": "TID_TRUE_SILVER_FRANK_SKIN"
+        },
+        "UndertakerHatGold": {
+            "ShopTID": "TID_TRUE_GOLD_MORTIS_SKIN"
+        },
+        "UndertakerGold": {
+            "ShopTID": "TID_TRUE_GOLD_MORTIS_SKIN"
+        },
+        "UndertakerHatSilver": {
+            "ShopTID": "TID_TRUE_SILVER_MORTIS_SKIN"
+        },
+        "UndertakerSilver": {
+            "ShopTID": "TID_TRUE_SILVER_MORTIS_SKIN"
+        },
+        "SpeedyLine": {
+            "ShopTID": "TID_CONY_MAX_SKIN"
+        },
+        "ControllerLine": {
+            "ShopTID": "TID_SALLY_NANI_SKIN"
+        },
+        "SniperLine": {
+            "ShopTID": "TID_CHOCO_PIPER_SKIN"
+        },
+        "TntDudeSnowtel": {
+            "ShopTID": "TID_BELLHOP_MIKE_SKIN"
+        },
+        "IceDudeKing": {
+            "ShopTID": "TID_KING_LOU_SKIN"
+        },
+        "BlowerNutcracker": {
+            "ShopTID": "TID_GALE_NUTCRACKER"
+        },
+        "RocketGirlOg": {
+            "ShopTID": "TID_OLD_SCHOOL_BROCK"
+        },
+        "ClusterBombDudeSnowman": {
+            "ShopTID": "TID_SNOWMAN_TICK"
+        },
+        "HammerDudeXmas": {
+            "ShopTID": "TID_HOLIDAY_PARTY_FRANK"
+        },
+        "BowDudeWarrior": {
+            "ShopTID": "TID_WARRIOR_BO_SKIN"
+        },
+        "ClusterBombDudeGold": {
+            "ShopTID": "TID_TRUE_GOLD_TICK_SKIN"
+        },
+        "ClusterBombDudeSilver": {
+            "ShopTID": "TID_TRUE_SILVER_TICK_SKIN"
+        },
+        "CrowGold": {
+            "ShopTID": "TID_TRUE_GOLD_CROW_SKIN"
+        },
+        "CrowSilver": {
+            "ShopTID": "TID_TRUE_SILVER_CROW_SKIN"
+        },
+        "BarrelBotGold": {
+            "ShopTID": "TID_TRUE_GOLD_DARRYL_SKIN"
+        },
+        "BarrelBotSilver": {
+            "ShopTID": "TID_TRUE_SILVER_DARRYL_SKIN"
+        },
+        "MechanicGold": {
+            "ShopTID": "TID_TRUE_GOLD_JESSIE_SKIN"
+        },
+        "MechanicSilver": {
+            "ShopTID": "TID_TRUE_SILVER_JESSIE_SKIN"
+        },
+        "BlackHoleGold": {
+            "ShopTID": "TID_TRUE_GOLD_TARA_SKIN"
+        },
+        "BlackHoleSilver": {
+            "ShopTID": "TID_TRUE_SILVER_TARA_SKIN"
+        },
+        "BullDudeOx": {
+            "ShopTID": "TID_SPACE_OX_BULL_SKIN"
+        },
+        "CactusLord": {
+            "ShopTID": "TID_DARK_LORD_SPIKE_SKIN"
+        },
+        "BarrelBotLaser": {
+            "ShopTID": "TID_D4R-RY1_SKIN"
+        },
+        "IceDudeCrooner": {
+            "ShopTID": "TID_SMOOTH_LOU_SKIN"
+        },
+        "WhirlwindDarkTide": {
+            "ShopTID": "TID_DARK_TIDE_CARL_SKIN"
+        },
+        "RuffsRonin": {
+            "ShopTID": "TID_RONIN_RUFFS_SKIN"
+        },
+        "PercenterCrew": {
+            "ShopTID": "TID_NAVIGATOR_COLETTE_SKIN"
+        },
+        "BaseballVigilante": {
+            "ShopTID": "TID_BIBILANTE_SKIN"
+        },
+        "ArtilleryDudeSmuggler": {
+            "ShopTID": "TID_SMUGGLER_PENNY_SKIN"
+        },
+        "TntDudePsg": {
+            "ShopTID": "TID_PSG_MIKE_SKIN"
+        },
+        "RollerWhite": {
+            "ShopTID": "TID_SUPERSTAR_STU_SKIN"
+        },
+        "FireDudeMasked": {
+            "ShopTID": "TID_AMBER_DE_LA_VEGA_SKIN"
+        },
+        "EnragerDuel": {
+            "ShopTID": "TID_QUICK_DRAW_EDGAR_SKIN"
+        },
+        "BlackHoleMisfortune": {
+            "ShopTID": "TID_MISFORTUNE_TARA_SKIN"
+        },
+        "ArcadePiano": {
+            "ShopTID": "TID_SALOON_8BIT_SKIN"
+        },
+        "BeeSniperCat": {
+            "ShopTID": "TID_NEKO_BEA_SKIN"
+        },
+        "BeeSniperCatGold": {
+            "ShopTID": "TID_GOLD_NEKO_BEA_SKIN"
+        },
+        "RuffsMarshall": {
+            "ShopTID": "TID_MARSHAL_RUFFS_SKIN"
+        },
+        "SandstormLantern": {
+            "ShopTID": "TID_LANTERN_SANDY_SKIN"
+        },
+        "BeeSniperArchvillain": {
+            "ShopTID": "TID_ARCHVILLAIN_BEA_SKIN"
+        },
+        "PowerLevelerDIY": {
+            "ShopTID": "TID_DYI_SURGE_SKIN"
+        },
+        "ElectroSniperBoss": {
+            "ShopTID": "TID_BELLE_GOLDHAND_SKIN"
+        },
+        "ShamanGold": {
+            "ShopTID": "TID_TRUE_GOLD_NITA_SKIN"
+        },
+        "ShamanSilver": {
+            "ShopTID": "TID_TRUE_SILVER_NITA_SKIN"
+        },
+        "CactusGold": {
+            "ShopTID": "TID_TRUE_GOLD_SPIKE"
+        },
+        "CactusSilver": {
+            "ShopTID": "TID_TRUE_SILVER_SPIKE"
+        },
+        "GunslingerBadass": {
+            "ShopTID": "TID_GUNSLINGER_COLT_SKIN"
+        },
+        "HookDudeGold": {
+            "ShopTID": "TID_TRUE_GOLD_GENE"
+        },
+        "HookDudeSilver": {
+            "ShopTID": "TID_TRUE_SILVER_GENE"
+        },
+        "IceDudeBurger": {
+            "ShopTID": "TID_BURGER_LOU_SKIN"
+        },
+        "DrillerJetski": {
+            "ShopTID": "TID_JETSKI_JACKY_SKIN"
+        },
+        "WhirlwindSurfer": {
+            "ShopTID": "TID_SURFER_CARL_SKIN"
+        },
+        "RosaCoco": {
+            "ShopTID": "TID_COCO_ROSA_SKIN"
+        },
+        "SpeedyHermes": {
+            "ShopTID": "TID_HERMES_MAX_SKIN"
+        },
+        "UndertakerBeach": {
+            "ShopTID": "TID_BEACHTIME_MORTIS_SKIN"
+        },
+        "NinjaDino": {
+            "ShopTID": "TID_DINO_LEON_SKIN"
+        },
+        "TntDudeFlamengo": {
+            "ShopTID": "TID_FLAMENGO_MIKE_SKIN"
+        },
+        "TntDudeLduQuito": {
+            "ShopTID": "TID_LDU_QUITO_MIKE_SKIN"
+        },
+        "TntDudeChivas": {
+            "ShopTID": "TID_CHIVAS_MIKE_SKIN"
+        },
+        "LuchadorUniversitario": {
+            "ShopTID": "TID_UNIVERSITARIO_PRIMO_SKIN"
+        },
+        "LuchadorClubNacional": {
+            "ShopTID": "TID_NACIONAL_PRIMO_SKIN"
+        },
+        "LuchadorCorinthians": {
+            "ShopTID": "TID_CORINTHIANS_PRIMO_SKIN"
+        },
+        "ShotgunGirlBocaJuniors": {
+            "ShopTID": "TID_BOCA_SHELLY_SKIN"
+        },
+        "ShotgunGirlAmerica": {
+            "ShopTID": "TID_AMERICA_SHELLY_SKIN"
+        },
+        "ShotgunGirlUDeChile": {
+            "ShopTID": "TID_UDC_SHELLY_SKIN"
+        },
+        "GunSlingerRiverPlate": {
+            "ShopTID": "TID_RIVER_PLATE_COLT_SKIN"
+        },
+        "GunSlingerCerroPorteno": {
+            "ShopTID": "TID_CERRO_PORTENO_COLT_SKIN"
+        },
+        "GunSlingerAtlNacional": {
+            "ShopTID": "TID_ATL_NACIONAL_COLT_SKIN"
+        },
+        "GunslingerClubAmerica": {
+            "ShopTID": "TID_CLUB_AMERICA_COLT_SKIN"
+        },
+        "GunslingerTrueGold": {
+            "ShopTID": "TID_TRUE_GOLD_COLT_SKIN"
+        },
+        "GunslingerTrueSilver": {
+            "ShopTID": "TID_TRUE_SILVER_COLT_SKIN"
+        },
+        "SpawnerDudeTrueGold": {
+            "ShopTID": "TID_TRUE_GOLD_MRP_SKIN"
+        },
+        "SpawnerDudeTrueSilver": {
+            "ShopTID": "TID_TRUE_SILVER_MRP_SKIN"
+        },
+        "DeadMariachiPunk": {
+            "ShopTID": "TID_PUNK_POCO_SKIN"
+        },
+        "RopeDudePunk": {
+            "ShopTID": "TID_PUNK_BUZZ_SKIN"
+        },
+        "BaseballWarrior": {
+            "ShopTID": "TID_PUNK_BIBI_SKIN"
+        },
+        "RollerPunk": {
+            "ShopTID": "TID_PUNK_STU_SKIN"
+        },
+        "ShamanSummer": {
+            "ShopTID": "TID_WHALEWATCH_NITA_SKIN"
+        },
+        "BarrelBotMegabox": {
+            "ShopTID": "TID_MB_DARRYL_SKIN"
+        },
+        "LuchadorDragon": {
+            "ShopTID": "TID_EL_DRAGON_VERDE_SKIN"
+        },
+        "MinigunDudeQueen": {
+            "ShopTID": "TID_EVIL_QUEEN_PAM_SKIN"
+        },
+        "BarkeepUnicorn": {
+            "ShopTID": "TID_UNICORN_KNIGHT_BARLEY_SKIN"
+        },
+        "SnakeOilWizard": {
+            "ShopTID": "TID_WIZARD_BYRON_SKIN"
+        },
+        "ShotgunGirlPrincess": {
+            "ShopTID": "TID_PRINCESS_SHELLY_SKIN"
+        },
+        "LuchadorDragonChroma": {
+            "ShopTID": "TID_EL_DRAGON_ROSADO_SKIN"
+        },
+        "BowDudeGold": {
+            "ShopTID": "TID_TRUE_GOLD_BO_SKIN"
+        },
+        "BowDudeSilver": {
+            "ShopTID": "TID_TRUE_SILVER_BO_SKIN"
+        },
+        "BeeSniperGold": {
+            "ShopTID": "TID_TRUE_GOLD_BEA_SKIN"
+        },
+        "BeeSniperSilver": {
+            "ShopTID": "TID_TRUE_SILVER_BEA_SKIN"
+        },
+        "BlowerSilver": {
+            "ShopTID": "TID_TRUE_SILVER_GALE_SKIN"
+        },
+        "BlowerGold": {
+            "ShopTID": "TID_TRUE_GOLD_GALE_SKIN"
+        },
+        "ControllerGold": {
+            "ShopTID": "TID_TRUE_GOLD_NANI_SKIN"
+        },
+        "ControllerSilver": {
+            "ShopTID": "TID_TRUE_SILVER_NANI_SKIN"
+        },
+        "SandstormGold": {
+            "ShopTID": "TID_TRUE_GOLD_SANDY_SKIN"
+        },
+        "SandstormSilver": {
+            "ShopTID": "TID_TRUE_SILVER_SANDY_SKIN"
+        },
+        "GunslingerHeist": {
+            "ShopTID": "TID_HANDSOME_COLT_SKIN"
+        },
+        "WallyPrince": {
+            "ShopTID": "TID_EMERALD_PRINCE_SPROUT_SKIN"
+        },
+        "StickyBombVeteran": {
+            "ShopTID": "TID_VETERAN_SQUEAK_SKIN"
+        },
+        "KnightNinja": {
+            "ShopTID": "TID_NINJA_ASH_SKIN"
+        },
+        "SniperMoon": {
+            "ShopTID": "TID_LUNAR_PIPER_SKIN"
+        },
+        "WallyPrinceChroma": {
+            "ShopTID": "TID_RUBY_PRINCE_SPROUT_SKIN"
+        },
+        "RopeDudeDirector": {
+            "ShopTID": "TID_DIRECTOR_BUZZ_SKIN"
+        },
+        "BlowerBusters": {
+            "ShopTID": "TID_SQUEAKBUSTER_GALE_SKIN"
+        },
+        "HookDudeSwamp": {
+            "ShopTID": "TID_SWAMP_GENE_SKIN"
+        },
+        "CrowSuper": {
+            "ShopTID": "TID_CAPTAIN_CROW_SKIN"
+        },
+        "PercenterGladiator": {
+            "ShopTID": "TID_GLADIATOR_COLETTE_SKIN"
+        },
+        "StickyBombPotato": {
+            "ShopTID": "TID_POTATO_SQUEAK_SKIN"
+        },
+        "BullDudeTerminator": {
+            "ShopTID": "TID_B800_BULL_SKIN"
+        },
+        "MechanicThief": {
+            "ShopTID": "TID_CAT_BURGLAR_JESSIE_SKIN"
+        },
+        "TrickshotDudeChicken": {
+            "ShopTID": "TID_CHICKEN_RICO_SKIN"
+        },
+        "TntDudeToxic": {
+            "ShopTID": "TID_RANCID_MIKE_SKIN"
+        },
+        "RocketGirlSilver": {
+            "ShopTID": "TID_TRUE_SILVER_BROCK_SKIN"
+        },
+        "RocketGirlGold": {
+            "ShopTID": "TID_TRUE_GOLD_BROCK_SKIN"
+        },
+        "ArcadeSilver": {
+            "ShopTID": "TID_TRUE_SILVER_8-BIT_SKIN"
+        },
+        "ArcadeGold": {
+            "ShopTID": "TID_TRUE_GOLD_8-BIT_SKIN"
+        },
+        "SpeedySilver": {
+            "ShopTID": "TID_TRUE_SILVER_MAX_SKIN"
+        },
+        "SpeedyGold": {
+            "ShopTID": "TID_TRUE_GOLD_MAX_SKIN"
+        },
+        "DeadMariachiGold": {
+            "ShopTID": "TID_TRUE_GOLD_POCO_SKIN"
+        },
+        "DeadMariachiSilver": {
+            "ShopTID": "TID_TRUE_SILVER_POCO_SKIN"
+        },
+        "ArcadeRetropolis": {
+            "ShopTID": "TID_V8-BIT_SKIN"
+        },
+        "MinigunDudeGold": {
+            "ShopTID": "TID_TRUE_GOLD_PAM_SKIN"
+        },
+        "MinigunDudeSilver": {
+            "ShopTID": "TID_TRUE_SILVER_PAM_SKIN"
+        },
+        "SpawnerDudeDracula": {
+            "ShopTID": "TID_COUNT_PENGULA_MRP_SKIN"
+        },
+        "StickyBombGhost": {
+            "ShopTID": "TID_GHOST_SQUEAK_SKIN"
+        },
+        "PowerLevelerKong": {
+            "ShopTID": "TID_SURGE_KONG_SKIN"
+        },
+        "RollerHeadless": {
+            "ShopTID": "TID_HEADLESS_RIDER_STU_SKIN"
+        },
+        "BaseballGold": {
+            "ShopTID": "TID_TRUE_GOLD_BIBI_SKIN"
+        },
+        "BaseballSilver": {
+            "ShopTID": "TID_TRUE_SILVER_BIBI_SKIN"
+        },
+        "WhirlwindGold": {
+            "ShopTID": "TID_TRUE_GOLD_CARL_SKIN"
+        },
+        "WhirlwindSilver": {
+            "ShopTID": "TID_TRUE_SILVER_CARL_SKIN"
+        },
+        "FireDudeGold": {
+            "ShopTID": "TID_TRUE_GOLD_AMBER_SKIN"
+        },
+        "FireDudeSilver": {
+            "ShopTID": "TID_TRUE_SILVER_AMBER_SKIN"
+        },
+        "PercenterGold": {
+            "ShopTID": "TID_TRUE_GOLD_COLETTE_SKIN"
+        },
+        "PercenterSilver": {
+            "ShopTID": "TID_TRUE_SILVER_COLETTE_SKIN"
+        },
+        "TntDudeGold": {
+            "ShopTID": "TID_TRUE_GOLD_DYNAMIKE_SKIN"
+        },
+        "TntDudeSilver": {
+            "ShopTID": "TID_TRUE_SILVER_DYNAMIKE_SKIN"
+        },
+        "DuplicatorChola": {
+            "ShopTID": "TID_CHOLLA_SKIN"
+        },
+        "BarkeepDrunken": {
+            "ShopTID": "TID_DRUNKEN_MASTER_BARLEY_SKIN"
+        },
+        "EnragerSnake": {
+            "ShopTID": "TID_EDGAR_SERPENT_SKIN"
+        },
+        "LuchadorTiger": {
+            "ShopTID": "TID_EL_PRIMO_TIGER_SKIN"
+        },
+        "ShamanDragon": {
+            "ShopTID": "TID_NIAN_NITA_SKIN"
+        },
+        "LuchadorCorazon": {
+            "ShopTID": "TID_EL_PRIMO_VALENTINES"
+        },
+        "DrillerGift": {
+            "ShopTID": "TID_XMAS_GIFT_JACKY_SKIN"
+        },
+        "BowDudeSanta": {
+            "ShopTID": "TID_SANTA_BO_SKIN"
+        },
+        "RosaBP": {
+            "ShopTID": "TID_ROSA_MILITARY_SKIN"
+        },
+        "CactusLog": {
+            "ShopTID": "TID_LOG_SPIKE_SKIN"
+        },
+        "DrillerGold": {
+            "ShopTID": "TID_TRUE_GOLD_JACKY_SKIN"
+        },
+        "DrillerSilver": {
+            "ShopTID": "TID_TRUE_SILVER_JACKY_SKIN"
+        },
+        "IceDudeGold": {
+            "ShopTID": "TID_TRUE_GOLD_LOU_SKIN"
+        },
+        "IceDudeSilver": {
+            "ShopTID": "TID_TRUE_SILVER_LOU_SKIN"
+        },
+        "ArtilleryDudeGold": {
+            "ShopTID": "TID_TRUE_GOLD_PENNY_SKIN"
+        },
+        "ArtilleryDudeSilver": {
+            "ShopTID": "TID_TRUE_SILVER_PENNY_SKIN"
+        },
+        "RosaGold": {
+            "ShopTID": "TID_TRUE_GOLD_ROSA_SKIN"
+        },
+        "RosaSilver": {
+            "ShopTID": "TID_TRUE_SILVER_ROSA_SKIN"
+        },
+        "AssaultShotgunSled": {
+            "ShopTID": "TID_GRIFF_SLEIGH_SKIN"
+        },
+        "KickerDudeFurious": {
+            "ShopTID": "TID_FURIOUS_FANG_SKIN"
+        },
+        "TntDudeRetro": {
+            "ShopTID": "TID_CLASSIC_MIKE_SKIN"
+        },
+        "ClusterBombDudeShooky": {
+            "ShopTID": "TID_BT21_TICK_SKIN"
+        },
+        "BaseballRj": {
+            "ShopTID": "TID_BT21_BIBI_SKIN"
+        },
+        "SandstormKoya": {
+            "ShopTID": "TID_BT21_SANDY_SKIN"
+        },
+        "EnragerVine": {
+            "ShopTID": "TID_DOCTOR_EDGAR_SKIN"
+        },
+        "TrickshotDudeFirefly": {
+            "ShopTID": "TID_FIREFLY_RICO_SKIN"
+        },
+        "MechaDudeRhino": {
+            "ShopTID": "TID_STAG_BEETLE_MEG_SKIN"
+        },
+        "BullDudeLion": {
+            "ShopTID": "TID_SAVAGE_BULL_SKIN"
+        },
+        "BowDudeWasp": {
+            "ShopTID": "TID_WASP_BO_SKIN"
+        },
+        "SpawnerDudeFly": {
+            "ShopTID": "TID_MR_FLY_SKIN"
+        },
+        "CrossBomberEaster": {
+            "ShopTID": "TID_BUNNY_GROM_SKIN"
+        },
+        "RosaMantis": {
+            "ShopTID": "TID_MANTIS_ROSA_SKIN"
+        },
+        "FleaSpaceCactus": {
+            "ShopTID": "TID_SPIKY_EVE_SKIN"
+        },
+        "WallyWeirdPlant": {
+            "ShopTID": "TID_CORRUPTED_SPROUT_SKIN"
+        },
+        "ElectroSniperPlanthunter": {
+            "ShopTID": "TID_IVY_BELLE_SKIN"
+        },
+        "RuffsGold": {
+            "ShopTID": "TID_TRUE_GOLD_RUFFS_SKIN"
+        },
+        "RuffsSilver": {
+            "ShopTID": "TID_TRUE_SILVER_RUFFS_SKIN"
+        },
+        "Wallygold": {
+            "ShopTID": "TID_TRUE_GOLD_SPROUT_SKIN"
+        },
+        "Wallysilver": {
+            "ShopTID": "TID_TRUE_SILVER_SPROUT_SKIN"
+        },
+        "RopeDudeGold": {
+            "ShopTID": "TID_TRUE_GOLD_BUZZ_SKIN"
+        },
+        "RopeDudeSilver": {
+            "ShopTID": "TID_TRUE_SILVER_BUZZ_SKIN"
+        },
+        "PowerLevelerGold": {
+            "ShopTID": "TID_TRUE_GOLD_SURGE_SKIN"
+        },
+        "PowerLevelerSilver": {
+            "ShopTID": "TID_TRUE_SILVER_SURGE_SKIN"
+        },
+        "BullDudeMang": {
+            "ShopTID": "TID_BT21_BULL_SKIN"
+        },
+        "DrillerCooky": {
+            "ShopTID": "TID_BT21_JACKY_SKIN"
+        },
+        "EnragerTata": {
+            "ShopTID": "TID_BT21_EDGAR_SKIN"
+        },
+        "WhirlwindBiker": {
+            "ShopTID": "TID_BIKER_CARL_SKIN"
+        },
+        "CactusFireproof": {
+            "ShopTID": "TID_PYRO_SPIKE_SKIN"
+        },
+        "DuplicatorVillain": {
+            "ShopTID": "TID_GALAXY_STORM_LOLA_SKIN"
+        },
+        "BarrelBotCrash": {
+            "ShopTID": "TID_CRASH_TEST_DARRYL_SKIN"
+        },
+        "SnakeOilVillain": {
+            "ShopTID": "TID_OVERLORD_BYRON_SKIN"
+        },
+        "SpawnerDudeDaruma": {
+            "ShopTID": "TID_DARUMA_MRP_SKIN"
+        },
+        "BlackHoleDevious": {
+            "ShopTID": "TID_TEMPEST_TARA_SKIN"
+        },
+        "MechaDudeMonsterTruck": {
+            "ShopTID": "TID_MONSTER_TRUCK_MEG_SKIN"
+        },
+        "CannonGirlVillain": {
+            "ShopTID": "TID_EMPRESS_BONNIE_SKIN"
+        },
+        "ElectroSniperGold": {
+            "ShopTID": "TID_TRUE_GOLD_BELLE_SKIN"
+        },
+        "ElectroSniperSilver": {
+            "ShopTID": "TID_TRUE_SILVER_BELLE_SKIN"
+        },
+        "RollerGold": {
+            "ShopTID": "TID_TRUE_GOLD_STU_SKIN"
+        },
+        "RollerSilver": {
+            "ShopTID": "TID_TRUE_SILVER_STU_SKIN"
+        },
+        "KnightGold": {
+            "ShopTID": "TID_TRUE_GOLD_ASH_SKIN"
+        },
+        "KnightSilver": {
+            "ShopTID": "TID_TRUE_SILVER_ASH_SKIN"
+        },
+        "DuplicatorGold": {
+            "ShopTID": "TID_TRUE_GOLD_LOLA_SKIN"
+        },
+        "DuplicatorSilver": {
+            "ShopTID": "TID_TRUE_SILVER_LOLA_SKIN"
+        },
+        "MechaDudeGold": {
+            "ShopTID": "TID_TRUE_GOLD_MEG_SKIN"
+        },
+        "MechaDudeSilver": {
+            "ShopTID": "TID_TRUE_SILVER_MEG_SKIN"
+        },
+        "JetpackGirlValkyrie": {
+            "ShopTID": "TID_VALKYRIE_JANET_SKIN"
+        },
+        "RuffsChimmy": {
+            "ShopTID": "TID_BT21_RUFFS_SKIN"
+        },
+        "RocketGirlDelivery": {
+            "ShopTID": "TID_POSTAL_BROCK_SKIN"
+        },
+        "MummyDj": {
+            "ShopTID": "TID_MAKE_EMZ_SKIN"
+        },
+        "GunslingerPaintball": {
+            "ShopTID": "TID_SHARK_JAW_COLT_SKIN"
+        },
+        "SilencerPharaoh": {
+            "ShopTID": "TID_PHARA_OTIS_SKIN"
+        },
+        "ElectroSniperCoral": {
+            "ShopTID": "TID_CORAL_BELLE_SKIN"
+        },
+        "KickerDudeOcto": {
+            "ShopTID": "TID_OCTO_FANG_SKIN"
+        },
+        "CrossBomberGold": {
+            "ShopTID": "TID_TRUE_GOLD_GROM_SKIN"
+        },
+        "CrossBomberSilver": {
+            "ShopTID": "TID_TRUE_SILVER_GROM_SKIN"
+        },
+        "FleaGold": {
+            "ShopTID": "TID_TRUE_GOLD_EVE_SKIN"
+        },
+        "FleaSilver": {
+            "ShopTID": "TID_TRUE_SILVER_EVE_SKIN"
+        },
+        "JetpackGirlGold": {
+            "ShopTID": "TID_TRUE_GOLD_JANET_SKIN"
+        },
+        "JetpackGirlSilver": {
+            "ShopTID": "TID_TRUE_SILVER_JANET_SKIN"
+        },
+        "CannonGirlGold": {
+            "ShopTID": "TID_TRUE_GOLD_BONNIE_SKIN"
+        },
+        "CannonGirlSilver": {
+            "ShopTID": "TID_TRUE_SILVER_BONNIE_SKIN"
+        },
+        "KickerDudeGold": {
+            "ShopTID": "TID_TRUE_GOLD_FANG_SKIN"
+        },
+        "KickerDudeSilver": {
+            "ShopTID": "TID_TRUE_SILVER_FANG_SKIN"
+        },
+        "MinigunDudeBroker": {
+            "ShopTID": "TID_BROKER_PAM_SKIN"
+        },
+        "NinjaGhost": {
+            "ShopTID": "TID_BRAWLOWEEN_LEON_SKIN"
+        },
+        "UndertakerMecha": {
+            "ShopTID": "TID_MECHA_MORIS_SKIN"
+        },
+        "CrowVulture": {
+            "ShopTID": "TID_OUTLAW_CROW"
+        },
+        "DeadMariachiOutlaw": {
+            "ShopTID": "TID_OUTLAW_POCO_SKIN"
+        },
+        "WeaponThrowerEmperor": {
+            "ShopTID": "TID_CAESAR_BRONSON_SKIN"
+        },
+        "DuplicatorOutlaw": {
+            "ShopTID": "TID_OUTLAW_LOLA_SKIN"
+        },
+        "StickyBombRabbit": {
+            "ShopTID": "TID_MOON_FESTIVAL_SQUEAK_SKIN"
+        },
+        "AssaultShotgunGold": {
+            "ShopTID": "TID_TRUE_GOLD_GRIFF_SKIN"
+        },
+        "AssaultShotgunSilver": {
+            "ShopTID": "TID_TRUE_SILVER_GRIFF_SKIN"
+        },
+        "EnragerGold": {
+            "ShopTID": "TID_TRUE_GOLD_EDGAR_SKIN"
+        },
+        "EnragerSilver": {
+            "ShopTID": "TID_TRUE_SILVER_EDGAR_SKIN"
+        },
+        "SilencerGold": {
+            "ShopTID": "TID_TRUE_GOLD_OTIS_SKIN"
+        },
+        "SilencerSilver": {
+            "ShopTID": "TID_TRUE_SILVER_OTIS_SKIN"
+        },
+        "SnakeOilGold": {
+            "ShopTID": "TID_TRUE_GOLD_BYRON_SKIN"
+        },
+        "SnakeOilSilver": {
+            "ShopTID": "TID_TRUE_SILVER_BRYON_SKIN"
+        },
+        "StickyBombGold": {
+            "ShopTID": "TID_TRUE_GOLD_SQUEAK_SKIN"
+        },
+        "StickyBombSilver": {
+            "ShopTID": "TID_TRUE_SILVER_SQUEAK_SKIN"
+        },
+        "UndertakerChromaLight": {
+            "ShopTID": "TID_LIGHT_MECHA_MORTIS_SKIN"
+        },
+        "UndertakerChromaDark": {
+            "ShopTID": "TID_DARK_MECHA_MORTIS_SKIN"
+        },
+        "KnightPizza": {
+            "ShopTID": "TID_BRICK_OVEN_ASH_SKIN"
+        },
+        "BarrelBotOmegabox": {
+            "ShopTID": "TID_MEGA_MEGABOX_DARRYL_SKIN"
+        },
+        "CrossBomberFranken": {
+            "ShopTID": "TID_GHOST_TRAIN_GROM_SKIN"
+        },
+        "PercenterInspector": {
+            "ShopTID": "TID_GHOST_TRAIN_COLETTE_SKIN"
+        },
+        "ArtilleryDudeZombie": {
+            "ShopTID": "TID_GHOST_METRO_PENNY_SKIN"
+        },
+        "RocketGirlGhost": {
+            "ShopTID": "TID_ZOMBIE_BROCK_SKIN"
+        },
+        "BlackHoleWorldfinal": {
+            "ShopTID": "TID_BSWF22_TARA_SKIN"
+        },
+        "JetpackGirlTopgun": {
+            "ShopTID": "TID_TOPGUN_JANET_SKIN"
+        },
+        "ShieldTankChainsaw": {
+            "ShopTID": "TID_CHAINSAW_BUSTER_SKIN"
+        },
+        "BarrelBotCupcake": {
+            "ShopTID": "TID_CUPCAKE_DARRYL_SKIN"
+        },
+        "FireDudeFrost": {
+            "ShopTID": "TID_FROST_QUEEN_AMBER_SKIN"
+        },
+        "KnightPinata": {
+            "ShopTID": "TID_PINATA_ASH_SKIN"
+        },
+        "RopeDudeLollipop": {
+            "ShopTID": "TID_BUZZETTE_SKIN"
+        },
+        "KnightKrampus": {
+            "ShopTID": "TID_KRAMPUS_ASH_SKIN"
+        },
+        "WeaponThrowerYeti": {
+            "ShopTID": "TID_YETI_SAM_SKIN"
+        },
+        "ShamanGummybear": {
+            "ShopTID": "TID_GUMMYBEAR_NITA_SKIN"
+        },
+        "BeamerLavaQueen": {
+            "ShopTID": "TID_MAGMA_MANDY_SKIN"
+        },
+        "JesterGhost": {
+            "ShopTID": "TID_DARK_CHESTER_SKIN"
+        },
+        "AssaultShotgunArcade": {
+            "ShopTID": "TID_ARCADE_GRIFF_SKIN"
+        },
+        "FleaBiker": {
+            "ShopTID": "TID_RIDER_EVE_SKIN"
+        },
+        "ShotgunGirloldschool": {
+            "ShopTID": "TID_CLASSIC_SHELLY_SKIN"
+        },
+        "BeamerMC": {
+            "ShopTID": "TID_MC_MANDY_SKIN"
+        },
+        "DoorManRunaway": {
+            "ShopTID": "TID_RUNAWAY_GRAY_SKIN"
+        },
+        "SoulCollectorworldfinals": {
+            "ShopTID": "TID_WF_GUS_SKIN"
+        },
+        "WeaponThrowerValentines": {
+            "ShopTID": "TID_TEDDY_SAM_SKIN"
+        },
+        "HammerDudeknight": {
+            "ShopTID": "TID_SPIRIT_KNIGHT_FRANK_SKIN"
+        },
+        "DuplicatorKitsune": {
+            "ShopTID": "TID_KITSUNE_LOLA_SKIN"
+        },
+        "SilencerOni": {
+            "ShopTID": "TID_ONI_OTIS_SKIN"
+        },
+        "TntDudeTengu": {
+            "ShopTID": "TID_TENGU_MIKE_SKIN"
+        },
+        "DoorManDetective": {
+            "ShopTID": "TID_DETECTIVE_GRAY_SKIN"
+        },
+        "BullDudeAlleycat": {
+            "ShopTID": "TID_ALLEYCAT_BULL_SKIN"
+        },
+        "SniperMariposa": {
+            "ShopTID": "TID_MARIPOSA_PIPER_SKIN"
+        },
+        "LuchadorButler": {
+            "ShopTID": "TID_EL_MAYORDOMO_SKIN"
+        },
+        "JetpackGirlPopstar": {
+            "ShopTID": "TID_POPSTAR_JANET_SKIN"
+        },
+        "ControllerEaster": {
+            "ShopTID": "TID_BELL_NANI_SKIN"
+        },
+        "WhirlwindRamadan": {
+            "ShopTID": "TID_MAGIC_CARPET_CARL_SKIN"
+        },
+        "DoorManDoorManDetectiveChroma": {
+            "ShopTID": "TID_DETECTIVE_GRAY_NOIR_SKIN"
+        },
+        "SplitterCultist": {
+            "ShopTID": "TID_CRIMSON_RT_SKIN"
+        },
+        "SplitterPolice": {
+            "ShopTID": "TID_ROTOCOP_SKIN"
+        },
+        "PuppeteerAxl": {
+            "ShopTID": "TID_AXL_WILLOW_SKIN"
+        },
+        "BeamerGold": {
+            "ShopTID": "TID_TRUE_GOLD_MANDY_SKIN"
+        },
+        "BeamerSilver": {
+            "ShopTID": "TID_TRUE_SILVER_MANDY_SKIN"
+        },
+        "ShieldTankGold": {
+            "ShopTID": "TID_TRUE_GOLD_BUSTER_SKIN"
+        },
+        "ShieldTankSilver": {
+            "ShopTID": "TID_TRUE_SILVER_BUSTER_SKIN"
+        },
+        "SoulCollectorGold": {
+            "ShopTID": "TID_TRUE_GOLD_GUS_SKIN"
+        },
+        "SoulCollectorSilver": {
+            "ShopTID": "TID_TRUE_SILVER_GUS_SKIN"
+        },
+        "JesterGold": {
+            "ShopTID": "TID_TRUE_GOLD_CHESTER_SKIN"
+        },
+        "JesterSilver": {
+            "ShopTID": "TID_TRUE_SILVER_CHESTER_SKIN"
+        },
+        "WeaponThrowerGold": {
+            "ShopTID": "TID_TRUE_GOLD_SAM_SKIN"
+        },
+        "WeaponThrowerSilver": {
+            "ShopTID": "TID_TRUE_SILVER_SAM_SKIN"
+        },
+        "DoorManGold": {
+            "ShopTID": "TID_TRUE_GOLD_GRAY_SKIN"
+        },
+        "DoorManSilver": {
+            "ShopTID": "TID_TRUE_SILVER_GRAY_SKIN"
+        },
+        "ClusterBombDudeCerberus": {
+            "ShopTID": "TID_CERBERUS_TICK_SKIN"
+        },
+        "ControllerAres": {
+            "ShopTID": "TID_ARES_NANI_SKIN"
+        },
+        "RocketGirlZeus": {
+            "ShopTID": "TID_ZEUS_BROCK_SKIN"
+        },
+        "MummyHarajuku": {
+            "ShopTID": "TID_HARAJUKU_EMZ_SKIN"
+        },
+        "BaseballBubblegum": {
+            "ShopTID": "TID_BUBBLEGUM_BIBI_SKIN"
+        },
+        "NinjaCat": {
+            "ShopTID": "TID_CAT_LEON_SKIN"
+        },
+        "MechaDudeJaguar": {
+            "ShopTID": "TID_JAGUAR_MEG_SKIN"
+        },
+        "RopeDudeKaiju": {
+            "ShopTID": "TID_KAIJU_BUZZ_SKIN"
+        },
+        "WhirlwindGoblin": {
+            "ShopTID": "TID_GOBLIN_CARL_SKIN"
+        },
+        "SpeedyLeopard": {
+            "ShopTID": "TID_LEOPARD_MAX_SKIN"
+        },
+        "ShieldTankCroc": {
+            "ShopTID": "TID_CROCODILE_BUSTER_SKIN"
+        },
+        "GunslingerMonkey": {
+            "ShopTID": "TID_MONKEY_COLT_SKIN"
+        },
+        "EnragerVigilante": {
+            "ShopTID": "TID_VIGILANTE_EDGAR_SKIN"
+        },
+        "SpeedyBlackPanther": {
+            "ShopTID": "TID_PANTHER_MAX_SKIN"
+        },
+        "MaisieMaisieCyber": {
+            "ShopTID": "TID_TECH_MAISIE_SKIN"
+        },
+        "FishTankShark": {
+            "ShopTID": "TID_SHARK_HANK_SKIN"
+        },
+        "MaisieSnake": {
+            "ShopTID": "TID_JUNGLE_QUEEN_MAISIE_SKIN"
+        },
+        "IceDudeStonetroll": {
+            "ShopTID": "TID_STONE_TROLL_LOU_SKIN"
+        },
+        "AssaultShotgunTreasure": {
+            "ShopTID": "TID_CHEST_GRIFF_SKIN"
+        },
+        "JesterWoodspirit": {
+            "ShopTID": "TID_WOOD_SPIRIT_CHESTER_SKIN"
+        },
+        "ArcadeHauntedHouse": {
+            "ShopTID": "TID_HAUNTED_HOUSE_8BIT_SKIN"
+        },
+        "BaseballPirate": {
+            "ShopTID": "TID_PIRATE_BIBI_SKIN"
+        },
+        "MechaDudePirate": {
+            "ShopTID": "TID_SHARK_MEG_SKIN"
+        },
+        "CannonGirlUnicorn": {
+            "ShopTID": "TID_UNICORN_BONNIE_SKIN"
+        },
+        "PowerLevelerKraken": {
+            "ShopTID": "TID_KRAKEN_SURGE_SKIN"
+        },
+        "JetpackGirlDarkFairy": {
+            "ShopTID": "TID_DARK_FAIRY_JANET_SKIN"
+        },
+        "CannonGirlSoccer": {
+            "ShopTID": "TID_FOOTBALL_BONNIE_SKIN"
+        },
+        "ReviverDraco": {
+            "ShopTID": "TID_DRAGON_DOUG_SKIN"
+        },
+        "DuelistToxic": {
+            "ShopTID": "TID_POISON_SPORE_CORDELIUS_SKIN"
+        },
+        "DuelistBrain": {
+            "ShopTID": "TID_BIG_BRAIN_CORDELIUS_SKIN"
+        },
+        "StickyBombUniversity": {
+            "ShopTID": "TID_SQUEAK_NERD_SKIN"
+        },
+        "RosaUniversity": {
+            "ShopTID": "TID_ROSA_CHEERLEADER_SKIN"
+        },
+        "FishTankWasteland": {
+            "ShopTID": "TID_HANK_RODEO_SKIN"
+        },
+        "RollerUniversity": {
+            "ShopTID": "TID_STU_JOCK_SKIN"
+        },
+        "MaisieWasteland": {
+            "ShopTID": "TID_MAISIE_MARAUDER_SKIN"
+        },
+        "PuppeteerWasteland": {
+            "ShopTID": "TID_WILLOW_SCORPION_SKIN"
+        },
+        "DuelistWasteland": {
+            "ShopTID": "TID_CORDELIUS_RAIDER_SKIN"
+        },
+        "Beamerharvest": {
+            "ShopTID": "TID_MANDY_HARVEST_FEST_SKIN"
+        },
+        "UndertakerUndertakerHockey": {
+            "ShopTID": "TID_HOCKEY_MORTIS_SKIN"
+        },
+        "JetpackGirlMoon": {
+            "ShopTID": "TID_JANET_MOON_FEST_SKIN"
+        },
+        "EnragerMecha": {
+            "ShopTID": "TID_EDGAR_MECHA_SKIN"
+        },
+        "CookerRare": {
+            "ShopTID": "TID_PEARL_VINTAGE_SKIN"
+        },
+        "ConductorRare": {
+            "ShopTID": "TID_CHUCK_RARE_SKIN"
+        },
+        "CookerDeepsea": {
+            "ShopTID": "TID_PEARL_SUBMARINE_SKIN"
+        },
+        "CrossBomberHindu": {
+            "ShopTID": "TID_DASIS_GROM_SKIN"
+        },
+        "BowDudeHindu": {
+            "ShopTID": "TID_SUPREME_BO_SKIN"
+        },
+        "HammerDudeHindu": {
+            "ShopTID": "TID_VANARA_FRANK_SKIN"
+        },
+        "WeaponThrowerDarkcircus": {
+            "ShopTID": "TID_DARK_CLOWN_SAM_SKIN"
+        },
+        "EnragerEnragerMecha01": {
+            "ShopTID": "TID_MECHA_EDGAR_01_SKIN"
+        },
+        "EnragerEnragerMecha00": {
+            "ShopTID": "TID_MECHA_EDGAR_00_SKIN"
+        },
+        "SnakeOilDarkcircus": {
+            "ShopTID": "TID_RINGMASTER_BYRON_SKIN"
+        },
+        "ShotgunGirlBrawloween": {
+            "ShopTID": "TID_HOOT_HOOT_SHELLY_SKIN"
+        },
+        "ShamanDarkcircus": {
+            "ShopTID": "TID_TUSKED_NITA_SKIN"
+        },
+        "KickerDudeMake": {
+            "ShopTID": "TID_KABOCHA_FANG_SKIN"
+        },
+        "DuplicatorDarkcircus": {
+            "ShopTID": "TID_COBRA_LOLA_SKIN"
+        },
+        "NinjaBrawloween": {
+            "ShopTID": "TID_WHITE_WOLF_LEON_SKIN"
+        },
+        "CocoonerRosie": {
+            "ShopTID": "TID_ROSIE_CHARLIE_SKIN"
+        },
+        "DuplicatorCholaChroma": {
+            "ShopTID": "TID_LAVISH_LOLA_SKIN"
+        },
+        "SoulCollectorRare": {
+            "ShopTID": "TID_BOY_SCOUT_GUS_SKIN"
+        },
+        "BowDudeHinduChroma": {
+            "ShopTID": "TID_BROTHER_BO_SKIN"
+        },
+        "CocoonerRare": {
+            "ShopTID": "TID_AMAZING_CHARLIE_SKIN"
+        },
+        "HammerDudeClashKingChromaRed": {
+            "ShopTID": "TID_RED_KING_FRANK_SKIN"
+        },
+        "RollerChristmas": {
+            "ShopTID": "TID_SANTA_STU_SKIN"
+        },
+        "SilencerWorldfinals": {
+            "ShopTID": "TID_W_OTS_SKIN"
+        },
+        "SniperCarnival": {
+            "ShopTID": "TID_FLAG_BEARER_PIPER_SKIN"
+        },
+        "LuchadorSuperbowl": {
+            "ShopTID": "TID_EL_QUARTERBACK_SKIN"
+        },
+        "Leaperwukong": {
+            "ShopTID": "TID_WUKONG_MICO_SKIN"
+        },
+        "LeaperRare": {
+            "ShopTID": "TID_MACARON_MICO_SKIN"
+        },
+        "KickerDudeFuriousChroma": {
+            "ShopTID": "TID_FEROCIOUS_FANG_SKIN"
+        },
+        "HammerDudeClashKingChromaBlue": {
+            "ShopTID": "TID_BLUE_KING_FRANK_SKIN"
+        },
+        "Cactuscartoon": {
+            "ShopTID": "TID_TOON_SPIKE_SKIN"
+        },
+        "LeaperDarkXmas": {
+            "ShopTID": "TID_GROUCH_MICO_SKIN"
+        },
+        "MechanicDoll": {
+            "ShopTID": "TID_DOLL_JESSIE_SKIN"
+        },
+        "Percenteranime": {
+            "ShopTID": "TID_PINKU_PAWLETTE_SKIN"
+        },
+        "AttacherBoxer": {
+            "ShopTID": "TID_KITBOXER_SKIN"
+        },
+        "DeadMariachiorigins": {
+            "ShopTID": "TID_CCTV_POCO_SKIN"
+        },
+        "TrickshotDudeDevil": {
+            "ShopTID": "TID_FINAL_BOSS_RICO_SKIN"
+        },
+        "TwinsRare": {
+            "ShopTID": "TID_LARRY_&_LAWRIE_CONTROLLERS_SKIN"
+        },
+        "AttacherRare": {
+            "ShopTID": "TID_BILLY_THE_KIT_SKIN"
+        },
+        "GunslingerDarkAngel": {
+            "ShopTID": "TID_DARK_ANGEL_COLT_SKIN"
+        },
+        "PercenteranimeChromaGreen": {
+            "ShopTID": "TID_MIDORI_PAWLETTE_SKIN"
+        },
+        "PercenteranimeChromaYellow": {
+            "ShopTID": "TID_KIIRO_PAWLETTE_SKIN"
+        },
+        "ArcadeVirusChroma": {
+            "ShopTID": "TID_8BIT_ANTIVIRUS_SKIN"
+        },
+        "AttacherBoxerChromaGoldpaw": {
+            "ShopTID": "TID_KITBOXER_GOLDPAW_SKIN"
+        },
+        "AttacherBoxerChromaDarkpaw": {
+            "ShopTID": "TID_KITBOXER_DARKPAW_SKIN"
+        },
+        "EnragerThief": {
+            "ShopTID": "TID_THIEF_EDGAR_SKIN"
+        },
+        "ShotgunGirlDancer": {
+            "ShopTID": "TID_SHELLY_DANCER_SKIN"
+        },
+        "NinjaMecha": {
+            "ShopTID": "TID_MECHA_LEON_SKIN"
+        },
+        "StickyBombOffice": {
+            "ShopTID": "TID_SQUEAKY_NOTE_SKIN"
+        },
+        "LuchadorBabyShark": {
+            "ShopTID": "TID_EL_BABY_SHARK_SKIN"
+        },
+        "TntDudeDynastic": {
+            "ShopTID": "TID_DYNASTY_MIKE_SKIN"
+        },
+        "CactusPoop": {
+            "ShopTID": "TID_POOP_SPIKE_SKIN"
+        },
+        "MechanicSkadi": {
+            "ShopTID": "TID_SKADI_JESSIE_SKIN"
+        },
+        "SoulCollectorSally": {
+            "ShopTID": "TID_BALLOON_SALLY_SKIN"
+        },
+        "RocketGirlBrown": {
+            "ShopTID": "TID_ROCKET_BROWN_SKIN"
+        },
+        "BaseballThor": {
+            "ShopTID": "TID_THOR_BIBI_SKIN"
+        },
+        "PowerLevelerGenie": {
+            "ShopTID": "TID_SURGENIE_SKIN"
+        },
+        "ConductorScorpion": {
+            "ShopTID": "TID_DESERT_SCORPION_CHUCK_SKIN"
+        },
+        "ShotgunGirlDancerBlue": {
+            "ShopTID": "TID_SHELLY_DANCER_IRIS_SKIN"
+        },
+        "ShotgunGirlDancerPurple": {
+            "ShopTID": "TID_SHELLY_DANCER_DAHLIA_SKIN"
+        },
+        "RopeDudeFenrir": {
+            "ShopTID": "TID_FENRIR_BUZZ_SKIN"
+        },
+        "KickerDudeBaseballRed": {
+            "ShopTID": "TID_RED_PITCHER_FANG_SKIN"
+        },
+        "GunslingerMecha": {
+            "ShopTID": "TID_MECHA_COLT_SKIN"
+        },
+        "PercenterCony": {
+            "ShopTID": "TID_FANGIRL_CONY_SKIN"
+        },
+        "RopeDudeFenrirRed": {
+            "ShopTID": "TID_ELDR_FENRIR_BUZZ_SKIN"
+        },
+        "DuelistOdin": {
+            "ShopTID": "TID_ODIN_CORDELIUS_SKIN"
+        },
+        "MaisieGold": {
+            "ShopTID": "TID_TRUE_GOLD_MAISIE_SKIN"
+        },
+        "MaisieSilver": {
+            "ShopTID": "TID_TRUE_SILVER_MAISIE_SKIN"
+        },
+        "CookerGold": {
+            "ShopTID": "TID_TRUE_GOLD_PEARL_SKIN"
+        },
+        "CookerSilver": {
+            "ShopTID": "TID_TRUE_SILVER_PEARL_SKIN"
+        },
+        "SplitterGold": {
+            "ShopTID": "TID_TRUE_GOLD_R-T_SKIN"
+        },
+        "SplitterSilver": {
+            "ShopTID": "TID_TRUE_SILVER_R-T_SKIN"
+        },
+        "DuelistGold": {
+            "ShopTID": "TID_TRUE_GOLD_CORDELIUS_SKIN"
+        },
+        "DuelistSilver": {
+            "ShopTID": "TID_TRUE_SILVER_CORDELIUS_SKIN"
+        },
+        "NinjaMechaLight": {
+            "ShopTID": "TID_RADIANT_MECHA_LEON_SKIN"
+        },
+        "RopeDudeFenrirBlack": {
+            "ShopTID": "TID_MORK_FENRIR_BUZZ_SKIN"
+        },
+        "KickerDudeBaseballBlue": {
+            "ShopTID": "TID_BLUE_PITCHER_FANG_SKIN"
+        },
+        "NinjaMechaDark": {
+            "ShopTID": "TID_SHADOW_MECHA_LEON_SKIN"
+        },
+        "GunslingerMechaGold": {
+            "ShopTID": "TID_PARAGON_MECHA_COLT_SKIN"
+        },
+        "GunslingerMechaPurple": {
+            "ShopTID": "TID_RENEGADE_MECHA_COLT_SKIN"
+        },
+        "JesterLoki": {
+            "ShopTID": "TID_LOKI_CHESTER_SKIN"
+        },
+        "ReviverGold": {
+            "ShopTID": "TID_TRUE_GOLD_DOUG_SKIN"
+        },
+        "ReviverSilver": {
+            "ShopTID": "TID_TRUE_SILVER_DOUG_SKIN"
+        },
+        "AxeJugglerRare": {
+            "ShopTID": "TID_SIF_MELODIE_SKIN"
+        },
+        "InsectManRare": {
+            "ShopTID": "TID_ELF_ANGELO_SKIN"
+        },
+        "CocoonerVirus": {
+            "ShopTID": "TID_VIRUS_CHARLIE_SKIN"
+        },
+        "RocketGirlVirus": {
+            "ShopTID": "TID_HACKER_BROCK_SKIN"
+        },
+        "TwinsVirus": {
+            "ShopTID": "TID_GLITCH_LARRY_&_LAWRIE_SKIN"
+        },
+        "KickerDudeVirus": {
+            "ShopTID": "TID_FANGUARD_SKIN"
+        },
+        "ShamanGodzilla": {
+            "ShopTID": "TID_MECHAGODZILLA_NITA_SKIN"
+        },
+        "RopeDudeGodzilla": {
+            "ShopTID": "TID_GODZILLA_BUZZ_SKIN"
+        },
+        "FleaGodzilla": {
+            "ShopTID": "TID_MOTHRA_EVE_SKIN"
+        },
+        "BeeSniperVirus": {
+            "ShopTID": "TID_BEA_BYTE_SKIN"
+        },
+        "HammerDudeVacation": {
+            "ShopTID": "TID_PARASOL_FRANK_SKIN"
+        },
+        "SnakeOilTropical": {
+            "ShopTID": "TID_BEACH_BYRON_SKIN"
+        },
+        "UndertakerGala": {
+            "ShopTID": "TID_GALA_MORTIS_SKIN"
+        },
+        "SandstormMake": {
+            "ShopTID": "TID_NIGHTMARE_SANDY_SKIN"
+        },
+        "HookDudeMake": {
+            "ShopTID": "TID_DARK_SAMURAI_GENE_SKIN"
+        },
+        "BaseballGamer_remake": {
+            "ShopTID": "TID_GAMER_BIBI_SKIN"
+        },
+        "BlackHoleStreetNinja_remake": {
+            "ShopTID": "TID_URBAN_NINJA_TARA_SKIN"
+        },
+        "PowerLevelerKnight_red": {
+            "ShopTID": "TID_SCARLET_PALADIN_SURGE_SKIN"
+        },
+        "RocketGirlRanger_red": {
+            "ShopTID": "TID_RED_RANGER_BROCK_SKIN"
+        },
+        "RocketGirlRanger_blue": {
+            "ShopTID": "TID_BLUE_RANGER_BROCK_SKIN"
+        },
+        "RocketGirlRanger_yellow": {
+            "ShopTID": "TID_YELLOW_RANGER_BROCK_SKIN"
+        },
+        "RocketGirlRanger_pink": {
+            "ShopTID": "TID_PINK_RANGER_BROCK_SKIN"
+        },
+        "RocketGirlRanger_black": {
+            "ShopTID": "TID_BLACK_RANGER_BROCK_SKIN"
+        },
+        "ClusterBombDudeGodzilla": {
+            "ShopTID": "TID_MECHA-TICK_GHIDORAH_SKIN"
+        },
+        "ShotgunGirlSquad": {
+            "ShopTID": "TID_SQUAD_BUSTER_SHELLY_SKIN"
+        },
+        "SnakeOilWizard_white": {
+            "ShopTID": "TID_BYRON_THE_WHITE_SKIN"
+        },
+        "DrillerJetski_purple": {
+            "ShopTID": "TID_WAVE_HOPPER_JACKY_SKIN"
+        },
+        "RopeDudeDirector_blue": {
+            "ShopTID": "TID_FILMMAKER_BUZZ_SKIN"
+        },
+        "ArtilleryDudeSmuggler_orange": {
+            "ShopTID": "TID_MOON-CURSER_PENNY_SKIN"
+        },
+        "ArcadePiano_black": {
+            "ShopTID": "TID_PIANO_8-BIT_SKIN"
+        },
+        "ShamanDragon_black": {
+            "ShopTID": "TID_RUI_SHOU_NITA_SKIN"
+        },
+        "RocketGirlVirusRGB": {
+            "ShopTID": "TID_RGB_HACKER_BROCK_SKIN"
+        },
+        "RocketGirlVirusGold": {
+            "ShopTID": "TID_GOLD_HACKER_BROCK_SKIN"
+        },
+        "ClusterBombDudeGodzillaDark": {
+            "ShopTID": "TID_MECHA-TICK_GHIDORAH_DARK_SKIN"
+        },
+        "ClusterBombDudeGodzillaGold": {
+            "ShopTID": "TID_MECHA-TICK_GHIDORAH_LIGHT_SKIN"
+        },
+        "RopeDudeGodzillaRed": {
+            "ShopTID": "TID_RED_GODZILLA_BUZZ_SKIN"
+        },
+        "RopeDudeGodzillaBlack": {
+            "ShopTID": "TID_BLACK_GODZILLA_BUZZ_SKIN"
+        },
+        "DragonRiderRare": {
+            "ShopTID": "TID_DARK_KNIGHT_DRACO_SKIN"
+        },
+        "AmbusherRare": {
+            "ShopTID": "TID_STRAWBERRY_LILY_SKIN"
+        },
+        "CocoonerGold": {
+            "ShopTID": "TID_TRUE_GOLD_CHARLIE_SKIN"
+        },
+        "CocoonerSilver": {
+            "ShopTID": "TID_TRUE_SILVER_CHARLIE_SKIN"
+        },
+        "AttacherGold": {
+            "ShopTID": "TID_TRUE_GOLD_KIT_SKIN"
+        },
+        "AttacherSilver": {
+            "ShopTID": "TID_TRUE_SILVER_KIT_SKIN"
+        },
+        "LeaperGold": {
+            "ShopTID": "TID_TRUE_GOLD_MICO_SKIN"
+        },
+        "LeaperSilver": {
+            "ShopTID": "TID_TRUE_SILVER_MICO_SKIN"
+        },
+        "ConductorGold": {
+            "ShopTID": "TID_TRUE_GOLD_CHUCK_SKIN"
+        },
+        "ConductorSilver": {
+            "ShopTID": "TID_TRUE_SILVER_CHUCK_SKIN"
+        },
+        "PuppeteerGold": {
+            "ShopTID": "TID_TRUE_GOLD_WILLOW_SKIN"
+        },
+        "PuppeteerSilver": {
+            "ShopTID": "TID_TRUE_SILVER_WILLOW_SKIN"
+        },
+        "SandstormDeepsea": {
+            "ShopTID": "TID_JELLYFISH_SANDY_SKIN"
+        },
+        "WallyDeepsea": {
+            "ShopTID": "TID_MARINE_SPROUT_SKIN"
+        },
+        "CannonGirlDeepsea": {
+            "ShopTID": "TID_OCTO_BONNIE_SKIN"
+        },
+        "ReviverPirate": {
+            "ShopTID": "TID_PIRATE_DOUG_SKIN"
+        },
+        "BanditGirlStar_remake": {
+            "ShopTID": "TID_STAR_SHELLY_CHROMA_SKIN"
+        },
+        "FrankCavemanRed": {
+            "ShopTID": "TID_CAVEMAN_FRANK_CHROMA_SKIN"
+        },
+        "SplitterGreek": {
+            "ShopTID": "TID_POSEIDON_RT_SKIN"
+        },
+        "BullDudeViking_remake_orange": {
+            "ShopTID": "TID_VIKING_BULL_CHROMA_SKIN"
+        },
+        "BullDudeGreek": {
+            "ShopTID": "TID_MINOTAUR_BULL_SKIN"
+        },
+        "AxeJugglerGreek": {
+            "ShopTID": "TID_HARPY_MELODIE_SKIN"
+        },
+        "MummyGreek": {
+            "ShopTID": "TID_MEDUSA_EMZ_SKIN"
+        },
+        "SniperGreek": {
+            "ShopTID": "TID_GODDESS_PIPER_SKIN"
+        },
+        "BarkeepPirate": {
+            "ShopTID": "TID_PIRATE_BARLEY_SKIN"
+        },
+        "TrickshotDudeClassic_red": {
+            "ShopTID": "TID_RED_RICOCHET_SKIN"
+        },
+        "TntDudeClassic_yellow": {
+            "ShopTID": "TID_CLASSIC_MIKE_RECOLOR_SKIN"
+        },
+        "ShotgunGirlClassic_white": {
+            "ShopTID": "TID_SHERRIFF_SHELLY_SKIN"
+        },
+        "RuffsPirate": {
+            "ShopTID": "TID_PIRATE_RUFFS_SKIN"
+        },
+        "FireDudeMake": {
+            "ShopTID": "TID_ROLLERSKATE_AMBER_SKIN"
+        },
+        "SpawnerDudeMake": {
+            "ShopTID": "TID_MRP_DRAGONFRUIT_MAKE_SKIN"
+        },
+        "BlowerDeepsea": {
+            "ShopTID": "TID_TURTLE_GALE_SKIN"
+        },
+        "DrillerDeepsea": {
+            "ShopTID": "TID_SQUID_JACKY_SKIN"
+        },
+        "RocketGirlClassic_white": {
+            "ShopTID": "TID_SHERRIFF_BROCK_SKIN"
+        },
+        "TrickshotDudeKing_remake": {
+            "ShopTID": "TID_LOADED_RICO_HYPER_SKIN"
+        },
+        "CrabRare": {
+            "ShopTID": "TID_CLANCY_CASINO_SKIN"
+        },
+        "PainterRare": {
+            "ShopTID": "TID_BERRY_DARK_SKIN"
+        },
+        "MummyGreekRed": {
+            "ShopTID": "TID_RED_MEDUSA_EMZ_SKIN"
+        },
+        "MummyGreekBlue": {
+            "ShopTID": "TID_BLUE_MEDUSA_EMZ_SKIN"
+        },
+        "TrickshotDudeKing_remakeBling": {
+            "ShopTID": "TID_LOADED_RICO_HYPER_BLING_SKIN"
+        },
+        "TrickshotDudeKing_remakePurple": {
+            "ShopTID": "TID_LOADED_RICO_HYPER_GEM_SKIN"
+        },
+        "SandstormDeepseaPurple": {
+            "ShopTID": "TID_NEON_JELLYFISH_SANDY_SKIN"
+        },
+        "SandstormDeepseaYellow": {
+            "ShopTID": "TID_GLOW_JELLYFISH_SANDY_SKIN"
+        },
+        "InsectManGold": {
+            "ShopTID": "TID_TRUE_GOLD_ANGELO_SKIN"
+        },
+        "InsectManSilver": {
+            "ShopTID": "TID_TRUE_SILVER_ANGELO_SKIN"
+        },
+        "AmbusherGold": {
+            "ShopTID": "TID_TRUE_GOLD_LILY_SKIN"
+        },
+        "AmbusherSilver": {
+            "ShopTID": "TID_TRUE_SILVER_LILY_SKIN"
+        },
+        "TwinsGold": {
+            "ShopTID": "TID_TRUE_GOLD_TWINS_SKIN"
+        },
+        "TwinsSilver": {
+            "ShopTID": "TID_TRUE_SILVER_TWINS_SKIN"
+        },
+        "AxeJugglerGold": {
+            "ShopTID": "TID_TRUE_GOLD_MELODIE_SKIN"
+        },
+        "AxeJugglerSilver": {
+            "ShopTID": "TID_TRUE_SILVER_MELODIE_SKIN"
+        },
+        "DragonRiderGold": {
+            "ShopTID": "TID_TRUE_GOLD_DRACO_SKIN"
+        },
+        "DragonRiderSilver": {
+            "ShopTID": "TID_TRUE_SILVER_DRACO_SKIN"
+        },
+        "DragonRiderOnceupon": {
+            "ShopTID": "TID_DRAGON_RIDER_DREAD_KNIGHT_SKIN"
+        },
+        "CookerOnceupon": {
+            "ShopTID": "TID_COOKER_DARK_KEEP_SKIN"
+        },
+        "BeamerOnceupon": {
+            "ShopTID": "TID_BEAMER_MALICIOUS_SKIN"
+        },
+        "DeadMariachiOnceupon": {
+            "ShopTID": "TID_DEAD_MARIACHI_POSSESSED_SKIN"
+        },
+        "PowerLevelerOnceupon": {
+            "ShopTID": "TID_POWER_LEVELER_SKELETAL_SKIN"
+        },
+        "AttacherOnceupon": {
+            "ShopTID": "TID_ATTACHER_LOCK_SKIN"
+        },
+        "ControllerOnceupon": {
+            "ShopTID": "TID_CONTROLLER_KNIGHTMARE_SKIN"
+        },
+        "CrowHarvest": {
+            "ShopTID": "TID_CROW_HARVEST_SKIN"
+        },
+        "JesterHarvest": {
+            "ShopTID": "TID_JESTER_HARVEST_SKIN"
+        },
+        "FishTankHarvest": {
+            "ShopTID": "TID_FISHTANK_HARVEST_SKIN"
+        },
+        "RopeDudeSB": {
+            "ShopTID": "TID_ROPE_DUDE_PATRICK_SKIN"
+        },
+        "BarrelBotSB": {
+            "ShopTID": "TID_BARREL_BOT_PLANKTON_SKIN"
+        },
+        "LuchadorSB": {
+            "ShopTID": "TID_SB_PRIMO_SKIN"
+        },
+        "MechanicSB": {
+            "ShopTID": "TID_MECHANIC_SANDY_SKIN"
+        },
+        "UndertakerSB": {
+            "ShopTID": "TID_UNDERTAKER_SQUIDWARD_SKIN"
+        },
+        "ClusterBombDudeSB": {
+            "ShopTID": "TID_CLUSTER_BOMB_DUDE_KRABS_SKIN"
+        },
+        "SoulCollectorZombie": {
+            "ShopTID": "TID_SOUL_COLLECTOR_GRUESOME_SKIN"
+        },
+        "MinigunDudeZombie": {
+            "ShopTID": "TID_MINIGUN_DUDE_PUTRID_SKIN"
+        },
+        "TntDudeZombie": {
+            "ShopTID": "TID_TNT_DUDE_DECAYING_SKIN"
+        },
+        "PercenterCursed": {
+            "ShopTID": "TID_PERCENTERCURSED_CUCKOO_SKIN"
+        },
+        "KickerDudeWorldfinal": {
+            "ShopTID": "TID_KICKER_DUDE_FANS_FANG_SKIN"
+        },
+        "TrickshotDudeRedjacket": {
+            "ShopTID": "TID_TRICKSHOTDUDE_REDJACKET_SKIN"
+        },
+        "LuchadorVampire": {
+            "ShopTID": "TID_LUCHADOR_VAMPRIMO_SKIN"
+        },
+        "UndertakerSBPink": {
+            "ShopTID": "TID_UNDERTAKER_SQUIDWARD_PINK_SKIN"
+        },
+        "UndertakerSBBlue": {
+            "ShopTID": "TID_UNDERTAKER_SQUIDWARD_BLUE_SKIN"
+        },
+        "ElectroSniperSCmake": {
+            "ShopTID": "TID_ELECTRO_DRAGOON_BELLE_SKIN"
+        },
+        "SamuraiRare": {
+            "ShopTID": "TID_SAMURAI_KENJI_SKIN"
+        },
+        "DiggerRare": {
+            "ShopTID": "TID_DIGGER_MONTEREY_SKIN"
+        },
+        "PowerLevelerOnceupon_Red": {
+            "ShopTID": "TID_POWER_LEVELER_VILLAINOUS_SKIN"
+        },
+        "PowerLevelerOnceupon_Gold": {
+            "ShopTID": "TID_POWER_LEVELER_ANTI_HERO_SKIN"
+        },
+        "RocketGirl_Original": {
+            "ShopTID": "TID_ROCKET_GIRL_ORIGINAL"
+        },
+        "PainterGold": {
+            "ShopTID": "TID_TRUE_GOLD_PAINTER_SKIN"
+        },
+        "PainterSilver": {
+            "ShopTID": "TID_TRUE_SILVER_PAINTER_SKIN"
+        },
+        "CrabGold": {
+            "ShopTID": "TID_TRUE_GOLD_CRAB_SKIN"
+        },
+        "CrabSilver": {
+            "ShopTID": "TID_TRUE_SILVER_CRAB_SKIN"
+        },
+        "RocketGirlOriginal_gold": {
+            "ShopTID": "TID_TRUE_GOLD_BROCK_REVAMP_SKIN"
+        },
+        "RocketGirlOriginal_silver": {
+            "ShopTID": "TID_TRUE_SILVER_BROCK_REVAMP_SKIN"
+        },
+        "IceDudeToon": {
+            "ShopTID": "TID_RUDE_ICE_DUDE_SKIN"
+        },
+        "RosaToon": {
+            "ShopTID": "TID_SUGARPLUM_ROSA_SKIN"
+        },
+        "MaisieToon": {
+            "ShopTID": "TID_BIZARRE_MAISIE_SKIN"
+        },
+        "KnightToon": {
+            "ShopTID": "TID_TOON_KNIGHT_SKIN"
+        },
+        "DuelistToon": {
+            "ShopTID": "TID_TOON_DUELIST_SKIN"
+        },
+        "TwinsAngel": {
+            "ShopTID": "TID_ANGEL_LARRY_&_LAWRIE_SKIN"
+        },
+        "EnragerAngel": {
+            "ShopTID": "TID_DARK_ANGEL_EDGAR_SKIN"
+        },
+        "SpeedyAngel": {
+            "ShopTID": "TID_MAX_ANGEL_SKIN"
+        },
+        "AmbusherAngel": {
+            "ShopTID": "TID_LILY_ANGEL_SKIN"
+        },
+        "PuppeteerDemon": {
+            "ShopTID": "TID_WILLOW_DEMON_SKIN"
+        },
+        "UndertakerDemon": {
+            "ShopTID": "TID_UNDERTAKER_DEMON_SKIN"
+        },
+        "SilencerDemon": {
+            "ShopTID": "TID_DEMON_OTIS_SKIN"
+        },
+        "MummyDemon": {
+            "ShopTID": "TID_DEMON_EMZ_SKIN"
+        },
+        "RuffsCoock": {
+            "ShopTID": "TID_SOUS_CHEF_RUFFS_SKIN"
+        },
+        "DuplicatorFlightAttendant": {
+            "ShopTID": "TID_HIGH_FLYER_CHOLLA_SKIN"
+        },
+        "SilencerSewer": {
+            "ShopTID": "TID_RUSTY_OTIS_SKIN"
+        },
+        "PercenterChromaDemonRed": {
+            "ShopTID": "TID_IMPIE_RED_TRIXIE_COLETTE_SKIN"
+        },
+        "TwinsAngelChroma1": {
+            "ShopTID": "TID_ANGEL_RADIANT_LARRY_&_LAWRIE_SKIN"
+        },
+        "TwinsAngelChroma2": {
+            "ShopTID": "TID_ANGEL_DARK_LARRY_&_LAWRIE_SKIN"
+        },
+        "EnragerAngelChroma1": {
+            "ShopTID": "TID_LIGHTBEARER_EDGAR_SKIN"
+        },
+        "EnragerAngelChroma2": {
+            "ShopTID": "TID_NIGHTBRINGER_EDGAR_SKIN"
+        },
+        "UndertakerDemonChroma1": {
+            "ShopTID": "TID_DEVILISH_UNDERTAKER_DEMON_SKIN"
+        },
+        "UndertakerDemonChroma2": {
+            "ShopTID": "TID_LAMBENT_UNDERTAKER_DEMON_SKIN"
+        },
+        "MaisieToonChroma1": {
+            "ShopTID": "TID_REQUIEM_BIZARRE_MAISIE_SKIN"
+        },
+        "MaisieToonChroma2": {
+            "ShopTID": "TID_PLATINUM_BIZARRE_MAISIE_SKIN"
+        },
+        "HookDudeAngel": {
+            "ShopTID": "TID_GENE_ANGEL_SKIN"
+        },
+        "GunslingerDarkAngelChroma": {
+            "ShopTID": "TID_LIGHT_ANGEL_COLT_SKIN"
+        },
+        "FishTankGold": {
+            "ShopTID": "TID_TRUE_GOLD_HANK_SKIN"
+        },
+        "FishTankSilver": {
+            "ShopTID": "TID_TRUE_SILVER_HANK_SKIN"
+        },
+        "SamuraiGold": {
+            "ShopTID": "TID_TRUE_GOLD_SAMURAI_SKIN"
+        },
+        "SamuraiSilver": {
+            "ShopTID": "TID_TRUE_SILVER_SAMURAI_SKIN"
+        },
+        "DiggerGold": {
+            "ShopTID": "TID_TRUE_GOLD_DIGGER_SKIN"
+        },
+        "DiggerSilver": {
+            "ShopTID": "TID_TRUE_SILVER_DIGGER_SKIN"
+        },
+        "GhostSwag": {
+            "ShopTID": "TID_CINEMA_GHOST_SHADE_SKIN"
+        },
+        "VoodooRare": {
+            "ShopTID": "TID_UNLUCKY_VOODOO_SKIN"
+        },
+        "SamuraiStarrForce": {
+            "ShopTID": "TID_HEBI_KENJI_SKIN"
+        },
+        "SamuraiStarrForceChroma1": {
+            "ShopTID": "TID_MAMUSHI_KENJI_SKIN"
+        },
+        "SamuraiStarrForceChroma2": {
+            "ShopTID": "TID_AODAISHO_KENJI_SKIN"
+        },
+        "DuplicatorGiftsToy": {
+            "ShopTID": "TID_LOLA_LOOPY_SKIN"
+        },
+        "BowDudeBrawlentine": {
+            "ShopTID": "TID_BO_CUPID_SKIN"
+        },
+        "TntGuyBrawlentine": {
+            "ShopTID": "TID_DYNAMIKE_ROMANTIC_SKIN"
+        },
+        "NinjaChampionship": {
+            "ShopTID": "TID_LEON_WORLD_FINALS_SKIN"
+        },
+        "DeadMariachiGoodRandoms": {
+            "ShopTID": "TID_POCO_QUITE_PLAYING_SKIN"
+        },
+        "CannonGirlChristmas": {
+            "ShopTID": "TID_REINDEER_BONNIE_SKIN"
+        },
+        "JetpackGirlChristmas": {
+            "ShopTID": "TID_JOLLY_JANET_SKIN"
+        },
+        "FleaStarrForce": {
+            "ShopTID": "TID_EXTRATERRESTRIAL_EVE_SKIN"
+        },
+        "PainterStarrForce": {
+            "ShopTID": "TID_BERRY_STAR_HORSE_SKIN"
+        },
+        "ShamanStarrForce": {
+            "ShopTID": "TID_SMUGGLER_NITA_SKIN"
+        },
+        "DiggerStarrForce": {
+            "ShopTID": "TID_DIGGER_MOON_DRILLER_SKIN"
+        },
+        "AxeJugglerGoodRandoms": {
+            "ShopTID": "TID_POP_MELODIE_SKIN"
+        },
+        "AxeJugglerGoodRandomsChroma1": {
+            "ShopTID": "TID_BLACKGREEN_MELODIE_SKIN"
+        },
+        "AxeJugglerGoodRandomsChroma2": {
+            "ShopTID": "TID_REDWHITE_MELODIE_SKIN"
+        },
+        "CrowMaverick": {
+            "ShopTID": "TID_CROW_MAVERICK_SKIN"
+        },
+        "BlowerAstronaut": {
+            "ShopTID": "TID_GALE_GALACTIC_SKIN"
+        },
+        "HookDudeMonkey": {
+            "ShopTID": "TID_GENE_JUNGLE_SKIN"
+        },
+        "DoorManStarrForce": {
+            "ShopTID": "TID_GIGANTOPHIS_GRAY_SKIN"
+        },
+        "RopeDudeGoodRandoms": {
+            "ShopTID": "TID_ROPE_DUDE_BYE_BYE_SKIN"
+        },
+        "ArtilleryGalCyber": {
+            "ShopTID": "TID_PENNY_ROBO_SKIN"
+        },
+        "RollerGoodRandoms": {
+            "ShopTID": "TID_WOODRIVER_STU_SKIN"
+        },
+        "BarrelbotToy": {
+            "ShopTID": "TID_TOY_POP_UP_SKIN"
+        },
+        "AttacherToy": {
+            "ShopTID": "TID_KIT_CUDDLY_SKIN"
+        },
+        "ArtilleryGalToy": {
+            "ShopTID": "TID_PENNY_POP_SKIN"
+        },
+        "PowerLevelerBuzz": {
+            "ShopTID": "TID_POWER_LEVELER_LIGHTYEAR_SKIN"
+        },
+        "MechanicJessie": {
+            "ShopTID": "TID_MECHANIC_JESSIE_SKIN"
+        },
+        "GunSlingerWoody": {
+            "ShopTID": "TID_COLT_WOODY_SKIN"
+        },
+        "BaseballBopeep": {
+            "ShopTID": "TID_BASEBALL_BO_PEEP_SKIN"
+        },
+        "TntDudeChristmas": {
+            "ShopTID": "TID_DYNAMIKE_XMAS_CHROMA_SKIN"
+        },
+        "GunslingerRoyalAgent": {
+            "ShopTID": "TID_ROYAL_AGENT_COLT_CHROMA_SKIN"
+        },
+        "ShamanChristmas": {
+            "ShopTID": "TID_NITA_XMAS_CHROMA_SKIN"
+        },
+        "MeepleBowling": {
+            "ShopTID": "TID_BOWLING_MEEPLE_SKIN"
+        },
+        "SkaterRapper": {
+            "ShopTID": "TID_RUN_DMC_OLLIE_SKIN"
+        },
+        "WhirlwindSupercellMake": {
+            "ShopTID": "TID_CARL_STAG_SKIN"
+        },
+        "ConductorSupercellMake": {
+            "ShopTID": "TID_CHUCK_ELECTRO_SKIN"
+        },
+        "WeaponThrowerSupercellMake": {
+            "ShopTID": "TID_MISTICO_SAM_SKIN"
+        },
+        "JetpackGirlSupercellMake": {
+            "ShopTID": "TID_PHOENIX_JANET_SKIN"
+        },
+        "ShieldTankSupercellMake": {
+            "ShopTID": "TID_TIME_PROTECTOR_BUSTER_SKIN"
+        },
+        "CrossBomberSupercellMake": {
+            "ShopTID": "TID_LORD_OF_GOD_GROM_SKIN"
+        },
+        "HammerDudeSandsOfTimes": {
+            "ShopTID": "TID_MUMMY_FRANK_SKIN"
+        },
+        "SkaterSandsOfTimes": {
+            "ShopTID": "TID_PHARA_OLLIE_SKIN"
+        },
+        "VoodooSandsOfTimes": {
+            "ShopTID": "TID_CLEOPATRA_VOODOO_SKIN"
+        },
+        "MeepleSandsOfTimes": {
+            "ShopTID": "TID_MYSTIC_MEEPLE_SKIN"
+        },
+        "StickyBombSandsOfTimes": {
+            "ShopTID": "TID_SCARAB_SQUEAK_SKIN"
+        },
+        "RuffsSandsOfTimes": {
+            "ShopTID": "TID_ANUBIS_RUFFS_SKIN"
+        },
+        "BeamerCarnival": {
+            "ShopTID": "TID_CARNIVAL_MANDY_SKIN"
+        },
+        "TrickshotDudeAprilFools": {
+            "ShopTID": "TID_TRICKSHOT_EGG_SKIN"
+        },
+        "MinigunDudeAprilFools": {
+            "ShopTID": "TID_EGG_PAM_SKIN"
+        },
+        "GunSlinger2025RankedProgrsesionSkinLevel1": {
+            "ShopTID": "TID_COLT_RANKED_PROGRESSION_SKIN_1"
+        },
+        "GunSlinger2025RankedProgrsesionSkinLevel2": {
+            "ShopTID": "TID_COLT_RANKED_PROGRESSION_SKIN_2"
+        },
+        "GunSlinger2025RankedProgrsesionSkinLevel3": {
+            "ShopTID": "TID_COLT_RANKED_PROGRESSION_SKIN_3"
+        },
+        "GunSlinger2025RankedProgrsesionSkinLevel4": {
+            "ShopTID": "TID_COLT_RANKED_PROGRESSION_SKIN_4"
+        },
+        "GunSlinger2025RankedProgrsesionSkinLevel5": {
+            "ShopTID": "TID_COLT_RANKED_PROGRESSION_SKIN_5"
+        },
+        "GunSlinger2025RankedProgrsesionSkinLevel6": {
+            "ShopTID": "TID_COLT_RANKED_PROGRESSION_SKIN_6"
+        },
+        "GunSlinger2025RankedProgrsesionSkinLevel7": {
+            "ShopTID": "TID_COLT_RANKED_PROGRESSION_SKIN_7"
+        },
+        "GunSlinger2025RankedProgrsesionSkinLevel8": {
+            "ShopTID": "TID_COLT_RANKED_PROGRESSION_SKIN_8"
+        },
+        "GunSlinger2025RankedProgrsesionSkinLevel9": {
+            "ShopTID": "TID_COLT_RANKED_PROGRESSION_SKIN_9"
+        },
+        "GunSlinger2025RankedProgrsesionSkinLevel10": {
+            "ShopTID": "TID_COLT_RANKED_PROGRESSION_SKIN_10"
+        },
+        "GunSlinger2025RankedProgrsesionSkinLevel11": {
+            "ShopTID": "TID_COLT_RANKED_PROGRESSION_SKIN_11"
+        },
+        "KickerDudeRare": {
+            "ShopTID": "TID_FIRST_MATE_FANG_SKIN"
+        },
+        "FireDudeRare": {
+            "ShopTID": "TID_FIENDISH_AMBER_SKIN"
+        },
+        "FleaRare": {
+            "ShopTID": "TID_CORED_EVE_SKIN"
+        },
+        "BaseballVillain": {
+            "ShopTID": "TID_VILLAN_BIBI_SKIN"
+        },
+        "JesterUno": {
+            "ShopTID": "TID_UNO_CHESTER_SKIN"
+        },
+        "ChronomancerRare": {
+            "ShopTID": "TID_JURASSIC_FINX_SKIN"
+        },
+        "HammerDudeSandsOfTimesDark": {
+            "ShopTID": "TID_DARK_MUMMY_FRANK_SKIN"
+        },
+        "KnightSupercellStore": {
+            "ShopTID": "TID_PEKKA_ASH_SKIN"
+        },
+        "ElectroSniperRare": {
+            "ShopTID": "TID_BEACH_BELLE_SKIN"
+        },
+        "HammerDudeSandsOfTimesLight": {
+            "ShopTID": "TID_LIGHT_MUMMY_FRANK_SKIN"
+        },
+        "MorningstarRare": {
+            "ShopTID": "TID_DARK_KNIGHT_LUMI_SKIN"
+        },
+        "BaseballVillainChromaPink": {
+            "ShopTID": "TID_VILLAN_PINK_BIBI_SKIN"
+        },
+        "BaseballVillainChromaBlue": {
+            "ShopTID": "TID_VILLAN_BLUE_BIBI_SKIN"
+        },
+        "VoodooGold": {
+            "ShopTID": "TID_TRUE_GOLD_JUJU_SKIN"
+        },
+        "VoodooSilver": {
+            "ShopTID": "TID_TRUE_SILVER_JUJU_SKIN"
+        },
+        "MeepleGold": {
+            "ShopTID": "TID_TRUE_GOLD_MEEPLE_SKIN"
+        },
+        "MeepleSilver": {
+            "ShopTID": "TID_TRUE_SILVER_MEEPLE_SKIN"
+        },
+        "GhostGold": {
+            "ShopTID": "TID_TRUE_GOLD_SHADE_SKIN"
+        },
+        "GhostSilver": {
+            "ShopTID": "TID_TRUE_SILVER_SHADE_SKIN"
+        },
+        "SkaterGold": {
+            "ShopTID": "TID_TRUE_GOLD_OLLIE_SKIN"
+        },
+        "SkaterSilver": {
+            "ShopTID": "TID_TRUE_SILVER_OLLIE_SKIN"
+        },
+        "DoorManJapan": {
+            "ShopTID": "TID_GRAY_WIP_RONIN_SKIN"
+        },
+        "WallyJapan": {
+            "ShopTID": "TID_SPROUT_TANUKI_SKIN"
+        },
+        "InsectManJapan": {
+            "ShopTID": "TID_ANGELO_TENGU_SKIN"
+        },
+        "BlackHoleJapan": {
+            "ShopTID": "TID_TARA_WIP_CHUKEI_SKIN"
+        },
+        "AssaultShotgunKaiju": {
+            "ShopTID": "TID_GRIFF_INTERGALACTIC_SKIN"
+        },
+        "EnragerKaiju": {
+            "ShopTID": "TID_EDGAR_PACIFIC_SKIN"
+        },
+        "CrabKaiju": {
+            "ShopTID": "TID_CLANCY_KAIJU_SKIN"
+        },
+        "LeaperKaiju": {
+            "ShopTID": "TID_MICO_MONSTRO_SKIN"
+        },
+        "PercenterKaiju": {
+            "ShopTID": "TID_COLETTE_TOKUSATSU_SKIN"
+        },
+        "ChronomancerKaiju": {
+            "ShopTID": "TID_FINX_MECHA_SKIN"
+        },
+        "GhostGraffiti": {
+            "ShopTID": "TID_SHADE_STREET_SKIN"
+        },
+        "BeamerSCStore": {
+            "ShopTID": "TID_MANDY_WITCH_SKIN"
+        },
+        "BullGuyRare": {
+            "ShopTID": "TID_BULL_KANSAI_DRAGON_SKIN"
+        },
+        "KnightRare": {
+            "ShopTID": "TID_ASH_SANDCASTLE_SKIN"
+        },
+        "TntGuyRare": {
+            "ShopTID": "TID_DYNAMIKE_FIRECRACKER_WIZARD_SKIN"
+        },
+        "CrossBomberRare": {
+            "ShopTID": "TID_GROM_GROMMING_HOOD_SKIN"
+        },
+        "RosaRare": {
+            "ShopTID": "TID_ROSA_SUNFLOWER_SKIN"
+        },
+        "MechaDudeRare": {
+            "ShopTID": "TID_MEG_WHISKED_SKIN"
+        },
+        "IceDudeRare": {
+            "ShopTID": "TID_LOU_BANDITO_SKIN"
+        },
+        "PowerLevelerRare": {
+            "ShopTID": "TID_SURGE_SECRET_SURGEVICE_SKIN"
+        },
+        "EnragerKaijuChroma1": {
+            "ShopTID": "TID_EDGAR_DRIFTER_SKIN"
+        },
+        "EnragerKaijuChroma2": {
+            "ShopTID": "TID_EDGAR_NEURAL_LINK_SKIN"
+        },
+        "ChronomancerKaijuChromaWhite": {
+            "ShopTID": "TID_FINX_CRIMSON_TY_SKIN"
+        },
+        "ChronomancerKaijuChromaGreen": {
+            "ShopTID": "TID_FINX_MECHA_CHIEF_SKIN"
+        },
+        "SniperJapanChromaBlue": {
+            "ShopTID": "TID_PIPER_WIP_GEISHA_ALT_COLOR_#1_SKIN"
+        },
+        "SniperJapanChromaGreen": {
+            "ShopTID": "TID_PIPER_WIP_GEISHA_ALT_COLOR_#2_SKIN"
+        },
+        "SamuraiJapan": {
+            "ShopTID": "TID_KENJI_CURSED_SKIN"
+        },
+        "SamuraiJapanOvercharge": {
+            "ShopTID": "TID_KENJI_ONI_SKIN_RANKED"
+        },
+        "KnightJapan": {
+            "ShopTID": "TID_ASH_SHINOBI_SKIN"
+        },
+        "Alternator29gem": {
+            "ShopTID": "TID_JAE_JAMMIN_SKIN"
+        },
+        "MorningstarGold": {
+            "ShopTID": "TID_TRUE_GOLD_LUMI_SKIN"
+        },
+        "MorningstarSilver": {
+            "ShopTID": "TID_TRUE_SILVER_LUMI_SKIN"
+        },
+        "ChronomancerGold": {
+            "ShopTID": "TID_TRUE_GOLD_FINX_SKIN"
+        },
+        "ChronomancerSilver": {
+            "ShopTID": "TID_TRUE_SILVER_FINX_SKIN"
+        },
+        "GeishaRare": {
+            "ShopTID": "TID_KAZE_FRUITY_SKIN"
+        },
+        "AssaultShotgun29gem": {
+            "ShopTID": "TID_CASINO_GRIFF_SKIN"
+        },
+        "UndertakerGreekGod": {
+            "ShopTID": "TID_HADES_MORTIS_SKIN"
+        },
+        "CannonGirlGreekGod": {
+            "ShopTID": "TID_CHARIOTEER_BONNIE_SKIN"
+        },
+        "MorningstarGreekGod": {
+            "ShopTID": "TID_EREBUS_LUMI_SKIN"
+        },
+        "PainterGreekGod": {
+            "ShopTID": "TID_PEGASUS_BERRY_SKIN"
+        },
+        "BarrelBotGreekGod": {
+            "ShopTID": "TID_POLYPHEMUS_DARRYL_SKIN"
+        },
+        "SandstormGreekGod": {
+            "ShopTID": "TID_HYPNOS_SANDY_SKIN"
+        },
+        "BowDudeFantasy": {
+            "ShopTID": "TID_FANTASY_BO_SKIN"
+        },
+        "FireDudeFantasy": {
+            "ShopTID": "TID_FANTASY_AMBER_SKIN"
+        },
+        "ReviverFantasy": {
+            "ShopTID": "TID_FANTASY_DOUG_SKIN"
+        },
+        "DrillerFantasy": {
+            "ShopTID": "TID_FANTASY_JACKY_SKIN"
+        },
+        "AmbusherFantasy": {
+            "ShopTID": "TID_FANTASY_LILY_SKIN"
+        },
+        "ElectroSniperFantasy": {
+            "ShopTID": "TID_FANTASY_BELLE_SKIN"
+        },
+        "ShieldTankAngel": {
+            "ShopTID": "TID_ANGEL_BUSTER_SKIN"
+        },
+        "ArcadeAngel": {
+            "ShopTID": "TID_ANGEL_8BIT_SKIN"
+        },
+        "MechaDudeAngel": {
+            "ShopTID": "TID_ANGEL_MEG_SKIN"
+        },
+        "KickerDudeDemon": {
+            "ShopTID": "TID_DEMON_FANG_SKIN"
+        },
+        "BullDudeDemon": {
+            "ShopTID": "TID_DEMON_BULL_SKIN"
+        },
+        "SoulCollectorDemon": {
+            "ShopTID": "TID_DEMON_GUS_SKIN"
+        },
+        "ShieldTankRare": {
+            "ShopTID": "TID_BIKER_BUSTER_SKIN"
+        },
+        "ClusterBombDudeRare": {
+            "ShopTID": "TID_EGG_XPLOSIVE_TICK_SKIN"
+        },
+        "DeadMariachiRare": {
+            "ShopTID": "TID_POCO_GHOST_SKIN"
+        },
+        "BowDudeFantasyChroma1": {
+            "ShopTID": "TID_FANTASY_BO_CHROMA1_SKIN"
+        },
+        "BowDudeFantasyChroma2": {
+            "ShopTID": "TID_FANTASY_BO_CHROMA2_SKIN"
+        },
+        "UndertakerGreekGodChroma1": {
+            "ShopTID": "TID_HADES_MORTIS_CHROMA1_SKIN"
+        },
+        "UndertakerGreekGodChroma2": {
+            "ShopTID": "TID_HADES_MORTIS_CHROMA2_SKIN"
+        },
+        "AttacherRareChroma1": {
+            "ShopTID": "TID_KIT_CHROMA1_SKIN"
+        },
+        "AttacherRareChroma2": {
+            "ShopTID": "TID_KIT_CHROMA2_SKIN"
+        },
+        "AttacherRareChroma3": {
+            "ShopTID": "TID_KIT_CHROMA3_SKIN"
+        },
+        "AttacherRareChroma4": {
+            "ShopTID": "TID_KIT_CHROMA4_SKIN"
+        },
+        "AttacherRareChroma5": {
+            "ShopTID": "TID_KIT_CHROMA5_SKIN"
+        },
+        "AttacherRareChroma6": {
+            "ShopTID": "TID_KIT_CHROMA6_SKIN"
+        },
+        "MechanicSCStore": {
+            "ShopTID": "TID_MUSKETEER_JESSIE_SKIN"
+        },
+        "SamuraiJapanOverchargeChroma1": {
+            "ShopTID": "TID_KENJI_ONI_SKIN_GHOST_RANKED"
+        },
+        "SamuraiJapanOverchargeChroma2": {
+            "ShopTID": "TID_KENJI_ONI_SKIN_MANGA_RANKED"
+        },
+        "DomainRare": {
+            "ShopTID": "TID_SUMMER_TRUNK_SKIN"
+        },
+        "TntGuyProgressionSkinLevel1": {
+            "ShopTID": "TID_DYNAMIKE_RANKED_PROGRESSION_SKIN_1"
+        },
+        "GeishaGold": {
+            "ShopTID": "TID_TRUE_GOLD_KAZE_SKIN"
+        },
+        "GeishaSilver": {
+            "ShopTID": "TID_TRUE_SILVER_KAZE_SKIN"
+        },
+        "AlternatorGold": {
+            "ShopTID": "TID_TRUE_GOLD_JAE_YONG_SKIN"
+        },
+        "AlternatorSilver": {
+            "ShopTID": "TID_TRUE_SILVER_JAE_YONG_SKIN"
+        },
+        "TntGuyProgressionSkinLevel2": {
+            "ShopTID": "TID_DYNAMIKE_RANKED_PROGRESSION_SKIN_2"
+        },
+        "TntGuyProgressionSkinLevel3": {
+            "ShopTID": "TID_DYNAMIKE_RANKED_PROGRESSION_SKIN_3"
+        },
+        "TntGuyProgressionSkinLevel4": {
+            "ShopTID": "TID_DYNAMIKE_RANKED_PROGRESSION_SKIN_4"
+        },
+        "TntGuyProgressionSkinLevel5": {
+            "ShopTID": "TID_DYNAMIKE_RANKED_PROGRESSION_SKIN_5"
+        },
+        "TntGuyProgressionSkinLevel6": {
+            "ShopTID": "TID_DYNAMIKE_RANKED_PROGRESSION_SKIN_6"
+        },
+        "TntGuyProgressionSkinLevel7": {
+            "ShopTID": "TID_DYNAMIKE_RANKED_PROGRESSION_SKIN_7"
+        },
+        "TntGuyProgressionSkinLevel8": {
+            "ShopTID": "TID_DYNAMIKE_RANKED_PROGRESSION_SKIN_8"
+        },
+        "TntGuyProgressionSkinLevel9": {
+            "ShopTID": "TID_DYNAMIKE_RANKED_PROGRESSION_SKIN_9"
+        },
+        "TntGuyProgressionSkinLevel10": {
+            "ShopTID": "TID_DYNAMIKE_RANKED_PROGRESSION_SKIN_10"
+        },
+        "TntGuyProgressionSkinLevel11": {
+            "ShopTID": "TID_DYNAMIKE_RANKED_PROGRESSION_SKIN_11"
+        },
+        "MummySurfer": {
+            "ShopTID": "TID_SURFER_EMZ_SKIN"
+        },
+        "FishTankSurfer": {
+            "ShopTID": "TID_JAM_MASTER_HANK_SKIN"
+        },
+        "SkaterSurfer": {
+            "ShopTID": "TID_JAKE_OLLIE_SKIN"
+        },
+        "JetpackGirlSurfer": {
+            "ShopTID": "TID_SURFER_JANET_SKIN"
+        },
+        "SnakeOilSurfer": {
+            "ShopTID": "TID_FRANK_BYRON_SKIN"
+        },
+        "CrowBrawloween": {
+            "ShopTID": "TID_DOCTOR_CROW_SKIN"
+        },
+        "TrickshotBrawloween": {
+            "ShopTID": "TID_GHOST_DIVER_CROW_SKIN"
+        },
+        "BeeSniperBrawloween": {
+            "ShopTID": "TID_BEA_VAMPIRE_SKIN"
+        },
+        "SplitterBrawloween": {
+            "ShopTID": "TID_GARGOYLE_RT_SKIN"
+        },
+        "RuffsBrawloween": {
+            "ShopTID": "TID_TEEN_RUFFS_SKIN"
+        },
+        "ClusterBombBrawloween": {
+            "ShopTID": "TID_PUMPKIN_TICK_SKIN"
+        },
+        "CactusCarreta": {
+            "ShopTID": "TID_SPIKE_CARRETA_SKIN"
+        },
+        "LuchadorCarreta": {
+            "ShopTID": "TID_EL_GRILO_SKIN"
+        },
+        "WhirlwindCarreta": {
+            "ShopTID": "TID_CARL_CARRETA_SKIN"
+        },
+        "RopeDudeSpc": {
+            "ShopTID": "TID_FISHERMAN_BUZZ_SKIN"
+        },
+        "BarkeepBrawlAcademy": {
+            "ShopTID": "TID_HEADMASTER_BARLEY_SKIN"
+        },
+        "JesterBrawlAcademy": {
+            "ShopTID": "TID_COOLKID_CHESTER_SKIN"
+        },
+        "ArtilleryGalBrawlAcademy": {
+            "ShopTID": "TID_TRUANT_PENNY_SKIN"
+        },
+        "StalkerGold": {
+            "ShopTID": "TID_TRUE_GOLD_ALLI_SKIN"
+        },
+        "StalkerSilver": {
+            "ShopTID": "TID_TRUE_SILVER_ALLI_SKIN"
+        },
+        "PocoSurferOvercharge": {
+            "ShopTID": "TID_POCO_DJ_SKIN"
+        },
+        "CrowBrawloweenRed": {
+            "ShopTID": "TID_DOCTOR_CROW_RED_SKIN"
+        },
+        "MummySurferChroma1": {
+            "ShopTID": "TID_SURFER_CHROMA1_EMZ_SKIN"
+        },
+        "MummySurferChroma2": {
+            "ShopTID": "TID_SURFER_CHROMA2_EMZ_SKIN"
+        },
+        "CrowBrawloweenWhite": {
+            "ShopTID": "TID_DOCTOR_CROW_WHITE_SKIN"
+        },
+        "NinjaGraffitiSpecial": {
+            "ShopTID": "TID_LEON_GRAFFIYI_SPECIAL_SKIN"
+        },
+        "RollerGraffitiSpecial": {
+            "ShopTID": "TID_RETRO_GRAFFIYI_SPECIAL_SKIN"
+        },
+        "StalkerGraffitiSpecial": {
+            "ShopTID": "TID_ALLI_GRAFFIYI_SPECIAL_SKIN"
+        },
+        "DancerGraffitiSpecial": {
+            "ShopTID": "TID_DANCER_GRAFFIYI_SPECIAL_SKIN"
+        },
+        "Dancer199Gem": {
+            "ShopTID": "TID_DANCER_PUMP_SKIN"
+        },
+        "Dancer199GemChroma1": {
+            "ShopTID": "TID_DANCER_BLUE_PUMP_SKIN"
+        },
+        "Dancer199GemChroma2": {
+            "ShopTID": "TID_DANCER_PINK_PUMP_SKIN"
+        },
+        "Fury199Gem": {
+            "ShopTID": "TID_FURY_WARLOCK_SKIN"
+        },
+        "Fury199GemChroma1": {
+            "ShopTID": "TID_FURY_WARLOCK_CHROMA1_SKIN"
+        },
+        "Fury199GemChroma2": {
+            "ShopTID": "TID_FURY_WARLOCK_CHROMA2_SKIN"
+        },
+        "PowerLevelerPorcelain": {
+            "ShopTID": "TID_SURGE_PORCELAIN_SKIN"
+        },
+        "CookerPorcelain": {
+            "ShopTID": "TID_PEARL_PORCELAIN_SKIN"
+        },
+        "DomainGold": {
+            "ShopTID": "TID_TRUE_GOLD_TRUNK_SKIN"
+        },
+        "DomainSilver": {
+            "ShopTID": "TID_TRUE_SILVER_TRUNK_SKIN"
+        },
+        "PocoSurferOverchargeChromaBlue": {
+            "ShopTID": "TID_POCO_SCRATCHER_SKIN"
+        },
+        "PocoSurferOverchargeChromaYellow": {
+            "ShopTID": "TID_POCO_BEATMATCHER_SKIN"
+        },
+        "BeamerMecha": {
+            "ShopTID": "TID_MECHA_MANDY_SKIN"
+        },
+        "MorningstarStrange": {
+            "ShopTID": "TID_STRANGE_LUMI_SKIN"
+        },
+        "DragonRiderStrange": {
+            "ShopTID": "TID_STRANGE_DRACO_SKIN"
+        },
+        "SoulCollectorStrange": {
+            "ShopTID": "TID_STRANGE_GUS_SKIN"
+        },
+        "PainterStrange": {
+            "ShopTID": "TID_STRANGE_BERRY_SKIN"
+        },
+        "BullGuyStrange": {
+            "ShopTID": "TID_STRANGE_BULL_SKIN"
+        },
+        "ShamanStrangeOvercharge": {
+            "ShopTID": "TID_STRANGE_OVERCHARGE_NITA_SKIN"
+        },
+        "SniperMechaOvercharge": {
+            "ShopTID": "TID_MECHA_OVERCHARGE_PIPER_SKIN"
+        },
+        "MechanicMecha": {
+            "ShopTID": "TID_MECHA_JESSIE_SKIN"
+        },
+        "CocoonerGym": {
+            "ShopTID": "TID_GYM_CHARLIE_SKIN"
+        },
+        "AxeJugglerGym": {
+            "ShopTID": "TID_GYM_MELODIE_SKIN"
+        },
+        "SpawnerDudeGym": {
+            "ShopTID": "TID_GYM_MRP_SKIN"
+        },
+        "ArtilleryGalSPC": {
+            "ShopTID": "TID_CLASH_PENNY_SKIN"
+        },
+        "NinjaPropassProgressionSkinLevel1": {
+            "ShopTID": "TID_LEON_PROPASS_PROGRESSION_SKIN_1"
+        },
+        "NinjaPropassProgressionSkinLevel2": {
+            "ShopTID": "TID_LEON_PROPASS_PROGRESSION_SKIN_2"
+        },
+        "NinjaPropassProgressionSkinLevel3": {
+            "ShopTID": "TID_LEON_PROPASS_PROGRESSION_SKIN_3"
+        },
+        "NinjaPropassProgressionSkinLevel4": {
+            "ShopTID": "TID_LEON_PROPASS_PROGRESSION_SKIN_4"
+        },
+        "NinjaPropassProgressionSkinLevel5": {
+            "ShopTID": "TID_LEON_PROPASS_PROGRESSION_SKIN_5"
+        },
+        "NinjaPropassProgressionSkinLevel6": {
+            "ShopTID": "TID_LEON_PROPASS_PROGRESSION_SKIN_6"
+        },
+        "NinjaPropassProgressionSkinLevel7": {
+            "ShopTID": "TID_LEON_PROPASS_PROGRESSION_SKIN_7"
+        },
+        "NinjaPropassProgressionSkinLevel8": {
+            "ShopTID": "TID_LEON_PROPASS_PROGRESSION_SKIN_8"
+        },
+        "NinjaPropassProgressionSkinLevel9": {
+            "ShopTID": "TID_LEON_PROPASS_PROGRESSION_SKIN_9"
+        },
+        "NinjaPropassProgressionSkinLevel10": {
+            "ShopTID": "TID_LEON_PROPASS_PROGRESSION_SKIN_10"
+        },
+        "NinjaPropassProgressionSkinLevel11": {
+            "ShopTID": "TID_LEON_PROPASS_PROGRESSION_SKIN_11"
+        },
+        "MorningstarStrangeChromaPink": {
+            "ShopTID": "TID_STRANGE_LUMI_PINK_SKIN"
+        },
+        "MorningstarStrangeChromaRed": {
+            "ShopTID": "TID_STRANGE_LUMI_RED_SKIN"
+        },
+        "ShamanStrangeOverchargeChroma1": {
+            "ShopTID": "TID_STRANGE_OVERCHARGE_NITA_CHROMA1_SKIN"
+        },
+        "ShamanStrangeOverchargeChroma2": {
+            "ShopTID": "TID_STRANGE_OVERCHARGE_NITA_CHROMA2_SKIN"
+        },
+        "BeamerMechaYellow": {
+            "ShopTID": "TID_MECHA_MANDY_YELLOW_SKIN"
+        },
+        "BeamerMechaPurple": {
+            "ShopTID": "TID_MECHA_MANDY_PURPUL_SKIN"
+        },
+        "SniperMechaOverchargeRed": {
+            "ShopTID": "TID_MECHA_OVERCHARGE_PIPER_RED_SKIN"
+        },
+        "SniperMechaOverchargePink": {
+            "ShopTID": "TID_MECHA_OVERCHARGE_PIPER_PINK_SKIN"
+        },
+        "MechanicMechaChromaOrange": {
+            "ShopTID": "TID_MECHA_JESSIE_ORANGE_SKIN"
+        },
+        "MechanicMechaChromaPink": {
+            "ShopTID": "TID_MECHA_JESSIE_PINK_SKIN"
+        },
+        "DancerGold": {
+            "ShopTID": "TID_TRUE_GOLD_MINA_SKIN"
+        },
+        "DancerSilver": {
+            "ShopTID": "TID_TRUE_SILVER_MINA_SKIN"
+        },
+        "FuryGold": {
+            "ShopTID": "TID_TRUE_GOLD_ZIGGY_SKIN"
+        },
+        "FurySilver": {
+            "ShopTID": "TID_TRUE_SILVER_ZIGGY_SKIN"
+        },
+        "DaredevilScarecrow": {
+            "ShopTID": "TID_GIGI_SCARECROW_SKIN"
+        },
+        "DaredevilScarecrow199GemChroma1": {
+            "ShopTID": "TID_GIGI_CHROMA1_SKIN"
+        },
+        "DaredevilScarecrow199GemChroma2": {
+            "ShopTID": "TID_GIGI_CHROMA2_SKIN"
+        },
+        "WeaponThrowerSteamPunk": {
+            "ShopTID": "TID_STEAMPUNK_SAM_SKIN"
+        },
+        "RocketGirlSteamPunk": {
+            "ShopTID": "TID_BROCK_STEAMPUNK_SKIN"
+        },
+        "BlowerSteamPunk": {
+            "ShopTID": "TID_STEAMPUNK_GALE_SKIN"
+        },
+        "RollerSteamPunk": {
+            "ShopTID": "TID_STU_STEAMPUNK_SKIN"
+        },
+        "GeishaSteamPunk": {
+            "ShopTID": "TID_STEAMPUNK_KAZE_SKIN"
+        },
+        "TrickshotBrawlentine": {
+            "ShopTID": "TID_RICO_BRAWLENTINE_SKIN"
+        },
+        "InsectManBrawlentine": {
+            "ShopTID": "TID_ANGELO_BRAWLENTINE_SKIN"
+        },
+        "StickyBombBrawlentine": {
+            "ShopTID": "TID_BRAWLENTINES_SQUEAK_SKIN"
+        },
+        "StalkerBrawlentine": {
+            "ShopTID": "TID_ALLI_VALENTINE_SKIN"
+        },
+        "GhostBrawlentine": {
+            "ShopTID": "TID_TEDDY_SHADE_SKIN"
+        },
+        "ControllerXmas": {
+            "ShopTID": "TID_XMAS_NANI_SKIN"
+        },
+        "PuppeteerLNY": {
+            "ShopTID": "TID_LNY_WILLOW_SKIN"
+        },
+        "SpeedyEsports": {
+            "ShopTID": "TID_STREET_MAX_SKIN"
+        },
+        "Bulletstorm199Gem": {
+            "ShopTID": "TID_PIERCE_BLADE_SKIN"
+        },
+        "Bulletstorm199GemChroma1": {
+            "ShopTID": "TID_PIERCE_BLADE_CHROMA1_SKIN"
+        },
+        "Bulletstorm199GemChroma2": {
+            "ShopTID": "TID_PIERCE_BLADE_CHROMA2_SKIN"
+        },
+        "InsectManBrawlentineChroma1": {
+            "ShopTID": "TID_ANGELO_BRAWLENTINE_CHROMA_1_SKIN"
+        },
+        "InsectManBrawlentineChroma2": {
+            "ShopTID": "TID_ANGELO_BRAWLENTINE_CHROMA_2_SKIN"
+        },
+        "BlowerSteamPunkChroma1": {
+            "ShopTID": "TID_STEAMPUNK_PURPLE_GALE_SKIN"
+        },
+        "BlowerSteamPunkChroma2": {
+            "ShopTID": "TID_STEAMPUNK_YELLOW_GALE_SKIN"
+        },
+        "RollerSteamPunkChroma1": {
+            "ShopTID": "TID_STEAMPUNK_PURPLE_STU_SKIN"
+        },
+        "RollerSteamPunkChroma2": {
+            "ShopTID": "TID_STEAMPUNK_YELLOW_STU_SKIN"
+        },
+        "TrickshotBrawlentineChroma1": {
+            "ShopTID": "TID_RICO_BRAWLENTINE_CHROMA1_SKIN"
+        },
+        "TrickshotBrawlentineChroma2": {
+            "ShopTID": "TID_RICO_BRAWLENTINE_CHROMA2_SKIN"
+        },
+        "DaredevilGold": {
+            "ShopTID": "TID_TRUE_GOLD_GIGI_SKIN"
+        },
+        "DaredevilSilver": {
+            "ShopTID": "TID_TRUE_SILVER_GIGI_SKIN"
+        },
+        "MegaBossTrickshotBrawlentineChroma1": {
+            "ShopTID": "TID_RICO_BRAWLENTINE_CHROMA1_SKIN"
+        },
+        "MegaBossTrickshotBrawlentineChroma2": {
+            "ShopTID": "TID_RICO_BRAWLENTINE_CHROMA2_SKIN"
+        },
+        "ArcadeSandsOfTime": {
+            "ShopTID": "TID_SANDS_OF_TIME_8BIT_SKIN"
+        },
+        "CannonGirlFairy": {
+            "ShopTID": "TID_DRAGONS_AND_FAIRIES_BONNIE_SKIN"
+        },
+        "CrossBomberDragon": {
+            "ShopTID": "TID_DRAGONS_AND_FAIRIES_GROM_SKIN"
+        },
+        "MenderGold": {
+            "ShopTID": "TID_TRUE_GOLD_GLOWBERT_SKIN"
+        },
+        "MenderSilver": {
+            "ShopTID": "TID_TRUE_SILVER_GLOWBERT_SKIN"
+        },
+        "ShadowdemonGold": {
+            "ShopTID": "TID_TRUE_GOLD_SIRIUS_SKIN"
+        },
+        "ShadowdemonSilver": {
+            "ShopTID": "TID_TRUE_SILVER_SIRIUS_SKIN"
+        },
+        "ShamanAprilFools": {
+            "ShopTID": "TID_APRIL_FOOLS_NITA_SKIN"
+        },
+        "CrowRankedProgrsesionSkinLevel1": {
+            "ShopTID": "TID_CROW_PROPASS_PROGRESSION_SKIN_1"
+        },
+        "CrowRankedProgrsesionSkinLevel2": {
+            "ShopTID": "TID_CROW_PROPASS_PROGRESSION_SKIN_2"
+        },
+        "CrowRankedProgrsesionSkinLevel3": {
+            "ShopTID": "TID_CROW_PROPASS_PROGRESSION_SKIN_3"
+        },
+        "CrowRankedProgrsesionSkinLevel4": {
+            "ShopTID": "TID_CROW_PROPASS_PROGRESSION_SKIN_4"
+        },
+        "CrowRankedProgrsesionSkinLevel5": {
+            "ShopTID": "TID_CROW_PROPASS_PROGRESSION_SKIN_5"
+        },
+        "CrowRankedProgrsesionSkinLevel6": {
+            "ShopTID": "TID_CROW_PROPASS_PROGRESSION_SKIN_6"
+        },
+        "CrowRankedProgrsesionSkinLevel7": {
+            "ShopTID": "TID_CROW_PROPASS_PROGRESSION_SKIN_7"
+        },
+        "CrowRankedProgrsesionSkinLevel8": {
+            "ShopTID": "TID_CROW_PROPASS_PROGRESSION_SKIN_8"
+        },
+        "CrowRankedProgrsesionSkinLevel9": {
+            "ShopTID": "TID_CROW_PROPASS_PROGRESSION_SKIN_9"
+        },
+        "CrowRankedProgrsesionSkinLevel10": {
+            "ShopTID": "TID_CROW_PROPASS_PROGRESSION_SKIN_10"
+        },
+        "CrowRankedProgrsesionSkinLevel11": {
+            "ShopTID": "TID_CROW_PROPASS_PROGRESSION_SKIN_11"
+        },
+        "AmbusherSandsOfTime": {
+            "ShopTID": "TID_SANDS_OF_TIME_LILY_SKIN"
+        },
+        "AssaultShotgunDragon": {
+            "ShopTID": "TID_DRAGONS_AND_FAIRIES_GRIFF_SKIN"
+        },
+        "BaseballSandsOfTime": {
+            "ShopTID": "TID_SANDS_OF_TIME_BIBI_SKIN"
+        },
+        "TwinsSandsOfTime": {
+            "ShopTID": "TID_SANDS_OF_TIME_L&L_SKIN"
+        },
+        "DomainSupercellStore": {
+            "ShopTID": "TID_CLASH_TRUNK_SKIN"
+        },
+        "DancerFairies": {
+            "ShopTID": "TID_DRAGONS_AND_FAIRIES_MINA_SKIN"
+        },
+        "AxeJugglerAprilFools": {
+            "ShopTID": "TID_APRIL_FOOLS_MELODIE_SKIN"
+        },
+        "MaisieDragons": {
+            "ShopTID": "TID_DRAGONS_AND_FAIRIES_MAISE_SKIN"
+        },
+        "FrankFairies": {
+            "ShopTID": "TID_DRAGONS_AND_FAIRIES_FRANK_SKIN"
+        },
+        "ReviverSandsOfTime": {
+            "ShopTID": "TID_SANDS_OF_TIME_DOUG_SKIN"
+        },
+        "DuelistSandsOfTime": {
+            "ShopTID": "TID_SANDS_OF_TIME_CORDELIUS_SKIN"
+        },
+        "BulletstormGold": {
+            "ShopTID": "TID_TRUE_GOLD_PIERCE_SKIN"
+        },
+        "BulletstormSilver": {
+            "ShopTID": "TID_TRUE_SILVER_PIERCE_SKIN"
+        },
+        "Mender199Gem": {
+            "ShopTID": "TID_GLOWBERT_APRIL_FOOLS_SKIN"
+        },
+        "AssaultShotgunDragonChroma1": {
+            "ShopTID": "TID_DRAGONS_AND_FAIRIES_GRIFF_CHROMA_1_SKIN"
+        },
+        "AssaultShotgunDragonChroma2": {
+            "ShopTID": "TID_DRAGONS_AND_FAIRIES_GRIFF_CHROMA_2_SKIN"
+        },
+        "DuelistSandsOfTimeChroma1": {
+            "ShopTID": "TID_SANDS_OF_TIME_CORDELIUS_CHROMA_1_SKIN"
+        },
+        "DuelistSandsOfTimeChroma2": {
+            "ShopTID": "TID_SANDS_OF_TIME_CORDELIUS_CHROMA_2_SKIN"
+        },
+        "CannonGirlFairyChromaBlue": {
+            "ShopTID": "TID_DRAGONS_AND_FAIRIES_BONNIE_CHROMA_1_SKIN"
+        },
+        "CannonGirlFairyChromaPink": {
+            "ShopTID": "TID_DRAGONS_AND_FAIRIES_BONNIE_CHROMA_2_SKIN"
+        },
+        "AmbusherSandsOfTimeChromaGreen": {
+            "ShopTID": "TID_SANDS_OF_TIME_LILY__CHROMA_1_SKIN"
+        },
+        "AmbusherSandsOfTimeChromaRed": {
+            "ShopTID": "TID_SANDS_OF_TIME_LILY__CHROMA_2_SKIN"
+        },
+        "JetpackGirlMHA": {
+            "ShopTID": "TID_MHA_OCHACO_JANET_SKIN"
+        },
+        "EnragerBakugo": {
+            "ShopTID": "TID_MHA_BAKUGO_EDGAR_SKIN"
+        },
+        "SoulCollectorMHA": {
+            "ShopTID": "TID_MHA_SHIGARAKI_GUS_SKIN"
+        },
+        "KickerDudeMHA": {
+            "ShopTID": "TID_MHA_DEKU_FANG_SKIN"
+        },
+        "RedirecterGold": {
+            "ShopTID": "TID_TRUE_GOLD_NAJIA_SKIN"
+        },
+        "RedirecterSilver": {
+            "ShopTID": "TID_TRUE_SILVER_NAJIA_SKIN"
+        },
+        "LuchadorMHA": {
+            "ShopTID": "TID_MHA_ALL_MIGHT_PRIMO_SKIN"
+        },
+        "BeeSniperStarrGirls": {
+            "ShopTID": "TID_STARR_GIRLS_BEA_SKIN"
+        },
+        "CactusStarrGirls": {
+            "ShopTID": "TID_STARR_GIRLS_SPIKE_SKIN"
+        },
+        "VoodooStarrGirls": {
+            "ShopTID": "TID_STARR_GIRLS_JUJU_SKIN"
+        },
+        "FireDudeStarrGirls": {
+            "ShopTID": "TID_STARR_GIRLS_AMBER_SKIN"
+        },
+        "PercenterStarrGirls": {
+            "ShopTID": "TID_STARR_GIRLS_COLETTE_SKIN"
+        },
+        "ChronomancerStarrGirls": {
+            "ShopTID": "TID_STARR_GIRLS_FINX_SKIN"
+        },
+        "CactusStarrGirlsChroma1": {
+            "ShopTID": "TID_STARR_GIRLS_SPIKE_CHROMA_1_SKIN"
+        },
+        "CactusStarrGirlsChroma2": {
+            "ShopTID": "TID_STARR_GIRLS_SPIKE_CHROMA_2_SKIN"
+        },
+        "PercenterStarrGirlsChroma1": {
+            "ShopTID": "TID_STARR_GIRLS_COLETTE_CHROMA_1_SKIN"
+        },
+        "PercenterStarrGirlsChroma2": {
+            "ShopTID": "TID_STARR_GIRLS_COLETTE_CHROMA_2_SKIN"
+        },
+        "FireDudeStarrGirlsChroma1": {
+            "ShopTID": "TID_STARR_GIRLS_AMBER_CHROMA_1_SKIN"
+        },
+        "IceDudeStrikers": {
+            "ShopTID": "TID_BRAWL_STRIKERS_LOU_SKIN"
+        },
+        "SilencerStrikers": {
+            "ShopTID": "TID_BRAWL_STRIKERS_OTIS_SKIN"
+        },
+        "HookDudeStrikers": {
+            "ShopTID": "TID_BRAWL_STRIKERS_GENE_SKIN"
+        },
+        "MeepleStrikers": {
+            "ShopTID": "TID_BRAWL_STRIKERS_MEEPLE_SKIN"
+        },
+        "WhirlwindStrikers": {
+            "ShopTID": "TID_BRAWL_STRIKERS_CARL_SKIN"
+        },
+        "PowerLevelerStrikers": {
+            "ShopTID": "TID_BRAWL_STRIKERS_SURGE_SKIN"
+        },
+        "HookDudeStrikersChroma1": {
+            "ShopTID": "TID_BRAWL_STRIKERS_GENE_CHROMA_1_SKIN"
+        },
+        "HookDudeStrikersChroma2": {
+            "ShopTID": "TID_BRAWL_STRIKERS_GENE_CHROMA_2_SKIN"
+        },
+        "WhirlwindStrikersChroma1": {
+            "ShopTID": "TID_BRAWL_STRIKERS_CARL_CHROMA_1_SKIN"
+        },
+        "WhirlwindStrikersChroma2": {
+            "ShopTID": "TID_BRAWL_STRIKERS_CARL_CHROMA_2_SKIN"
+        },
+        "DrillerWorldFinals": {
+            "ShopTID": "TID_ESPORTS_JACKY_SKIN"
+        },
+        "GladiatorGold": {
+            "ShopTID": "TID_TRUE_GOLD_DAMIAN_SKIN"
+        },
+        "GladiatorSilver": {
+            "ShopTID": "TID_TRUE_SILVER_DAMIAN_SKIN"
+        },
+        "KnightAdidas": {
+            "ShopTID": "TID_ADIDAS_BOX_ASH_SKIN"
+        },
+        "BanditGirlCybernoodles": {
+            "ShopTID": "TID_CYBERNOODLES_SHELLY_SKIN"
+        },
+        "LeaperKatanakingdom": {
+            "ShopTID": "TID_KATANA_KINGDOM_MICO_SKIN"
+        },
+        "LeaperKatanakingdomChroma1": {
+            "ShopTID": "TID_KATANA_KINGDOM_MICO_CHROMA_1_SKIN"
+        },
+        "LeaperKatanakingdomChroma2": {
+            "ShopTID": "TID_KATANA_KINGDOM_MICO_CHROMA_2_SKIN"
+        },
+        "DoorManWindstock": {
+            "ShopTID": "TID_WINDSTOCK_GRAY_SKIN"
+        },
+        "RosaWindstock": {
+            "ShopTID": "TID_WINDSTOCK_ROSA_SKIN"
+        },
+        "RockGold": {
+            "ShopTID": "TID_TRUE_GOLD_BOLT_SKIN"
+        },
+        "RockSilver": {
+            "ShopTID": "TID_TRUE_SILVER_BOLT_SKIN"
+        },
+        "DiggerDiggerWindstock": {
+            "ShopTID": "TID_WINDSTOCK_MOE_SKIN"
+        },
+        "ClusterBombKatanakingdom": {
+            "ShopTID": "TID_KATANA_KINGDOM_TICK_SKIN"
+        },
+        "BlackholeCybernoodles": {
+            "ShopTID": "TID_CYBERNOODLES_TARA_SKIN"
+        },
+        "RocketGirlRankedProgrsesionSkinLevel1": {
+            "ShopTID": "TID_BROCK_PROPASS_PROGRESSION_SKIN_1"
+        },
+        "RocketGirlRankedProgrsesionSkinLevel2": {
+            "ShopTID": "TID_BROCK_PROPASS_PROGRESSION_SKIN_2"
+        },
+        "RocketGirlRankedProgrsesionSkinLevel3": {
+            "ShopTID": "TID_BROCK_PROPASS_PROGRESSION_SKIN_3"
+        },
+        "RocketGirlRankedProgrsesionSkinLevel4": {
+            "ShopTID": "TID_BROCK_PROPASS_PROGRESSION_SKIN_4"
+        },
+        "RocketGirlRankedProgrsesionSkinLevel5": {
+            "ShopTID": "TID_BROCK_PROPASS_PROGRESSION_SKIN_5"
+        },
+        "RocketGirlRankedProgrsesionSkinLevel6": {
+            "ShopTID": "TID_BROCK_PROPASS_PROGRESSION_SKIN_6"
+        },
+        "RocketGirlRankedProgrsesionSkinLevel7": {
+            "ShopTID": "TID_BROCK_PROPASS_PROGRESSION_SKIN_7"
+        },
+        "RocketGirlRankedProgrsesionSkinLevel8": {
+            "ShopTID": "TID_BROCK_PROPASS_PROGRESSION_SKIN_8"
+        },
+        "RocketGirlRankedProgrsesionSkinLevel9": {
+            "ShopTID": "TID_BROCK_PROPASS_PROGRESSION_SKIN_9"
+        },
+        "RocketGirlRankedProgrsesionSkinLevel10": {
+            "ShopTID": "TID_BROCK_PROPASS_PROGRESSION_SKIN_10"
+        },
+        "RocketGirlRankedProgrsesionSkinLevel11": {
+            "ShopTID": "TID_BROCK_PROPASS_PROGRESSION_SKIN_11"
+        },
+        "AlternatorCybernoodles": {
+            "ShopTID": "TID_CYBERNOODLES_JAE_YONG_SKIN"
+        },
+        "AlternatorCybernoodlesChroma1": {
+            "ShopTID": "TID_CYBERNOODLES_JAE_YONG_CHROMA_1_SKIN"
+        },
+        "AlternatorCybernoodlesChroma2": {
+            "ShopTID": "TID_CYBERNOODLES_JAE_YONG_CHROMA_2_SKIN"
+        },
+        "SnakeOilWindstock": {
+            "ShopTID": "TID_WINDSTOCK_BYRON_SKIN"
+        },
+        "SnakeOilWindstockChroma1": {
+            "ShopTID": "TID_WINDSTOCK_BYRON_CHROMA_1_SKIN"
+        },
+        "SnakeOilWindstockChroma2": {
+            "ShopTID": "TID_WINDSTOCK_BYRON_CHROMA_2_SKIN"
+        },
+        "PainterKatanakingdom": {
+            "ShopTID": "TID_KATANA_KINGDOM_BERRY_SKIN"
+        },
+        "SamuraiWindstock": {
+            "ShopTID": "TID_WINDSTOCK_KENJI_SKIN"
+        },
+        "MagicalGirlGold": {
+            "ShopTID": "TID_TRUE_GOLD_STARRNOVA_SKIN"
+        },
+        "MagicalGirlSilver": {
+            "ShopTID": "TID_TRUE_SILVER_STARRNOVA_SKIN"
+        },
+        "MechaDudeCybernoodlesOvercharge": {
+            "ShopTID": "TID_CYBERNOODLES_MEG_SKIN"
+        },
+        "MechaDudeCybernoodlesChroma1": {
+            "ShopTID": "TID_CYBERNOODLES_MEG_CHROMA_1_SKIN"
+        },
+        "KatanaKidCybernoodles": {
+            "ShopTID": "TID_CYBERNOODLES_KOJI_SKIN"
+        },
+        "WallyWindstock": {
+            "ShopTID": "TID_WINDSTOCK_SPROUT_SKIN"
+        },
+        "RosaWindstockChroma1": {
+            "ShopTID": "TID_WINDSTOCK_ROSA_SKIN"
+        },
+        "RosaWindstockChroma2": {
+            "ShopTID": "TID_WINDSTOCK_ROSA_CHROMA_2_SKIN "
+        },
+        "MechaDudeCybernoodlesChroma2": {
+            "ShopTID": "TID_CYBERNOODLES_MEG_CHROMA_2_SKIN"
+        }
+    }
+}

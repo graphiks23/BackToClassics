@@ -1,4 +1,10 @@
 {
+      "skins": {
+    "*": {
+      "BattleIntroXOffset": null,
+      "BattleIntroZOffset": null
+    }
+  },
     "characters": {
         "ShotgunGirl": {
             "BattleIntroZOffset": null

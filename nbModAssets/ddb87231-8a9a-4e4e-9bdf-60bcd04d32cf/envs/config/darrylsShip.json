@@ -1,10 +1,7 @@
 {
-  "locations": {
-       "Wanted7": {
-         "LocationTheme": "DarrylsShip"
+  "location_themes": {
+    "DarrylsShip": {
+      "Disabled": null
     }
-  },
-       "DarrylsShip": {
-       "Disabled": null
   }
 }

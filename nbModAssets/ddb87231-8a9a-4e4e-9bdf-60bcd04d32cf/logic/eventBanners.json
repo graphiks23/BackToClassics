@@ -1,0 +1,349 @@
+{
+    "location_themes": {
+        "Retropolis": {
+            "BannerExportName": "event_retropolis_banner_static"
+        },
+        "OldTown": {
+            "BannerExportName": "event_town_banner_static"
+        },
+        "OldTownLNY": {
+            "BannerExportName": "event_cny_banner_static"
+        },
+        "OldTownTutorial": {
+            "BannerExportName": "event_gemmine_banner_static"
+        },
+        "Mine": {
+            "BannerExportName": "event_gemmine_banner_static"
+        },
+        "MineTrainTracks": {
+            "BannerExportName": "event_gemmine_banner_static"
+        },
+        "Warehouse": {
+            "BannerExportName": "event_robowars_banner_static"
+        },
+        "Oasis": {
+            "BannerExportName": "event_oasis_banner_static"
+        },
+        "OasisBeach": {
+            "BannerExportName": "event_beach_banner_static"
+        },
+        "Mortuary": {
+            "BannerExportName": "event_mortuary_banner_static"
+        },
+        "MortuaryHW": {
+            "BannerExportName": "event_mortuary_banner_static"
+        },
+        "MortuaryShowdown": {
+            "BannerExportName": "event_mortuary_showdown_banner_static"
+        },
+        "MortuaryIslandShowdown": {
+            "BannerExportName": "event_mortuary_showdown_banner_static"
+        },
+        "MortuaryShowdownHW": {
+            "BannerExportName": "event_mortuary_showdown_banner_static"
+        },
+        "Grassfield": {
+            "BannerExportName": "event_brawlball_banner_static"
+        },
+        "GrassfieldBeachBall": {
+            "BannerExportName": "event_beach_banner_static"
+        },
+        "Default": {
+            "BannerExportName": "event_canyon_banner_static"
+        },
+        "DefaultShowdown": {
+            "BannerExportName": "event_stormvalley_banner_static"
+        },
+        "IslandShowdown": {
+            "BannerExportName": "event_stormvalley_banner_static"
+        },
+        "DarrylsShip": {
+            "BannerExportName": "event_pirates_banner_static"
+        },
+        "DarrylsXmas": {
+            "BannerExportName": "event_pirates_banner_static"
+        },
+        "Arcade": {
+            "BannerExportName": "event_arcade_banner_static"
+        },
+        "BBArena": {
+            "BannerExportName": "event_brawlball_arena_banner_static"
+        },
+        "Bazaar": {
+            "BannerExportName": "event_bazaar_banner_static"
+        },
+        "Minicity": {
+            "BannerExportName": "event_scity_banner_static"
+        },
+        "GiftShop": {
+            "BannerExportName": "event_giftshop_banner_static"
+        },
+        "BandStand": {
+            "BannerExportName": "event_pocostand_banner_static"
+        },
+        "BandStandHW": {
+            "BannerExportName": "event_pocostand_banner_static"
+        },
+        "SnowtelXmas": {
+            "BannerExportName": "event_snowtel_banner_static"
+        },
+        "Snowtel": {
+            "BannerExportName": "event_snowtel_banner_static"
+        },
+        "Scrapyard": {
+            "BannerExportName": "event_scrapyard_banner_static"
+        },
+        "StarrForce": {
+            "BannerExportName": "event_starr_force_banner_static"
+        },
+        "ActionShow": {
+            "BannerExportName": "event_actionshow_banner_static"
+        },
+        "WaterPark": {
+            "BannerExportName": "event_velocirapids_banner_static"
+        },
+        "ArcadeBasket": {
+            "BannerExportName": "event_arcade_banner_static"
+        },
+        "BBArenaVolley": {
+            "BannerExportName": "event_brawlball_arena_banner_static"
+        },
+        "CastleCourtyard": {
+            "BannerExportName": "event_fairytale_banner_static"
+        },
+        "Brawlywood": {
+            "BannerExportName": "event_brawlywood_banner_static"
+        },
+        "FightingGame": {
+            "BannerExportName": "event_tigerpit_banner_static"
+        },
+        "Biodome": {
+            "BannerExportName": "event_biodome_banner_static"
+        },
+        "StuntShow": {
+            "BannerExportName": "event_stuntshow_banner_static"
+        },
+        "StuntShowBB": {
+            "BannerExportName": "event_stuntshow_banner_static"
+        },
+        "DeepSea": {
+            "BannerExportName": "event_deepsea_banner_static"
+        },
+        "RobotFactory": {
+            "BannerExportName": "event_robotfactory_banner_static"
+        },
+        "RobotFactoryShowdown": {
+            "BannerExportName": "event_robotfactory_banner_static"
+        },
+        "GhostMetro": {
+            "BannerExportName": "event_ghosttrain_banner_static"
+        },
+        "CandyStand": {
+            "BannerExportName": "event_candyland_banner_static"
+        },
+        "Hub": {
+            "BannerExportName": "event_hub_banner_static_static"
+        },
+        "Rooftop": {
+            "BannerExportName": "event_basketball_banner_static_static"
+        },
+        "RumbleJungle": {
+            "BannerExportName": "event_rumblejungle_banner_static"
+        },
+        "ArcadeShowdown": {
+            "BannerExportName": "event_arcade_banner_static"
+        },
+        "StuntShowdown": {
+            "BannerExportName": "event_stuntshow_banner_static"
+        },
+        "StuntShowVolley": {
+            "BannerExportName": "event_stuntshow_banner_static"
+        },
+        "EnchantedForest": {
+            "BannerExportName": "event_enchanted_banner_static"
+        },
+        "RangerRanch": {
+            "BannerExportName": "event_rangerranch_banner_static"
+        },
+        "BizarreCircus": {
+            "BannerExportName": "event_circus_banner_static"
+        },
+        "BizarreCircusIslandShowdown": {
+            "BannerExportName": "event_circus_banner_static"
+        },
+        "CoinFactory": {
+            "BannerExportName": "event_piggy_banner_static"
+        },
+        "CoinFactoryBB": {
+            "BannerExportName": "event_piggy_banner_static"
+        },
+        "IceIslandShowdownBB": {
+            "BannerExportName": "event_frozen_banner_static"
+        },
+        "IceIslandShowdown": {
+            "BannerExportName": "event_frozen_banner_static"
+        },
+        "StarrToonsStudio": {
+            "BannerExportName": "event_cartoon_banner_static"
+        },
+        "LoveSwamp": {
+            "BannerExportName": "event_swamp_banner_static"
+        },
+        "BazaarIslandShowdown": {
+            "BannerExportName": "event_bazaar_banner_static"
+        },
+        "MadEvilManor": {
+            "BannerExportName": "event_madevil_banner_static"
+        },
+        "MadEvilIslandShowdown": {
+            "BannerExportName": "event_madevil_banner_static"
+        },
+        "MadEvilDungeonShowdown": {
+            "BannerExportName": "event_madevil_banner_static"
+        },
+        "Godzilla": {
+            "BannerExportName": "event_scity_banner_static"
+        },
+        "GodzillaIslandShowdown": {
+            "BannerExportName": "event_scity_banner_static"
+        },
+        "MadEvilManorShowdown": {
+            "BannerExportName": "event_madevil_banner_static"
+        },
+        "Spongebob": {
+            "BannerExportName": "event_spongebob_banner_static"
+        },
+        "SpongebobBB": {
+            "BannerExportName": "event_spongebob_banner_static"
+        },
+        "SpongebobShowdown": {
+            "BannerExportName": "event_spongebob_banner_static"
+        },
+        "SpongebobIslandShowdown": {
+            "BannerExportName": "event_spongebob_banner_static"
+        },
+        "MortuaryVolley": {
+            "BannerExportName": "event_mortuary_banner_static"
+        },
+        "OdditiesShop": {
+            "BannerExportName": "event_odditiesshop_banner_static"
+        },
+        "KatanaKingdom": {
+            "BannerExportName": "event_katanakingdom_banner_static"
+        },
+        "KatanaKingdomShowdown": {
+            "BannerExportName": "event_katanakingdom_banner_static"
+        },
+        "KatanaKingdomIslandShowdown": {
+            "BannerExportName": "event_katanakingdom_banner_static"
+        },
+        "AirHockey": {
+            "BannerExportName": "event_airhockey_banner_static"
+        },
+        "Skatepark": {
+            "BannerExportName": "event_skatepark_banner_static"
+        },
+        "Pyramidquest": {
+            "BannerExportName": "event_pyramidquest_banner_static"
+        },
+        "HockeyIslandShowdownBB": {
+            "BannerExportName": "event_airhockey_banner_static"
+        },
+        "TropicalIslandShowdown": {
+            "BannerExportName": "event_tropical_banner_static"
+        },
+        "TropicalIslandShowdownBB": {
+            "BannerExportName": "event_tropical_banner_static"
+        },
+        "SubwaySurfers": {
+            "BannerExportName": "event_subwaysurfers_banner_static"
+        },
+        "SubwaySurfersShowdown": {
+            "BannerExportName": "event_subwaysurfers_banner_static"
+        },
+        "StrangerThings": {
+            "BannerExportName": "event_strangerthings_banner_static"
+        },
+        "StrangerThingsIslandLabShowdown": {
+            "BannerExportName": "event_strangerthings_banner_static"
+        },
+        "StrangerThingsIslandForestShowdown": {
+            "BannerExportName": "event_strangerthings_banner_static"
+        },
+        "StrangerThingsIslandLairShowdown": {
+            "BannerExportName": "event_strangerthings_banner_static"
+        },
+        "StrangerThingsLabShowdown": {
+            "BannerExportName": "event_strangerthings_banner_static"
+        },
+        "StrangerThingsForestShowdown": {
+            "BannerExportName": "event_strangerthings_banner_static"
+        },
+        "StrangerThingsLairShowdown": {
+            "BannerExportName": "event_strangerthings_banner_static"
+        },
+        "SeaMonsters": {
+            "BannerExportName": "event_seamonsters_banner_static"
+        },
+        "LoveSwampShowdown": {
+            "BannerExportName": "event_swamp_banner_static"
+        },
+        "LoveSwampIslandShowdown": {
+            "BannerExportName": "event_swamp_banner_static"
+        },
+        "StarrToonsStudioShowdown": {
+            "BannerExportName": "event_cartoon_banner_static"
+        },
+        "StarrToonsStudioIslandShowdown": {
+            "BannerExportName": "event_cartoon_banner_static"
+        },
+        "PyramidquestShowdown": {
+            "BannerExportName": "event_pyramidquest_banner_static"
+        },
+        "PyramidquestIslandShowdown": {
+            "BannerExportName": "event_pyramidquest_banner_static"
+        },
+        "BBArenaAdidas": {
+            "BannerExportName": "event_brawlball_adidas_banner_static"
+        },
+        "ScrapyardShowdown": {
+            "BannerExportName": "event_scrapyard_banner_static"
+        },
+        "SBGrassfield": {
+            "BannerExportName": "event_brawlball_banner_static"
+        },
+        "KatanaKingdomNN": {
+            "BannerExportName": "event_katanakingdom_banner_static"
+        },
+        "KatanaKingdomNN2": {
+            "BannerExportName": "event_katanakingdom_banner_static"
+        },
+        "KatanaKingdomNNShowdown": {
+            "BannerExportName": "event_katanakingdom_banner_static"
+        },
+        "KatanaKingdomNN2Showdown": {
+            "BannerExportName": "event_katanakingdom_banner_static"
+        },
+        "KatanaKingdomNNIslandShowdown": {
+            "BannerExportName": "event_katanakingdom_banner_static"
+        },
+        "KatanaKingdomNN2IslandShowdown": {
+            "BannerExportName": "event_katanakingdom_banner_static"
+        },
+        "BBArenaKatanaKingdomNN2": {
+            "BannerExportName": "event_katanakingdom_banner_static"
+        },
+        "HubShowdown": {
+            "BannerExportName": "event_hub_banner_static"
+        },
+        "HubIslandShowdown": {
+            "BannerExportName": "event_hub_banner_static"
+        },
+        "Windstock": {
+            "BannerExportName": "event_windstock_banner_static"
+        },
+        "WindstockIslandShowdown": {
+            "BannerExportName": "event_windstock_banner_static"
+        }
+    }
+}

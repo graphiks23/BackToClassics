@@ -1,0 +1,24 @@
+{
+    "collabs": {
+        "*": {
+            "EventPanelExportName": null,
+            "EventPanelMirrorExportName": null,
+            "Modifiers": null
+        }
+    },
+
+    
+    "chronos_asset_ids": {
+
+        "event_hub": {
+            "Disabled": "TRUE"
+        },
+        "event_hub_nano_noodles": {
+            "Disabled": "TRUE"
+        },
+        "event_hub_windstock": {
+            "Disabled": "TRUE"
+        }
+    
+    }
+}

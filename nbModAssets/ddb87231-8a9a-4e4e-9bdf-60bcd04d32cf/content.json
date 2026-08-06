@@ -14,14 +14,17 @@
     "@categories": [
         "gui",
         "sfx",
-		"texts"
+		"texts",
+		"skins",
+		"music",
+		"environment"
     ],
     "@gv": 68,
 
 		"@feature_groups": {
-			"misc": {
+			"pins": {
 			"@name": 		"Pin settings",
-			"@description": "Changes behaviour of pins. Select none for default behaviour.",
+			"@description": "Changes behaviour of pins.\nSelect none for default behaviour.",
 			"@type": 		"RADIO_GROUP",
 			"@features": 	["staticEmoji", "coolerEmoji"]
 					},
@@ -34,18 +37,37 @@
 							"brawlPassPatch", 
 							"buddyPatch", 
 							"themePatch", 
-							"dailyWinsPatch", 
 							"eventsPatch", 
 							"profilePatch", 
 							"twCommonPatch", 
 							"shopPatch"		]
-				}
+				},
+
+			"misc": {
+			"@name": 		"Misc. settings",
+			"@type": 		"DEFAULT",
+			"@features": 	["noSpecialEvents"]
+					},
+
+			"dailyWins": {
+			"@name": 		"Daily Wins",
+			"@description": "Select none to use default version of Daily Wins.\n(Daily Wins are disabled in Null's Brawl)",
+			"@type": 		"RADIO_GROUP",
+			"@features": 	["dailyWinsClassic", "dailyWinsTokenBar"]
+					},
+	
+			"ziggyStars": {
+			"@name": 		"??????",
+			"@description": "¿¿¿¿¿¿",
+			"@type": 		"DEFAULT",
+			"@features": 	["nothingOutOfTheOrdinary"]
+					}
 			},
 
 		"@features": {
 			"oldshop": {
 				"@name":        {"EN": "Old shop",             "RU": "Старый магазин"},
-				"@description": {"EN": "Enables the old shop", "RU": "Включает старую версию магазина"},
+				"@description": {"EN": "Enables the old shop (broken offers)", "RU": "Включает старую версию магазина"},
 				"@enabled": false,
 				"@priority": 1,
 				"@patches": "shop/oldshop.json"	},
@@ -55,16 +77,16 @@
 				"@description": "Removes all animation from pins",    
 				"@enabled": true,              
 				"@priority": 0,             
-				"@root": 		"emojiPatches/staticEmoji",
-				"@patches": 	"emojiPatches/staticEmoji/emojiPatchStatic.json"
+				"@root": 		"swfPatch/emojiPatches/staticEmoji",
+				"@patches": 	"swfPatch/emojiPatches/staticEmoji/emojiPatchStatic.json"
 			},
 			"coolerEmoji": {
 				"@name":        "Pop-in Pins",           
 				"@description": "Adds a small scale-in animation to pins (will break pins in shop and brawl pass)",    
 				"@enabled": false,              
 				"@priority": 0,             
-				"@root": 		"emojiPatches/coolerEmoji",
-				"@patches": 	"emojiPatches/coolerEmoji/emojiPatchCooler.json" 
+				"@root": 		"swfPatch/emojiPatches/coolerEmoji",
+				"@patches": 	"swfPatch/emojiPatches/coolerEmoji/emojiPatchCooler.json" 
 				},
 
 			"mutePins": {
@@ -72,7 +94,7 @@
 				"@description": {"EN": "Removes all sounds played by pins"},
 				"@enabled": true,
 				"@priority": 1,
-				"@patches": 			"emojiPatches/mutePins.json" 
+				"@patches": 			"swfPatch/emojiPatches/mutePins.json" 
 				},
 
 			"oldPortraits": {
@@ -80,8 +102,7 @@
 				"@description": {"EN": "Use old brawler portraits"},
 				"@enabled": true,
 				"@priority": 1,
-				"@root":			   "skins/oldPortraits",
-				"@patches": 		   "emojiPatches/mutePins.json" 
+				"@root":			   "skins/oldPortraits"
 				},
 				
 			"uiPatch": {
@@ -89,6 +110,7 @@
 				"@description": {"EN": "Things like homescreen, battle end screen, combat hud, etc."},
 				"@enabled": true,
 				"@priority": 1,
+				"@patches": 		   "swfPatch/ui/rankupVO.json",
 				"@root": 			   "swfPatch/ui"
 				},
 
@@ -115,19 +137,11 @@
 				"@root": 			   "swfPatch/classicTheme",
 				"@patches": 		   "swfPatch/classicTheme/btcTheme.json" 
 				},
-
-			"dailyWinsPatch": {
-				"@name":        {"EN": "Enable Daily Wins Patches"},
-				"@enabled": true,
-				"@priority": 1,
-				"@root": 			   "swfPatch/dailyWins"
-				},
-
 			"eventsPatch": {
 				"@name":        {"EN": "Enable static event banners"},
 				"@enabled": true,
 				"@priority": 1,
-				"@root": 			   "swfPatch/events"
+				"@patches": 			   "logic/eventBanners.json"
 				},
 
 			"profilePatch": {
@@ -146,15 +160,79 @@
 
 			"shopPatch": {
 				"@name":        {"EN": "Enable New Shop Patches"},
+				"@description": {"EN": "Enable patches for the new version of shop (like removing tabs)"},
 				"@enabled": true,
 				"@priority": 1,
-				"@description": {"EN": "Enable patches for the new version of shop (like removing tabs)"},
 				"@patches": 		   "swfPatch/shop/shopTabs.json",
 				"@root": 			   "swfPatch/shop"
+				},
+
+			"noSpecialEvents": {
+				"@name":        {"EN": "Remove ongoing special event"},
+				"@description": {"EN": "Remove event button from mainscreen and effects"},		
+				"@enabled":	 true,
+				"@priority": 1,
+				"@patches": 		   "logic/disableSpecialEvents.json"
+				},
+			"nothingOutOfTheOrdinary": {
+				"@name":        {"EN": "??????"},
+				"@description": {"EN": "¿¿¿¿¿¿"},
+				"@enabled":	 false,
+				"@priority": 999,
+				"@root": 			   "swfPatch/superSecretSettings/doNotEnter/seriouslyDont/nothingHere/",
+				"@patches": 		   "swfPatch/superSecretSettings/doNotEnter/seriouslyDont/nothingHere/fuckTheGameUp.json"
+				},
+				
+			"dailyWinsClassic": {
+				"@name":        {"EN": "Classic Daily Wins bar"},
+				"@description": {"EN": "Use the classic black Daily Wins bar"},
+				"@enabled": true,
+				"@priority": 1,
+				"@root": 			   "swfPatch/dailyWins"
+				},
+
+			"dailyWinsTokenBar": {
+				"@name":        {"EN": "Token counter"},
+				"@description": {"EN": "Replace daily wins with the classic token counter"},
+				"@enabled": false,
+				"@priority": 1,
+				"@patches": 		   "swfPatch/dailyWins/tokenBar.json",
+				"@root": 			   "swfPatch/dailyWins"
+				},
+
+			"oldEnvs": {
+				"@name":        {"EN": "Old environments"},
+				"@description": {"EN": "Replace all environments with old ones"},
+				"@enabled": true,
+				"@priority": 1,
+				"@patches":	 [ 
+										"envs/config/retropolis.json",
+										"envs/locations/retropolis.json",
+										"envs/config/darrylsShip.json",
+										"envs/locations/darrylsShip.json",
+										"envs/config/taraBazaar.json",
+										"envs/locations/taraBazaar.json",
+										"envs/locations/oldTraining.json",
+										"envs/config/oldTraining.json"
+
+				     ]
+				},
+
+			"oldModels": {
+				"@name":        {"EN": "Old brawler models"},
+				"@description": {"EN": "Replace new models with old models"},
+				"@enabled": false,
+				"@priority": 1,
+				"@root": 			   "skins/models/",
+				"@patches":	 [ 
+										"skins/shellyBaseRemix.json"
+
+						]
+
 				}
 			},
 			
-		"@patches": [
+		"@patches": [ 
 			"locale/btcCustomStrings.json",
 			"locale/chromaPatch.json",
 			"locale/starPoints.json",
@@ -170,9 +248,9 @@
 			"logic/skinBackgroundPatch.json",
 			"logic/rarities.json",
 			"logic/noPets.json",
-			"emojiPatches/oldPins.json",
+			"logic/skinShopNameFix.json",
+			"swfPatch/emojiPatches/oldPins.json",
 			"shop/shopItems.json",
-			"logic/battleIntroHeroOffsets.json",
-			"envs/config/darrylsShip.json"
+			"logic/battleIntroHeroOffsets.json"
 		]
 }

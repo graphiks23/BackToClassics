@@ -1,0 +1,24 @@
+{
+  "music": {
+    "Retropolis_battle": {
+      "Disabled": null,
+      "FileName": [
+          "music/retro_brawl_ingame_01.ogg"
+            ]
+    }
+  },
+    "locations": {
+        "Gemgrab2": {
+            "LocationTheme": "Retropolis"
+        },
+        "Gemgrab3": {
+            "LocationTheme": "Retropolis"
+        },
+        "Gemgrab4": {
+            "LocationTheme": "Retropolis"
+        },
+        "Gemgrab5": {
+            "LocationTheme": "Retropolis"
+        }
+    }
+}

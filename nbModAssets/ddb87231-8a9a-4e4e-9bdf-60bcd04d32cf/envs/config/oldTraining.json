@@ -1,0 +1,64 @@
+{
+    "location_themes": {
+        "MineTutorial": {
+            "TileSetPrefix": "mine_",
+            "BannerSWF": "sc/events.sc",
+            "BannerExportName": "event_gemmine_banner",
+            "Music": "BattleMusic",
+            "GroundModel": "sc3d/bgr_mine_tutorial_ground_geo.glb",
+            "EnvironmentModel": "sc3d/bgr_mine_tutorial_geo.glb",
+            "Wall1Model": [
+                "sc3d/mine_wall1_geo.glb",
+                "sc3d/mine_wall1_geo.glb"
+            ],
+            "Wall1Submesh": [
+                "Rock_1",
+                "Rock_1b"
+            ],
+            "Wall1AngleStep": [
+                90,
+                90
+            ],
+            "Wall2Model": "sc3d/mine_wall2_geo.glb",
+            "Wall2AngleStep": 90,
+            "CrateModel": "sc3d/default_crate_geo.glb",
+            "CrateSubmesh": "crate_1",
+            "BarrelModel": "sc3d/default_barrel_geo.glb",
+            "BarrelSubmesh": "barrel_1",
+            "BarrelAngleStep": 1,
+            "ThemedModel": "sc3d/mine_themed_geo.glb",
+            "ThemedSubmesh": "mushroom_1",
+            "ThemedAngleStep": 1,
+            "Grass": "sc3d/mine_grass_geo.glb",
+            "ClutterModel": "sc3d/mine_clutter_geo.glb",
+            "ClutterAngleStep": 1,
+            "FragileModel": "sc3d/default_fragile_geo.glb",
+            "FragileSubmesh": "bone_pile",
+            "FragileAngleStep": 1,
+            "FragileModel_CN": "sc3d/mine_fragile_cn_geo.glb",
+            "FragileSubmesh_CN": "fragile_mushroom",
+            "FragileAngleStep_CN": 1,
+            "WaterTileModel": "sc3d/mine_water_geo.glb",
+            "FenceModel": "sc3d/default_fence_geo.glb",
+            "RopeFenceModel": "sc3d/mine_rope_geo.glb",
+            "TrainTrackModel": "sc3d/default_train_track_geo.glb",
+            "IndestructibleFenceModel": "sc3d/default_fence_geo.glb",
+            "IndestructibleModel": "sc3d/default_indestructible_geo.glb",
+            "MineGemSpawnModelOverride": "sc3d/default_gem_spawn_geo.glb",
+            "MapPreviewBGColorRed": 96,
+            "MapPreviewBGColorGreen": 68,
+            "MapPreviewBGColorBlue": 84,
+            "MapPreviewSkyColorRed": 69,
+            "MapPreviewSkyColorGreen": 136,
+            "MapPreviewSkyColorBlue": 255,
+            "MapPreviewGemGrabSpawnHoleExportName": "spawn_hole",
+            "MapPreviewBallExportName": "icon_hud_brawl_ball",
+            "MapPreviewGoal1ExportName": "brawl_ball_goal_red",
+            "MapPreviewGoal2ExportName": "brawl_ball_goal_blue",
+            "MapPreviewSafeExportName": "heist_safe",
+            "MapPreviewCNOverrides": "fragile_mid_1>fragile_mushroom;destructable_mid_1>fragile_mushroom",
+            "MapWidth": 21,
+            "MapHeight": 33
+        }
+    }
+}
