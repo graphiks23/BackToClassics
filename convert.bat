@@ -44,6 +44,9 @@ for %%F in ("%INPUT_DIR%\*.sc") do (
                 "%TOOL%" "%OUTPUT_DIR%\%%~nxF" "%BRAWL_PASS_DUM%" "%%~fF" --repack-atlas --repack-banks --texture-type khronos --khronos-compression-type 0x93B6 --override-texture-parameters --remove-unused
                 if errorlevel 1 echo Error converting: "%%~nxF"
             )
+        ) else if /I "%%~nxF"=="btc_shared_assets.sc" (
+            "%TOOL%" "%OUTPUT_DIR%\%%~nxF" "%%~fF" --repack-atlas --repack-banks --texture-type khronos --khronos-compression-type 0x93B5 --override-texture-parameters --remove-unused
+            if errorlevel 1 echo Error converting: "%%~nxF"
         ) else (
             "%TOOL%" "%OUTPUT_DIR%\%%~nxF" "%%~fF" --repack-atlas --repack-banks --texture-type khronos --khronos-compression-type 0x93B4 --override-texture-parameters --remove-unused
             if errorlevel 1 echo Error converting: "%%~nxF"
