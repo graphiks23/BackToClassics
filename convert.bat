@@ -27,7 +27,7 @@ for %%F in ("%INPUT_DIR%\*.sc") do (
             if not exist "%UI_DUM%" (
                 echo Error: Required file not found: "%UI_DUM%"
             ) else (
-                "%TOOL%" "%OUTPUT_DIR%\%%~nxF" "%UI_DUM%" "%%~fF" --repack-atlas --repack-banks --texture-type khronos --khronos-compression-type 0x93B5 --override-texture-parameters --remove-unused
+                "%TOOL%" "%OUTPUT_DIR%\%%~nxF" "%UI_DUM%" "%%~fF" --repack-atlas --repack-banks --texture-type khronos --khronos-compression-type 0x93B5 --override-texture-parameters --remove-unused --normalize-id --input-normalize-id
                 if errorlevel 1 echo Error converting: "%%~nxF"
             )
         ) else if /I "%%~nxF"=="shop.sc" (
