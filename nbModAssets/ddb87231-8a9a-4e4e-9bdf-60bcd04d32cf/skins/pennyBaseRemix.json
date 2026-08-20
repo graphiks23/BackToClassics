@@ -1,0 +1,125 @@
+{
+  "$schema": "https://ext.nulls.gg/mods/schema/schema.json",
+  
+  "animations": {
+    "PennyIdle": {
+      "FileName": "mari_idle.scw",
+      "Speed": null
+    },
+    "PennyWalk": {
+      "FileName": "mari_walk.scw",
+      "EndFrame": 28,
+      "Speed": 150
+    },
+    "PennyPrimary": {
+      "FileName": "mari_attack.scw",
+      "EndFrame": 5,
+      "AutoFadeMs": 1,
+      "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+    },
+    "PennyUltiAttack": {
+      "FileName": "mari_ult.scw"
+    },
+    "PennyRecoil": {
+      "FileName": "mari_attack.scw",
+      "StartFrame": 5
+    },
+    "PennyUltiRecoil": {
+      "FileName": "mari_ult.scw",
+      "EndFrame": 20
+    },
+    "PennyReload": {
+      "FileName": "mari_idle.scw"
+    },
+    "PennyPushback": {
+      "FileName": "mari_pushback.scw"
+    },
+    "PennyWin": {
+      "FileName": "mari_win.scw",
+      "EndFrame": 62
+    },
+    "PennyWinloop": {
+      "FileName": "mari_win.scw",
+      "StartFrame": 63,
+      "EndFrame": 92
+    },
+    "PennyLose": {
+      "FileName": "mari_lose.scw",
+      "EndFrame": 50
+    },
+    "PennyLoseloop": {
+      "FileName": "mari_lose.scw",
+      "StartFrame": 40,
+      "EndFrame": 50
+    },
+    "PennyProfile": {
+      "FileName": "mari_win.scw",
+      "StartFrame": null,
+      "EndFrame": null,
+      "Looping": null
+    },
+    "ArtilleryTurretDefaultIdle": {
+      "FileName": "turret_idle.scw",
+      "StartFrame": -1,
+      "TransitionInMs": null,
+      "TransitionOutMs": null
+    },
+    "ArtilleryTurretDefaultAttack": {
+      "FileName": "turret_attack.scw",
+      "StartFrame": -1,
+      "Speed": 100,
+      "AutoFadeMs": 1
+    },
+    "ArtilleryTurretDefaultSpawn": {
+      "FileName": "turret_spawn.scw",
+      "StartFrame": -1,
+      "EndFrame": -1,
+      "AutoFadeMs": 1
+    }
+  },
+  "skin_confs": {
+    "ArtilleryGalDefault": {
+      "Model": "mari_geo.scw"
+    },
+
+  "ArtilleryTurretDefault": {
+       "Model": "turret_geo.scw"
+        }
+        
+  },
+  "skins": {
+    "ArtilleryGalDefault": {
+      "DiffuseTexture": "mari_tex.sctx",
+      "SpecularTexture": "mari_tex.sctx"
+    },
+
+    "ArtilleryTurretDefault": {
+      "DiffuseTexture": "mari_tex.sctx",
+      "SpecularTexture": "mari_tex.sctx"
+    }
+  },
+
+   "faces": {
+          "Penny003Win": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "penny_face"
+        },
+        "Penny003WinLoop": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "penny_face"
+        },
+        "Penny003Lose": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "penny_face"
+        },
+        "Penny003LoseLoop": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "penny_face"
+        },
+        "Penny003Still": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "penny_face"
+        }
+        
+    }
+}

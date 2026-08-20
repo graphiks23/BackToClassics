@@ -1,0 +1,77 @@
+{
+  "$schema": "https://ext.nulls.gg/mods/schema/schema.json",
+  
+  "skin_confs": {
+    "BanditGirlPrereg": {
+      "Model": "shelly_remix_prereg_geo.glb"
+    }
+  },
+  "skins": {
+    "BanditGirlPrereg": {
+      "DiffuseTexture": "shelly_remix_prereg_tex.sctx",
+      "SpecularTexture": "shelly_remix_prereg_tex.sctx"
+    }
+  },
+  "animations": {
+  "ShellyPreregIdle": {
+    "FileName": "shelly_remix_prereg_idle.glb",
+    "StartFrame": 0,
+    "EndFrame": 33,
+    "TransitionOutMs": 100,
+    "Looping": "true"
+  },
+  "ShellyPreregWalk": {
+    "FileName": "shelly_remix_prereg_walk.glb",
+    "StartFrame": 1,
+    "EndFrame": 29,
+    "Speed": 140
+  },
+  "ShellyPreregPrimary": {
+    "FileName": "shelly_remix_prereg_attack.glb",
+    "StartFrame": 1,
+    "EndFrame": 5,
+    "AutoFadeMs": 10
+  },
+  "ShellyPreregSecondary": {
+    "FileName": "shelly_remix_prereg_attack.glb",
+    "StartFrame": 3,
+    "EndFrame": 5,
+    "TransitionOutMs": 10
+  },
+  "ShellyPreregRecoil": {
+    "FileName": "shelly_remix_prereg_attack.glb",
+    "StartFrame": 5,
+    "EndFrame": 20,
+    "TransitionInMs": 25
+  },
+  "ShellyPreregPushback": {
+    "FileName": "shelly_remix_prereg_pushback.glb"
+  },
+  "ShellyPreregWin": {
+    "FileName": "shelly_remix_prereg_win.glb",
+    "StartFrame": 1,
+    "EndFrame": 85
+  },
+  "ShellyPreregWinloop": {
+    "FileName": "shelly_remix_prereg_win.glb",
+    "StartFrame": 85,
+    "EndFrame": 124,
+    "Looping": true
+  },
+  "ShellyPreregLose": {
+    "FileName": "shelly_remix_prereg_lose.glb",
+    "StartFrame": 1,
+    "EndFrame": 60
+  },
+  "ShellyPreregLoseloop": {
+    "FileName": "shelly_remix_prereg_lose.glb",
+    "StartFrame": 60,
+    "EndFrame": 60,
+    "Looping": true
+        },
+    "ShellyPreregReload": {
+        "FileName": "shelly_remix_prereg_idle.glb",
+        "Speed": 200
+        }
+    }
+}

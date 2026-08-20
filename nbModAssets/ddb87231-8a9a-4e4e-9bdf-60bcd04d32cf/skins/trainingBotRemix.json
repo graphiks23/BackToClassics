@@ -1,0 +1,347 @@
+{
+    "skin_confs": {
+        "RangedBotDefault": {
+            "Model": "rangedbot_geo.scw"
+        },
+        "MeleeFastBotDefault": {
+            "Model": "fastmeleebot_geo.scw"
+        },
+        "MeleeBotDefault": {
+            "Model": "meleebot_geo.scw"
+        },
+        "BossBotDefault": {
+            "Model": "bossbot_geo.scw"
+        },
+        "BigBotDefault": {
+            "Model": "bossbot_geo.scw"
+        }
+    },
+
+        "skins": {
+        "RangedBotDefault": {
+            "DiffuseTexture": "rangedbot_remix_tex.sctx",
+            "SpecularTexture": "rangedbot_remix_tex.sctx"
+        },
+        "MeleeFastBotDefault": {
+            "DiffuseTexture": "fastmeleebot_remix_tex.sctx",
+            "SpecularTexture": "fastmeleebot_remix_tex.sctx"
+        },
+        "MeleeBotDefault": {
+            "DiffuseTexture": "meleebot_remix_tex.sctx",
+            "SpecularTexture": "meleebot_remix_tex.sctx"
+        },
+        "BossBotDefault": {
+            "DiffuseTexture": "bossbot_remix_tex.sctx",
+            "SpecularTexture": "bossbot_remix_tex.sctx"
+        },
+        "BigBotDefault": {
+            "DiffuseTexture": "bossbot_remix_tex.sctx",
+            "SpecularTexture": "bossbot_remix_tex.sctx"
+        }
+    },
+        "animations": {
+        "RangedBotIdle": {
+            "FileName": "rangedbot_idle.scw",
+            "StartFrame": -1
+        },
+        "RangedBotWalk": {
+            "FileName": "rangedbot_walk.scw",
+            "StartFrame": -1,
+            "Speed": 100
+        },
+        "RangedBotPrimary": {
+            "FileName": "rangedbot_attack1.scw",
+            "StartFrame": -1,
+            "EndFrame": -1,
+            "TransitionInMs": 100,
+            "TransitionOutMs": 300,
+            "AutoFadeMs": 600,
+            "Priority": "ChestBone#3"
+        },
+        "RangedBotSecondary": {
+            "FileName": "rangedbot_attack1.scw",
+            "StartFrame": -1,
+            "EndFrame": -1,
+            "TransitionInMs": 100,
+            "TransitionOutMs": 300,
+            "AutoFadeMs": 600,
+            "Priority": "ChestBone#3"
+        },
+        "RangedBotRecoil": {
+            "FileName": "rangedbot_recoil.scw",
+            "StartFrame": -1,
+            "TransitionInMs": 100,
+            "TransitionOutMs": 200,
+            "AutoFadeMs": 400,
+            "Priority": "ChestBone#4"
+        },
+        "RangedBotReload": {
+            "FileName": "rangedbot_reload.scw",
+            "StartFrame": -1,
+            "Priority": "ChestBone#2"
+        },
+        "RangedBotPushback": {
+            "FileName": "rangedbot_idle.scw",
+            "StartFrame": -1
+        },
+        "RangedBotWin": {
+            "FileName": "rangedbot_win1.scw",
+            "StartFrame": -1
+        },
+        "RangedBotWinloop": {
+            "FileName": "rangedbot_winloop1.scw",
+            "StartFrame": -1
+        },
+        "RangedBotLose": {
+            "FileName": "rangedbot_lose1.scw",
+            "StartFrame": -1
+        },
+        "RangedBotLoseloop": {
+            "FileName": "rangedbot_loseloop1.scw",
+            "StartFrame": -1
+        },
+        "FastMeleeBotIdle": {
+            "FileName": "fastmeleebot_idle.scw",
+            "StartFrame": -1,
+            "TransitionInMs": 500,
+            "TransitionOutMs": 500
+        },
+        "FastMeleeBotWalk": {
+            "FileName": "fastmeleebot_walk.scw",
+            "StartFrame": -1,
+            "TransitionInMs": 120
+        },
+        "FastMeleeBotRecoil": {
+            "FileName": "fastmeleebot_recoil.scw",
+            "StartFrame": -1,
+            "AutoFadeMs": 200,
+            "Priority": "PelvisBone#4+RLegBone#0+LLegBone#0"
+        },
+        "FastMeleeBotPushback": {
+            "FileName": "fastmeleebot_idle.scw",
+            "StartFrame": -1,
+            "EndFrame": -1
+        },
+        "FastMeleeBotWin": {
+            "FileName": "fastmeleebot_idle.scw",
+            "StartFrame": -1
+        },
+        "FastMeleeBotWinloop": {
+            "FileName": "fastmeleebot_idle.scw",
+            "StartFrame": -1
+        },
+        "FastMeleeBotLose": {
+            "FileName": "fastmeleebot_idle.scw",
+            "StartFrame": -1
+        },
+        "FastMeleeBotLoseloop": {
+            "FileName": "fastmeleebot_idle.scw",
+            "StartFrame": -1
+        },
+        "MeleeBotIdle": {
+            "FileName": "meleebot_idle.scw",
+            "StartFrame": -1,
+            "TransitionInMs": 500,
+            "TransitionOutMs": 500
+        },
+        "MeleeBotWalk": {
+            "FileName": "meleebot_walk.scw",
+            "StartFrame": -1,
+            "Speed": 150,
+            "TransitionInMs": 120
+        },
+        "MeleeBotRecoil": {
+            "FileName": "recoil.scw",
+            "StartFrame": -1,
+            "EndFrame": -1,
+            "AutoFadeMs": 200,
+            "Priority": "PelvisBone#4+RLegBone#0+LLegBone#0"
+        },
+        "MeleeBotPushback": {
+            "FileName": "meleebot_idle.scw",
+            "StartFrame": -1
+        },
+        "MeleeBotRecoil2": {
+            "FileName": "recoil_2.scw",
+            "StartFrame": -1,
+            "AutoFadeMs": 200,
+            "Priority": "PelvisBone#4+RLegBone#0+LLegBone#0"
+        },
+        "MeleeBotWin": {
+            "FileName": "meleebot_idle.scw",
+            "StartFrame": -1
+        },
+        "MeleeBotWinloop": {
+            "FileName": "meleebot_idle.scw",
+            "StartFrame": -1
+        },
+        "MeleeBotLose": {
+            "FileName": "meleebot_idle.scw",
+            "StartFrame": -1
+        },
+        "MeleeBotLoseloop": {
+            "FileName": "meleebot_idle.scw",
+            "StartFrame": -1
+        },
+        "BossBotIdle": {
+            "FileName": "bossbot_idle.scw",
+            "StartFrame": -1
+        },
+        "BossBotWalk": {
+            "FileName": "bossbot_walk.scw",
+            "StartFrame": -1,
+            "Speed": 150
+        },
+        "BossBotPrimary": {
+            "FileName": "bossbot_shoot_recoil.scw",
+            "StartFrame": -1,
+            "EndFrame": -1,
+            "TransitionInMs": 1,
+            "AutoFadeMs": 200,
+            "Priority": "ChestBone#3"
+        },
+        "BossBotRecoil": {
+            "FileName": "bossbot_recoil_1.scw",
+            "StartFrame": -1,
+            "EndFrame": -1,
+            "TransitionInMs": 1,
+            "TransitionOutMs": 100,
+            "AutoFadeMs": 200,
+            "Priority": "PelvisBone#4+RLegBone#0+LLegBone#0"
+        },
+        "BossBotPushback": {
+            "FileName": "bossbot_idle.scw",
+            "TransitionInMs": 100,
+            "TransitionOutMs": 100,
+            "AutoFadeMs": 400
+        },
+        "BossBotRecoil2": {
+            "FileName": "bossbot_recoil_2.scw",
+            "StartFrame": -1,
+            "EndFrame": -1,
+            "TransitionInMs": 1,
+            "TransitionOutMs": 100,
+            "AutoFadeMs": 200,
+            "Priority": "PelvisBone#4+RLegBone#0+LLegBone#0"
+        },
+        "BossBotWin": {
+            "FileName": "bossbot_idle.scw",
+            "StartFrame": -1
+        },
+        "BossBotWinloop": {
+            "FileName": "bossbot_idle.scw",
+            "StartFrame": -1
+        },
+        "BossBotLose": {
+            "FileName": "bossbot_idle.scw",
+            "StartFrame": -1
+        },
+        "BossBotLoseloop": {
+            "FileName": "bossbot_idle.scw",
+            "StartFrame": -1
+        }
+    },
+
+
+   "characters": {
+        "EventModifierBoss": {
+      "Scale": 250
+    },
+    "TrainingDummySmall": {
+      "Scale": 140
+    },
+    "TrainingDummyMedium": {
+      "Scale": 140
+    },
+    "TrainingDummyBig": {
+      "Scale": 200
+    },
+    "TrainingDummyShooting": {
+      "Scale": 127
+    },
+    "CoopMeleeEnemy1": {
+      "Scale": 127
+    },
+    "CoopMeleeEnemy2": {
+      "Scale": 148
+    },
+    "CoopMeleeEnemy3": {
+      "Scale": 169
+    },
+    "CoopMeleeEnemy4": {
+      "Scale": 190
+    },
+    "CoopFastMeleeEnemy1": {
+      "Scale": 106
+    },
+    "CoopFastMeleeEnemy2": {
+      "Scale": 127
+    },
+    "CoopFastMeleeEnemy3": {
+      "Scale": 148
+    },
+    "CoopFastMeleeEnemy4": {
+      "Scale": 169
+    },
+    "CoopRangedEnemy1": {
+      "Scale": 127
+    },
+    "CoopRangedEnemy2": {
+      "Scale": 148
+    },
+    "CoopRangedEnemy3": {
+      "Scale": 169
+    },
+    "CoopRangedEnemy4": {
+      "Scale": 190
+    },
+    "CoopBoss1": {
+      "Scale": 250
+    },
+    "CoopBoss2": {
+      "Scale": 300
+    },
+    "CoopBoss3": {
+      "Scale": 350
+    },
+    "RaidBoss": {
+      "Scale": 300
+    },
+    "RaidBossMeleeEnemy1": {
+      "Scale": 127
+    },
+    "RaidBossMeleeEnemy2": {
+      "Scale": 148
+    },
+    "RaidBossMeleeEnemy3": {
+      "Scale": 169
+    },
+    "RaidBossMeleeEnemy4": {
+      "Scale": 190
+    },
+    "RaidBossFastMeleeEnemy1": {
+      "Scale": 106
+    },
+    "RaidBossFastMeleeEnemy2": {
+      "Scale": 127
+    },
+    "RaidBossFastMeleeEnemy3": {
+      "Scale": 148
+    },
+    "RaidBossFastMeleeEnemy4": {
+      "Scale": 169
+    },
+    "RaidBossRangedEnemy1": {
+      "Scale": 127
+    },
+    "RaidBossRangedEnemy2": {
+      "Scale": 148
+    },
+    "RaidBossRangedEnemy3": {
+      "Scale": 169
+    },
+    "RaidBossRangedEnemy4": {
+      "Scale": 190
+    }
+    }
+}

@@ -1,0 +1,150 @@
+{
+  "effects": {
+    "death_shotgun_girl": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_bull_dude": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_gunslinger": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_rocket_girl": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_trickshot_dude": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_cactus": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_barkeep": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_mechanic": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_shaman": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_tnt_dude": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_luchador": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_undertaker": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_crow": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_dead_mariachi": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_bow_dude": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_sniper": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_minigun": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_bonethrower": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_barrel_bot": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_artillery_dude": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_hammer_dude": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_hook_dude": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_ninja": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_rosa": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_whirlwind": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_baseball": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_arcade": {
+      "Effect": "gen_troop_death",
+      "ParticleEmitterName": "splat_emitter",
+      "EnemyVersion": "gen_troop_death"
+    },
+    "death_blackhole": {
+      "Effect": [
+        "gen_troop_death",
+        null
+      ],
+      "ParticleEmitterName": [
+        null,
+        "cards_flying"
+      ],
+      "EnemyVersion": "gen_troop_death"
+    }
+  }
+}

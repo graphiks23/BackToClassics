@@ -1,0 +1,10 @@
+{
+    "game_mode_variations": {
+        "BrawlBall": {
+            "ScoreVO": null,
+            "OpponentScoreVO": null,
+            "VictoryVO": null,
+            "DefeatVO": null
+        }
+    }
+}

@@ -1,0 +1,162 @@
+{
+    "skins": {
+        "TurretDefault": {
+            "DiffuseTexture": "dogturret_remix.sctx",
+            "SpecularTexture": "dogturret_remix.sctx"
+        },
+        "MechanicDefault": {
+            "DiffuseTexture": "jessie_remix_tex.sctx",
+            "SpecularTexture": "jessie_remix_tex.sctx"
+        },
+        "MechanicGold": {
+            "DiffuseTexture": "jessie_gold_remix_tex.sctx",
+            "SpecularTexture": "jessie_gold_remix_tex.sctx"
+        },
+        "MechanicSilver": {
+            "DiffuseTexture": "jessie_silver_remix_tex.sctx",
+            "SpecularTexture": "jessie_silver_remix_tex.sctx"
+        },
+        "MechanicGoldTurret": {
+            "DiffuseTexture": "dogturret_gold_remix_tex.sctx",
+            "SpecularTexture": "dogturret_gold_remix_tex.sctx"
+        },
+        "MechanicSilverTurret": {
+            "DiffuseTexture": "dogturret_silver_remix_tex.sctx",
+            "SpecularTexture": "dogturret_silver_remix_tex.sctx"
+        }
+    },
+    "skin_confs": {
+        "TurretDefault": {
+            "Model": "turret_jessie_geo.scw"
+        },
+        "MechanicDefault": {
+            "Model": "jessie_geo.scw",
+            "IdleFace": "JessieStill",
+            "WalkFace": "JessieStill",
+            "HappyFace": "JessieWin",
+            "HappyLoopFace": "JessieWinLoop",
+            "SadFace": "JessieLose",
+            "SadLoopFace": "JessieLoseLoop",
+            "LobbyFace": "JessieWin",
+            "LobbyLoopFace": "JessieWinLoop",
+            "HeroScreenIdleFace": "JessieIdle",
+            "HeroScreenFace": "JessieWin",
+            "HeroScreenLoopFace": "JessieWinLoop",
+            "SignatureFace": "JessieWin",
+            "ProfileFace": "JessieStill",
+            "IntroFace": "JessieStill"
+        },
+        "MechanicGold": {
+            "Model": "jessie_geo.scw"
+        },
+        "MechanicSilver": {
+            "Model": "jessie_geo.scw"
+        }
+    },
+   
+    "animations": {
+        "Turret": {
+            "FileName": "turret_jessie_geo.scw"
+        },
+        "TurretSpawn": {
+            "FileName": "turret_jessie_spawn.scw"
+        },
+        "TurretIdle": {
+            "FileName": "turret_jessie_idle.scw"
+        },
+        "TurretAttack": {
+            "FileName": "turret_jessie_attack.scw"
+        },
+        "JessieIdle": {
+            "FileName": "jessie_idle.scw"
+        },
+        "JessieWalk": {
+            "FileName": "jessie_walk.scw"
+        },
+        "JessiePrimary": {
+            "FileName": "jessie_attack.scw",
+            "StartFrame": 1,
+            "EndFrame": 5
+        },
+        "JessieUltiAttack": {
+            "FileName": "jessie_idle.scw"
+        },
+        "JessieRecoil": {
+            "FileName": "jessie_attack.scw",
+            "StartFrame": 5
+        },
+        "JessieUltiRecoil": {
+            "FileName": "jessie_idle.scw"
+        },
+        "JessieReload": {
+            "FileName": "jessie_idle.scw",
+            "EndFrame": -1
+        },
+        "JessiePushback": {
+            "FileName": "jessie_pushback.scw",
+            "EndFrame": -1
+        },
+        "JessieWin": {
+            "FileName": "jessie_win.scw",
+            "EndFrame": 107
+        },
+        "JessieWinloop": {
+            "FileName": "jessie_win.scw",
+            "StartFrame": 107,
+            "EndFrame": 139
+        },
+        "JessieLose": {
+            "FileName": "jessie_lose.scw",
+            "EndFrame": 56
+        },
+        "JessieLoseloop": {
+            "FileName": "jessie_lose.scw",
+            "StartFrame": 56,
+            "EndFrame": 70
+        },
+        "JessieProfile": {
+            "FileName": "jessie_portrait.scw",
+            "StartFrame": 1,
+            "EndFrame": 1
+        },
+        "JessieTurretIdle": {
+            "FileName": "turret_jessie_idle.scw"
+        },
+        "JessieTurretAttack": {
+            "FileName": "turret_jessie_attack.scw",
+            "EndFrame": -1
+        },
+        "JessieTurretSpawn": {
+            "FileName": "turret_jessie_spawn.scw"
+        }
+    },
+    
+    "faces": {
+        "JessieStill": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "jessie_face"
+        },
+        "JessieIdle": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "jessie_face"
+        },
+        "JessieWin": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "jessie_face"
+        },
+        "JessieWinLoop": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "jessie_face"
+        },
+        "JessieLose": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "jessie_dreamy_face"
+        },
+        "JessieLoseLoop": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "jessie_dreamy_face"
+        }
+    }
+
+
+}

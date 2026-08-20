@@ -1,0 +1,20 @@
+{
+  "skins": {
+    "ShotgunGirlGold": {
+      "DiffuseTexture": "shelly_gold_remix_tex.sctx",
+      "SpecularTexture": "shelly_gold_remix_tex.sctx"
+    },
+    "ShotgunGirlSilver": {
+      "DiffuseTexture": "shelly_silver_remix_tex.sctx",
+      "SpecularTexture": "shelly_silver_remix_tex.sctx"
+    }
+  },
+      "skin_confs": {
+        "ShotgunGirlGold": {
+            "Model": "shelly_remix_geo.glb"
+        },
+        "ShotgunGirlSilver": {
+        "Model": "shelly_remix_geo.glb"
+        }
+    }
+}

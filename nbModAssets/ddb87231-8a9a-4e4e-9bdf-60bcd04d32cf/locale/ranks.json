@@ -1,37 +1,48 @@
 {
-    "texts": {
+    "texts_patch": {
         "TID_HERO_INFO_RANK": {
-            "EN": "RANK"
+            "EN": "RANK",
+            "RU": "РАНГ"
         },
         "TID_RANK_UP_POPUP_TITLE": {
-            "EN": "RANK UP!"
+            "EN": "RANK UP!",
+            "RU": "ПОВЫШЕНИЕ РАНГА!"
         },
         "TID_RANK_UP_POPUP_REWARD_BONUS": {
-            "EN": "RANK UP BONUS"
+            "EN": "RANK UP BONUS",
+            "RU": "БОНУС ЗА ПОВЫШЕНИЕ РАНГА"
         },
         "TID_RANK_UP_POPUP_RANK": {
-            "EN": "RANK <RANK>"
+            "EN": "RANK <RANK>",
+            "RU": "РАНГ <RANK>"
         },
         "TID_BATTLE_END_GAIN_LABEL_RANK_UP": {
-            "EN": "Rank up"
+            "EN": "Rank up",
+            "RU": "Повышение ранга"
         },
         "TID_BATTLE_END_GAIN_LABEL_SURVIVAL": {
-            "EN": "Rank score"
+            "EN": "Rank score",
+            "RU": "Ранговый счёт"
         },
         "TID_HERO_SCORE_INFO": {
-            "EN": "Collect Trophies for this Brawler by winning games against other players.\\n\\nReach <PROGRESS> Trophies to achieve next Trophy Rank"
+            "EN": "Collect Trophies for this Brawler by winning games against other players.\\n\\nReach <PROGRESS> Trophies to achieve next Trophy Rank",
+            "RU": "Собирай трофеи для этого бойца, побеждая в играх против других игроков.\\n\\nНабери <PROGRESS> трофеев, чтобы достичь следующего трофейного ранга"
         },
         "TID_HERO_SCORE_INFO_MAXED": {
-            "EN": "Maximum Trophy Rank reached! Wins now give Season Trophies."
+            "EN": "Maximum Trophy Rank reached! Wins now give Season Trophies.",
+            "RU": "Достигнут максимальный трофейный ранг! Теперь победы дают сезонные трофеи."
         },
         "TID_HERO_SCORE_INFO_COMPACT": {
-            "EN": "Reach <PROGRESS> Trophies to achieve next Trophy Rank"
+            "EN": "Reach <PROGRESS> Trophies to achieve next Trophy Rank",
+            "RU": "Набери <PROGRESS> трофеев, чтобы достичь следующего трофейного ранга"
         },
         "TID_HERO_SORTING_RANKUP": {
-            "EN": "Closest to Next Rank"
+            "EN": "Closest to Next Rank",
+            "RU": "Ближе всего к следующему рангу"
         },
         "TID_HERO_SCORE_INFO_MAXED_COMPACT_NEW": {
-            "EN": "Maximum Trophy Rank reached!\\n\\nTrophies earned above 1000 are Season Trophies! Brawler Trophies reset back to 1000 at the end of Season."
+            "EN": "Maximum Trophy Rank reached!\\n\\nTrophies earned above 1000 are Season Trophies! Brawler Trophies reset back to 1000 at the end of Season.",
+            "RU": "Достигнут максимальный трофейный ранг!\\n\\nТрофеи выше 1000 становятся сезонными! В конце сезона трофеи бойца сбрасываются до 1000."
         }
     }
 }

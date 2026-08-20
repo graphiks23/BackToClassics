@@ -1,0 +1,8 @@
+{
+  "skins": {
+    "PowerLevelerDefault": {
+      "DiffuseTexture": "surge_remix_tex.sctx",
+      "SpecularTexture": "surge_remix_tex.sctx"
+    }
+  }
+}

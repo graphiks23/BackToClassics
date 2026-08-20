@@ -1,0 +1,382 @@
+{
+    "milestones": {
+        "goal_1_0": {
+            "Progress": 20,
+            "RankAssetFrame": 1,
+            "RankNumberValue": 1,
+            "RankFaceFrame": 0
+        },
+        "goal_1_1": {
+            "ProgressStart": 20,
+            "Progress": 20,
+            "RankNumberValue": 1,
+            "RankAssetFrame": 0
+        },
+        "goal_1_2": {
+            "ProgressStart": 40,
+            "Progress": 20,
+            "RankAssetFrame": 1,
+            "RankNumberValue": 3,
+            "RankFaceFrame": 0
+        },
+        "goal_1_3": {
+            "ProgressStart": 60,
+            "Progress": 20,
+            "RankAssetFrame": 1,
+            "RankNumberValue": 4,
+            "RankFaceFrame": 0
+        },
+        "goal_1_4": {
+            "ProgressStart": 80,
+            "Progress": 20,
+            "RankAssetFrame": 4,
+            "RankNumberValue": 5,
+            "RankFaceFrame": 0
+        },
+        "goal_1_5": {
+            "ProgressStart": 100,
+            "Progress": 20,
+            "RankAssetFrame": 4,
+            "RankNumberValue": 6,
+            "RankFaceFrame": 0
+        },
+        "goal_1_6": {
+            "ProgressStart": 120,
+            "Progress": 20,
+            "RankAssetFrame": 4,
+            "RankNumberValue": 7,
+            "RankFaceFrame": 0
+        },
+        "goal_1_7": {
+            "ProgressStart": 140,
+            "Progress": 20,
+            "RankAssetFrame": 4,
+            "RankNumberValue": 8,
+            "RankFaceFrame": 0
+        },
+        "goal_1_8": {
+            "ProgressStart": 160,
+            "Progress": 20,
+            "RankAssetFrame": 4,
+            "RankNumberValue": 9,
+            "RankFaceFrame": 0
+        },
+        "goal_1_9": {
+            "ProgressStart": 180,
+            "Progress": 20,
+            "RankAssetFrame": 9,
+            "RankNumberValue": 10,
+            "RankFaceFrame": 0
+        },
+        "goal_1_10": {
+            "ProgressStart": 200,
+            "Progress": 20,
+            "RankAssetFrame": 9,
+            "RankNumberValue": 11,
+            "RankFaceFrame": 0
+        },
+        "goal_1_11": {
+            "ProgressStart": 220,
+            "Progress": 20,
+            "RankAssetFrame": 11,
+            "RankNumberValue": 12,
+            "RankFaceFrame": 0
+        },
+        "goal_1_12": {
+            "ProgressStart": 250,
+            "Progress": 30,
+            "RankAssetFrame": 46,
+            "RankNumberValue": 13,
+            "RankFaceFrame": 1
+        },
+        "goal_1_13": {
+            "ProgressStart": 260,
+            "Progress": 10,
+            "RankAssetFrame": 46,
+            "RankNumberValue": 14,
+            "RankFaceFrame": 1
+        },
+        "goal_1_14": {
+            "ProgressStart": 280,
+            "Progress": 20,
+            "RankAssetFrame": 47,
+            "RankNumberValue": 15,
+            "RankFaceFrame": 1
+        },
+        "goal_1_15": {
+            "ProgressStart": 300,
+            "Progress": 20,
+            "RankAssetFrame": 47,
+            "RankNumberValue": 16,
+            "RankFaceFrame": 1
+        },
+        "goal_1_16": {
+            "ProgressStart": 320,
+            "Progress": 20,
+            "RankAssetFrame": 47,
+            "RankNumberValue": 17,
+            "RankFaceFrame": 1
+        },
+        "goal_1_17": {
+            "ProgressStart": 340,
+            "Progress": 20,
+            "RankAssetFrame": 48,
+            "RankNumberValue": 18,
+            "RankFaceFrame": 1
+        },
+        "goal_1_18": {
+            "ProgressStart": 360,
+            "Progress": 20,
+            "RankAssetFrame": 48,
+            "RankNumberValue": 19,
+            "RankFaceFrame": 1
+        },
+        "goal_1_19": {
+            "ProgressStart": 380,
+            "Progress": 20,
+            "RankAssetFrame": 49,
+            "RankNumberValue": 20,
+            "RankFaceFrame": 1
+        },
+        "goal_1_20": {
+            "ProgressStart": 400,
+            "Progress": 20,
+            "RankAssetFrame": 50,
+            "RankNumberValue": 21,
+            "RankFaceFrame": 1
+        },
+        "goal_1_21": {
+            "ProgressStart": 420,
+            "Progress": 20,
+            "RankAssetFrame": 50,
+            "RankNumberValue": 22,
+            "RankFaceFrame": 1
+        },
+        "goal_1_22": {
+            "ProgressStart": 440,
+            "Progress": 20,
+            "RankAssetFrame": 50,
+            "RankNumberValue": 23,
+            "RankFaceFrame": 1
+        },
+        "goal_1_23": {
+            "ProgressStart": 460,
+            "Progress": 20,
+            "RankAssetFrame": 50,
+            "RankNumberValue": 24,
+            "RankFaceFrame": 1
+        },
+        "goal_1_24": {
+            "ProgressStart": 480,
+            "Progress": 20,
+            "RankAssetFrame": 51,
+            "RankNumberValue": 25,
+            "RankFaceFrame": 1
+        },
+        "goal_1_25": {
+            "ProgressStart": 500,
+            "Progress": 20,
+            "RankAssetFrame": 52,
+            "RankNumberValue": 26,
+            "RankFaceFrame": 2
+        },
+        "goal_1_26": {
+            "ProgressStart": 520,
+            "Progress": 20,
+            "RankAssetFrame": 52,
+            "RankNumberValue": 27,
+            "RankFaceFrame": 2
+        },
+        "goal_1_27": {
+            "ProgressStart": 540,
+            "Progress": 20,
+            "RankAssetFrame": 52,
+            "RankNumberValue": 28,
+            "RankFaceFrame": 2
+        },
+        "goal_1_28": {
+            "ProgressStart": 560,
+            "Progress": 20,
+            "RankAssetFrame": 52,
+            "RankNumberValue": 29,
+            "RankFaceFrame": 2
+        },
+        "goal_1_29": {
+            "ProgressStart": 580,
+            "Progress": 20,
+            "RankAssetFrame": 53,
+            "RankNumberValue": 30,
+            "RankFaceFrame": 2
+        },
+        "goal_1_30": {
+            "ProgressStart": 600,
+            "Progress": 20,
+            "RankAssetFrame": 53,
+            "RankNumberValue": 31,
+           "RankFaceFrame": 2
+        },
+        "goal_1_31": {
+            "ProgressStart": 620,
+            "Progress": 20,
+            "RankAssetFrame": 53,
+            "RankNumberValue": 32,
+            "RankFaceFrame": 2
+        },
+        "goal_1_32": {
+            "ProgressStart": 640,
+            "Progress": 20,
+            "RankAssetFrame": 53,
+            "RankNumberValue": 33,
+            "RankFaceFrame": 2
+        },
+        "goal_1_33": {
+            "ProgressStart": 660,
+            "Progress": 20,
+            "RankAssetFrame": 54,
+            "RankNumberValue": 34,
+            "RankFaceFrame": 2
+        },
+        "goal_1_34": {
+            "ProgressStart": 680,
+            "Progress": 20,
+            "RankAssetFrame": 55,
+            "RankNumberValue": 35,
+            "RankFaceFrame": 2
+        },
+        "goal_1_35": {
+            "ProgressStart": 700,
+            "Progress": 20,
+            "RankAssetFrame": 55,
+            "RankNumberValue": 36,
+               "RankFaceFrame": 2
+        },
+        "goal_1_36": {
+            "ProgressStart": 720,
+            "Progress": 20,
+            "RankAssetFrame": 55,
+            "RankNumberValue": 37,
+             "RankFaceFrame": 2
+        },
+        "goal_1_37": {
+            "ProgressStart": 740,
+            "Progress": 20,
+            "RankAssetFrame": 55,
+            "RankNumberValue": 38,
+            "RankFaceFrame": 2
+        },
+        "goal_1_38": {
+            "ProgressStart": 750,
+            "Progress": 10,
+            "RankAssetFrame": 56,
+            "RankNumberValue": 39,
+            "RankFaceFrame": 2
+        },
+        "goal_1_39": {
+            "ProgressStart": 780,
+            "Progress": 39,
+            "RankAssetFrame": 37,
+            "RankNumberValue": 40,
+            "RankFaceFrame": 2
+        },
+        "goal_1_40": {
+            "ProgressStart": 800,
+            "Progress": 20,
+            "RankAssetFrame": 37,
+            "RankNumberValue": 41,
+            "RankFaceFrame": 2
+
+        },
+        "goal_1_41": {
+            "ProgressStart": 820,
+            "Progress": 20,
+            "RankAssetFrame": 37,
+            "RankNumberValue": 42,
+            "RankFaceFrame": 2
+        },
+        "goal_1_42": {
+            "ProgressStart": 840,
+            "Progress": 20,
+            "RankAssetFrame": 37,
+            "RankNumberValue": 43,
+            "RankFaceFrame": 2
+        },
+        "goal_1_43": {
+            "ProgressStart": 860,
+            "Progress": 20,
+            "RankAssetFrame": 37,
+            "RankNumberValue": 44,
+            "RankFaceFrame": 2
+        },
+        "goal_1_44": {
+            "ProgressStart": 880,
+            "Progress": 20,
+            "RankAssetFrame": 38,
+            "RankNumberValue": 45,
+            "RankFaceFrame": 2
+        },
+        "goal_1_45": {
+            "ProgressStart": 900,
+            "Progress": 20,
+            "RankAssetFrame": 38,
+            "RankNumberValue": 46,
+            "RankFaceFrame": 2
+        },
+        "goal_1_46": {
+            "ProgressStart": 920,
+            "Progress": 20,
+            "RankAssetFrame": 38,
+            "RankNumberValue": 47,
+            "RankFaceFrame": 2
+        },
+        "goal_1_47": {
+            "ProgressStart": 940,
+            "Progress": 20,
+            "RankAssetFrame": 38,
+            "RankNumberValue": 48,
+            "RankFaceFrame": 2
+        },
+        "goal_1_48": {
+            "ProgressStart": 960,
+            "Progress": 20,
+            "RankAssetFrame": 38,
+            "RankNumberValue": 49,
+            "RankFaceFrame": 2
+        },
+        "goal_1_49": {
+            "ProgressStart": 980,
+            "Progress": 20,
+            "RankAssetFrame": 39,
+            "RankNumberValue": 50,
+            "RankFaceFrame": 2
+        },
+        "goal_1_50": {
+            "ProgressStart": 1000,
+            "Progress": 20,
+            "RankAssetFrame": 40,
+            "RankNumberValue": 51,
+            "RankFaceFrame": 3
+        },
+        "goal_1_51": {
+            "ProgressStart": 2000,
+            "Progress": 1000,
+            "RankAssetFrame": 40,
+            "RankNumberValue": null,
+            "RankFaceFrame": 3
+        },
+        "goal_1_52": {
+            "ProgressStart": 3000,
+            "Progress": 1000,
+            "RankAssetFrame": 41,
+            "RankNumberValue": null,
+            "RankFaceFrame": 3
+        },
+            
+        "goal_1_53": {
+            "ProgressStart": 4000,
+            "Progress": 1000,
+            "RankAssetFrame": 42,
+            "RankNumberValue": null,
+            "RankFaceFrame": 3
+        }
+    }
+}

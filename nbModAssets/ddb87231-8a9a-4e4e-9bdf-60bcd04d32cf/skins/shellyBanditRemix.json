@@ -1,0 +1,96 @@
+{
+  "$schema": "https://ext.nulls.gg/mods/schema/schema.json",
+  
+  "skin_confs": {
+    "BanditGirlBandita": {
+      "Model": "shelly_remix_bandit_geo.glb"
+    }
+  },
+  "skins": {
+    "BanditGirlBandita": {
+      "DiffuseTexture": "shelly_remix_bandit_tex.sctx",
+      "SpecularTexture": "shelly_remix_bandit_tex.sctx"
+    }
+  },
+   "animations": {
+  "ShellyBanditaIdle": {
+    "FileName": "shelly_remix_bandit_idle.glb",
+    "StartFrame": 0,
+    "EndFrame": 33,
+    "TransitionOutMs": 100,
+    "Looping": "true"
+  },
+  "ShellyBanditaWalk": {
+    "FileName": "shelly_remix_bandit_walk.glb",
+    "StartFrame": 1,
+    "EndFrame": 29,
+    "Speed": 140
+  },
+  "ShellyBanditaPrimary": {
+    "FileName": "shelly_remix_bandit_attack.glb",
+    "StartFrame": 1,
+    "EndFrame": 5,
+    "AutoFadeMs": 10
+  },
+  "ShellyBanditaSecondary": {
+    "FileName": "shelly_remix_bandit_attack.glb",
+    "StartFrame": 3,
+    "EndFrame": 5,
+    "TransitionOutMs": 10
+  },
+  "ShellyBanditaRecoil": {
+    "FileName": "shelly_remix_bandit_attack.glb",
+    "StartFrame": 5,
+    "EndFrame": 20,
+    "TransitionInMs": 25
+  },
+  "ShellyPushback": {
+    "FileName": "shelly_remix_pushback.glb"
+  },
+  "ShellyBanditaWin": {
+    "FileName": "shelly_remix_bandit_win.glb",
+    "StartFrame": 1,
+    "EndFrame": 85
+  },
+  "ShellyBanditaWinloop": {
+    "FileName": "shelly_remix_bandit_win.glb",
+    "StartFrame": 85,
+    "EndFrame": 124,
+    "Looping": true
+  },
+  "ShellyBanditaLose": {
+    "FileName": "shelly_remix_bandit_lose.glb",
+    "StartFrame": 1,
+    "EndFrame": 60
+  },
+  "ShellyBanditaLoseloop": {
+    "FileName": "shelly_remix_bandit_lose.glb",
+    "StartFrame": 60,
+    "EndFrame": 60,
+    "Looping": true
+        }
+},
+   "faces": {
+        "Shelly002Win": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "empty"
+        },
+        "Shelly002WinLoop": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "empty"
+        },
+        "Shelly002Lose": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "empty"
+        },
+        "Shelly002LoseLoop": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "empty"
+        },
+        "Shelly002Still": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "empty"
+        }
+        
+    }
+}

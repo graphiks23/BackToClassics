@@ -1,5 +1,17 @@
 {
     "texts_patch": {
+		    "TID_BTC_MAJOR_VER": {
+            "EN": "Back To Classics 3.1",
+			"RU": "Back To Classics 3.1"
+        },
+    		"TID_BTC_BUILD_VER": {
+            "EN": "build 128 v68",
+			"RU": "build 128 v68"
+        },
+		"TID_BTC_BUTTON": {
+            "EN": "BackToClassics Channel",
+		    "RU": "Канал BackToClassics"
+        },
 		    "TID_TRANSLATORS_TITLE": {
             "EN": "Translation help:",
 			"RU": "Помощь в переводе:"
@@ -79,6 +91,15 @@
 		"TID_BTC_TOKENS_EXHAUSTED": {
             "EN": "Battle Tokens exhausted",
 			"RU": "Боевые жетоны закончились."
+        },
+        "TID_BTC_TOKENREWARD_IN": {
+            "EN": "+20 tokens in 33m 22s",
+            "RU": "+20 жетонов через 33 м. 22 с."
+        },
+        "TID_BTC_REFRESH_WINS":
+        {
+            "EN": "New Starr Drops in:",
+            "RU": "Новые Старр-дропы через:"
         }
     }
 }

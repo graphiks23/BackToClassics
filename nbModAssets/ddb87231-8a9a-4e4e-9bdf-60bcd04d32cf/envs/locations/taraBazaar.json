@@ -1,17 +1,70 @@
 {
-  "locations": {
-    "Gemgrab1": {
-      "LocationTheme": "Bazaar"
-                }
-      },
-    "music": {
-        "Brawzaar_ingame_muzak": {
-            "Disabled": null,
-            "FileName": [
-                "music/brawzaar_ingame_01.ogg",
-                "music/brawzaar_ingame_02.ogg"
-            ],
-            "BackgroundFile": null
+    "locations": {
+        "Gemgrab1": {
+            "LocationTheme": "Bazaar"
+        },
+        "Gemgrab2": {
+            "LocationTheme": "Bazaar"
+        },
+        "Gemgrab3": {
+            "LocationTheme": "Bazaar"
+        },
+        "Gemgrab4": {
+            "LocationTheme": "Bazaar"
+        },
+        "Gemgrab5": {
+            "LocationTheme": "Bazaar"
+        },
+        "Gemgrab16": {
+            "LocationTheme": "Bazaar"
+        },
+        "Gemgrab601": {
+            "LocationTheme": "Bazaar"
+        },
+        "Gemgrab602": {
+            "LocationTheme": "Bazaar"
+        },
+        "Gemgrab6101": {
+            "LocationTheme": "Bazaar"
+        },
+        "Gemgrab6102": {
+            "LocationTheme": "Bazaar"
+        },
+        "Gemgrab6201": {
+            "LocationTheme": "Bazaar"
+        },
+        "Gemgrab6202": {
+            "LocationTheme": "Bazaar"
+        },
+        "Gemgrab631": {
+            "LocationTheme": "Bazaar"
+        },
+        "Gemgrab632": {
+            "LocationTheme": "Bazaar"
+        },
+        "Gemgrab641": {
+            "LocationTheme": "Bazaar"
+        },
+        "Gemgrab651": {
+            "LocationTheme": "Bazaar"
+        },
+        "Gemgrab652": {
+            "LocationTheme": "Bazaar"
+        },
+        "Gemgrab661": {
+            "LocationTheme": "Bazaar"
+        },
+        "Gemgrab662": {
+            "LocationTheme": "Bazaar"
+        },
+        "Gemgrab671": {
+            "LocationTheme": "Bazaar"
+        },
+        "Gemgrab681": {
+            "LocationTheme": "Bazaar"
+        },
+        "Gemgrab682": {
+            "LocationTheme": "Bazaar"
         }
-      }
+    }
 }

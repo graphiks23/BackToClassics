@@ -1,0 +1,16 @@
+{
+  "client_globals": {
+    "LOW_GFX_DEVICES": {
+      "StringArray": ".*"
+    },
+    "LOW_GFX_RENDERERS": {
+      "StringArray": ".*"
+    },
+    "LOW_MEMORY_LIMIT": {
+      "NumberValue": 1
+    },
+    "BRAWLWER_SORTING_SELECTOR_ENABLED": {
+      "BooleanValue": "FALSE"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+    "faces": {
+        "ShellyFaceNew": {
+            "FileName": "characters.sc",
+            "ExportName": "shelly_face"
+        },
+        "ShellyStillNew": {
+            "FileName": "characters.sc",
+            "ExportName": "shelly_still"
+        },
+        "ShellyHappyNew": {
+            "FileName": "characters.sc",
+            "ExportName": "shelly_happy"
+        },
+        "ShellySadNew": {
+            "FileName": "characters.sc",
+            "ExportName": "shelly_sad"
+        },
+        "ShellySadLoopNew": {
+            "FileName": "characters.sc",
+            "ExportName": "shelly_sadLoop"
+        }
+    },
+
+    
+    "skin_confs": {
+        "ShotgunGirlClassic_white": {
+            "IdleFace": "ShellyFaceNew",
+            "WalkFace": "ShellyFaceNew",
+            "HappyFace": "ShellyHappyNew",
+            "HappyLoopFace": "ShellyFaceNew",
+            "SadFace": "ShellySadNew",
+            "SadLoopFace": "ShellySadLoopNew",
+            "LobbyFace": "ShellyHappyNew",
+            "LobbyLoopFace": "ShellyFaceNew",
+            "HeroScreenIdleFace": "ShellyFaceNew",
+            "HeroScreenFace": "ShellyHappyNew",
+            "HeroScreenLoopFace": "ShellyFaceNew",
+            "SignatureFace": "ShellyHappyNew",
+            "ProfileFace": "ShellyStillNew",
+            "IntroFace": "ShellyStillNew"
+        },
+        "ShotgunGirloldschool": {
+            "IdleFace": "ShellyFaceNew",
+            "WalkFace": "ShellyFaceNew",
+            "HappyFace": "ShellyHappyNew",
+            "HappyLoopFace": "ShellyFaceNew",
+            "SadFace": "ShellySadNew",
+            "SadLoopFace": "ShellySadLoopNew",
+            "LobbyFace": "ShellyHappyNew",
+            "LobbyLoopFace": "ShellyFaceNew",
+            "HeroScreenIdleFace": "ShellyFaceNew",
+            "HeroScreenFace": "ShellyHappyNew",
+            "HeroScreenLoopFace": "ShellyFaceNew",
+            "SignatureFace": "ShellyHappyNew",
+            "ProfileFace": "ShellyStillNew",
+            "IntroFace": "ShellyStillNew"
+        }
+    }
+
+}

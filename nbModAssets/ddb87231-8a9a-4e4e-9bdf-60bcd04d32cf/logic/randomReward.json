@@ -1,4 +1,6 @@
 {
+    "$schema": "https://ext.nulls.gg/mods/schema/schema.json",
+    
     "random_reward_containers": {
         "RareStar": {
             "IsRarityOfferContainer": null,

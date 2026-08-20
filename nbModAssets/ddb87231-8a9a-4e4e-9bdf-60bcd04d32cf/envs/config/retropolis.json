@@ -3,5 +3,22 @@
     "Retropolis": {
       "Disabled": null
     }
+  },
+  "music": {
+    "Retropolis_battle": {
+      "Disabled": null,
+      "FileName": [
+        "music/retro_brawl_ingame_01.ogg",
+        "music/retro_brawl_ingame_02.ogg"
+      ],
+      "Volume": [
+        70,
+        70
+      ],
+      "Loop": [
+        true,
+        true
+      ]
+    }
   }
 }

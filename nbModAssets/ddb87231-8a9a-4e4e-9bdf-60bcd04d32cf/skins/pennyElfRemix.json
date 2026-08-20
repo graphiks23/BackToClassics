@@ -1,0 +1,45 @@
+{
+  "$schema": "https://ext.nulls.gg/mods/schema/schema.json",
+  
+  "skin_confs": {
+    "ArtilleryGalElf": {
+      "Model": "penny_elf_geo.scw",
+      "IdleAnim": "PennyIdle",
+      "WalkAnim": "PennyWalk",
+      "PrimarySkillAnim": "PennyPrimary",
+      "SecondarySkillAnim": "PennyUltiAttack",
+      "OverchargedSecondarySkillAnim": "PennyUltiAttack",
+      "PrimarySkillRecoilAnim": "PennyRecoil",
+      "SecondarySkillRecoilAnim": "PennyUltiRecoil",
+      "ReloadingAnim": "PennyReload",
+      "PushbackAnim": "PennyPushback",
+      "HappyAnim": "PennyWin",
+      "HappyLoopAnim": "PennyWinloop",
+      "SadAnim": "PennyLose",
+      "SadLoopAnim": "PennyLoseloop",
+      "LobbyAnim": "PennyWin",
+      "LobbyLoopAnim": "PennyWinloop",
+      "HeroScreenIdleAnim": "PennyIdle",
+      "HeroScreenAnim": "PennyWin",
+      "HeroScreenLoopAnim": "PennyWinloop",
+      "SignatureAnim": "PennyWin",
+      "HappyEnterAnim": "PennyIdle",
+      "SadEnterAnim": "PennyIdle",
+      "ProfileAnim": "PennyProfile"
+    },
+    "ArtilleryTurretElf": {
+      "Model": "penny_elf_turret_geo.scw"
+    }
+  },
+  "skins": {
+    "ArtilleryGalElf": {
+      "DiffuseTexture": "penny_elf_remix_tex.sctx",
+      "SpecularTexture": "penny_elf_remix_tex.sctx"
+    },
+
+        "ArtilleryTurretElf": {
+            "DiffuseTexture": "penny_elf_remix_tex.sctx",
+            "SpecularTexture": "penny_elf_remix_tex.sctx"
+        }
+  }
+}

@@ -12,12 +12,10 @@
             "TrophyWorldReward": "reward_popupitem_large_3"
         },
         "Skin": {
-            "PopupItemAsset": "shop_popupitem_4",
-            "SeparatedSectionOfferAsset": "shop_item_skins_coming_soon",
-            "OfferAssetSolo": "shop_item_skins",
-            "OfferAssetHalf": "shop_item_skins",
-            "OfferAssetQuarter": "shop_item_skins",
-            "OfferAssetHeroLayout": "shop_item_skins",
+            "OfferAssetSolo": "offer_item_brawler_big",
+            "OfferAssetHalf": "offer_item_brawler_small",
+            "OfferAssetQuarter": "offer_item_skin_small",
+            "OfferAssetHeroLayout": "offer_item_skin_big",
             "FullscreenPreview": "shop_item_skins",
             "RecordsPopupRewards": null
         },
@@ -50,23 +48,23 @@
             "TrophyWorldReward": "reward_popupitem_small_41"
         },
         "Bling": {
-            "OfferAssetSolo": "sc/btc_shared_assets.sc#rank_reward_star_points",
-            "OfferAssetHalf": "sc/btc_shared_assets.sc#rank_reward_star_points",
-            "OfferAssetQuarter": "sc/btc_shared_assets.sc#rank_reward_star_points",
-            "OfferAssetHeroLayout": "sc/btc_shared_assets.sc#rank_reward_star_points",
-            "FullscreenPreview": "sc/btc_shared_assets.sc#rank_reward_star_points",
+            "OfferAssetSolo": "sc/brawl_pass.sc#brawlpass_reward_premium_cosmetic_coins",
+            "OfferAssetHalf": "sc/brawl_pass.sc#brawlpass_reward_premium_cosmetic_coins",
+            "OfferAssetQuarter": "sc/brawl_pass.sc#brawlpass_reward_premium_cosmetic_coins",
+            "OfferAssetHeroLayout": "sc/brawl_pass.sc#brawlpass_reward_premium_cosmetic_coins",
+            "FullscreenPreview": "icon_resource_starpt",
             "TrophyRankRewardProfile": "icon_resource_starpt",
-            "TrophyRankRewardTiny": "sc/btc_shared_assets.sc#rank_reward_star_points",
-            "TrophyRankRewardSmall": "sc/btc_shared_assets.sc#rank_reward_star_points",
-            "TrophyRankRewardMedium": "sc/btc_shared_assets.sc#rank_reward_star_points",
-            "TrophyRankRewardLarge": "sc/btc_shared_assets.sc#rank_reward_star_points",
-            "TrophyWorldReward": "sc/btc_shared_assets.sc#rank_reward_star_points",
-            "RankedRewardAsset": "sc/btc_shared_assets.sc#rank_reward_star_points",
-            "RankedGoalAsset": "sc/btc_shared_assets.sc#rank_reward_star_points",
-            "RankedGoalQuestAsset": "sc/btc_shared_assets.sc#rank_reward_star_points",
-            "ClubCollabAsset": "sc/btc_shared_assets.sc#rank_reward_star_points",
+            "TrophyRankRewardTiny": "sc/brawl_pass.sc#brawlpass_reward_premium_cosmetic_coins",
+            "TrophyRankRewardSmall": "sc/brawl_pass.sc#brawlpass_reward_premium_cosmetic_coins",
+            "TrophyRankRewardMedium": "sc/brawl_pass.sc#brawlpass_reward_premium_cosmetic_coins",
+            "TrophyRankRewardLarge": "sc/brawl_pass.sc#brawlpass_reward_premium_cosmetic_coins",
+            "TrophyWorldReward": "sc/brawl_pass.sc#brawlpass_reward_premium_cosmetic_coins",
+            "RankedRewardAsset": "sc/brawl_pass.sc#brawlpass_reward_premium_cosmetic_coins",
+            "RankedGoalAsset": "sc/brawl_pass.sc#brawlpass_reward_premium_cosmetic_coins",
+            "RankedGoalQuestAsset": "sc/brawl_pass.sc#brawlpass_reward_premium_cosmetic_coins",
+            "ClubCollabAsset": "sc/brawl_pass.sc#brawlpass_reward_premium_cosmetic_coins",
             "ChallengeRewardAsset": "icon_resource_starpt",
-            "RecordsPopupRewards": "sc/btc_shared_assets.sc#rank_reward_star_points"
+            "RecordsPopupRewards": "sc/brawl_pass.sc#brawlpass_reward_premium_cosmetic_coins"
         },
         "StarrDropContainer": {
             "IconFrameNumber": 1,
@@ -88,7 +86,7 @@
             "RewardDescTID": "TID_SHOP_OFFER_TITLE_14",
             "ChallengeRewardAsset": "sc/btc_shared_assets.sc#reward_profilebutton_14",
             "RecordsPopupRewards": "sc/btc_shared_assets.sc#reward_profilebutton_14",
-            "GridViewAsset": "grid_item_trophy_box"
+            "GridViewAsset": "grid_item_big_box"
         },
         "RandomStarrDrop": {
             "IconFrameNumber": 0,
@@ -112,7 +110,20 @@
             "RewardDescTID": "TID_SHOP_OFFER_TITLE_6",
             "ChallengeRewardAsset": "sc/btc_shared_assets.sc#reward_profilebutton_6",
             "RecordsPopupRewards": "sc/btc_shared_assets.sc#reward_profilebutton_6",
-            "GridViewAsset": "grid_item_trophy_box"
+            "GridViewAsset": "grid_item_small_box"
+        },
+        "RandomCollabDrop": {
+            "MiniOfferAsset": "sc/collab_godzilla.sc#offer_item_collab_gacha_big",
+            "OfferAssetSolo": "sc/collab_godzilla.sc#offer_item_collab_gacha_big",
+            "OfferAssetHalf": "sc/collab_godzilla.sc#offer_item_collab_gacha_big",
+            "OfferAssetQuarter": "sc/collab_godzilla.sc#offer_item_collab_gacha_big",
+            "OfferAssetHeroLayout": "sc/collab_godzilla.sc#offer_item_collab_gacha_big",
+            "FullscreenPreview": "sc/collab_godzilla.sc#offer_item_collab_gacha_big",
+            "BrawlPassAssetPaid": "sc/collab_godzilla.sc#offer_item_collab_gacha_big",
+            "BrawlPassAssetFree": "sc/collab_godzilla.sc#offer_item_collab_gacha_big",
+            "BrawlPassAssetPlus": "sc/collab_godzilla.sc#offer_item_collab_gacha_big",
+            "RecordsPopupRewards": "sc/collab_godzilla.sc#offer_item_collab_gacha_big",
+            "GridViewAsset": "sc/collab_godzilla.sc#collab_gacha_icon"
         },
         "MegaBox": {
             "OfferAssetSolo": "sc/btc_shared_assets.sc#offer_item_mega_box_big",
@@ -209,7 +220,7 @@
             "RewardDescTID": "TID_SHOP_OFFER_TITLE_14",
             "ChallengeRewardAsset": "sc/btc_shared_assets.sc#reward_profilebutton_14",
             "RecordsPopupRewards": "sc/btc_shared_assets.sc#reward_profilebutton_14",
-            "GridViewAsset": "grid_item_trophy_box"
+            "GridViewAsset": "grid_item_big_box"
         },
         "N_001_BrawlBox": {
             "OfferType": 6,

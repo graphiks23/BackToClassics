@@ -1,145 +1,192 @@
 {
     "texts_patch": {
         "TID_RANK_POPUP_SEASON_END_INFO": {
-            "EN": "When the Trophy League ends, your 10 highest Trophy Brawlers with more than <DECAYSTART> Trophies will lose some of their Trophies. This loss will be compensated with Star Points that you can use to purchase cosmetic items."
+            "EN": "When the Trophy League ends, your 10 highest Trophy Brawlers with more than <DECAYSTART> Trophies will lose some of their Trophies. This loss will be compensated with Star Points that you can use to purchase cosmetic items.",
+            "RU": "Когда трофейная лига закончится, 10 твоих бойцов с наибольшим количеством трофеев, у которых больше <DECAYSTART> трофеев, потеряют часть трофеев. Эта потеря будет компенсирована звёздными очками, которые можно потратить на косметические предметы."
         },
         "TID_RANK_INFO_POPUP_SEASON_REWARDS_1": {
-            "EN": "Trophy League Star Point rewards"
+            "EN": "Trophy League Star Point rewards",
+            "RU": "Награды трофейной лиги в звёздных очках"
         },
         "TID_RANK_INFO_POPUP_LABEL_STAR_POINTS": {
-            "EN": "Star Points Reward"
+            "EN": "Star Points Reward",
+            "RU": "Награда: звёздные очки"
         },
         "TID_RANKED_SEASON_END_NOTIFICATION": {
-            "EN": "RANKED SEASON END REWARD: <AMOUNT> STAR POINTS gained!"
+            "EN": "RANKED SEASON END REWARD: <AMOUNT> STAR POINTS gained!",
+            "RU": "НАГРАДА ЗА КОНЕЦ РАНГОВОГО СЕЗОНА: получено звёздных очков: <AMOUNT>!"
         },
         "TID_COSMETIC_COINS_INFO_TITLE": {
-            "EN": "STAR POINTS"
+            "EN": "STAR POINTS",
+            "RU": "ЗВЁЗДНЫЕ ОЧКИ"
         },
         "TID_COSMETIC_COINS_INFO_TXT1": {
-            "EN": "Collect Star Points to spend in the Oddities Shop to get Skins, Pins, Sprays, Profile icons, and all kinds of Resources!"
+            "EN": "Collect Star Points to spend in the Oddities Shop to get Skins, Pins, Sprays, Profile icons, and all kinds of Resources!",
+            "RU": "Собирай звёздные очки и трать их в магазине диковинок на скины, значки, спреи, иконки профиля и всевозможные ресурсы!"
         },
         "TID_STAR_POINTS_TO_COSMETIC_COINS_POPUP_NEW_GEAR_DESCRIPTION": {
-            "EN": "Use Star Points to purchase most Skins, Pins, Sprays and Profile Icons"
+            "EN": "Use Star Points to purchase most Skins, Pins, Sprays and Profile Icons",
+            "RU": "Используй звёздные очки, чтобы покупать большинство скинов, значков, спреев и иконок профиля"
         },
         "TID_BLING": {
-            "EN": "Star Points"
+            "EN": "Star Points",
+            "RU": "Звёздные очки"
         },
         "TID_SHOP_OFFER_TITLE_45": {
-            "EN": "STAR POINTS"
+            "EN": "STAR POINTS",
+            "RU": "ЗВЁЗДНЫЕ ОЧКИ"
         },
         "TID_SHOP_OFFER_INFO_45": {
-            "EN": "Contains <AMOUNT> Star Points. Collect Star Points to spend in the Oddities Shop to get Skins, Pins, Sprays, Profile Icons, resources, and pull Bling Buffies from the Buffie Claw Machine."
+            "EN": "Contains <AMOUNT> Star Points. Collect Star Points to spend in the Oddities Shop to get Skins, Pins, Sprays, Profile Icons, resources, and pull Bling Buffies from the Buffie Claw Machine.",
+            "RU": "Содержит звёздные очки (<AMOUNT>). Собирай звёздные очки и трать их в магазине диковинок на скины, значки, спреи, иконки профиля, ресурсы и попытки вытащить блинговых баффи из автомата баффи."
         },
         "TID_GATCHA_SCREEN_BLING_DROP_TITLE": {
-            "EN": "STAR POINTS"
+            "EN": "STAR POINTS",
+            "RU": "ЗВЁЗДНЫЕ ОЧКИ"
         },
         "TID_GATCHA_SCREEN_BLING_DROP_DESC": {
-            "EN": "Use Star Points to buy Skins, Pins, Sprays and Profile Icons."
+            "EN": "Use Star Points to buy Skins, Pins, Sprays and Profile Icons.",
+            "RU": "Используй звёздные очки, чтобы покупать скины, значки, спреи и иконки профиля."
         },
         "TID_BLING_CAP_REACHED_TITLE": {
-            "EN": "STAR POINTS LIMIT REACHED"
+            "EN": "STAR POINTS LIMIT REACHED",
+            "RU": "ДОСТИГНУТ ПРЕДЕЛ ЗВЁЗДНЫХ ОЧКОВ"
         },
         "TID_BLING_CAP_REACHED_DESC": {
-            "EN": "Spend Star Points on Skins, Pins, Sprays or Profile Icons before collecting more."
+            "EN": "Spend Star Points on Skins, Pins, Sprays or Profile Icons before collecting more.",
+            "RU": "Потрать звёздные очки на скины, значки, спреи или иконки профиля, прежде чем собирать дальше."
         },
         "TID_BLING_CAP_REACHED_DESC_OFFER": {
-            "EN": "Spend Star Points on Skins, Pins, Sprays or Profile Icons before collecting more.\\n\\nSTAR POINTS COLLECTED THAT IS OVER THE LIMIT WILL BE LOST FOREVER!"
+            "EN": "Spend Star Points on Skins, Pins, Sprays or Profile Icons before collecting more.\\n\\nSTAR POINTS COLLECTED THAT IS OVER THE LIMIT WILL BE LOST FOREVER!",
+            "RU": "Потрать звёздные очки на скины, значки, спреи или иконки профиля, прежде чем собирать дальше.\\n\\nЗВЁЗДНЫЕ ОЧКИ, СОБРАННЫЕ ПОСЛЕ ДОСТИЖЕНИЯ ПРЕДЕЛА, БУДУТ ПОТЕРЯНЫ НАВСЕГДА!"
         },
         "TID_TOP_TOOL_TIP_BLING": {
-            "EN": "<cff00ff>Star Points</c> are used to buy Skins, Pins, Sprays and Profile Icons.\\n\\nCollect Star Points on the Brawl Pass, Trophy Reset, Ranked, Starr Drops and from Brawler Rank Ups.\\n\\nMax: <c53C5F7><MAX></c><EXTRAINFO>"
+            "EN": "<cff00ff>Star Points</c> are used to buy Skins, Pins, Sprays and Profile Icons.\\n\\nCollect Star Points on the Brawl Pass, Trophy Reset, Ranked, Starr Drops and from Brawler Rank Ups.\\n\\nMax: <c53C5F7><MAX></c><EXTRAINFO>",
+            "RU": "<cff00ff>Звёздные очки</c> используются для покупки скинов, значков, спреев и иконок профиля.\\n\\nСобирай звёздные очки в Brawl Pass, при сбросе трофеев, в ранговом режиме, призах Старр и за повышение ранга бойцов.\\n\\nМаксимум: <c53C5F7><MAX></c><EXTRAINFO>"
         },
         "TID_TOP_TOOL_TIP_BLING_GENERIC": {
-            "EN": "<cff00ff>Star Points</c> are used to spend in the Oddities Shop to get Skins, Pins, Sprays, Profile Icons, resources, and to pull Bling Buffies from the Buffie Claw Machine.\\n\\nCollect Star Points from the Brawl Pass, various Drops, and as rewards from Quests and Challenges."
+            "EN": "<cff00ff>Star Points</c> are used to spend in the Oddities Shop to get Skins, Pins, Sprays, Profile Icons, resources, and to pull Bling Buffies from the Buffie Claw Machine.\\n\\nCollect Star Points from the Brawl Pass, various Drops, and as rewards from Quests and Challenges.",
+            "RU": "<cff00ff>Звёздные очки</c> можно тратить в магазине диковинок на скины, значки, спреи, иконки профиля, ресурсы и попытки вытащить блинговых баффи из автомата баффи.\\n\\nСобирай звёздные очки в Brawl Pass, различных призах, а также в наградах за квесты и испытания."
         },
         "TID_NOT_ENOUGH_BLING": {
-            "EN": "Not enough Star Points!"
+            "EN": "Not enough Star Points!",
+            "RU": "Не хватает звёздных очков!"
         },
         "TID_HERO_INFO_BUY_MISSING_BLING1": {
-            "EN": "YOU NEED <MISSINGBLING> MORE STAR POINTS"
+            "EN": "YOU NEED <MISSINGBLING> MORE STAR POINTS",
+            "RU": "ТЕБЕ НУЖНО ЕЩЁ <MISSINGBLING> ЗВЁЗДНЫХ ОЧКОВ"
         },
         "TID_HERO_INFO_BUY_MISSING_BLING2": {
-            "EN": "Purchase this item now with Star Points and Gems?"
+            "EN": "Purchase this item now with Star Points and Gems?",
+            "RU": "Купить этот предмет за звёздные очки и кристаллы?"
         },
         "TID_HERO_INFO_BUY_MISSING_BLING_GEMS2": {
-            "EN": "Get <MISSINGGEMS> more Gems to buy missing Star Points"
+            "EN": "Get <MISSINGGEMS> more Gems to buy missing Star Points",
+            "RU": "Получи ещё <MISSINGGEMS> кристаллов, чтобы купить недостающие звёздные очки"
         },
         "TID_NOT_ENOUGH_BLING_TITLE": {
-            "EN": "Get more Gems to buy missing Star Points"
+            "EN": "Get more Gems to buy missing Star Points",
+            "RU": "Получи больше кристаллов, чтобы купить недостающие звёздные очки"
         },
         "TID_DIRECT_PURCHASE_GEM_PACKS_DESC_BLING": {
-            "EN": "Get <cC5F724><REQUIREDGEMS> more Gems</c> to buy missing Star Points"
+            "EN": "Get <cC5F724><REQUIREDGEMS> more Gems</c> to buy missing Star Points",
+            "RU": "Получи <cC5F724>ещё <REQUIREDGEMS> кристаллов</c>, чтобы купить недостающие звёздные очки"
         },
         "TID_SHOP_OFFER_PURCHASE_ERROR_11": {
-            "EN": "Purchase with Star Points is not yet available"
+            "EN": "Purchase with Star Points is not yet available",
+            "RU": "Покупка за звёздные очки пока недоступна"
         },
         "TID_CATALOG_BLING_PRICE_NOT_YET_AVAILABLE": {
-            "EN": "This item can be bought with Star Points later"
+            "EN": "This item can be bought with Star Points later",
+            "RU": "Этот предмет можно будет купить за звёздные очки позже"
         },
         "TID_HOW_TO_GET_COSMETIC_COINS_INFO_TITLE": {
-            "EN": "HOW TO GET MORE STAR POINTS"
+            "EN": "HOW TO GET MORE STAR POINTS",
+            "RU": "КАК ПОЛУЧИТЬ БОЛЬШЕ ЗВЁЗДНЫХ ОЧКОВ"
         },
         "TID_HOW_TO_GET_COSMETIC_COINS_INFO_TXT1": {
-            "EN": "Star Point rewards at every 5 ranks"
+            "EN": "Star Point rewards at every 5 ranks",
+            "RU": "Награды в звёздных очках каждые 5 рангов"
         },
         "TID_HOW_TO_GET_COSMETIC_COINS_INFO_TXT2": {
-            "EN": "Excess Trophies at the end of the Trophy League will be converted to Star Points"
+            "EN": "Excess Trophies at the end of the Trophy League will be converted to Star Points",
+            "RU": "Лишние трофеи в конце трофейной лиги превратятся в звёздные очки"
         },
         "TID_HOW_TO_GET_COSMETIC_COINS_INFO_TXT3": {
-            "EN": "Star Point rewards at every Ranked Rank Up"
+            "EN": "Star Point rewards at every Ranked Rank Up",
+            "RU": "Награды в звёздных очках за каждое повышение ранга в ранговом режиме"
         },
         "TID_TROPHY_ROAD_BLING_DESCRIPTION": {
-            "EN": "Get more Star Points!"
+            "EN": "Get more Star Points!",
+            "RU": "Получи больше звёздных очков!"
         },
         "TID_BRAWL_PASS_INFO_TEXT_17": {
-            "EN": "Earn tons of extra rewards, including:\\n\\n<BRAWLER>- the new Chromatic Brawler!\\n\\nTIMED EXCLUSIVE SKIN: <SKIN_1>!\\n\\nTIMED EXCLUSIVE and COOL PINS for <BRAWLER>\\n\\nTIMED EXCLUSIVE SPRAY & PROFILE ICON\\n\\nEXTRA COINS, POWER POINTS & STAR POINTS!\\n\\nEXTRA QUESTS to complete your Brawl Pass faster!\\n\\nEXCLUSIVE CHROMATIC NAME for the duration of the season!"
+            "EN": "Earn tons of extra rewards, including:\\n\\n<BRAWLER>- the new Chromatic Brawler!\\n\\nTIMED EXCLUSIVE SKIN: <SKIN_1>!\\n\\nTIMED EXCLUSIVE and COOL PINS for <BRAWLER>\\n\\nTIMED EXCLUSIVE SPRAY & PROFILE ICON\\n\\nEXTRA COINS, POWER POINTS & STAR POINTS!\\n\\nEXTRA QUESTS to complete your Brawl Pass faster!\\n\\nEXCLUSIVE CHROMATIC NAME for the duration of the season!",
+            "RU": "Заработай множество дополнительных наград, включая:\\n\\n<BRAWLER> — нового хроматического бойца!\\n\\nВРЕМЕННЫЙ ЭКСКЛЮЗИВНЫЙ СКИН: <SKIN_1>!\\n\\nВРЕМЕННЫЕ ЭКСКЛЮЗИВНЫЕ и КРУТЫЕ ЗНАЧКИ для <BRAWLER>\\n\\nВРЕМЕННЫЕ ЭКСКЛЮЗИВНЫЕ СПРЕЙ И ИКОНКУ ПРОФИЛЯ\\n\\nДОПОЛНИТЕЛЬНЫЕ МОНЕТЫ, ОЧКИ СИЛЫ И ЗВЁЗДНЫЕ ОЧКИ!\\n\\nДОПОЛНИТЕЛЬНЫЕ КВЕСТЫ, чтобы быстрее пройти Brawl Pass!\\n\\nЭКСКЛЮЗИВНОЕ ХРОМАТИЧЕСКОЕ ИМЯ на время сезона!"
         },
         "TID_RANKED_BLING_TITLE": {
-            "EN": "STAR POINTS"
+            "EN": "STAR POINTS",
+            "RU": "ЗВЁЗДНЫЕ ОЧКИ"
         },
         "TID_RANKED_SEASON_START_NOTIFICATION": {
-            "EN": "RANKED SEASON RESET REWARD: <AMOUNT> STAR POINTS gained!"
+            "EN": "RANKED SEASON RESET REWARD: <AMOUNT> STAR POINTS gained!",
+            "RU": "НАГРАДА ЗА СБРОС РАНГОВОГО СЕЗОНА: получено звёздных очков: <AMOUNT>!"
         },
         "TID_TOP_TOOL_TIP_COSMETIC_COINS_EXTRAINFO_MAX_REACHED": {
-            "EN": "\\n\\n<cFF0000>You have reached the max limit. Spend some Star Points before collecting more.</c>"
+            "EN": "\\n\\n<cFF0000>You have reached the max limit. Spend some Star Points before collecting more.</c>",
+            "RU": "\\n\\n<cFF0000>Ты достиг предела. Потрать немного звёздных очков, прежде чем собирать дальше.</c>"
         },
         "TID_RANKED_RANK_UP_REWARD_NOTIFICATION": {
-            "EN": "RANKED REWARD: <AMOUNT> STAR POINTS gained for reaching <RANK> in <MODE>!"
+            "EN": "RANKED REWARD: <AMOUNT> STAR POINTS gained for reaching <RANK> in <MODE>!",
+            "RU": "РАНГОВАЯ НАГРАДА: получено звёздных очков: <AMOUNT> за достижение ранга <RANK> в режиме <MODE>!"
         },
         "TID_LOGIN_CALENDAR_REWARD_BLING": {
-            "EN": "STAR POINTS"
+            "EN": "STAR POINTS",
+            "RU": "ЗВЁЗДНЫЕ ОЧКИ"
         },
         "TID_LOGIN_CALENDAR_REWARD_DESC_BLING": {
-            "EN": "Use Star Points to spend in the Oddities Shop to get Skins, Pins, Sprays, Profile icons, and all kinds of Resources."
+            "EN": "Use Star Points to spend in the Oddities Shop to get Skins, Pins, Sprays, Profile icons, and all kinds of Resources.",
+            "RU": "Используй звёздные очки в магазине диковинок, чтобы получать скины, значки, спреи, иконки профиля и всевозможные ресурсы."
         },
         "TID_LOGIN_CALENDAR_RE_ENGAGEMENT_BLING_DESCRIPTION": {
-            "EN": "USE STAR POINTS TO PURCHASE MOST SKINS, PINS, SPRAYS & PROFILE ICONS!"
+            "EN": "USE STAR POINTS TO PURCHASE MOST SKINS, PINS, SPRAYS & PROFILE ICONS!",
+            "RU": "ИСПОЛЬЗУЙ ЗВЁЗДНЫЕ ОЧКИ, ЧТОБЫ ПОКУПАТЬ БОЛЬШИНСТВО СКИНОВ, ЗНАЧКОВ, СПРЕЕВ И ИКОНОК ПРОФИЛЯ!"
         },
         "TID_LOGIN_CALENDAR_RE_ENGAGEMENT_FINAL_REWARD_MESSAGE": {
-            "EN": "PLENTY OF STAR POINTS ON DAY <NUM>!"
+            "EN": "PLENTY OF STAR POINTS ON DAY <NUM>!",
+            "RU": "МНОГО ЗВЁЗДНЫХ ОЧКОВ НА <NUM>-Й ДЕНЬ!"
         },
         "TID_INBOX_TROPHY_LEAGUE": {
-            "EN": "Trophy League ended while you were away. You received <NUM> Star Points as a reward."
+            "EN": "Trophy League ended while you were away. You received <NUM> Star Points as a reward.",
+            "RU": "Трофейная лига закончилась, пока тебя не было. Ты получил звёздные очки (<NUM>) в награду."
         },
         "TID_STYLE_SHIPMENT_LABEL": {
-            "EN": "<NUMBER> STAR POINTS"
+            "EN": "<NUMBER> STAR POINTS",
+            "RU": "<NUMBER> ЗВЁЗДНЫХ ОЧКОВ"
         },
         "TID_BP_CONTENT_BLING": {
-            "EN": "<AMOUNT> STAR POINTS"
+            "EN": "<AMOUNT> STAR POINTS",
+            "RU": "<AMOUNT> ЗВЁЗДНЫХ ОЧКОВ"
         },
         "TID_SHOP_OFFER_TROPHY_ROAD_45": {
-            "EN": "Use Star Points to spend in the Oddities Shop to get Skins, Pins, Sprays, Profile icons, and all kinds of Resources!"
+            "EN": "Use Star Points to spend in the Oddities Shop to get Skins, Pins, Sprays, Profile icons, and all kinds of Resources!",
+            "RU": "Используй звёздные очки в магазине диковинок, чтобы получать скины, значки, спреи, иконки профиля и всевозможные ресурсы!"
         },
         "TID_BRAWLER_EARLY_ACCESS_MINA_INFO_3": {
-            "EN": "Every Brawler Box can give Cosmetics, Credits, Coins, Power Points, Star Points, Gems and a small chance for the new Brawler!"
+            "EN": "Every Brawler Box can give Cosmetics, Credits, Coins, Power Points, Star Points, Gems and a small chance for the new Brawler!",
+            "RU": "Каждый ящик бойца может дать косметику, кредиты, монеты, очки силы, звёздные очки, кристаллы и небольшой шанс получить нового бойца!"
         },
         "TID_BRAWLER_EARLY_ACCESS_ZIGGY_INFO_3": {
-            "EN": "Every Brawler Box can give Cosmetics, Credits, Coins, Power Points, Star Points, Gems and a small chance for the new Brawler!"
+            "EN": "Every Brawler Box can give Cosmetics, Credits, Coins, Power Points, Star Points, Gems and a small chance for the new Brawler!",
+            "RU": "Каждый ящик бойца может дать косметику, кредиты, монеты, очки силы, звёздные очки, кристаллы и небольшой шанс получить нового бойца!"
         },
         "TID_VAULT_INFO_POPUP_INFO2": {
-            "EN": "Get Coins, Power Points, or Star Points!"
+            "EN": "Get Coins, Power Points, or Star Points!",
+            "RU": "Получи монеты, очки силы или звёздные очки!"
         },
         "TID_ODDITIES_SHOP_GET_MORE_BLING": {
-            "EN": "GET MORE STAR POINTS!"
+            "EN": "GET MORE STAR POINTS!",
+            "RU": "ПОЛУЧИ БОЛЬШЕ ЗВЁЗДНЫХ ОЧКОВ!"
         }
     }
 }

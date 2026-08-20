@@ -3,5 +3,10 @@
     "DarrylsShip": {
       "Disabled": null
     }
+  },
+  "music": {
+    "Pirate_Brawl_Ingame": {
+      "Disabled": null
+    }
   }
 }

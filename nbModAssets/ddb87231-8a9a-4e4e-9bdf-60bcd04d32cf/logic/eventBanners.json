@@ -142,10 +142,10 @@
             "BannerExportName": "event_candyland_banner_static"
         },
         "Hub": {
-            "BannerExportName": "event_hub_banner_static_static"
+            "BannerExportName": "event_hub_banner_static"
         },
         "Rooftop": {
-            "BannerExportName": "event_basketball_banner_static_static"
+            "BannerExportName": "event_basketball_banner_static"
         },
         "RumbleJungle": {
             "BannerExportName": "event_rumblejungle_banner_static"

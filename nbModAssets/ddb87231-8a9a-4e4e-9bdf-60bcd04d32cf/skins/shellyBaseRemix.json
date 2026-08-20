@@ -1,4 +1,6 @@
 {
+    "$schema": "https://ext.nulls.gg/mods/schema/schema.json",
+    
     "animations": {
         "ShellyIdle": {
             "FileName": "shelly_remix_idle.glb",
@@ -77,24 +79,24 @@
 
    "faces": {
         "ShellyFace": {
-            "FileName": null,
-            "ExportName": null
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "empty"
         },
         "ShellyStill": {
-            "FileName": null,
-            "ExportName": null
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "empty"
         },
         "ShellyHappy": {
-            "FileName": null,
-            "ExportName": null
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "empty"
         },
         "ShellySad": {
-            "FileName": null,
-            "ExportName": null
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "empty"
         },
         "ShellySadLoop": {
-            "FileName": null,
-            "ExportName": null
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "empty"
         }
         
     }

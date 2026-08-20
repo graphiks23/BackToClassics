@@ -1,0 +1,36 @@
+{
+ "skins": {
+    "BullGuyDefault": {
+      "DiffuseTexture": "bull_remix_tex.sctx",
+      "SpecularTexture": "bull_remix_tex.sctx"
+    }
+  },
+ "skin_confs": {
+    "BullGuyDefault": {
+      "Model": "bull_geo.scw"
+    }
+  },
+
+ "faces": {
+        "BullWin": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "empty"
+        },
+        "BullWinLoop": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "empty"
+        },
+        "BullLose": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "empty"
+        },
+        "BullLoseLoop": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "empty"
+        },
+        "BullStill": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "empty"
+        }
+    }
+}

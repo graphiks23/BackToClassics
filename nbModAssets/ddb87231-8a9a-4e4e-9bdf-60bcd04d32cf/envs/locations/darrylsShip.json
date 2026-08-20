@@ -1,12 +1,52 @@
 {
-  "music": {
-    "Pirate_Brawl_Ingame": {
-      "Disabled": null
-    }
-  },
     "locations": {
-    "Wanted7": {
-      "LocationTheme": "DarrylsShip"
+        "Wanted7": {
+            "LocationTheme": "DarrylsShip"
+        },
+        "Wanted8": {
+            "LocationTheme": "DarrylsShip"
+        },
+        "Wanted13": {
+            "LocationTheme": "DarrylsShip"
+        },
+        "Wanted14": {
+            "LocationTheme": "DarrylsShip"
+        },
+        "Wanted29": {
+            "LocationTheme": "DarrylsShip"
+        },
+        "Wanted441": {
+            "LocationTheme": "DarrylsShip"
+        },
+        "Wanted442": {
+            "LocationTheme": "DarrylsShip"
+        },
+        "Wanted601": {
+            "LocationTheme": "DarrylsShip"
+        },
+        "Wanted6201": {
+            "LocationTheme": "DarrylsShip"
+        },
+        "TagTeam651": {
+            "LocationTheme": "DarrylsShip"
+        },
+        "Wanted651": {
+            "LocationTheme": "DarrylsShip"
+        },
+        "Wanted652": {
+            "LocationTheme": "DarrylsShip"
+        },
+        "Wanted661": {
+            "LocationTheme": "DarrylsShip"
+        },
+        "Wanted662": {
+            "LocationTheme": "DarrylsShip"
+        },
+        "Wanted681": {
+            "LocationTheme": "DarrylsShip"
+        },
+        "Wanted682": {
+            "LocationTheme": "DarrylsShip"
+        }
     }
-  }
 }

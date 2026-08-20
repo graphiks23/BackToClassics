@@ -1,0 +1,129 @@
+{
+    "animations": {
+        "NewPennyIdle": {
+            "FileName": "penny_idle.glb",
+            "EndFrame": -1,
+            "Speed": 130,
+            "TransitionInMs": 100,
+            "TransitionOutMs": 100,
+            "Looping": true
+        },
+        "NewPennyWalk": {
+            "FileName": "penny_walk.glb",
+            "EndFrame": 19,
+            "TransitionInMs": 100,
+            "TransitionOutMs": 100,
+            "Looping": true,
+            "Priority": "1"
+        },
+        "NewPennyPrimary": {
+            "FileName": "penny_attack.glb",
+            "StartFrame": 1,
+            "EndFrame": 4,
+            "Priority": "hips_s#3+L_upperLeg_s#0+R_upperLeg_s#0"
+        },
+        "NewPennyUltiAttack": {
+            "FileName": "mari_ult.glb",
+            "EndFrame": 5,
+            "AutoFadeMs": 10,
+            "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+        },
+        "NewPennyRecoil": {
+            "FileName": "penny_attack.glb",
+            "StartFrame": 1,
+            "EndFrame": 20,
+            "AutoFadeMs": 150,
+            "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+        },
+        "NewPennyUltiRecoil": {
+            "FileName": "mari_ult.glb",
+            "StartFrame": 5,
+            "EndFrame": 22,
+            "AutoFadeMs": 250,
+            "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+        },
+        "NewPennyReload": {
+            "FileName": "penny_idle.glb",
+            "EndFrame": 5,
+            "TransitionInMs": 200,
+            "TransitionOutMs": 200,
+            "AutoFadeMs": 200
+        },
+        "NewPennyPushback": {
+            "FileName": "penny_idle.glb",
+            "EndFrame": -1,
+            "TransitionInMs": 100,
+            "TransitionOutMs": 100,
+            "AutoFadeMs": 200,
+            "Priority": "5"
+        },
+        "NewPennyWin": {
+            "FileName": "penny_win.glb",
+            "StartFrame": 1,
+            "EndFrame": 146
+        },
+        "NewPennyWinloop": {
+            "FileName": "penny_win.glb",
+            "StartFrame": 147,
+            "EndFrame": 201,
+            "Looping": true
+        },
+        "NewPennyLose": {
+            "FileName": "penny_lose.glb",
+            "StartFrame": 1,
+            "EndFrame": 158
+        },
+        "NewPennyLoseloop": {
+            "FileName": "penny_lose.glb",
+            "StartFrame": 159,
+            "EndFrame": 196,
+            "Looping": true
+        },
+        "NewPennyProfile": {
+            "FileName": "penny_portrait_redux.glb",
+            "StartFrame": 1,
+            "EndFrame": 1,
+            "Looping": true
+        }
+    },
+    "skin_confs": {
+        "ArtilleryGalCyber": {
+            "IdleAnim": "NewPennyIdle",
+            "WalkAnim": "NewPennyWalk",
+            "PrimarySkillAnim": "NewPennyPrimary",
+            "SecondarySkillAnim": "NewPennyUltiAttack",
+            "OverchargedSecondarySkillAnim": "NewPennyUltiAttack",
+            "PrimarySkillRecoilAnim": "NewPennyRecoil",
+            "SecondarySkillRecoilAnim": "NewPennyUltiRecoil",
+            "ReloadingAnim": "NewPennyReload",
+            "PushbackAnim": "NewPennyPushback",
+            "HappyAnim": "NewPennyWin",
+            "HappyLoopAnim": "NewPennyWinloop",
+            "SadAnim": "NewPennyLose",
+            "SadLoopAnim": "NewPennyLoseloop",
+            "LobbyAnim": "NewPennyWin",
+            "LobbyLoopAnim": "NewPennyWinloop",
+            "HeroScreenIdleAnim": "NewPennyIdle",
+            "HeroScreenAnim": "NewPennyWin",
+            "HeroScreenLoopAnim": "NewPennyWinloop",
+            "SignatureAnim": "NewPennyWin",
+            "HappyEnterAnim": "NewPennyIdle",
+            "IntroAnim": "NewPennyProfile",
+            "EnvAnim": "NewPennyIdle",
+            "IdleFace": "Penny008Still",
+            "WalkFace": "Penny008Still",
+            "HappyFace": "Penny008Win",
+            "HappyLoopFace": "Penny008WinLoop",
+            "SadFace": "Penny008Lose",
+            "SadLoopFace": "Penny008LoseLoop",
+            "LobbyFace": "Penny008Win",
+            "LobbyLoopFace": "Penny008WinLoop",
+            "HeroScreenIdleFace": "Penny008WinLoop",
+            "HeroScreenFace": "Penny008Win",
+            "HeroScreenLoopFace": "Penny008WinLoop",
+            "SignatureFace": "Penny008Win",
+            "ProfileFace": "Penny008Still",
+            "IntroFace": "Penny008Still"
+        }
+    }
+}

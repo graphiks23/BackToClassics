@@ -1,23 +1,60 @@
 {
-  "music": {
-    "Retropolis_battle": {
-      "Disabled": null,
-      "FileName": [
-          "music/retro_brawl_ingame_01.ogg"
-            ]
-    }
-  },
     "locations": {
-        "Gemgrab2": {
+        "Heist2": {
             "LocationTheme": "Retropolis"
         },
-        "Gemgrab3": {
+        "Heist3": {
             "LocationTheme": "Retropolis"
         },
-        "Gemgrab4": {
+        "Heist8": {
             "LocationTheme": "Retropolis"
         },
-        "Gemgrab5": {
+        "Heist12": {
+            "LocationTheme": "Retropolis"
+        },
+        "Gemgrab36": {
+            "LocationTheme": "Retropolis"
+        },
+        "Gemgrab49": {
+            "LocationTheme": "Retropolis"
+        },
+        "Heist593": {
+            "LocationTheme": "Retropolis"
+        },
+        "Heist6101": {
+            "LocationTheme": "Retropolis"
+        },
+        "Heist6201": {
+            "LocationTheme": "Retropolis"
+        },
+        "Heist6202": {
+            "LocationTheme": "Retropolis"
+        },
+        "Heist631": {
+            "LocationTheme": "Retropolis"
+        },
+        "Heist632": {
+            "LocationTheme": "Retropolis"
+        },
+        "Heist651": {
+            "LocationTheme": "Retropolis"
+        },
+        "Heist652": {
+            "LocationTheme": "Retropolis"
+        },
+        "Heist661": {
+            "LocationTheme": "Retropolis"
+        },
+        "Heist662": {
+            "LocationTheme": "Retropolis"
+        },
+        "Heist671": {
+            "LocationTheme": "Retropolis"
+        },
+        "Heist681": {
+            "LocationTheme": "Retropolis"
+        },
+        "Heist682": {
             "LocationTheme": "Retropolis"
         }
     }

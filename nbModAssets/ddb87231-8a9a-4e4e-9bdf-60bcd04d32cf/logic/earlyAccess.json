@@ -1,4 +1,6 @@
 {
+    "$schema": "https://ext.nulls.gg/mods/schema/schema.json",
+    
     "brawler_early_access": {
         "DancerEarlyAccess": {
             "TicketIconExportPath": "sc/ui.sc#icon_ticket",
@@ -157,6 +159,25 @@
             ],
             "GachaBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear",
             "EventBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear"
+        }
+    },
+
+        "collab_game_modes": {
+        "FutureGirlShowdown": {
+            "ModeOverrideRoomIconName": "event_brawler_early_access_future_girl"
+        },
+        "FutureGirlGemGrab": {
+            "ModeOverrideRoomIconName": "event_brawler_early_access_future_girl"
+        },
+        "FutureGirlBrawlBall": {
+            "ModeOverrideRoomIconName": "event_brawler_early_access_future_girl"
+        },
+        "FutureGirlHeist": {
+            "ModeOverrideRoomIconName": "event_brawler_early_access_future_girl"
+        },
+        "FutureGirlBounty": {
+            "ModeOverrideRoomIconName": "event_brawler_early_access_future_girl"
+
         }
     }
 }

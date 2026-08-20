@@ -3,5 +3,16 @@
     "Bazaar": {
       "Disabled": null
     }
-  }
+  },
+
+      "music": {
+        "Brawzaar_ingame_muzak": {
+            "Disabled": null,
+            "FileName": [
+                "music/brawzaar_ingame_01.ogg",
+                "music/brawzaar_ingame_02.ogg"
+            ],
+            "BackgroundFile": null
+        }
+      }
 }

@@ -1,0 +1,220 @@
+{
+  "texts_patch": {
+    "TID_SHOTGUN_GIRL_DESC": {
+      "EN": "Shelly's spread-fire shotgun blasts the other team with buckshot. Her Super destroys cover and keeps her opponents at a distance!"
+    },
+    "TID_GUNSLINGER_DESC": {
+      "EN": "An unlikely hero that often finds himself in the wrong place at the right time. He's not one to shy away from a mirror and is simply brimming with confidence!"
+    },
+    "TID_BULL_DUDE_DESC": {
+      "EN": "Bull deals massive damage up close with his shotgun. For his Super move, he charges through barriers and knocks back enemies!"
+    },
+    "TID_ROCKET_GIRL_DESC": {
+      "EN": "When Brock's not lighting up the battle with rockets, he's lighting up the dance floor with his smooth moves."
+    },
+    "TID_TRICKSHOT_DUDE_DESC": {
+      "EN": "Rico fires a burst of bullets that bounce off walls. His Super burst is a long barrage of bouncy bullets that pierce targets!"
+    },
+    "TID_CACTUS_DESC": {
+      "EN": "Spike throws cactus grenades that send needles flying, and a show-stopping Super: a field of cactus spines that slows down and damages enemies!"
+    },
+    "TID_BARKEEP_DESC": {
+      "EN": "Barley serves the finest beverages in Starr Park. But dirty his bar up and steam comes out and bottles start flying!"
+    },
+    "TID_MECHANIC_DESC": {
+      "EN": "Jessie's Shock Rifle shoots energy orbs that bounce between enemies. Her Super deploys a cute but deadly gun turret!"
+    },
+    "TID_SHAMAN_DESC": {
+      "EN": "Nita strikes her enemies with a thunderous shockwave. Her Super summons a massive bear to fight by her side!"
+    },
+    "TID_TNT_DUDE_DESC": {
+      "EN": "Long thought lost deep down a mine. Mad Dynamike is back - and he's still itching to blow everything to smithereens!"
+    },
+    "TID_LUCHADOR_DESC": {
+      "EN": "El Primo throws a flurry of punches at his enemies. His Super is a leaping elbow drop that deals damage to all caught underneath!"
+    },
+    "TID_UNDERTAKER_DESC": {
+      "EN": "Mortis dashes forward with each swing of his shovel. As his Super attack, he sends a cloud of bats to damage enemies and heal himself!"
+    },
+    "TID_CROW_DESC": {
+      "EN": "This enigmatic creature just appeared in town one day. Nobody dares to ruffle his feathers - not anymore."
+    },
+    "TID_DEAD_MARIACHI_DESC": {
+      "EN": "Poco fires damaging sound waves at enemies. His Super can heal both Poco himself and his teammates!"
+    },
+    "TID_BOW_DUDE_DESC": {
+      "EN": "Bo fires three explosive arrows toward his targets. His Super ability places a trio of hidden, explosive mines on the ground!"
+    },
+    "TID_SNIPER_DESC": {
+      "EN": "Piper's sniper shots do more damage the farther they travel. Her Super drops grenades at her feet, while Piper herself leaps away!"
+    },
+    "TID_MINIGUN_DUDE_DESC": {
+      "EN": "Pam shoots from the hip, peppering targets with shrapnel. Her Super is a healing turret that restores her and teammates' health!"
+    },
+    "TID_BLACK_HOLE_DESC": {
+      "EN": "What's in the cards for you? This mystic from a far land has come to read your fortune. It says simply: DEFEAT!"
+    },
+    "TID_BARREL_BOT_DESC": {
+      "EN": "Darryl has a powerful double-shotgun attack. His Super move is a reckless roll inside his bouncy barrel!"
+    },
+    "TID_ARTILLERY_DUDE_DESC": {
+      "EN": "A rebel without a cause, mischievous Penny rules the \\qhigh seas.\\q She's a bonafide menace on the lookout for adventure and will stop at nothing for plunder."
+    },
+    "TID_HAMMER_DUDE_DESC": {
+      "EN": "Frank swings his hammer at enemies, sending a shockwave. His Super is an especially powerful blow that stuns enemies!"
+    },
+    "TID_HOOK_DESC": {
+      "EN": "Gene uses his magic lamp to shoot a splitting projectile. His Super is a magical hand that grabs and pulls enemies close!"
+    },
+    "TID_CLUSTER_BOMB_DUDE_DESC": {
+      "EN": "Tick is a metal ball of barely controlled excitement and energy - explosive energy! He throws mines, and his Super makes his head detach, seek a target and explode."
+    },
+    "TID_NINJA_DESC": {
+      "EN": "Leon shoots a quick salvo of blades at his target. His Super trick is a smoke bomb that makes him invisible for a little while!"
+    },
+    "TID_ROSA_DESC": {
+      "EN": "This boxing botanist will plant her feet and go toe to toe! Her Super gives her tough, vegan protective gear."
+    },
+    "TID_WHIRLWIND_DESC": {
+      "EN": "Carl throws his Pickaxe like a boomerang. His Super is a crazy cart spin that clobbers anyone around him."
+    },
+    "TID_BASEBALL_DESC": {
+      "EN": "Batter up! Bibi's got a sweet swing that can knock back enemies when her Home Run bar is charged. Her Super is a bouncing ball of gum that deals damage."
+    },
+    "TID_ARCADE_DESC": {
+      "EN": "8-Bit lumbers along like an arcade cabinet on legs. He shoots Blaster Beams and his Super boosts friendlies' damage!"
+    },
+    "TID_SANDSTORM_DESC": {
+      "EN": "Sandy is a sleep-deprived Brawler with powerful control over sand: casting sharp pebbles at enemies, and summoning a sandstorm to hide teammates."
+    },
+    "TID_BEE_SNIPER_DESC": {
+      "EN": "Bea loves bugs and hugs. She shoots her mechanical drones at range, and her Super sends forth an angry army of swarming bees!"
+    },
+    "TID_MUMMY_DESC": {
+      "EN": "Emz attacks with blasts of hair spray that deal damage over time, and slows down opponents with her Super."
+    },
+    "TID_SPAWNER_DUDE_DESC": {
+      "EN": "Mr. P is a disgruntled luggage handler who angrily hurls suitcases at opponents. His Super calls robo-porters to help him."
+    },
+    "TID_SPEEDY_DESC": {
+      "EN": "Max goes fast! Her attack is a fast-firing blaster. Her Super speeds up her and allies!"
+    },
+    "TID_DRILLER_DESC": {
+      "EN": "Jacky works her Jackhammer to shake up the ground and nearby enemies. Her Super pulls in nearby foes, leaving them in the dust!"
+    },
+    "TID_BLOWER_DESC": {
+      "EN": "Gale is a tireless handyman who gets no rest. With his blower, he blasts foes with a wide shot of wind and snow, while his Super pushes them back with a forceful blizzard!"
+    },
+    "TID_CONTROLLER_DESC": {
+      "EN": "Nani loves her friends and looks over them with a watchful lens. She handles threats with angled shots, and her Super allows Nani to commandeer her pal Peep, who goes out with a bang!"
+    },
+    "TID_WALLY_DESC": {
+      "EN": "Sprout was built to plant life, launching bouncy Seed Bombs with reckless love. Its Super creates a plant-based obstacle!"
+    },
+    "TID_POWER_LEVELER_DESC": {
+      "EN": "He's a Protector with a penchant for parties. Surge attacks foes with energy drink blasts that split in two on contact. His Super upgrades his stats in 3 stages and comes complete with totally awesome body mods!"
+    },
+    "TID_PERCENTER_DESC": {
+      "EN": "Colette is going to get you! She taxes opponents' health and has fancy moves to boot."
+    },
+    "TID_FIRE_DUDE_DESC": {
+      "EN": "Amber has always been a firebug. She loves to light up the world and any opponents that come at her!"
+    },
+    "TID_ICE_DUDE_DESC": {
+      "EN": "Lou is a cool guy, literally! He can dole out all kinds of chill stuff. But watch your step on the ice, and be careful not to get brain freeze!"
+    },
+    "TID_SNAKE_OIL_DESC": {
+      "EN": "Byron deals with potent medicaments, but never call him a snake oil salesman!"
+    },
+    "TID_ENRAGER_DESC": {
+      "EN": "Let's face it, this is an angry kid. He also loves parkour."
+    },
+    "TID_RUFFS_DESC": {
+      "EN": "He may bark orders at his subordinates, but Colonel Ruffs is a very good boy!\\n\\nUsually a calming presence, his canine instincts kick in whenever there's a game of fetch nearby."
+    },
+    "TID_ROLLER_DESC": {
+      "EN": "Stu is a stunt driver extraordinaire with gasoline in his veins! He makes a big entrance, burning serious rubber all over the stage."
+    },
+    "TID_ELECTRO_SNIPER_DESC": {
+      "EN": "Belle inspires adoration in her gang, while her Electro-Rifle brings shock and awe to any opponent!"
+    },
+    "TID_STICKY_BOMB_DESC": {
+      "EN": "As Col. Ruff's accidental creation, Squeak was born to play fetch!"
+    },
+    "TID_CROSS_BOMBER_DESC": {
+      "EN": "Watchman Grom's priority is to keep guard. He throws his trusty radio at his enemies. His Super is a big bad bomb that breaks walls and pushes back enemies!"
+    },
+    "TID_ROPE_DUDE_DESC": {
+      "EN": "Buzz is the lifeguard at Velocirapids. He constantly scans for folks in trouble he can throw his torpedo buoy to, but his throws are rather overenthusiastic."
+    },
+    "TID_ASSAULT_SHOTGUN_DESC": {
+      "EN": "Griff is the proprietor of Starr Park's gift shop. Business is bad, but he still throws coins away - from his employees' tip jar!"
+    },
+    "TID_KNIGHT_DESC": {
+      "EN": "Ash easily gets furious about all the junk he has to clean up. Dealing or receiving blows, even more so. The Fury makes him faster and more dangerous, but eventually he cools down."
+    },
+    "TID_MECHA_DUDE_DESC": {
+      "EN": "Meg starts the game in her trusty Mecha suit. Meg returns to her basic form when the Mecha suit is destroyed, but can use her Super to get back into it."
+    },
+    "TID_DUPLICATOR_DESC": {
+      "EN": "Part guide and part actress and full diva, Lola is THE leading lady of Brawlywood.\\n\\nShe attacks with her scarf and her Super is a channeled manifestation of her Ego."
+    },
+    "TID_KICKER_DUDE_DESC": {
+      "EN": "Fang kicks first and he kicks fast. His main attack is a hefty kick that sends his shoe flying! Fang's Super is a powerful kick that will chain hit multiple enemies who are close together."
+    },
+    "TID_FLEA_DESC": {
+      "EN": "Eve believes that everyone can be valuable... as a resource for her babies."
+    },
+    "TID_JETPACK_GIRL_DESC": {
+      "EN": "Janet is the star of the show, and she's not afraid to let everyone around her know about it.\\n\\nIf only her sister Bonnie wouldn't constantly get into trouble..."
+    },
+    "TID_CANNON_GIRL_DESC": {
+      "EN": "Bonnie and her inanimate cannon \\qClyde\\q are usually up to no good. Who would have thought that this cute little girl would cause so much mayhem?"
+    },
+    "TID_SILENCER_DESC": {
+      "EN": "Otis is a street artist who chills in the deep with his starfish pal Cil. Together they throw up graffiti pieces all over Starr Park."
+    },
+    "TID_WEAPON_THROWER_DESC": {
+      "EN": "A former factory hand, Sam Bronson has a vendetta against ALL robots.\\n\\nHe's the brawn behind the brains of the Goldarm Gang, always happy to take the loot and give robots the boot!"
+    },
+    "TID_SOUL_COLLECTOR_DESC": {
+      "EN": "Calling an abandoned train ride home, Gus loves balloons. As legend has it, one day, he followed a floating balloon dog too far, got lost, and has been there ever since."
+    },
+    "TID_SHIELD_TANK_DESC": {
+      "EN": "Operating the projector at the movie theater, Buster has his favorite action movies memorized. He dreams to someday become an action hero in his own blockbuster movie."
+    },
+    "TID_JESTER_DESC": {
+      "EN": "What's in the box?\\n\\nLimitation of Liability:\\nUnder no circumstances shall Starr Corporation or its affiliates, partners, suppliers or licensors be liable for any indirect, incidental, ..."
+    },
+    "TID_DOORMAN_DESC": {
+      "EN": "What's the meaning of Orthochromatic?\\n\\nGray would tell you, but he doesn't speak much."
+    },
+    "TID_BEAMER_DESC": {
+      "EN": "If you feel low on sugar, drop by Mandy's Rainbow Candy Shop. Remember kids - you'll always feel dandy with Mandy's Candy!"
+    },
+    "TID_SPLITTER_DESC": {
+      "EN": "Lost in Starr Park? No worries, friend! R-T is watching you! Erm, no. He's watching OVER you.\\nYes. That. Totally."
+    },
+    "TID_PUPPETEER_DESC": {
+      "EN": "Lovable? Maybe.\\nFrightening? Without a doubt.\\nControlling? 100%."
+    },
+    "TID_MAISIE_DESC": {
+      "EN": "POP POP POP! Is that popcorn or enemies succumbing?"
+    },
+    "TID_FISHTANK_DESC": {
+      "EN": "Compensating much? Hank is rarely seen outside his over-sized tank."
+    },
+    "TID_DUELIST_DESC": {
+      "EN": "Gardener and caretaker of the Enchanted Forest. Obsesses over mushrooms and is hostile towards strangers."
+    },
+    "TID_REVIVER_DESC": {
+      "EN": "Doug's hot dogs will extend your friends' shelf life."
+    },
+    "TID_COOKER_DESC": {
+      "EN": "Against all odds, Pearl found her way into Belle's and Sam's hardened hearts thanks to her disarmingly warm nature. Besides, who can resist chocolate cookies?"
+    },
+    "TID_CONDUCTOR_DESC": {
+      "EN": "Once a brilliant maestro, now a train conductor, Chuck traded the symphonies of the concert halls for the cacophonies of the Ghost Station, all in the hope of discovering the next big thing in music!"
+    }
+  }
+}

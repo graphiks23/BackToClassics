@@ -1,0 +1,88 @@
+{
+    "player_thumbnails": {
+        "hero1": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "hero2": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "hero3": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "hero4": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "hero9": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "hero10": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "hero13": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "hero15": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "hero16": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "hero19": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "hero31": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "hero35": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "player_icon_colt_overcharge": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "player_icon_shelly_overcharge": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "player_icon_jessie_overcharge": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "player_icon_crow_overcharge": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "player_icon_primo_overcharge": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "player_icon_sprout_overcharge": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "player_icon_max_overcharge": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "player_icon_brock_overcharge": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "player_icon_barley_overcharge": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "player_icon_piper_overcharge": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "player_icon_rico_overcharge": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "player_icon_poco_overcharge": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "player_icon_darryl_overcharge": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "player_icon_penny_overcharge": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "player_icon_bea_overcharge": {
+            "IconSWF": "sc/hero_portraits.sc"
+        },
+        "player_icon_bo_overcharge": {
+            "IconSWF": "sc/hero_portraits.sc"
+        }
+    }
+}
