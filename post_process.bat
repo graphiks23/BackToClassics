@@ -54,19 +54,19 @@ if errorlevel 2 (
     exit /b 0
 )
 
-call :CopyOne "btc_shared_assets.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToClassics\ddb87231-8a9a-4e4e-9bdf-60bcd04d32cf\sc"
-call :CopyOne "effects_brawler_grom.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToClassics\ddb87231-8a9a-4e4e-9bdf-60bcd04d32cf\sc"
-call :CopyOne "events.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToClassics\ddb87231-8a9a-4e4e-9bdf-60bcd04d32cf\sc"
-call :CopyOne "hero_portraits.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToClassics\ddb87231-8a9a-4e4e-9bdf-60bcd04d32cf\skins\oldPortraits\sc"
-call :CopyOne "brawl_pass.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToClassics\ddb87231-8a9a-4e4e-9bdf-60bcd04d32cf\swfPatch\brawlPass\sc"
-call :CopyOne "buddy.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToClassics\ddb87231-8a9a-4e4e-9bdf-60bcd04d32cf\swfPatch\buddy\sc"
-call :CopyOne "background_basic_remaster.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToClassics\ddb87231-8a9a-4e4e-9bdf-60bcd04d32cf\swfPatch\classicTheme\sc"
-call :CopyOne "loading_btc.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToClassics\ddb87231-8a9a-4e4e-9bdf-60bcd04d32cf\swfPatch\classicTheme\sc"
-call :CopyOne "daily_wins.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToClassics\ddb87231-8a9a-4e4e-9bdf-60bcd04d32cf\swfPatch\dailyWins\sc"
-call :CopyOne "profile.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToClassics\ddb87231-8a9a-4e4e-9bdf-60bcd04d32cf\swfPatch\profile\sc"
-call :CopyOne "shop.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToClassics\ddb87231-8a9a-4e4e-9bdf-60bcd04d32cf\swfPatch\shop\sc"
-call :CopyOne "ui.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToClassics\ddb87231-8a9a-4e4e-9bdf-60bcd04d32cf\swfPatch\ui\sc"
-call :CopyOne "trophy_world_common.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToClassics\ddb87231-8a9a-4e4e-9bdf-60bcd04d32cf\swfPatch\twCommon\sc"
+call :CopyOne "btc_shared_assets.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToGlobal\4261636b-546f-436c-6173-736963730000\sc"
+call :CopyOne "effects_brawler_grom.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToGlobal\4261636b-546f-436c-6173-736963730000\sc"
+call :CopyOne "events.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToGlobal\4261636b-546f-436c-6173-736963730000\sc"
+call :CopyOne "hero_portraits.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToGlobal\4261636b-546f-436c-6173-736963730000\skins\oldPortraits\sc"
+call :CopyOne "brawl_pass.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToGlobal\4261636b-546f-436c-6173-736963730000\swfPatch\brawlPass\sc"
+call :CopyOne "buddy.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToGlobal\4261636b-546f-436c-6173-736963730000\swfPatch\buddy\sc"
+call :CopyOne "background_basic_remaster.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToGlobal\4261636b-546f-436c-6173-736963730000\swfPatch\classicTheme\sc"
+call :CopyOne "loading_btc.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToGlobal\4261636b-546f-436c-6173-736963730000\swfPatch\classicTheme\sc"
+call :CopyOne "daily_wins.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToGlobal\4261636b-546f-436c-6173-736963730000\swfPatch\dailyWins\sc"
+call :CopyOne "profile.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToGlobal\4261636b-546f-436c-6173-736963730000\swfPatch\profile\sc"
+call :CopyOne "shop.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToGlobal\4261636b-546f-436c-6173-736963730000\swfPatch\shop\sc"
+call :CopyOne "ui.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToGlobal\4261636b-546f-436c-6173-736963730000\swfPatch\ui\sc"
+call :CopyOne "trophy_world_common.sc" "C:\Users\graphik\Documents\MuMuSharedFolder\BackToGlobal\4261636b-546f-436c-6173-736963730000\swfPatch\twCommon\sc"
 
 echo.
 echo Configured files finished copying.
