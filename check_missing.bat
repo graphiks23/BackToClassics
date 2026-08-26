@@ -22,18 +22,24 @@ echo.
 
 for %%N in (
     btc_shared_assets.sc
-    effects_brawler_grom.sc
+    effects_brawler_pam.sc
     events.sc
     hero_portraits.sc
     brawl_pass.sc
     buddy.sc
     background_basic_remaster.sc
-    loading_btc.sc
+    loading_btc.sce
     daily_wins.sc
     profile.sc
     shop.sc
     ui.sc
-    trophy_world_common.sc
+    trophy_world_common.sc	
+    quests.sc
+    btc_custom_face.sc
+    level.sc
+    profile.sc
+	sexyZiggy.sc
+	loading_donttrip.sc
 ) do (
     if not exist "%PROCESSED_DIR%\%%N" (
         echo MISSING: %%N

@@ -1,9 +1,0 @@
-Name,Type,Disabled,BgFileName,BgExportName,ButtonTomlConfig,BoothTomlConfig,TID
-string,int,Boolean,string,string,string,string,string
-Featured,1,,sc/ui.sc,bg_anim_skulls,,bazaar_booth_default,TID_SHOP_TAB_FEATURED
-Currencies,1,,sc/ui.sc,bg_anim_skulls,,bazaar_booth_default,TID_SHOP_TAB_RESOURCES
-Season,1,,sc/ui.sc,bg_anim_skulls,,bazaar_booth_default,TID_SHOP_TAB_SEASON
-TimeLimited1,1,,sc/ui.sc,bg_anim_skulls,,bazaar_booth_default,TID_SHOP_TAB_TIME_LIMITED_1
-TimeLimited2,1,,sc/ui.sc,bg_anim_skulls,,bazaar_booth_default,TID_SHOP_TAB_TIME_LIMITED_2
-TimeLimited3,1,,sc/ui.sc,bg_anim_skulls,,bazaar_booth_default,TID_SHOP_TAB_TIME_LIMITED_3
-OdditiesShop,1,,sc/ui.sc,bg_anim_skulls,,bazaar_booth_default,TID_SHOP_TAB_ODDITIES_SHOP
