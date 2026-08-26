@@ -9,7 +9,7 @@
         "RU":               "Back To Classics — это полная модификация, возвращающая многие старые элементы Brawl Stars: интерфейс, окружение, модели и многое другое."
     },
     "@author":              "<a href=\"https://t.me/backtoclassics\">@BackToClassics</a>",
-    "@version":             "3.1.128",
+    "@version":             "3.2.80",
     "@ilib": true,
     "@categories": [
                             "gui",
@@ -40,26 +40,47 @@
 
          "profilePicker": {
             "@name": {
-                "EN":       "Profile UI"
+                "EN":       "Profile UI",
+                "RU":       "Интерфейс профиля"
             },
             "@description": {
-                "EN":       "Choose your preferred profile UI. Choose none to use vanilla UI."
+                "EN":       "Choose your preferred profile UI. Choose none to use vanilla UI.",
+                "RU":       "Выбери предпочитаемый интерфейс профиля. Выбери «ничего», чтобы использовать стандартный интерфейс."
             },
             "@type":        "RADIO_GROUP",
             "@features": [
+                            "oldenProfile",
                             "socialsUpdProfile",
                             "revampProfile"
             ]
             
         },
-                "misc": {
+        "misc": {
             "@name": {
                 "EN":       "Misc. settings",
                 "RU":       "Прочие настройки"
             },
             "@type":        "DEFAULT",
             "@features": [
-                            "noSpecialEvents"
+                            "noSpecialEvents",
+                            "mutePins",
+                            "gatchaPatch",
+                            "noSkinRarity"
+            ]
+        },
+        
+         "oldFeatures": {
+            "@name": {
+                "EN":       "Old Features",
+                "RU":       "Старые функции"
+            },
+            "@type":        "DEFAULT",
+            "@features": [
+                            "oldModels",
+                            "oldshop",
+                            "oldEnvs",
+                            "oldPortraits",
+                            "classicBrawlerSort"
             ]
         },
 
@@ -78,7 +99,7 @@
         "dailyWins": {
             "@name": {
                 "EN":       "Daily Wins",
-                "RU":       "Ежедневные победы"
+                "RU":       "Победы дня"
             },
             "@description": {
                 "EN":       "Select none to use default version of Daily Wins.\n(Daily Wins are disabled in Null's Brawl)",
@@ -174,7 +195,7 @@
         "mutePins": {
             "@name": {
                 "EN":       "Disable pin sounds",
-                "RU":       "Отключить звуки значков"
+                "RU":       "Отключить звук значков"
             },
             "@description": {
                 "EN":       "Removes all sounds played by pins",
@@ -195,7 +216,7 @@
             },
             "@enabled": true,
             "@priority": 1,
-            "@patches":        "skins/oldPortraits/oldPlayerThumbnails.json",
+            "@patches":     "skins/oldPortraits/oldPlayerThumbnails.json",
             "@root":        "skins/oldPortraits"
         },
         "uiPatch": {
@@ -218,11 +239,7 @@
         "brawlPassPatch": {
             "@name": {
                 "EN":       "Enable Brawl Pass Patch",
-                "RU":        "Включить патч Brawl Pass"
-            },
-            "@description": {
-                "EN":       "Enable or disable old Brawl Pass",
-                "RU":       "Включает или отключает старый Brawl Pass"
+                "RU":       "Включить патч Brawl Pass"
             },
             "@enabled": true,
             "@priority": 1,
@@ -278,17 +295,23 @@
                 "EN":       "Enable patches for the new version of shop (like removing tabs)",
                 "RU":       "Включает патчи для новой версии магазина, например удаление вкладок"
             },
-            "@enabled": true,
+            "@enabled": false,
             "@priority": 1,
-            "@patches":     "swfPatch/shop/shopTabs.json",
+            "@patches":     [
+                            "swfPatch/shop/shopTabs.json",
+                            "client/pleaseDoNotActuallyUseThisShittyWorkaround.json"
+                            ],
+
             "@root":        "swfPatch/shop"
         },
         "questPatch": {
             "@name": {
-                "EN":       "Enable Quest Patches"
+                "EN":       "Enable Quest Patches",
+                "RU":       "Включить патчи заданий"
             },
             "@description": {
-                "EN":       "Enable patches for quest tab (including replacing XP rewards to tokens)"
+                "EN":       "Enable patches for quest tab (including replacing XP rewards to tokens)",
+                "RU":       "Включает патчи для вкладки заданий (включая замену наград в виде опыта на жетоны)"
             },
             "@enabled": true,
             "@priority": 1,
@@ -387,20 +410,23 @@
             "@enabled": false,
             "@priority": 1,
             "@patches": [
-                            "skins/shellyBaseRemix.json",
-                            "skins/shellyPreRegRemix.json",
-                            "skins/shellyBanditRemix.json",
-                            "skins/trueMatShellyRemix.json",
-                            "skins/shellyFBRemix.json",
-                            "skins/shellyFaceFix.json",
-                            "skins/roboPennyFix.json",
-                            "skins/pennyBaseRemix.json",
-                            "skins/pennyElfRemix.json",
-                            "skins/surgeBaseRemix.json",
-                            "skins/bullBaseRemix.json",
-                            "skins/jessieBaseRemix.json",
-                            "skins/trainingBotRemix.json"
-            ]
+                            "skins/hero/shelly/shellyBaseRemix.json",
+                            "skins/hero/shelly/shellyPreRegRemix.json",
+                            "skins/hero/shelly/shellyBanditRemix.json",
+                            "skins/hero/shelly/trueMatShellyRemix.json",
+                            "skins/hero/shelly/shellyFBRemix.json",
+                            "skins/hero/shelly/shellyFaceFix.json",
+                            "skins/hero/penny/roboPennyFix.json",
+                            "skins/hero/penny/pennyBaseRemix.json",
+                            "skins/hero/penny/pennyElfRemix.json",
+                            "skins/hero/surge/surgeBaseRemix.json",
+                            "skins/hero/bull/bullBaseRemix.json",
+                            "skins/hero/jessie/jessieBaseRemix.json",
+                            "skins/hero/misc/trainingBotRemix.json"
+            ],
+
+            "@root":        "skins/sc3dRoot/"
+
         },
         "classicRanks": {
             "@name": {
@@ -409,7 +435,10 @@
             },
             "@enabled": true,
             "@priority": 1,
-            "@patches":     "logic/rankSystem/milestones.json"
+            "@patches":     [
+                            "logic/rankSystem/milestones.json",
+                            "locale/ranks.json"
+                            ]
         },
         "jujuRanks": {
             "@name": {
@@ -423,10 +452,12 @@
 
          "socialsUpdProfile": {
             "@name": {
-                "EN":       "v56 profile UI"
+                "EN":       "v56 profile UI",
+                "RU":       "Интерфейс профиля v56"
             },
             "@description": {
-                "EN":       "(battle card under brawler)"
+                "EN":       "(battle card under brawler)",
+                "RU":       "(карточка боя под бойцом)"
             },
             "@enabled": true,
             "@priority": 1,
@@ -435,38 +466,90 @@
     
         "revampProfile": {
             "@name": {
-                "EN":       "Pre-v56 profile UI"
+                "EN":       "Pre-v56 profile UI",
+                "RU":       "Интерфейс профиля до v56"
             },
             "@description": {
-                "EN":       "(battle card under stats)"
+                "EN":       "(battle card under stats)",
+                "RU":       "(карточка боя под статистикой)"
             },
             "@enabled": false,
             "@priority": 1,
-            "@root":         "swfPatch/profile/revampedProfile"
+            "@root":        "swfPatch/profile/revampedProfile"
+        },
+        "oldenProfile": {
+            "@name": {
+                "EN":       "Pre-v48 profile UI",
+                "RU":       "Интерфейс профиля до v48"
+            },
+            "@description": {
+                "EN":       "(no battle cards)",
+                "RU":       "(без карточек боя)"
+            },
+            "@enabled": false,
+            "@priority": 1,
+            "@root":        "swfPatch/profile/ancientProfile"
+        },
+
+        "classicBrawlerSort": {
+            "@name": {
+                "EN":       "Old Brawler sort button behaviour",
+                "RU":       "Старое поведение кнопки сортировки бойцов"
+            },
+            "@description": {
+                "EN":       "Instead of a menu, scroll through all sorting options",
+                "RU":       "Вместо меню прокручивать все варианты сортировки"
+            },
+            "@enabled": true,
+            "@priority": 1,
+            "@patches":     "client/brawlerSelector.json"
+        },
+        
+         "gatchaPatch": {
+            "@name": {
+                "EN":       "Replace Starr Drops and Chaos Drops with Brawl Boxes",
+                "RU":       "Заменить Старр Дропы и Дропы Хаоса на ящики Brawl"
+            },
+            "@description": {
+                "EN":       "(Does not include box assets in daily wins, or Brawl Pass",
+                "RU":       "(Не включает ресурсы ящиков в ежедневных победах или Brawl Pass"
+            },
+            "@enabled": true,
+            "@priority": 1,
+            "@patches": [
+                            "logic/randomReward.json",
+                            "shop/shopItems.json"
+                        ]
+        },
+        "noSkinRarity": {
+            "@name": {
+                "EN":        "Remove skin rarities",
+                "RU":        "Убрать редкость скинов"
+            },
+            "@enabled": false,
+            "@priority": 1,
+            "@patches":     "logic/noSkinRarity.json"
         }
+        
     },
     "@patches": [
                             "locale/btcCustomStrings.json",
                             "locale/chromaPatch.json",
                             "locale/starPoints.json",
                             "locale/tokens.json",
-                            "locale/ranks.json",
                             "locale/oldHeroDesc.json",
                             "client/effects.json",
                             "client/sounds.json",
                             "logic/earlyAccess.json",
                             "logic/playerCards.json",
-                            "logic/randomReward.json",
                             "logic/resources.json",
                             "logic/skinBackgroundPatch.json",
                             "logic/noPets.json",
                             "logic/skinShopNameFix.json",
                             "logic/rarities.json",
                             "swfPatch/emojiPatches/oldPins.json",
-                            "shop/shopItems.json",
                             "logic/battleIntroHeroOffsets.json",
                             "logic/noUnlockVO.json",
-                            "client/pleaseDoNotActuallyUseThisShittyWorkaround.json",
                             "effects/troopDieSplatter.json",
                             "logic/gameModes.json"
     ]

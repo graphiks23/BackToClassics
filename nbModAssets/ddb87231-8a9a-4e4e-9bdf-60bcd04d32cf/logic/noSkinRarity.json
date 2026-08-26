@@ -1,0 +1,22 @@
+{
+    "skin_rarities": {
+        "Rare": {
+            "Rarity": null
+        },
+        "SuperRare": {
+            "Rarity": null
+        },
+        "Epic": {
+            "Rarity": null
+        },
+        "Mythic": {
+            "Rarity": null
+        },
+        "Legendary": {
+            "Rarity": null
+        },
+        "Hypercharge": {
+            "Rarity": null
+        }
+    }
+}

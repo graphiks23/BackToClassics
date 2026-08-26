@@ -8,9 +8,6 @@
     },
     "LOW_MEMORY_LIMIT": {
       "NumberValue": 1
-    },
-    "BRAWLWER_SORTING_SELECTOR_ENABLED": {
-      "BooleanValue": "FALSE"
     }
   }
 }

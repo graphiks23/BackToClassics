@@ -5,8 +5,8 @@
 			"RU": "Back To Classics 3.1"
         },
     		"TID_BTC_BUILD_VER": {
-            "EN": "build 128 v68",
-			"RU": "build 128 v68"
+            "EN": "build 176 v68",
+			"RU": "build 176 v68"
         },
 		"TID_BTC_BUTTON": {
             "EN": "BackToClassics Channel",
@@ -100,6 +100,11 @@
         {
             "EN": "New Starr Drops in:",
             "RU": "Новые Старр-дропы через:"
+        },
+        "TID_BTC_BRAWL_PASS_TAIL_INFO":
+        {
+            "EN": "Once you've completed the Brawl Pass, you will earn a random reward for every 2800 tokens!",
+            "RU": "После завершения Brawl Pass вы будете получать случайную награду за каждые 2800 жетонов!"
         }
     }
 }

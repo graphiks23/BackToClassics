@@ -41,7 +41,7 @@ for %%F in ("%INPUT_DIR%\*.sc") do (
             if not exist "%BRAWL_PASS_DUM%" (
                 echo Error: Required file not found: "%BRAWL_PASS_DUM%"
             ) else (
-                "%TOOL%" "%OUTPUT_DIR%\%%~nxF" "%BRAWL_PASS_DUM%" "%%~fF" --repack-atlas --repack-banks --texture-type khronos --khronos-compression-type 0x93B6 --override-texture-parameters --remove-unused
+                "%TOOL%" "%OUTPUT_DIR%\%%~nxF" "%%~fF" --repack-atlas --repack-banks --texture-type khronos --khronos-compression-type 0x93B6 --override-texture-parameters --remove-unused
                 if errorlevel 1 echo Error converting: "%%~nxF"
             )
         ) else if /I "%%~nxF"=="btc_shared_assets.sc" (

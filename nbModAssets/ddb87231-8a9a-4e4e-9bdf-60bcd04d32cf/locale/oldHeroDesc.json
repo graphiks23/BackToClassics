@@ -1,220 +1,292 @@
 {
   "texts_patch": {
     "TID_SHOTGUN_GIRL_DESC": {
-      "EN": "Shelly's spread-fire shotgun blasts the other team with buckshot. Her Super destroys cover and keeps her opponents at a distance!"
+      "EN": "Shelly's spread-fire shotgun blasts the other team with buckshot. Her Super destroys cover and keeps her opponents at a distance!",
+      "RU": "Шелли обрушивает на вражескую команду шквал дроби из ружья. Её Супер уничтожает укрытия и держит противников на расстоянии!"
     },
     "TID_GUNSLINGER_DESC": {
-      "EN": "An unlikely hero that often finds himself in the wrong place at the right time. He's not one to shy away from a mirror and is simply brimming with confidence!"
+      "EN": "An unlikely hero that often finds himself in the wrong place at the right time. He's not one to shy away from a mirror and is simply brimming with confidence!",
+      "RU": "Герой поневоле, который часто оказывается в ненужном месте в нужное время. Влюблён в своё отражение в зеркале и просто излучает уверенность!"
     },
     "TID_BULL_DUDE_DESC": {
-      "EN": "Bull deals massive damage up close with his shotgun. For his Super move, he charges through barriers and knocks back enemies!"
+      "EN": "Bull deals massive damage up close with his shotgun. For his Super move, he charges through barriers and knocks back enemies!",
+      "RU": "Ружьё Булла наносит серьёзный урон на небольшой дистанции. Его Супер позволяет ему прорываться сквозь препятствия и отбрасывать врагов назад!"
     },
     "TID_ROCKET_GIRL_DESC": {
-      "EN": "When Brock's not lighting up the battle with rockets, he's lighting up the dance floor with his smooth moves."
+      "EN": "When Brock's not lighting up the battle with rockets, he's lighting up the dance floor with his smooth moves.",
+      "RU": "Если Брок не отжигает с ракетами на поле боя, то отжигает на танцполе!"
     },
     "TID_TRICKSHOT_DUDE_DESC": {
-      "EN": "Rico fires a burst of bullets that bounce off walls. His Super burst is a long barrage of bouncy bullets that pierce targets!"
+      "EN": "Rico fires a burst of bullets that bounce off walls. His Super burst is a long barrage of bouncy bullets that pierce targets!",
+      "RU": "Выпущенные Рико пули могут отскакивать от стен. Его Супер преодолевает большую дистанцию и насквозь прошивает цель!"
     },
     "TID_CACTUS_DESC": {
-      "EN": "Spike throws cactus grenades that send needles flying, and a show-stopping Super: a field of cactus spines that slows down and damages enemies!"
+      "EN": "Spike throws cactus grenades that send needles flying, and a show-stopping Super: a field of cactus spines that slows down and damages enemies!",
+      "RU": "Спайк бросает кактусные гранаты, осыпающие всё вокруг иголками. Его ошеломительный Супер создаёт поле с шипами, замедляющее врагов и наносящее им урон!"
     },
     "TID_BARKEEP_DESC": {
-      "EN": "Barley serves the finest beverages in Starr Park. But dirty his bar up and steam comes out and bottles start flying!"
+      "EN": "Barley serves the finest beverages in Starr Park. But dirty his bar up and steam comes out and bottles start flying!",
+      "RU": "Барли готовит лучшие напитки в парке Старр! Но стоит только кому-то запачкать барную стойку, как он вскипает и начинает кидаться бутылками!"
     },
     "TID_MECHANIC_DESC": {
-      "EN": "Jessie's Shock Rifle shoots energy orbs that bounce between enemies. Her Super deploys a cute but deadly gun turret!"
+      "EN": "Jessie's Shock Rifle shoots energy orbs that bounce between enemies. Her Super deploys a cute but deadly gun turret!",
+      "RU": "Шоковая винтовка Джесси выстреливает энергосферой, отскакивающей от врага к врагу. Её Супер — установка милой, но смертоносной турели!"
     },
     "TID_SHAMAN_DESC": {
-      "EN": "Nita strikes her enemies with a thunderous shockwave. Her Super summons a massive bear to fight by her side!"
+      "EN": "Nita strikes her enemies with a thunderous shockwave. Her Super summons a massive bear to fight by her side!",
+      "RU": "Нита атакует врагов волной энергии. Её Супер призывает огромного медведя, который сражается рядом с ней!"
     },
     "TID_TNT_DUDE_DESC": {
-      "EN": "Long thought lost deep down a mine. Mad Dynamike is back - and he's still itching to blow everything to smithereens!"
+      "EN": "Long thought lost deep down a mine. Mad Dynamike is back - and he's still itching to blow everything to smithereens!",
+      "RU": "Когда все окончательно решили, что Динамайк сгинул в шахте, он вернулся и всё так же рвётся что-нибудь взорвать!"
     },
     "TID_LUCHADOR_DESC": {
-      "EN": "El Primo throws a flurry of punches at his enemies. His Super is a leaping elbow drop that deals damage to all caught underneath!"
+      "EN": "El Primo throws a flurry of punches at his enemies. His Super is a leaping elbow drop that deals damage to all caught underneath!",
+      "RU": "Эль Примо обрушивает на врагов град ударов. Его Супер, удар локтем в прыжке, наносит урон всем, кто оказался рядом!"
     },
     "TID_UNDERTAKER_DESC": {
-      "EN": "Mortis dashes forward with each swing of his shovel. As his Super attack, he sends a cloud of bats to damage enemies and heal himself!"
+      "EN": "Mortis dashes forward with each swing of his shovel. As his Super attack, he sends a cloud of bats to damage enemies and heal himself!",
+      "RU": "Мортис прыгает вперёд с каждым взмахом своей лопаты. Его Супер призывает стаю летучих мышей, наносящих урон врагам и исцеляющих его самого!"
     },
     "TID_CROW_DESC": {
-      "EN": "This enigmatic creature just appeared in town one day. Nobody dares to ruffle his feathers - not anymore."
+      "EN": "This enigmatic creature just appeared in town one day. Nobody dares to ruffle his feathers - not anymore.",
+      "RU": "Это таинственное существо возникло в городе словно из ниоткуда. Никто не смеет дразнить его. Уже никто."
     },
     "TID_DEAD_MARIACHI_DESC": {
-      "EN": "Poco fires damaging sound waves at enemies. His Super can heal both Poco himself and his teammates!"
+      "EN": "Poco fires damaging sound waves at enemies. His Super can heal both Poco himself and his teammates!",
+      "RU": "Поко атакует врагов разрушительной звуковой волной. Его Супер исцеляет его самого и товарищей по команде!"
     },
     "TID_BOW_DUDE_DESC": {
-      "EN": "Bo fires three explosive arrows toward his targets. His Super ability places a trio of hidden, explosive mines on the ground!"
+      "EN": "Bo fires three explosive arrows toward his targets. His Super ability places a trio of hidden, explosive mines on the ground!",
+      "RU": "Бо выпускает три взрывные стрелы. Его Супер — установка трёх секретных взрывных ловушек!"
     },
     "TID_SNIPER_DESC": {
-      "EN": "Piper's sniper shots do more damage the farther they travel. Her Super drops grenades at her feet, while Piper herself leaps away!"
+      "EN": "Piper's sniper shots do more damage the farther they travel. Her Super drops grenades at her feet, while Piper herself leaps away!",
+      "RU": "Снайперские выстрелы Пайпер наносят больше урона на большей дистанции. Её Супер — гранаты под ноги, бросив которые, она сбегает!"
     },
     "TID_MINIGUN_DUDE_DESC": {
-      "EN": "Pam shoots from the hip, peppering targets with shrapnel. Her Super is a healing turret that restores her and teammates' health!"
+      "EN": "Pam shoots from the hip, peppering targets with shrapnel. Her Super is a healing turret that restores her and teammates' health!",
+      "RU": "Выстрелы Пэм усыпают всё вокруг шрапнелью. Её Супер — лечебная турель, восстанавливающая здоровье ей и товарищам по команде!"
     },
     "TID_BLACK_HOLE_DESC": {
-      "EN": "What's in the cards for you? This mystic from a far land has come to read your fortune. It says simply: DEFEAT!"
+      "EN": "What's in the cards for you? This mystic from a far land has come to read your fortune. It says simply: DEFEAT!",
+      "RU": "Какую судьбу предрекут карты? Эта загадочная личность, прибывшая из дальних краёв, видит в твоём будущем только одно: ПОРАЖЕНИЕ!"
     },
     "TID_BARREL_BOT_DESC": {
-      "EN": "Darryl has a powerful double-shotgun attack. His Super move is a reckless roll inside his bouncy barrel!"
+      "EN": "Darryl has a powerful double-shotgun attack. His Super move is a reckless roll inside his bouncy barrel!",
+      "RU": "Атака из пары дробовиков Дэррила невероятно мощна. Его Супер — усиленная бочка, в которой он катится вперёд, отскакивая от стен по пути!"
     },
     "TID_ARTILLERY_DUDE_DESC": {
-      "EN": "A rebel without a cause, mischievous Penny rules the \\qhigh seas.\\q She's a bonafide menace on the lookout for adventure and will stop at nothing for plunder."
+      "EN": "A rebel without a cause, mischievous Penny rules the \\qhigh seas.\\q She's a bonafide menace on the lookout for adventure and will stop at nothing for plunder.",
+      "RU": "Бунтарка и гроза морей Пенни всегда готова к очередному приключению и не остановится ни перед чем, почуяв добычу."
     },
     "TID_HAMMER_DUDE_DESC": {
-      "EN": "Frank swings his hammer at enemies, sending a shockwave. His Super is an especially powerful blow that stuns enemies!"
+      "EN": "Frank swings his hammer at enemies, sending a shockwave. His Super is an especially powerful blow that stuns enemies!",
+      "RU": "Взмах молота Фрэнка порождает взрывную волну. Его неимоверно мощный Супер оглушает противников!"
     },
     "TID_HOOK_DESC": {
-      "EN": "Gene uses his magic lamp to shoot a splitting projectile. His Super is a magical hand that grabs and pulls enemies close!"
+      "EN": "Gene uses his magic lamp to shoot a splitting projectile. His Super is a magical hand that grabs and pulls enemies close!",
+      "RU": "Джин выпускает из своей волшебной лампы разделяющиеся снаряды. Его Супер — волшебная рука, которая хватает и притягивает к нему врагов!"
     },
     "TID_CLUSTER_BOMB_DUDE_DESC": {
-      "EN": "Tick is a metal ball of barely controlled excitement and energy - explosive energy! He throws mines, and his Super makes his head detach, seek a target and explode."
+      "EN": "Tick is a metal ball of barely controlled excitement and energy - explosive energy! He throws mines, and his Super makes his head detach, seek a target and explode.",
+      "RU": "Взрывной характер и неуёмная энергия в металлической оболочке! Тик бросает мины, а с помощью Супера — и свою голову, которая преследует врага и взрывается."
     },
     "TID_NINJA_DESC": {
-      "EN": "Leon shoots a quick salvo of blades at his target. His Super trick is a smoke bomb that makes him invisible for a little while!"
+      "EN": "Leon shoots a quick salvo of blades at his target. His Super trick is a smoke bomb that makes him invisible for a little while!",
+      "RU": "Леон поражает цель роем метательных клинков. Его Супер — дымовая бомба, делающая его невидимым на некоторое время!"
     },
     "TID_ROSA_DESC": {
-      "EN": "This boxing botanist will plant her feet and go toe to toe! Her Super gives her tough, vegan protective gear."
+      "EN": "This boxing botanist will plant her feet and go toe to toe! Her Super gives her tough, vegan protective gear.",
+      "RU": "Эта боксёрша-ботаник крепко стоит на ногах и не боится ближнего боя! Супер оплетает её прочной и стопроцентно веганской бронёй."
     },
     "TID_WHIRLWIND_DESC": {
-      "EN": "Carl throws his Pickaxe like a boomerang. His Super is a crazy cart spin that clobbers anyone around him."
+      "EN": "Carl throws his Pickaxe like a boomerang. His Super is a crazy cart spin that clobbers anyone around him.",
+      "RU": "Карл бросает кирку, словно бумеранг.\\nЕго Супер — бешеное вращение сбивающей всех вокруг вагонетки."
     },
     "TID_BASEBALL_DESC": {
-      "EN": "Batter up! Bibi's got a sweet swing that can knock back enemies when her Home Run bar is charged. Her Super is a bouncing ball of gum that deals damage."
+      "EN": "Batter up! Bibi's got a sweet swing that can knock back enemies when her Home Run bar is charged. Her Super is a bouncing ball of gum that deals damage.",
+      "RU": "На поле! Когда шкала хоум-рана заряжена полностью, удар Биби отбрасывает врагов. Её Супер — упругий шарик из жвачки, прошивающий врагов насквозь."
     },
     "TID_ARCADE_DESC": {
-      "EN": "8-Bit lumbers along like an arcade cabinet on legs. He shoots Blaster Beams and his Super boosts friendlies' damage!"
+      "EN": "8-Bit lumbers along like an arcade cabinet on legs. He shoots Blaster Beams and his Super boosts friendlies' damage!",
+      "RU": "8-БИТ похож на ходячий игровой автомат. Он стреляет лучами из бластера, а его Супер усиливает урон товарищей по команде!"
     },
     "TID_SANDSTORM_DESC": {
-      "EN": "Sandy is a sleep-deprived Brawler with powerful control over sand: casting sharp pebbles at enemies, and summoning a sandstorm to hide teammates."
+      "EN": "Sandy is a sleep-deprived Brawler with powerful control over sand: casting sharp pebbles at enemies, and summoning a sandstorm to hide teammates.",
+      "RU": "Сэнди — боец с хроническим недосыпом, способный управлять стихией земли: забрасывать врага колючим гравием и прятать товарищей за песчаной завесой."
     },
     "TID_BEE_SNIPER_DESC": {
-      "EN": "Bea loves bugs and hugs. She shoots her mechanical drones at range, and her Super sends forth an angry army of swarming bees!"
+      "EN": "Bea loves bugs and hugs. She shoots her mechanical drones at range, and her Super sends forth an angry army of swarming bees!",
+      "RU": "Беа нравятся букашки и обнимашки. Она атакует с расстояния дронами, а её Супер вызывает армию разъярённых пчёл!"
     },
     "TID_MUMMY_DESC": {
-      "EN": "Emz attacks with blasts of hair spray that deal damage over time, and slows down opponents with her Super."
+      "EN": "Emz attacks with blasts of hair spray that deal damage over time, and slows down opponents with her Super.",
+      "RU": "Эмз атакует, разбрызгивая лак для волос, облака которого наносят урон с течением времени. Её Супер замедляет врагов."
     },
     "TID_SPAWNER_DUDE_DESC": {
-      "EN": "Mr. P is a disgruntled luggage handler who angrily hurls suitcases at opponents. His Super calls robo-porters to help him."
+      "EN": "Mr. P is a disgruntled luggage handler who angrily hurls suitcases at opponents. His Super calls robo-porters to help him.",
+      "RU": "Мистер П. — сердитый грузчик, который кидает во врагов чемоданы. Его Супер призывает ему на помощь роботов-носильщиков."
     },
     "TID_SPEEDY_DESC": {
-      "EN": "Max goes fast! Her attack is a fast-firing blaster. Her Super speeds up her and allies!"
+      "EN": "Max goes fast! Her attack is a fast-firing blaster. Her Super speeds up her and allies!",
+      "RU": "Макс невероятно быстра! Она стреляет из скорострельного бластера, а её Супер ускоряет её саму и товарищей по команде!"
     },
     "TID_DRILLER_DESC": {
-      "EN": "Jacky works her Jackhammer to shake up the ground and nearby enemies. Her Super pulls in nearby foes, leaving them in the dust!"
+      "EN": "Jacky works her Jackhammer to shake up the ground and nearby enemies. Her Super pulls in nearby foes, leaving them in the dust!",
+      "RU": "Джеки орудует отбойным молотком, сотрясая землю и врагов поблизости. Её Супер притягивает оказавшихся рядом противников, заставляя их глотать пыль."
     },
     "TID_BLOWER_DESC": {
-      "EN": "Gale is a tireless handyman who gets no rest. With his blower, he blasts foes with a wide shot of wind and snow, while his Super pushes them back with a forceful blizzard!"
+      "EN": "Gale is a tireless handyman who gets no rest. With his blower, he blasts foes with a wide shot of wind and snow, while his Super pushes them back with a forceful blizzard!",
+      "RU": "Гэйл — мастер на все руки! Он атакует врагов широким потоком воздуха со снегом, а его Супер отбрасывает противников назад."
     },
     "TID_CONTROLLER_DESC": {
-      "EN": "Nani loves her friends and looks over them with a watchful lens. She handles threats with angled shots, and her Super allows Nani to commandeer her pal Peep, who goes out with a bang!"
+      "EN": "Nani loves her friends and looks over them with a watchful lens. She handles threats with angled shots, and her Super allows Nani to commandeer her pal Peep, who goes out with a bang!",
+      "RU": "Нани обожает своих друзей и всегда заботится о них. Она стреляет сразу в нескольких направлениях и управляет собственным роботом Пипом с помощью Супера!"
     },
     "TID_WALLY_DESC": {
-      "EN": "Sprout was built to plant life, launching bouncy Seed Bombs with reckless love. Its Super creates a plant-based obstacle!"
+      "EN": "Sprout was built to plant life, launching bouncy Seed Bombs with reckless love. Its Super creates a plant-based obstacle!",
+      "RU": "Спраут был создан, чтобы сеять жизнь и любовь с помощью скачущих зернобомб. Его Супер создаёт преграду из кустов."
     },
     "TID_POWER_LEVELER_DESC": {
-      "EN": "He's a Protector with a penchant for parties. Surge attacks foes with energy drink blasts that split in two on contact. His Super upgrades his stats in 3 stages and comes complete with totally awesome body mods!"
+      "EN": "He's a Protector with a penchant for parties. Surge attacks foes with energy drink blasts that split in two on contact. His Super upgrades his stats in 3 stages and comes complete with totally awesome body mods!",
+      "RU": "Вольт искрится от избытка энергии! Он стреляет энергетическими сгустками, которые разделяются на части при столкновении с целью. Супер Вольта в три этапа улучшает его характеристики и меняет его вид!"
     },
     "TID_PERCENTER_DESC": {
-      "EN": "Colette is going to get you! She taxes opponents' health and has fancy moves to boot."
+      "EN": "Colette is going to get you! She taxes opponents' health and has fancy moves to boot.",
+      "RU": "От Колетт не уйти! Она облагает здоровье противников драконовским налогом и весьма проворно двигается."
     },
     "TID_FIRE_DUDE_DESC": {
-      "EN": "Amber has always been a firebug. She loves to light up the world and any opponents that come at her!"
+      "EN": "Amber has always been a firebug. She loves to light up the world and any opponents that come at her!",
+      "RU": "Амбер любит играть с огнём и знает, как устроить по-настоящему тёплую встречу."
     },
     "TID_ICE_DUDE_DESC": {
-      "EN": "Lou is a cool guy, literally! He can dole out all kinds of chill stuff. But watch your step on the ice, and be careful not to get brain freeze!"
+      "EN": "Lou is a cool guy, literally! He can dole out all kinds of chill stuff. But watch your step on the ice, and be careful not to get brain freeze!",
+      "RU": "Лу обладает стойким нордическим характером и всегда сохраняет хладнокровие. Но он может быть довольно скользким типом, так что смотри в оба. И одевайся теплее!"
     },
     "TID_SNAKE_OIL_DESC": {
-      "EN": "Byron deals with potent medicaments, but never call him a snake oil salesman!"
+      "EN": "Byron deals with potent medicaments, but never call him a snake oil salesman!",
+      "RU": "Байрон имеет дело с сильнодействующими препаратами — не вздумай называть его гомеопатом!"
     },
     "TID_ENRAGER_DESC": {
-      "EN": "Let's face it, this is an angry kid. He also loves parkour."
+      "EN": "Let's face it, this is an angry kid. He also loves parkour.",
+      "RU": "Мрачный тип. Любит паркур."
     },
     "TID_RUFFS_DESC": {
-      "EN": "He may bark orders at his subordinates, but Colonel Ruffs is a very good boy!\\n\\nUsually a calming presence, his canine instincts kick in whenever there's a game of fetch nearby."
+      "EN": "He may bark orders at his subordinates, but Colonel Ruffs is a very good boy!\\n\\nUsually a calming presence, his canine instincts kick in whenever there's a game of fetch nearby.",
+      "RU": "Хоть генерал Гавс и рычит на подчинённых, но вообще-то он очень хороший мальчик!\\n\\nГавс умело скрывает собачьи привычки и сохраняет хладнокровие до тех пор, пока кто-то не бросит мячик."
     },
     "TID_ROLLER_DESC": {
-      "EN": "Stu is a stunt driver extraordinaire with gasoline in his veins! He makes a big entrance, burning serious rubber all over the stage."
+      "EN": "Stu is a stunt driver extraordinaire with gasoline in his veins! He makes a big entrance, burning serious rubber all over the stage.",
+      "RU": "Сту — каскадёр, в венах которого вместо крови течёт бензин! Его появление сопровождается искрами и запахом горящих покрышек."
     },
     "TID_ELECTRO_SNIPER_DESC": {
-      "EN": "Belle inspires adoration in her gang, while her Electro-Rifle brings shock and awe to any opponent!"
+      "EN": "Belle inspires adoration in her gang, while her Electro-Rifle brings shock and awe to any opponent!",
+      "RU": "Все в банде просто обожают Белль, а её электроружьё повергает противников в шок и трепет!"
     },
     "TID_STICKY_BOMB_DESC": {
-      "EN": "As Col. Ruff's accidental creation, Squeak was born to play fetch!"
+      "EN": "As Col. Ruff's accidental creation, Squeak was born to play fetch!",
+      "RU": "Скуик — случайное создание генерала Гавса. Он обожает играть в догонялки!"
     },
     "TID_CROSS_BOMBER_DESC": {
-      "EN": "Watchman Grom's priority is to keep guard. He throws his trusty radio at his enemies. His Super is a big bad bomb that breaks walls and pushes back enemies!"
+      "EN": "Watchman Grom's priority is to keep guard. He throws his trusty radio at his enemies. His Super is a big bad bomb that breaks walls and pushes back enemies!",
+      "RU": "Стражник Гром всегда начеку. Атакует броском рации. Его Супер — мощная бомба, разрушающая стены и отбрасывающая врагов."
     },
     "TID_ROPE_DUDE_DESC": {
-      "EN": "Buzz is the lifeguard at Velocirapids. He constantly scans for folks in trouble he can throw his torpedo buoy to, but his throws are rather overenthusiastic."
+      "EN": "Buzz is the lifeguard at Velocirapids. He constantly scans for folks in trouble he can throw his torpedo buoy to, but his throws are rather overenthusiastic.",
+      "RU": "Базз — спасатель с Велоциратопляжа. Он ищет попавших в беду, чтобы бросить им спасательную торпеду-поплавок, но делает это как-то слишком энергично."
     },
     "TID_ASSAULT_SHOTGUN_DESC": {
-      "EN": "Griff is the proprietor of Starr Park's gift shop. Business is bad, but he still throws coins away - from his employees' tip jar!"
+      "EN": "Griff is the proprietor of Starr Park's gift shop. Business is bad, but he still throws coins away - from his employees' tip jar!",
+      "RU": "Грифф — владелец магазина сувениров в парке Старр. Бизнес у него не идёт, но он все равно разбрасывается деньгами, которые берёт из чаевых своих работников!"
     },
     "TID_KNIGHT_DESC": {
-      "EN": "Ash easily gets furious about all the junk he has to clean up. Dealing or receiving blows, even more so. The Fury makes him faster and more dangerous, but eventually he cools down."
+      "EN": "Ash easily gets furious about all the junk he has to clean up. Dealing or receiving blows, even more so. The Fury makes him faster and more dangerous, but eventually he cools down.",
+      "RU": "Эш приходит в ярость как из-за мусора, который ему приходится убирать, так и нанося и получая удары. Ярость делает его быстрее и опаснее, но со временем он остывает."
     },
     "TID_MECHA_DUDE_DESC": {
-      "EN": "Meg starts the game in her trusty Mecha suit. Meg returns to her basic form when the Mecha suit is destroyed, but can use her Super to get back into it."
+      "EN": "Meg starts the game in her trusty Mecha suit. Meg returns to her basic form when the Mecha suit is destroyed, but can use her Super to get back into it.",
+      "RU": "Мэг вступает в бой в режиме мехи. После разрушения меха-костюма Мэг возвращается в стандартный режим, но может снова стать мехой с помощью Супера."
     },
     "TID_DUPLICATOR_DESC": {
-      "EN": "Part guide and part actress and full diva, Lola is THE leading lady of Brawlywood.\\n\\nShe attacks with her scarf and her Super is a channeled manifestation of her Ego."
+      "EN": "Part guide and part actress and full diva, Lola is THE leading lady of Brawlywood.\\n\\nShe attacks with her scarf and her Super is a channeled manifestation of her Ego.",
+      "RU": "Лола — гид на полставки, а также дива и ведущая актриса Броуливуда.\\nИспользует для атаки горжетку, а в роли Супера выступает её собственное эго."
     },
     "TID_KICKER_DUDE_DESC": {
-      "EN": "Fang kicks first and he kicks fast. His main attack is a hefty kick that sends his shoe flying! Fang's Super is a powerful kick that will chain hit multiple enemies who are close together."
+      "EN": "Fang kicks first and he kicks fast. His main attack is a hefty kick that sends his shoe flying! Fang's Super is a powerful kick that will chain hit multiple enemies who are close together.",
+      "RU": "Фэнг — мастер скоростного пинка. Во время основной атаки у него с ноги слетает кроссовка, а его Супер — серия мощных ударов ногой по находящимся рядом врагам."
     },
     "TID_FLEA_DESC": {
-      "EN": "Eve believes that everyone can be valuable... as a resource for her babies."
+      "EN": "Eve believes that everyone can be valuable... as a resource for her babies.",
+      "RU": "Ева считает, что каждый может принести пользу... став обедом для её малышей."
     },
     "TID_JETPACK_GIRL_DESC": {
-      "EN": "Janet is the star of the show, and she's not afraid to let everyone around her know about it.\\n\\nIf only her sister Bonnie wouldn't constantly get into trouble..."
+      "EN": "Janet is the star of the show, and she's not afraid to let everyone around her know about it.\\n\\nIf only her sister Bonnie wouldn't constantly get into trouble...",
+      "RU": "Джанет — настоящая звезда, которая не стесняется привлекать к себе внимание.\\n\\nВот бы только её сестра Бонни перестала впутываться в неприятности..."
     },
     "TID_CANNON_GIRL_DESC": {
-      "EN": "Bonnie and her inanimate cannon \\qClyde\\q are usually up to no good. Who would have thought that this cute little girl would cause so much mayhem?"
+      "EN": "Bonnie and her inanimate cannon \\qClyde\\q are usually up to no good. Who would have thought that this cute little girl would cause so much mayhem?",
+      "RU": "Бонни и её пушка Клайд постоянно попадают в какие-то неприятности. Кто бы мог подумать, что эта милая девочка способна создать столько проблем?"
     },
     "TID_SILENCER_DESC": {
-      "EN": "Otis is a street artist who chills in the deep with his starfish pal Cil. Together they throw up graffiti pieces all over Starr Park."
+      "EN": "Otis is a street artist who chills in the deep with his starfish pal Cil. Together they throw up graffiti pieces all over Starr Park.",
+      "RU": "Отис — уличный художник, которого всегда сопровождает морская звезда по имени Cил. Вместе они украсили граффити весь парк Старр."
     },
     "TID_WEAPON_THROWER_DESC": {
-      "EN": "A former factory hand, Sam Bronson has a vendetta against ALL robots.\\n\\nHe's the brawn behind the brains of the Goldarm Gang, always happy to take the loot and give robots the boot!"
+      "EN": "A former factory hand, Sam Bronson has a vendetta against ALL robots.\\n\\nHe's the brawn behind the brains of the Goldarm Gang, always happy to take the loot and give robots the boot!",
+      "RU": "Бывший фабричный рабочий Сэм Бронсон ненавидит всех роботов без исключения.\\n\\nОн отвечает за грубую силу в банде Золотой Руки, падок на добычу и всегда готов навалять роботам."
     },
     "TID_SOUL_COLLECTOR_DESC": {
-      "EN": "Calling an abandoned train ride home, Gus loves balloons. As legend has it, one day, he followed a floating balloon dog too far, got lost, and has been there ever since."
+      "EN": "Calling an abandoned train ride home, Gus loves balloons. As legend has it, one day, he followed a floating balloon dog too far, got lost, and has been there ever since.",
+      "RU": "Гас живёт в заброшенном поезде-аттракционе. Он обожает воздушные шары. Однажды он побежал за таким шаром, заблудился и с тех пор не может найти дорогу обратно."
     },
     "TID_SHIELD_TANK_DESC": {
-      "EN": "Operating the projector at the movie theater, Buster has his favorite action movies memorized. He dreams to someday become an action hero in his own blockbuster movie."
+      "EN": "Operating the projector at the movie theater, Buster has his favorite action movies memorized. He dreams to someday become an action hero in his own blockbuster movie.",
+      "RU": "Бастер работает киномехаником и уже наизусть выучил все свои любимые боевики. Он мечтает однажды сыграть главную роль в собственном блокбастере."
     },
     "TID_JESTER_DESC": {
-      "EN": "What's in the box?\\n\\nLimitation of Liability:\\nUnder no circumstances shall Starr Corporation or its affiliates, partners, suppliers or licensors be liable for any indirect, incidental, ..."
+      "EN": "What's in the box?\\n\\nLimitation of Liability:\\nUnder no circumstances shall Starr Corporation or its affiliates, partners, suppliers or licensors be liable for any indirect, incidental, ...",
+      "RU": "Что в ящике?\\n\\nОграничение ответственности:\\nни при каких обстоятельствах Корпорация Старр, её филиалы, партнёры, поставщики и лицензиары не несут ответственности за косвенный, специальный..."
     },
     "TID_DOORMAN_DESC": {
-      "EN": "What's the meaning of Orthochromatic?\\n\\nGray would tell you, but he doesn't speak much."
+      "EN": "What's the meaning of Orthochromatic?\\n\\nGray would tell you, but he doesn't speak much.",
+      "RU": "Ортохром? Что это вообще такое?\\n\\nГрей мог бы объяснить, но он не особо разговорчивый."
     },
     "TID_BEAMER_DESC": {
-      "EN": "If you feel low on sugar, drop by Mandy's Rainbow Candy Shop. Remember kids - you'll always feel dandy with Mandy's Candy!"
+      "EN": "If you feel low on sugar, drop by Mandy's Rainbow Candy Shop. Remember kids - you'll always feel dandy with Mandy's Candy!",
+      "RU": "Если хочется сладкого, загляни к Мэнди в магазин «Сладкая радуга»!"
     },
     "TID_SPLITTER_DESC": {
-      "EN": "Lost in Starr Park? No worries, friend! R-T is watching you! Erm, no. He's watching OVER you.\\nYes. That. Totally."
+      "EN": "Lost in Starr Park? No worries, friend! R-T is watching you! Erm, no. He's watching OVER you.\\nYes. That. Totally.",
+      "RU": "Не можешь найти дорогу в парке Старр? Не бойся! R-T следит за тобой!\\nТо есть смотрит. Присматривает. Для твоей же пользы. Честное слово."
     },
     "TID_PUPPETEER_DESC": {
-      "EN": "Lovable? Maybe.\\nFrightening? Without a doubt.\\nControlling? 100%."
+      "EN": "Lovable? Maybe.\\nFrightening? Without a doubt.\\nControlling? 100%.",
+      "RU": "Милая? Возможно.\\nПугающая? Определённо.\\nМанипуляторша? Сто процентов."
     },
     "TID_MAISIE_DESC": {
-      "EN": "POP POP POP! Is that popcorn or enemies succumbing?"
+      "EN": "POP POP POP! Is that popcorn or enemies succumbing?",
+      "RU": "ХЛОП-ХЛОП-ХЛОП! Это звук лопающихся кукурузных зёрен или падающих на землю врагов?"
     },
     "TID_FISHTANK_DESC": {
-      "EN": "Compensating much? Hank is rarely seen outside his over-sized tank."
+      "EN": "Compensating much? Hank is rarely seen outside his over-sized tank.",
+      "RU": "Интересно, что он компенсирует? Хэнка нечасто увидишь за пределами его огромного танка."
     },
     "TID_DUELIST_DESC": {
-      "EN": "Gardener and caretaker of the Enchanted Forest. Obsesses over mushrooms and is hostile towards strangers."
+      "EN": "Gardener and caretaker of the Enchanted Forest. Obsesses over mushrooms and is hostile towards strangers.",
+      "RU": "Садовник, ухаживающий за Зачарованным лесом. Обожает грибы и враждебно относится к незнакомцам."
     },
     "TID_REVIVER_DESC": {
-      "EN": "Doug's hot dogs will extend your friends' shelf life."
+      "EN": "Doug's hot dogs will extend your friends' shelf life.",
+      "RU": "Хот-доги Дага продлевают жизнь друзьям."
     },
     "TID_COOKER_DESC": {
-      "EN": "Against all odds, Pearl found her way into Belle's and Sam's hardened hearts thanks to her disarmingly warm nature. Besides, who can resist chocolate cookies?"
+      "EN": "Against all odds, Pearl found her way into Belle's and Sam's hardened hearts thanks to her disarmingly warm nature. Besides, who can resist chocolate cookies?",
+      "RU": "Вопреки всем ожиданиям, Перл удалось растопить суровые сердца Белль и Сэма своим душевным теплом. Перед шоколадным печеньем невозможно устоять!"
     },
     "TID_CONDUCTOR_DESC": {
-      "EN": "Once a brilliant maestro, now a train conductor, Chuck traded the symphonies of the concert halls for the cacophonies of the Ghost Station, all in the hope of discovering the next big thing in music!"
+      "EN": "Once a brilliant maestro, now a train conductor, Chuck traded the symphonies of the concert halls for the cacophonies of the Ghost Station, all in the hope of discovering the next big thing in music!",
+      "RU": "Некогда выдающийся маэстро, Чак променял симфонии концертных залов на какофонию Станции призраков в надежде отыскать вдохновение и совершить прорыв в музыкальном мире!"
     }
   }
 }
