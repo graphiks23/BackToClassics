@@ -1,42 +1,34 @@
-![Logo](btc.png)
+<p align="center">
+  <img src="loading/btc.png" width="380">
+</p>
 
-# Back To Classics
+<h1 align="center">Back To Classics</h1>
 
-A mod that recreates many of the old aspects of Brawl Stars
-
+<p align="center">
+  A total conversion mod for Brawl Stars version 68
+</p>
 
 # Building
+
 To build this mod, you will need to have Adobe Animate 2022 or 2023, and [SupercellSWF-Animate](https://github.com/sc-workshop/SupercellSWF-Animate) plugin to export to `.sc`.
->[!IMPORTANT]
->Adobe Animate 2024 does not have proper 9-slice support, so any symbol with 9-slice needs to be manually converted to fills
+
+> [!IMPORTANT]
+> Adobe Animate 2024 does not have proper 9-slice support, so any symbol with 9-slice needs to be manually converted to fills
 
 > [!NOTE]
 > You may need to fetch Brawl Stars 68.250 assets to apply these patches.
 
-## UI  
- - Go to UI folder, then open `!Publish.fla` to compile ui patches
+> [!NOTE]
+> You will need to provide your own copy of SupercellFlashToolCLI to run the conversion script. This is just used for optimization, but not necessary.
 
-## Brawl Pass  
- - Open `!Publish.fla` in brawl pass folder to compile Brawl Pass patches
+# Mod structure
 
-## Buddy  
-- Open `!Publish.fla` in Buddy folder to compile buddy patches
+Currently, every folder represents it's own individual `.sc` patch, for example:
+- `daily wins/` → `daily_wins.sc`
+- `ui/` → `ui.sc`
+  
+  etc.
 
-## BTC Custom assets
-  - Shop assets
-    - Open `Publish shop.fla` in btc assets folder to compile
-
-## Hero portraits  
-- Open `hero_portaits.fla` in hero portraits folder to compile
-
-## Loading  
- - Open `loading.fla` in loading folder to compile the custom loading screen
-
-## Profile  
- - Open any of the fla's in profile folder to compile a wip version of the profile
-
-## Shop  
- - Open `Publish shop.fla` in shop folder to compile
-
-## Daily Wins  
- - Open `!Publish.fla` in daily wins folder to compile
+# Applying patches / compiling
+- This is a pretty straight-forward process, for every folder there is a `.fla` file called `!Publish.fla`, it contains the export settings of the output `.sc` file. Open the `.fla`, and open Publish Settings.
+- If there is only one document present in the folder, then it also acts as a publishing document.
