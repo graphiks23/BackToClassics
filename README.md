@@ -21,3 +21,14 @@ To build this mod, you will need to have Adobe Animate 2022 or 2023, and [Superc
 > [!NOTE]
 > You will need to provide your own copy of SupercellFlashToolCLI to run the conversion script. This is just used for optimization, but not necessary.
 
+# Mod structure
+
+Currently, every folder represents it's own individual `.sc` patch, for example:
+- `daily wins/` → `daily_wins.sc`
+- `ui/` → `ui.sc`
+  
+  etc.
+
+# Applying patches / compiling
+- This is a pretty straight-forward process, for every folder there is a `.fla` file called `!Publish.fla`, it contains the export settings of the output `.sc` file. Open the `.fla`, and open Publish Settings.
+- If there is only one document present in the folder, then it also acts as a publishing document.
