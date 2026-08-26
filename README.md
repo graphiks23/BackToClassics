@@ -18,3 +18,6 @@ To build this mod, you will need to have Adobe Animate 2022 or 2023, and [Superc
 > [!NOTE]
 > You may need to fetch Brawl Stars 68.250 assets to apply these patches.
 
+> [!NOTE]
+> You will need to provide your own copy of SupercellFlashToolCLI to run the conversion script. This is just used for optimization, but not necessary.
+
