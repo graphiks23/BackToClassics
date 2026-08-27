@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="loading/btc.png" width="380">
 </p>
@@ -8,6 +9,10 @@
 </p>
 
 <p align="center"> <img src="loading/screenshot.png" width="800"> </p>
+
+> [!IMPORTANT]
+> Back To Classics is an unofficial fan-made modification of Brawl Stars.
+> It is not affiliated with, endorsed by, or sponsored by Supercell.
 
 # Building
 
