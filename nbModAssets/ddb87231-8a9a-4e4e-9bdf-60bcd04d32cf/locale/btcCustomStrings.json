@@ -5,12 +5,20 @@
 			"RU": "Back To Classics 3.1"
         },
     		"TID_BTC_BUILD_VER": {
-            "EN": "build 176 v68",
-			"RU": "build 176 v68"
+            "EN": "build 88 v68",
+			"RU": "build 88 v68"
         },
 		"TID_BTC_BUTTON": {
             "EN": "BackToClassics Channel",
 		    "RU": "Канал BackToClassics"
+        },
+		"TID_BTC_BETA_WARN1": {
+            "EN": "Back To Classics Beta",
+			"RU": "Back To Classics Бета"
+        },
+		"TID_BTC_BETA_WARN2": {
+            "EN": "Not representative of finished product",
+			"RU": "Не отражает финальную версию"
         },
 		    "TID_TRANSLATORS_TITLE": {
             "EN": "Translation help:",
