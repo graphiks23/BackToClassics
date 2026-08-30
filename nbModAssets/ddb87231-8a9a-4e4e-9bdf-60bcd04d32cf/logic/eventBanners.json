@@ -345,5 +345,181 @@
         "WindstockIslandShowdown": {
             "BannerExportName": "event_windstock_banner_static"
         }
+    },
+
+    "game_mode_variations": {
+        "GemGrab": {
+            "SquareBannerOverrideExportName": "event_gemgrab_banner_square_static"
+        },
+        "Heist": {
+            "SquareBannerOverrideExportName": "event_heist_banner_square_static"
+        },
+        "Bounty": {
+            "SquareBannerOverrideExportName": "event_lone_star_banner_square_static"
+        },
+        "BrawlBall": {
+            "SquareBannerOverrideExportName": "event_brawlball_banner_square_static"
+        },
+        "Showdown": {
+            "SquareBannerOverrideExportName": "event_showdown_banner_square_static"
+        },
+        "BigGame": {
+            "SquareBannerOverrideExportName": "event_boss_banner_square_static"
+        },
+        "RoboRumble": {
+            "SquareBannerOverrideExportName": "event_coop_banner_square_static"
+        },
+        "DuoShowdown": {
+            "SquareBannerOverrideExportName": "event_showdown_banner_square_static"
+        },
+        "BossFight": {
+            "SquareBannerOverrideExportName": "event_raid_banner_square_static"
+        },
+        "Takedown": {
+            "SquareBannerOverrideExportName": "event_takedown_banner_square_static"
+        },
+        "LoneStar": {
+            "SquareBannerOverrideExportName": "event_lone_star_banner_square_static"
+        },
+        "KingOfHill": {
+            "SquareBannerOverrideExportName": "event_king_of_hill_banner_square_static"
+        },
+        "BossFight_TownCrush": {
+            "SquareBannerOverrideExportName": "event_rampage_banner_square_static"
+        },
+        "ProtectKing": {
+            "SquareBannerOverrideExportName": "event_heist_banner_square_static"
+        },
+        "Knockout": {
+            "SquareBannerOverrideExportName": "event_knockout_banner_square_static"
+        },
+        "HoldTheBall": {
+            "SquareBannerOverrideExportName": "event_holdthetrophy_banner_square_static"
+        },
+        "BasketBrawl": {
+            "SquareBannerOverrideExportName": "event_basketbrawl_banner_square_static"
+        },
+        "VolleyBrawl": {
+            "SquareBannerOverrideExportName": "event_volleybrawl_banner_square_static"
+        },
+        "TagTeam": {
+            "SquareBannerOverrideExportName": "event_tagteam_banner_square_static"
+        },
+        "Deathmatch": {
+            "SquareBannerOverrideExportName": "event_teamdeathmatch_banner_square_static"
+        },
+        "Payload": {
+            "SquareBannerOverrideExportName": "event_payload_banner_square_static"
+        },
+        "Invasion": {
+            "SquareBannerOverrideExportName": "event_invasion_banner_square_static"
+        },
+        "DeathmatchFFA": {
+            "SquareBannerOverrideExportName": "event_wipeoutmax_banner_square_static"
+        },
+        "LastStand": {
+            "SquareBannerOverrideExportName": "event_laststand_banner_square_static"
+        },
+        "ReachExit": {
+            "SquareBannerOverrideExportName": "event_invasion_banner_square_static"
+        },
+        "Deathmatch5v5": {
+            "SquareBannerOverrideExportName": "event_gameroom_teamdeathmatch_5v5_square_static"
+        },
+        "BrawlBall5v5": {
+            "SquareBannerOverrideExportName": "event_gameroom_brawlball_5v5_square_static"
+        },
+        "GemGrab5v5": {
+            "SquareBannerOverrideExportName": "event_gameroom_gemgrab_5v5_square_static"
+        },
+        "Extraction": {
+            "SquareBannerOverrideExportName": "event_gameroom_extraction_square_static"
+        },
+        "Knockout5v5": {
+            "SquareBannerOverrideExportName": "event_gameroom_knockout_5v5_square_static"
+        },
+        "PaintBall": {
+            "SquareBannerOverrideExportName": "event_paintball_banner_square_static"
+        },
+        "TrioShowdown": {
+            "SquareBannerOverrideExportName": "event_showdown_banner_square_static"
+        },
+        "GunGame": {
+            "SquareBannerOverrideSWF": "sc/events.sc",
+            "SquareBannerOverrideExportName": "event_gameroom_drumroll_square_static"
+        },
+        "JellyCatch": {
+            "SquareBannerOverrideExportName": "event_cleaningduty_banner_square_static"
+        },
+        "Arena": {
+            "SquareBannerOverrideExportName": "event_arena_banner_square_static"
+        },
+        "UNO": {
+            "SquareBannerOverrideExportName": "event_uno_banner_square_static"
+        },
+        "TreasureHunt": {
+            "SquareBannerOverrideExportName": "event_treasurehunt_banner_square_static"
+        },
+        "AirHockey5v5": {
+            "SquareBannerOverrideExportName": "event_gameroom_air_hockey_5v5_square_static"
+        },
+        "SamuraiSmash": {
+            "SquareBannerOverrideSWF": "sc/events.sc",
+            "SquareBannerOverrideExportName": "event_gameroom_samuraismash_square_static"
+        },
+        "MegaBoss": {
+            "SquareBannerOverrideSWF": "sc/events.sc",
+            "SquareBannerOverrideExportName": "event_gameroom_megaboss_square_static"
+        },
+        "SamuraiSmash5v5": {
+            "SquareBannerOverrideSWF": "sc/events.sc",
+            "SquareBannerOverrideExportName": "event_gameroom_samuraismash_square_static"
+        },
+        "Dodgeball": {
+            "SquareBannerOverrideExportName": "event_brawlball_banner_square_static"
+        },
+        "TrailRun": {
+            "SquareBannerOverrideExportName": "event_brawlball_banner_square_static"
+        },
+        "GemGrab4x3": {
+            "SquareBannerOverrideExportName": "event_gemgrab_banner_square_static"
+        },
+        "Deathmatch4x3": {
+            "SquareBannerOverrideExportName": "event_teamdeathmatch_banner_square_static"
+        },
+        "Roguelite": {
+            "SquareBannerOverrideExportName": "event_showdown_banner_square_static"
+        },
+        "Dodgeball2v2": {
+            "SquareBannerOverrideSWF": "sc/events.sc",
+            "SquareBannerOverrideExportName": "event_gameroom_dodge_ball_2v2_square_static"
+        },
+        "MegaBoss2P": {
+            "SquareBannerOverrideSWF": "sc/events.sc",
+            "SquareBannerOverrideExportName": "event_gameroom_megaboss_square_static"
+        },
+        "BombHeist": {
+            "SquareBannerOverrideSWF": "sc/events.sc",
+            "SquareBannerOverrideExportName": "event_gameroom_bombheist_square_static"
+        },
+        "Swarm": {
+            "SquareBannerOverrideExportName": "event_showdown_banner_square_static"
+        },
+        "LargeShowdown": {
+            "SquareBannerOverrideExportName": "event_showdown_banner_square_static"
+        },
+        "MegaBoss5P": {
+            "SquareBannerOverrideSWF": "sc/events.sc",
+            "SquareBannerOverrideExportName": "event_gameroom_megaboss_square_static"
+        },
+        "Cooking": {
+            "SquareBannerOverrideExportName": "event_gameroom_cooking_square_static"
+        },
+        "CoopCooking": {
+            "SquareBannerOverrideExportName": "event_gameroom_coop_cooking_square_static"
+        },
+        "HunterSurvivor": {
+            "SquareBannerOverrideExportName": "event_knockout_banner_square_static"
+        }
     }
 }
