@@ -1,12 +1,12 @@
 {
     "texts_patch": {
 		    "TID_BTC_MAJOR_VER": {
-            "EN": "Back To Classics 3.1",
-			"RU": "Back To Classics 3.1"
+            "EN": "Back To Classics 4.0",
+			"RU": "Back To Classics 4.0"
         },
     		"TID_BTC_BUILD_VER": {
-            "EN": "build 94 v68",
-			"RU": "build 94 v68"
+            "EN": "build 2 v69",
+			"RU": "build 2 v69"
         },
 		"TID_BTC_BUTTON": {
             "EN": "BackToClassics Channel",
