@@ -1,0 +1,26 @@
+{
+    "sounds": {
+
+        "Menu_Slide_In": {
+            "FileNames": "sfx/sfx/dummy.ogg"
+        },
+        "Menu_Slide_Out": {
+            "FileNames": "sfx/sfx/dummy.ogg"
+        },
+        "Menu_Favorite": {
+            "FileNames": "sfx/sfx/dummy.ogg"
+        },
+        "Bubble_Popup_Menu_In": {
+            "FileNames": "sfx/sfx/dummy.ogg",
+            "MinVolume": 50,
+            "MaxVolume": 50,
+            "MovieClipFrameLabel": "sfx_bubble_popup_menu_in"
+        },
+        "Bubble_Popup_Menu_Out": {
+            "FileNames": "sfx/sfx/dummy.ogg"
+        },
+        "UI_Text_Message": {
+            "FileNames": "sfx/sfx/dummy.ogg"
+        }
+    }
+}

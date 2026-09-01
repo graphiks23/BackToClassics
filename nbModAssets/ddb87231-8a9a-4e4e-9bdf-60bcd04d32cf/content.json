@@ -9,7 +9,7 @@
         "RU":               "Back To Classics — это полная модификация, возвращающая многие старые элементы Brawl Stars: интерфейс, окружение, модели и многое другое."
     },
     "@author":              "<a href=\"https://t.me/backtoclassics\">@BackToClassics</a>",
-    "@version":             "4.0.2",
+    "@version":             "4.0.27",
     "@ilib": true,
     "@categories": [
                             "gui",
@@ -65,7 +65,8 @@
                             "noSpecialEvents",
                             "mutePins",
                             "gatchaPatch",
-                            "noSkinRarity"
+                            "noSkinRarity",
+                            "noMenuSounds"
             ]
         },
         
@@ -404,8 +405,8 @@
                 "RU":       "Старые модели бойцов"
             },
             "@description": {
-                "EN":       "Replace new models with old models (TODO:convert all scw models to glb)",
-                "RU":       "Заменяет новые модели старыми (TODO: конвертировать все SCW-модели в GLB)"
+                "EN":       "Replace new models with old models (will crash)",
+                "RU":       "Заменяет новые модели старыми (will crash)"
             },
             "@enabled": false,
             "@priority": 1,
@@ -529,7 +530,15 @@
             "@enabled": false,
             "@priority": 1,
             "@patches":     "logic/noSkinRarity.json"
-        }
+        },
+        "noMenuSounds": {
+            "@name": {
+                "EN":        "Remove popup sounds"
+            },
+            "@enabled": true,
+            "@priority": 1,
+            "@patches":     "client/MenuSounds.json"
+        },
         
     },
     "@patches": [
