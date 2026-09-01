@@ -538,7 +538,7 @@
             "@enabled": true,
             "@priority": 1,
             "@patches":     "client/MenuSounds.json"
-        },
+        }
         
     },
     "@patches": [
