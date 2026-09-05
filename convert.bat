@@ -1,11 +1,11 @@
 @echo off
 setlocal
 
-set "INPUT_DIR=D:\media\fla\BackToGlobal\BackToClassics\out"
+set "INPUT_DIR=E:\media\fla\BackToGlobal\BackToClassics\out"
 set "OUTPUT_DIR=%INPUT_DIR%\converted"
 set "UI_DUM=E:\ui.sc"
-set "SHOP_DUM=D:\media\SuperCell assets\brawl-assets\68.250\sc\shopDum.sc"
-set "BRAWL_PASS_DUM=D:\media\SuperCell assets\brawl-assets\68.250\sc\brawl_passDum.sc"
+set "SHOP_DUM=E:\media\SuperCell assets\brawl-assets\68.250\sc\shopDum.sc"
+set "BRAWL_PASS_DUM=E:\media\SuperCell assets\brawl-assets\68.250\sc\brawl_passDum.sc"
 set "TOOL=SupercellFlashToolCLI.exe"
 
 if not exist "%INPUT_DIR%\" (
