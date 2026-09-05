@@ -9,7 +9,7 @@
         "RU":               "Back To Classics — это полная модификация, возвращающая многие старые элементы Brawl Stars: интерфейс, окружение, модели и многое другое."
     },
     "@author":              "<a href=\"https://t.me/backtoclassics\">@BackToClassics</a>",
-    "@version":             "4.0.27",
+    "@version":             "4.0.55",
     "@ilib": true,
     "@categories": [
                             "gui",
@@ -377,14 +377,14 @@
         },
         "oldEnvs": {
             "@name": {
-                "EN":       "Old environments",
-                "RU":       "Старые окружения"
+                "EN":       "Old environments (GAME WILL CRASH)",
+                "RU":       "Старые окружения (GAME WILL CRASH)"
             },
             "@description": {
                 "EN":       "Replace all environments with old ones",
                 "RU":       "Заменяет все окружения старыми"
             },
-            "@enabled": true,
+            "@enabled": false,
             "@priority": 1,
             "@patches": [
                             "envs/config/retropolis.json",
@@ -401,8 +401,8 @@
         },
         "oldModels": {
             "@name": {
-                "EN":       "Old brawler models",
-                "RU":       "Старые модели бойцов"
+                "EN":       "Old brawler models (GAME WILL CRASH)",
+                "RU":       "Старые модели бойцов (GAME WILL CRASH)"
             },
             "@description": {
                 "EN":       "Replace new models with old models (will crash)",
