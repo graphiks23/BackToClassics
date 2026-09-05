@@ -537,7 +537,7 @@
             },
             "@enabled": true,
             "@priority": 1,
-            "@patches":     "client/MenuSounds.json"
+            "@patches":     "client/menuSounds.json"
         }
         
     },
@@ -547,7 +547,6 @@
                             "locale/starPoints.json",
                             "locale/tokens.json",
                             "locale/oldHeroDesc.json",
-                            "client/effects.json",
                             "client/sounds.json",
                             "logic/earlyAccess.json",
                             "logic/playerCards.json",
@@ -559,7 +558,6 @@
                             "swfPatch/emojiPatches/oldPins.json",
                             "logic/battleIntroHeroOffsets.json",
                             "logic/noUnlockVO.json",
-                            "effects/troopDieSplatter.json",
                             "logic/gameModes.json"
     ]
 }

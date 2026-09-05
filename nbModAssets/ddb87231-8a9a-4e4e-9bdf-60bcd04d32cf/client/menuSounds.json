@@ -1,6 +1,5 @@
 {
     "sounds": {
-
         "Menu_Slide_In": {
             "FileNames": "sfx/sfx/dummy.ogg"
         },
@@ -11,15 +10,15 @@
             "FileNames": "sfx/sfx/dummy.ogg"
         },
         "Bubble_Popup_Menu_In": {
-            "FileNames": "sfx/sfx/dummy.ogg",
-            "MinVolume": 50,
-            "MaxVolume": 50,
-            "MovieClipFrameLabel": "sfx_bubble_popup_menu_in"
+            "FileNames": "sfx/sfx/dummy.ogg"
         },
         "Bubble_Popup_Menu_Out": {
             "FileNames": "sfx/sfx/dummy.ogg"
         },
         "UI_Text_Message": {
+            "FileNames": "sfx/sfx/dummy.ogg"
+        },
+        "Select_Game_Mode": {
             "FileNames": "sfx/sfx/dummy.ogg"
         }
     }
