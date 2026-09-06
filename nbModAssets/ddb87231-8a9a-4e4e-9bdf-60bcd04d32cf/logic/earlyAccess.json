@@ -159,6 +159,42 @@
             ],
             "GachaBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear",
             "EventBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear"
+        },
+        "AttractorEarlyAccess": {
+            "TicketIconExportPath": "sc/ui.sc#reward_profilebutton_7",
+            "BrawlerBoxRewardContainer": "GladiatorBox",
+            "BoxIcon": "sc/daily_wins.sc#emoji_classic_box_mega",
+            "EventIcon": "icon_skins_mega",
+            "GameModeRoomIcon": "icon_skins_mega",
+            "BoxRotations": [
+                2,
+                0,
+                -2
+            ],
+            "BoxStartFrameOffsets": [
+                8,
+                4
+            ],
+            "GachaBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear",
+            "EventBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear"
+        },
+        "StackerEarlyAccess": {
+            "TicketIconExportPath": "sc/ui.sc#reward_profilebutton_7",
+            "BrawlerBoxRewardContainer": "GladiatorBox",
+            "BoxIcon": "sc/daily_wins.sc#emoji_classic_box_mega",
+            "EventIcon": "icon_skins_mega",
+            "GameModeRoomIcon": "icon_skins_mega",
+            "BoxRotations": [
+                2,
+                0,
+                -2
+            ],
+            "BoxStartFrameOffsets": [
+                8,
+                4
+            ],
+            "GachaBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear",
+            "EventBgExportPath": "sc/ui.sc#gatcha_screen_lootbox_appear"
         }
     },
 
@@ -177,6 +213,38 @@
         },
         "FutureGirlBounty": {
             "ModeOverrideRoomIconName": "event_brawler_early_access_future_girl"
+
+        },
+        "AttractorShowdown": {
+            "ModeOverrideRoomIconName": "event_brawler_early_access_attractor"
+        },
+        "AttractorGemGrab": {
+            "ModeOverrideRoomIconName": "event_brawler_early_access_attractor"
+        },
+        "AttractorBrawlBall": {
+            "ModeOverrideRoomIconName": "event_brawler_early_access_attractor"
+        },
+        "AttractorHeist": {
+            "ModeOverrideRoomIconName": "event_brawler_early_access_attractor"
+        },
+        "AttractorBounty": {
+            "ModeOverrideRoomIconName": "event_brawler_early_access_attractor"
+
+        },
+        "StackerShowdown": {
+            "ModeOverrideRoomIconName": "event_brawler_early_access_vince"
+        },
+        "StackerGemGrab": {
+            "ModeOverrideRoomIconName": "event_brawler_early_access_vince"
+        },
+        "StackerBrawlBall": {
+            "ModeOverrideRoomIconName": "event_brawler_early_access_vince"
+        },
+        "StackerHeist": {
+            "ModeOverrideRoomIconName": "event_brawler_early_access_vince"
+        },
+        "StackerBounty": {
+            "ModeOverrideRoomIconName": "event_brawler_early_access_vince"
 
         }
     }
