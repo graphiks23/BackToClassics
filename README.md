@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="loading/btc.png" width="380">
+  <img src="theme/btc.png" width="380">
 </p>
 
 <h1 align="center">Back To Classics</h1>
@@ -8,7 +8,7 @@
   A total conversion mod for Brawl Stars version 68
 </p>
 
-<p align="center"> <img src="loading/screenshot.png" width="800"> </p>
+<p align="center"> <img src="theme/screenshot.png" width="800"> </p>
 
 > [!IMPORTANT]
 > Back To Classics is an unofficial fan-made modification of Brawl Stars.
