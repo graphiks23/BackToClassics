@@ -5,8 +5,8 @@
 			"RU": "Back To Classics 4.0"
         },
     		"TID_BTC_BUILD_VER": {
-            "EN": "build 29 v69 TEST",
-			"RU": "build 29 v69 TEST"
+            "EN": "build 86 v69 TEST",
+			"RU": "build 86 v69 TEST"
         },
 		"TID_BTC_BUTTON": {
             "EN": "BackToClassics Channel",
@@ -113,6 +113,11 @@
         {
             "EN": "Once you've completed the Brawl Pass, you will earn a random reward for every 2800 tokens!",
             "RU": "После завершения Brawl Pass вы будете получать случайную награду за каждые 2800 жетонов!"
+        },
+        "TID_BTC_BRAWLER_BOX_FREE":
+        {
+            "EN": "Open Mega Boxes to unlock a new Brawler for FREE!",
+            "RU": "Открывайте Мегаящики, чтобы БЕСПЛАТНО открыть нового бойца!"
         }
     }
 }

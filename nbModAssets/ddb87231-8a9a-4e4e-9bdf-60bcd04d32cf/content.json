@@ -9,7 +9,7 @@
         "RU":               "Back To Classics — это полная модификация, возвращающая многие старые элементы Brawl Stars: интерфейс, окружение, модели и многое другое."
     },
     "@author":              "<a href=\"https://t.me/backtoclassics\">@BackToClassics</a>",
-    "@version":             "4.0.55",
+    "@version":             "4.0.86",
     "@ilib": true,
     "@categories": [
                             "gui",
@@ -548,7 +548,7 @@
             "@priority": 1,
             "@root":         "swfPatch/earlyTryouts/",
             "@patches":      "logic/earlyAccess.json"
-        },
+        }
     },
     "@patches": [
                             "locale/btcCustomStrings.json",

@@ -20,6 +20,9 @@
         },
         "Select_Game_Mode": {
             "FileNames": "sfx/sfx/dummy.ogg"
+        },
+        "Equip": {
+            "FileNames": "sfx/sfx/dummy.ogg"
         }
     }
 }
