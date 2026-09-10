@@ -247,5 +247,19 @@
             "ModeOverrideRoomIconName": "event_brawler_early_access_vince"
 
         }
+    },
+
+    "random_reward_containers": {
+        "GladiatorBox": {
+            "ShuffleRandomizeRewards": true,
+            "CustomRewards": true,
+            "SCW": "sc3d/megabox_geo.glb",
+            "CustomBgExportName": "gatcha_screen_lootbox_appear",
+            "OpeningEffectClip": null,
+            "SoundAppear": "Roll",
+            "SoundOpen": "Demonic_Spawn_Item",
+            "SoloOfferDefaultBgFrameName": "offer_rarity_mythic",
+            "SeasonBox": true
+        }
     }
 }

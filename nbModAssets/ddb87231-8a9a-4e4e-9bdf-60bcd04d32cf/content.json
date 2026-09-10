@@ -538,8 +538,17 @@
             "@enabled": true,
             "@priority": 1,
             "@patches":     "client/menuSounds.json"
-        }
-        
+        },
+        "earlyTryouts": {
+            "@name": {
+                "EN":        "Remixed New Brawler Event",
+                "RU":        "Изменённое СОБЫТИЕ В ЧЕСТЬ НОВОГО БОЙЦА"
+            },
+            "@enabled": true,
+            "@priority": 1,
+            "@root":         "swfPatch/earlyTryouts/",
+            "@patches":      "logic/earlyAccess.json"
+        },
     },
     "@patches": [
                             "locale/btcCustomStrings.json",
@@ -548,7 +557,6 @@
                             "locale/tokens.json",
                             "locale/oldHeroDesc.json",
                             "client/sounds.json",
-                            "logic/earlyAccess.json",
                             "logic/playerCards.json",
                             "logic/resources.json",
                             "logic/skinBackgroundPatch.json",
