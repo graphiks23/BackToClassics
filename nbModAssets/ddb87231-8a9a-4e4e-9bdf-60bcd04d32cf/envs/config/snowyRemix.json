@@ -7,24 +7,24 @@
       "Music": "Snow_brawl",
       "GroundModel": "sc3d/bgr_snowy_ground_remix_geo.glb",
       "EnvironmentModel": "sc3d/bgr_snowy_remix_geo.glb",
-      "Wall1Model": "sc3d/ice_cube1.scw",
+      "Wall1Model": "sc3d/ice_cube1.glb",
       "Wall1Submesh": "ice_cube_1",
       "Wall1AngleStep": 90,
-      "Wall2Model": "sc3d/crystal1_xmas.scw",
+      "Wall2Model": "sc3d/crystal1_xmas.glb",
       "Wall2AngleStep": 90,
-      "CrateModel": "sc3d/crate_xmas.scw",
+      "CrateModel": "sc3d/crate_xmas.glb",
       "CrateSubmesh": "crate_xmas",
       "CrateAngleStep": 0,
-      "BarrelModel": "sc3d/barrel_xmas.scw",
+      "BarrelModel": "sc3d/barrel_xmas.glb",
       "BarrelSubmesh": "barrel_xmas",
       "BarrelAngleStep": 1,
-      "ThemedModel": "sc3d/spruce_snowy.scw",
+      "ThemedModel": "sc3d/spruce_snowy.glb",
       "ThemedSubmesh": "spruce_snowy",
       "ThemedAngleStep": 1,
-      "Grass": "sc3d/grass4.scw",
-      "ClutterModel": "sc3d/candy_cane_small.scw",
+      "Grass": "sc3d/grass4.glb",
+      "ClutterModel": "sc3d/candy_cane_small.glb",
       "ClutterAngleStep": 1,
-      "MineGemSpawnModelOverride": "sc3d/mine_gem_spawn_ice.scw",
+      "MineGemSpawnModelOverride": "sc3d/mine_gem_spawn_ice.glb",
       "MapPreviewBGColorRed": 47,
       "MapPreviewBGColorGreen": 162,
       "MapPreviewBGColorBlue": 255,
@@ -39,7 +39,7 @@
       "MapWidth": 21,
       "MapHeight": 33,
       "FragileModel": [
-        "sc3d/present_pile_xmas.scw"
+        "sc3d/present_pile_xmas.glb"
       ],
       "FragileSubmesh": [
         "present_pile_xmas"
@@ -48,22 +48,22 @@
         1
       ],
       "WaterTileModel": [
-        "sc3d/water_tile_snowy.scw"
+        "sc3d/water_tile_snowy.glb"
       ],
       "FenceModel": [
-        "sc3d/wooden_fence.scw"
+        "sc3d/wooden_fence.glb"
       ],
       "RopeFenceModel": [
-        "sc3d/generic_rope_fence.scw"
+        "sc3d/generic_rope_fence.glb"
       ],
       "TrainTrackModel": [
         "sc3d/default_train_track_geo.glb"
       ],
       "IndestructibleFenceModel": [
-        "sc3d/generic_rope_fence.scw"
+        "sc3d/generic_rope_fence.glb"
       ],
       "IndestructibleModel": [
-        "sc3d/ice_cube1.scw"
+        "sc3d/ice_cube1.glb"
       ],
       "IndestructibleSubmesh": [
         "ice_cube_1"
