@@ -1,0 +1,80 @@
+{
+  "location_themes": {
+    "SnowyRemix": {
+      "TileSetPrefix": "snowy_",
+      "BannerSWF": "sc/events.sc",
+      "BannerExportName": "event_snowy_remix_banner",
+      "Music": "Snow_brawl",
+      "GroundModel": "sc3d/bgr_snowy_ground_remix_geo.glb",
+      "EnvironmentModel": "sc3d/bgr_snowy_remix_geo.glb",
+      "Wall1Model": "sc3d/windstock_wall1_geo.glb",
+      "Wall1Submesh": "wall1",
+      "Wall1AngleStep": 90,
+      "Wall2Model": "sc3d/windstock_wall2_geo.glb",
+      "Wall2Submesh": "wall2",
+      "Wall2AngleStep": 90,
+      "CrateModel": "sc3d/windstock_crate_geo.glb",
+      "CrateSubmesh": "crate",
+      "CrateAngleStep": 90,
+      "BarrelModel": "sc3d/windstock_barrel_geo.glb",
+      "BarrelSubmesh": "barrel",
+      "BarrelAngleStep": 1,
+      "ThemedModel": "sc3d/windstock_themed_geo.glb",
+      "ThemedSubmesh": null,
+      "ThemedAngleStep": 0,
+      "Grass": "sc3d/windstock_grass_geo.glb",
+      "ClutterModel": "sc3d/windstock_clutter_geo.glb",
+      "ClutterSubmesh": "clutter_1",
+      "ClutterAngleStep": 1,
+      "MineGemSpawnModelOverride": "sc3d/windstock_gem_spawn_geo.glb",
+      "MapPreviewBGColorRed": 47,
+      "MapPreviewBGColorGreen": 162,
+      "MapPreviewBGColorBlue": 255,
+      "MapPreviewSkyColorRed": 69,
+      "MapPreviewSkyColorGreen": 136,
+      "MapPreviewSkyColorBlue": 255,
+      "MapPreviewGemGrabSpawnHoleExportName": "snowy_spawn_hole",
+      "MapPreviewBallExportName": "icon_hud_brawl_ball",
+      "MapPreviewGoal1ExportName": "brawl_ball_goal_red",
+      "MapPreviewGoal2ExportName": "brawl_ball_goal_blue",
+      "MapPreviewSafeExportName": "heist_safe",
+      "MapWidth": 21,
+      "MapHeight": 33,
+      "FragileModel": [
+        "sc3d/windstock_fragile_geo.glb"
+      ],
+      "FragileSubmesh": [
+        "null"
+      ],
+      "FragileAngleStep": [
+        0
+      ],
+      "WaterTileModel": [
+        "sc3d/windstock_water_geo.glb"
+      ],
+      "FenceModel": [
+        "sc3d/windstock_fence_geo.glb"
+      ],
+      "RopeFenceModel": [
+        "sc3d/windstock_rope_geo.glb"
+      ],
+      "TrainTrackModel": [
+        "sc3d/default_train_track_geo.glb"
+      ],
+      "IndestructibleFenceModel": [
+        "sc3d/windstock_indestructible_fence_geo.glb"
+      ],
+      "IndestructibleModel": [
+        "sc3d/default_indestructible_geo.glb"
+      ],
+      "IndestructibleSubmesh": [
+        "null"
+      ]
+    }
+  },
+    "music": {
+        "Snow_brawl": {
+            "Disabled": null
+        }
+    }
+}
