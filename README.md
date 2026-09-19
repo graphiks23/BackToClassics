@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="theme/btc.png" width="380">
+  <img src="theme/kra/btc.png" width="380">
 </p>
 
 <h1 align="center">Back To Classics</h1>
