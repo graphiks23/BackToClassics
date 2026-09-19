@@ -4,6 +4,7 @@ setlocal
 set "INPUT_DIR=E:\media\fla\BackToGlobal\BackToClassics\out"
 set "OUTPUT_DIR=%INPUT_DIR%\converted"
 set "UI_DUM=E:\ui.sc"
+set "PROFILE_DUM=%INPUT_DIR%\profile.sc"
 set "SHOP_DUM=E:\media\SuperCell assets\brawl-assets\68.250\sc\shopDum.sc"
 set "BRAWL_PASS_DUM=E:\media\SuperCell assets\brawl-assets\68.250\sc\brawl_passDum.sc"
 set "TOOL=SupercellFlashToolCLI.exe"
@@ -28,6 +29,13 @@ for %%F in ("%INPUT_DIR%\*.sc") do (
                 echo Error: Required file not found: "%UI_DUM%"
             ) else (
                 "%TOOL%" "%OUTPUT_DIR%\%%~nxF" "%UI_DUM%" "%%~fF" --repack-atlas --repack-banks --texture-type khronos --khronos-compression-type 0x93B4 --override-texture-parameters --remove-unused --normalize-id --input-normalize-id
+                if errorlevel 1 echo Error converting: "%%~nxF"
+            )
+        ) else if /I "%%~nxF"=="profile.sc" (
+            if not exist "%PROFILE_DUM%" (
+                echo Error: Required file not found: "%PROFILE_DUM%"
+            ) else (
+                "%TOOL%" "%OUTPUT_DIR%\%%~nxF" "%PROFILE_DUM%" "%%~fF" --repack-atlas --repack-banks --texture-type khronos --khronos-compression-type 0x93B6 --override-texture-parameters --remove-unused --normalize-id --input-normalize-id
                 if errorlevel 1 echo Error converting: "%%~nxF"
             )
         ) else if /I "%%~nxF"=="shop.sc" (
