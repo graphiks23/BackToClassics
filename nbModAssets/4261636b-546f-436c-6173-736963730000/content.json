@@ -1,0 +1,73 @@
+{
+  "$schema": "https://ext.nulls.gg/mods/schema/schema.json",
+
+  "@title": {
+    "EN": "Back To Classics: Extras",
+    "RU": "Back To Classics: Extras"
+  },
+  "@description": {
+    "EN": "An extension of Back To Classics, with plenty more customization options.",
+    "RU": "BTC extras"
+  },
+  "@version": "1.0.0",
+  "@author": "<a href=\"https://t.me/backtoclassics\">@BackToClassics</a>",
+  "@categories": [
+    "gui"
+  ],
+  "@gv": 69,
+
+    "@feature_groups": {
+        "pins": {
+            "@name": {
+                "EN":       "Mainscreen UI",
+                "RU":       ""
+            },
+            "@description": {
+                "EN":       "Select your preferred UI",
+                "RU":       ""
+            },
+            "@type":        "RADIO_GROUP",
+            "@features": [
+                            "v12",
+                            "v13",
+                            "v27",
+                            "v47"
+            ]
+        }
+    },
+
+    "@features": {
+        "v27": {
+            "@name": {
+                "EN":       "Tara's Bazzar (v27 mainscreen)",
+                "RU":       "Старый магазин"
+            },
+            "@enabled": true,
+            "@priority": 1
+        },
+        "v47": {
+            "@name": {
+                "EN":       "Candyland (v47 mainscreen)",
+                "RU":       "Старый магазин"
+            },
+            "@enabled": true,
+            "@priority": 1
+        },
+        "v13": {
+            "@name": {
+                "EN":       "Global Release (v13 mainscreen)",
+                "RU":       "Старый магазин"
+            },
+            "@enabled": true,
+            "@priority": 1
+        },
+        "v12": {
+            "@name": {
+                "EN":       "Beta (v12 mainscreen)",
+                "RU":       "Старый магазин"
+            },
+            "@enabled": true,
+            "@priority": 1
+        }
+    }
+}
