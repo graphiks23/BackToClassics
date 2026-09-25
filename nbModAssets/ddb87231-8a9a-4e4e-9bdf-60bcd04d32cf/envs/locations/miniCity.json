@@ -1,0 +1,40 @@
+{
+    "locations": {
+        "Wanted8": {
+            "LocationTheme": "Minicity"
+        },
+        "Gemgrab16": {
+            "LocationTheme": "Minicity"
+        },
+        "KingOfHill16": {
+            "LocationTheme": "Minicity"
+        },
+        "Knockout15": {
+            "LocationTheme": "Minicity"
+        },
+        "TagTeam3": {
+            "LocationTheme": "Minicity"
+        },
+        "Dodgeball7": {
+            "LocationTheme": "Minicity"
+        },
+        "Heist631": {
+            "LocationTheme": "Minicity"
+        },
+        "Deathmatch632": {
+            "LocationTheme": "Minicity"
+        },
+        "Knockout641": {
+            "LocationTheme": "Minicity"
+        },
+        "BombLobbers5": {
+            "LocationTheme": "Minicity"
+        },
+        "Gemgrab652": {
+            "LocationTheme": "Minicity"
+        },
+        "Wanted662": {
+            "LocationTheme": "Minicity"
+        }
+    }
+}

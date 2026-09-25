@@ -1,0 +1,67 @@
+{  
+  "cards": {
+        "Blower_unlock": {
+            "Rarity": "ultra_legendary"
+        },
+        "PowerLeveler_unlock": {
+            "Rarity": "ultra_legendary"
+        },
+        "Percenter_unlock": {
+            "Rarity": "ultra_legendary"
+        },
+        "IceDude_unlock": {
+            "Rarity": "ultra_legendary"
+        },
+        "Ruffs_unlock": {
+            "Rarity": "ultra_legendary"
+        },
+        "ElectroSniper_unlock": {
+            "Rarity": "ultra_legendary"
+        },
+        "RopeDude_unlock": {
+            "Rarity": "ultra_legendary"
+        },
+        "Knight_unlock": {
+            "Rarity": "ultra_legendary"
+        },
+        "Duplicator_unlock": {
+            "Rarity": "ultra_legendary"
+        },
+        "KickerDude_unlock": {
+            "Rarity": "ultra_legendary"
+        },
+        "Flea_unlock": {
+            "Rarity": "ultra_legendary"
+        },
+        "JetpackGirl_unlock": {
+            "Rarity": "ultra_legendary"
+        },
+        "Silencer_unlock": {
+            "Rarity": "ultra_legendary"
+        },
+        "WeaponThrower_unlock": {
+            "Rarity": "ultra_legendary"
+        },
+        "ShieldTank_unlock": {
+            "Rarity": "ultra_legendary"
+        },
+        "Beamer_unlock": {
+            "Rarity": "ultra_legendary"
+        },
+        "Splitter_unlock": {
+            "Rarity": "ultra_legendary"
+        },
+        "Maisie_unlock": {
+            "Rarity": "ultra_legendary"
+        },
+        "Duelist_unlock": {
+            "Rarity": "ultra_legendary"
+        },
+        "Cooker_unlock": {
+            "Rarity": "ultra_legendary"
+        },
+        "Cocooner_unlock": {
+            "Rarity": "ultra_legendary"
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "location_themes": {
+        "Minicity": {
+            "Disabled": null,
+            "GroundModel":              "sc3d/bgr_minicity_ground.glb",
+            "EnvironmentModel":         "sc3d/bgr_minicity.glb",
+            "Wall1Model": [
+                                        "sc3d/minicity_building_1.glb",
+                                        "sc3d/minicity_building_1.glb"
+            ],
+            "Wall2Model":               "sc3d/minicity_building_2.glb",
+            "CrateModel":               "sc3d/crate_minicity.glb",
+            "BarrelModel":              "sc3d/barrel_minicity.glb",
+            "ThemedModel":              "sc3d/minicity_containers.glb",
+            "Grass":                    "sc3d/grass_minicity.glb",
+            "ClutterModel":             "sc3d/minicity_deco_square.glb",
+            "FragileModel":             "sc3d/minicity_fragile.glb",
+            "WaterTileModel":           "sc3d/water_tile_minicity.glb",
+            "FenceModel":               "sc3d/fence_minicity.glb",
+            "RopeFenceModel":           "sc3d/minicity_rope_fence.glb",
+            "IndestructibleFenceModel": "sc3d/fence_minicity.glb",
+            "MineGemSpawnModelOverride":"sc3d/mine_gem_spawn_minicity.glb"
+        }
+    }
+}

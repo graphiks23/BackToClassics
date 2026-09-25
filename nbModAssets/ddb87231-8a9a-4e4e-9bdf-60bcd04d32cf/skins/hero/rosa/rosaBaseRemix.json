@@ -1,0 +1,129 @@
+{
+"animations": {
+    "RosaIdle": {
+      "FileName": "rosa_idle.glb",
+      "StartFrame": 1,
+      "EndFrame": 25,
+      "TransitionInMs": 100,
+      "TransitionOutMs": 100,
+      "Looping": true
+    },
+    "RosaWalk": {
+      "FileName": "rosa_walk.glb",
+      "StartFrame": 1,
+      "EndFrame": 24,
+      "TransitionInMs": 100,
+      "TransitionOutMs": 100,
+      "Looping": true,
+      "Priority": 1
+    },
+    "RosaAttack": {
+      "FileName": "rosa_attack.glb",
+      "StartFrame": 1,
+      "EndFrame": 11,
+      "TransitionInMs": 100,
+      "TransitionOutMs": 100,
+      "AutoFadeMs": 50,
+      "Looping": false,
+      "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+    },
+    "RosaAttackRecoil": {
+      "FileName": "rosa_attack.glb",
+      "StartFrame": 12,
+      "EndFrame": 19,
+      "TransitionInMs": 1,
+      "TransitionOutMs": 100,
+      "AutoFadeMs": 100,
+      "Looping": false,
+      "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+    },
+    "RosaAttackRecoil2": {
+      "FileName": "rosa_attack.glb",
+      "StartFrame": 20,
+      "EndFrame": 28,
+      "TransitionInMs": 1,
+      "TransitionOutMs": 100,
+      "AutoFadeMs": 100,
+      "Looping": false,
+      "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+    },
+    "RosaUltRecoil": {
+      "FileName": "rosa_ult.glb",
+      "StartFrame": -1,
+      "EndFrame": -1,
+      "TransitionInMs": 1,
+      "TransitionOutMs": 100,
+      "AutoFadeMs": 200,
+      "Looping": false,
+      "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+    },
+    "RosaUltRecoil2": {
+      "FileName": "rosa_detransform.glb",
+      "StartFrame": -1,
+      "EndFrame": -1,
+      "TransitionInMs": 1,
+      "TransitionOutMs": 100,
+      "AutoFadeMs": 200,
+      "Looping": false,
+      "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
+    },
+    "RosaWin": {
+      "FileName": "rosa_win.glb",
+      "StartFrame": 1,
+      "EndFrame": 39,
+      "TransitionInMs": 100,
+      "TransitionOutMs": 200,
+      "AutoFadeMs": 500,
+      "Looping": false
+    },
+    "RosaWinloop": {
+      "FileName": "rosa_win.glb",
+      "StartFrame": 40,
+      "EndFrame": 79,
+      "TransitionInMs": 500,
+      "TransitionOutMs": 100,
+      "AutoFadeMs": 300,
+      "Looping": true
+    },
+    "RosaLose": {
+      "FileName": "rosa_lose.glb",
+      "StartFrame": 1,
+      "EndFrame": 49,
+      "TransitionInMs": 100,
+      "TransitionOutMs": 100,
+      "AutoFadeMs": 200,
+      "Looping": false
+    },
+    "RosaLoseloop": {
+      "FileName": "rosa_lose.glb",
+      "StartFrame": 50,
+      "EndFrame": 79,
+      "TransitionInMs": 1,
+      "TransitionOutMs": 100,
+      "AutoFadeMs": 200,
+      "Looping": true
+        }
+    },
+    "faces": {
+        "RosaWin": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "empty"
+        },
+        "RosaWinLoop": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "empty"
+        },
+        "RosaLose": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "empty"
+        },
+        "RosaLoseLoop": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "empty"
+        },
+        "RosaStill": {
+            "FileName": "btc_custom_face.sc",
+            "ExportName": "empty"
+        }
+    }
+}

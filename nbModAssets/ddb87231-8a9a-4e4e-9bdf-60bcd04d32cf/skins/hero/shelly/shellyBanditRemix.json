@@ -44,9 +44,6 @@
     "EndFrame": 20,
     "TransitionInMs": 25
   },
-  "ShellyPushback": {
-    "FileName": "shelly_remix_pushback.glb"
-  },
   "ShellyBanditaWin": {
     "FileName": "shelly_remix_bandit_win.glb",
     "StartFrame": 1,

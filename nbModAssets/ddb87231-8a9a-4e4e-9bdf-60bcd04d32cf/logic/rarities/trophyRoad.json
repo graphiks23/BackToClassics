@@ -1,0 +1,37 @@
+{  
+  "cards": {
+        "Gunslinger_unlock": {
+            "Rarity": "common"
+        },
+        "BullDude_unlock": {
+            "Rarity": "common"
+        },
+        "RocketGirl_unlock": {
+            "Rarity": "common"
+        },
+        "Mechanic_unlock": {
+            "Rarity": "common"
+        },
+        "Shaman_unlock": {
+            "Rarity": "common"
+        },
+        "TntDude_unlock": {
+            "Rarity": "common"
+        },
+        "BowDude_unlock": {
+            "Rarity": "common"
+        },
+        "ClusterBombDude_unlock": {
+            "Rarity": "common"
+        },
+        "Arcade_unlock": {
+            "Rarity": "common"
+        },
+        "Mummy_unlock": {
+            "Rarity": "common"
+        },
+        "Roller_unlock": {
+            "Rarity": "common"
+        }
+    }
+}

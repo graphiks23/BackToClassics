@@ -1,0 +1,140 @@
+{
+	"animations": {
+	    "SproutIdle": {
+            "FileName": "sprout_idle.glb",
+            "EndFrame": -1,
+            "TransitionInMs": 100,
+            "TransitionOutMs": 100,
+            "Looping": true
+        },
+        "SproutWalk": {
+            "FileName": "sprout_walk.glb",
+            "StartFrame": 1,
+            "EndFrame": 29,
+            "TransitionInMs": 100,
+            "TransitionOutMs": 100,
+            "Looping": true,
+            "Priority": 1
+        },
+        "SproutPrimary": {
+            "FileName": "sprout_attack.glb",
+            "EndFrame": 5,
+            "Priority": "body_s#3+L_wheel_s#0+R_wheel_s#0"
+        },
+        "SproutRecoil": {
+            "FileName": "sprout_attack.glb",
+            "StartFrame": 5,
+            "EndFrame": 30,
+            "AutoFadeMs": 100,
+            "Priority": "body_s#4+L_wheel_s#0+R_wheel_s#0"
+        },
+        "SproutReload": {
+            "FileName": "sprout_reload.glb",
+            "EndFrame": 20,
+            "TransitionInMs": 100,
+            "TransitionOutMs": 100,
+            "AutoFadeMs": 100,
+            "Priority": "body_s#0+L_arm_01_s#4+L_wheel_s#0+R_wheel_s#0"
+        },
+        "SproutPushback": {
+            "FileName": "sprout_pushback.glb",
+            "EndFrame": 10,
+            "TransitionInMs": 50,
+            "TransitionOutMs": 100,
+            "AutoFadeMs": 100,
+            "Priority": 5
+        },
+		"SproutReduxWin": {
+            "FileName": "sprout_win.glb",
+            "EndFrame": 224
+        },
+        "SproutReduxWinloop": {
+            "FileName": "sprout_win.glb",
+            "StartFrame": 225,
+            "EndFrame": -1,
+            "Looping": true
+        },
+        "SproutLose": {
+            "FileName": "sprout_lose.glb",
+            "EndFrame": -1
+        },
+        "SproutLoseloop": {
+            "FileName": "sprout_lose.glb",
+            "StartFrame": 99,
+            "EndFrame": -1,
+            "Looping": true
+        },
+        "SproutEnter": {
+            "FileName": "sprout_win.glb",
+            "StartFrame": 1,
+            "EndFrame": 1,
+            "TransitionInMs": 100,
+            "TransitionOutMs": 100
+        },
+		"SproutPortrait": {
+            "FileName": "sprout_portrait.glb",
+            "StartFrame": 38,
+            "EndFrame": 38,
+            "Looping": true
+        },
+        "SproutHawaiiIdle": {
+            "FileName": "sprout_hawaii_idle.glb",
+            "EndFrame": -1,
+            "TransitionInMs": 100,
+            "TransitionOutMs": 100,
+            "Looping": true
+        },
+        "SproutHawaiiWalk": {
+            "FileName": "sprout_hawaii_walk.glb",
+            "EndFrame": -1,
+            "TransitionInMs": 100,
+            "TransitionOutMs": 100,
+            "Looping": true,
+            "Priority": 1
+        },
+        "SproutHawaiiPrimary": {
+            "FileName": "sprout_hawaii_attack.glb",
+            "EndFrame": 5,
+            "Priority": "body_s#3+L_wheel_s#0+R_wheel_s#0"
+        },
+        "SproutHawaiiRecoil": {
+            "FileName": "sprout_hawaii_attack.glb",
+            "StartFrame": 5,
+            "EndFrame": 30,
+            "AutoFadeMs": 100,
+            "Priority": "body_s#4+L_wheel_s#0+R_wheel_s#0"
+        },
+        "SproutHawaiiReload": {
+            "FileName": "sprout_reload.glb",
+            "EndFrame": 20,
+            "TransitionInMs": 100,
+            "TransitionOutMs": 100,
+            "AutoFadeMs": 100,
+            "Priority": "body_s#0+L_arm_01_s#4+L_wheel_s#0+R_wheel_s#0"
+        },
+        "SproutHawaiiPushback": {
+            "FileName": "sprout_pushback.glb",
+            "EndFrame": 10,
+            "TransitionInMs": 50,
+            "TransitionOutMs": 100,
+            "AutoFadeMs": 100,
+            "Priority": 5
+        },
+        "SproutHawaiiProfile": {
+            "FileName": "sprout_hawaii_idle.glb",
+            "StartFrame": 38,
+            "EndFrame": 38,
+            "Looping": true
+        },
+		"SproutHawaiiWin": {
+            "FileName": "sprout_win.glb",
+            "EndFrame": 224
+        },
+        "SproutHawaiiWinloop": {
+            "FileName": "sprout_win.glb",
+            "StartFrame": 225,
+            "EndFrame": -1,
+            "Looping": true
+        }
+    }              
+}

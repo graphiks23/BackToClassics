@@ -18,6 +18,12 @@
         },
         "event_hub_windstock": {
             "Disabled": "TRUE"
+        },
+        "Collab16": {
+            "Disabled": "TRUE"
+        },
+        "home_page_collab_button": {
+            "Disabled": "TRUE"
         }
     }
 }

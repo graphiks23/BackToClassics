@@ -43,7 +43,7 @@
             "RopeFenceModel": "sc3d/mine_rope_geo.glb",
             "TrainTrackModel": "sc3d/default_train_track_geo.glb",
             "IndestructibleFenceModel": "sc3d/default_fence_geo.glb",
-            "IndestructibleModel": "sc3d/default_indestructible_geo.glb",
+            "IndestructibleModel": "sc3d/mine_wall1_geo.glb",
             "MineGemSpawnModelOverride": "sc3d/default_gem_spawn_geo.glb",
             "MapPreviewBGColorRed": 96,
             "MapPreviewBGColorGreen": 68,

@@ -9,18 +9,19 @@
         "RU":               "Back To Classics — это полная модификация, возвращающая многие старые элементы Brawl Stars: интерфейс, окружение, модели и многое другое."
     },
     "@author":              "<a href=\"https://t.me/backtoclassics\">@BackToClassics</a>",
-    "@version":             "4.0.86",
+    "@version":             "4.0.212",
     "@ilib": true,
     "@categories": [
                             "gui",
                             "sfx",
+                            "fx",
                             "texts",
                             "skins",
                             "music",
                             "environment",
                             "localization"
     ],
-    "@gv": 68,
+    "@gv": 69,
     "@feature_groups": {
         "pins": {
             "@name": {
@@ -66,7 +67,8 @@
                             "mutePins",
                             "gatchaPatch",
                             "noSkinRarity",
-                            "noMenuSounds"
+                            "noMenuSounds",
+                            "earlyTryoutsRemix"
             ]
         },
         
@@ -81,7 +83,24 @@
                             "oldshop",
                             "oldEnvs",
                             "oldPortraits",
-                            "classicBrawlerSort"
+                            "classicBrawlerSort",
+                            "oldTroopDeath"
+            ]
+        },
+
+          "rarities": {
+            "@name": {
+                "EN":       "Old Brawler rarities",
+                "RU":       "Старые функции"
+            },
+            "@description": {
+                "EN":       "Enabling this may cause some crashes with Brawler Blast",
+                "RU":       "Выбери «ничего», чтобы использовать стандартную версию ежедневных побед.\n(Ежедневные победы отключены в Null's Brawl)"
+            },
+            "@type":        "DEFAULT",
+            "@features": [
+                            "trophyRoadRarity",
+                            "chromaticRarity"
             ]
         },
 
@@ -131,7 +150,8 @@
                             "eventsPatch",
                             "twCommonPatch",
                             "shopPatch",
-                            "questPatch"
+                            "questPatch",
+                            "heroCollectionPatch"
             ]
         },
 
@@ -148,6 +168,21 @@
             "@features": [
                             "nothingOutOfTheOrdinary"
             ]
+        },
+        "hsRightSelector": {
+            "@name": {
+                "EN":       "Brawler screen stats UI",
+                "RU":       "Интерфейс характеристик на экране бойца"
+            },
+            "@description": {
+                "EN":       "Changes the right side (stats) of the brawler screen",
+                "RU":       "Изменяет правую часть (характеристики) экрана бойца."
+            },
+            "@type":        "RADIO_GROUP",
+            "@features": [
+                            "v47stats",
+                            "v27stats"
+            ]
         }
         
     },
@@ -161,7 +196,7 @@
                 "EN":       "Enables the old shop (broken offers)",
                 "RU":       "Включает старую версию магазина (сломанные предложения)"
             },
-            "@enabled": false,
+            "@enabled": true,
             "@priority": 1,
             "@patches":     "shop/oldshop.json"
         },
@@ -318,6 +353,15 @@
             "@priority": 1,
             "@root":        "swfPatch/quests"
         },
+        "heroCollectionPatch": {
+            "@name": {
+                "EN":       "Enable Brawler List Patches",
+                "RU":       "Включить патчи списка бойцов"
+            },
+            "@enabled": true,
+            "@priority": 1,
+            "@root":        "swfPatch/heroCollection"
+        },
         "noSpecialEvents": {
             "@name": {
                 "EN":       "Remove ongoing special event",
@@ -377,14 +421,14 @@
         },
         "oldEnvs": {
             "@name": {
-                "EN":       "Old environments (GAME WILL CRASH)",
-                "RU":       "Старые окружения (GAME WILL CRASH)"
+                "EN":       "Old environments (WIP)",
+                "RU":       "Старые окружения (WIP)"
             },
             "@description": {
                 "EN":       "Replace all environments with old ones",
                 "RU":       "Заменяет все окружения старыми"
             },
-            "@enabled": false,
+            "@enabled": true,
             "@priority": 1,
             "@patches": [
                             "envs/config/retropolis.json",
@@ -395,18 +439,21 @@
                             "envs/locations/taraBazaar.json",
                             "envs/locations/oldTraining.json",
                             "envs/config/oldTraining.json",
-                            "envs/config/snowyRemix2.json",
-                            "envs/locations/snowyRemixTODO.json"
-            ]
+                            "envs/config/snowyRemix.json",
+                            "envs/locations/snowyRemixTODO.json",
+                            "envs/config/miniCity.json",
+                            "envs/locations/miniCity.json"
+            ],
+            "@root":        "envs/root/"
         },
         "oldModels": {
             "@name": {
-                "EN":       "Old brawler models (GAME WILL CRASH)",
-                "RU":       "Старые модели бойцов (GAME WILL CRASH)"
+                "EN":       "Old brawler models (WIP)",
+                "RU":       "Старые модели бойцов (WIP)"
             },
             "@description": {
-                "EN":       "Replace new models with old models (will crash)",
-                "RU":       "Заменяет новые модели старыми (will crash)"
+                "EN":       "Replace new models with old models (WIP)",
+                "RU":       "Заменяет новые модели старыми (WIP)"
             },
             "@enabled": false,
             "@priority": 1,
@@ -423,9 +470,10 @@
                             "skins/hero/surge/surgeBaseRemix.json",
                             "skins/hero/bull/bullBaseRemix.json",
                             "skins/hero/jessie/jessieBaseRemix.json",
-                            "skins/hero/misc/trainingBotRemix.json"
+                            "skins/hero/misc/trainingBotRemix.json",
+                            "skins/hero/sprout/sproutBaseRemix.json",
+                            "skins/hero/rosa/rosaBaseRemix.json"
             ],
-
             "@root":        "skins/sc3dRoot/"
 
         },
@@ -512,8 +560,8 @@
                 "RU":       "Заменить Старр Дропы и Дропы Хаоса на ящики Brawl"
             },
             "@description": {
-                "EN":       "(Does not include box assets in daily wins, or Brawl Pass",
-                "RU":       "(Не включает ресурсы ящиков в ежедневных победах или Brawl Pass"
+                "EN":       "(Does not include box assets in daily wins, or Brawl Pass)",
+                "RU":       "(Не включает ресурсы ящиков в ежедневных победах или Brawl Pass)"
             },
             "@enabled": true,
             "@priority": 1,
@@ -539,7 +587,7 @@
             "@priority": 1,
             "@patches":     "client/menuSounds.json"
         },
-        "earlyTryouts": {
+        "earlyTryoutsRemix": {
             "@name": {
                 "EN":        "Remixed New Brawler Event",
                 "RU":        "Изменённое СОБЫТИЕ В ЧЕСТЬ НОВОГО БОЙЦА"
@@ -548,11 +596,56 @@
             "@priority": 1,
             "@root":         "swfPatch/earlyTryouts/",
             "@patches":      "logic/earlyAccess.json"
+        },
+        "oldTroopDeath": {
+            "@name": {
+                "EN":        "Old death effects",
+                "RU":        "Старые эффекты смерти"
+            },
+            "@enabled": true,
+            "@priority": 1,
+            "@root":         "effects/troopDeath/"
+        },
+        "trophyRoadRarity": {
+            "@name": {
+                "EN":        "Trophy Road Rarity",
+                "RU":        "Редкость за Путь к славе"
+            },
+            "@enabled": true,
+            "@priority": 1,
+            "@patches":      "logic/rarities/trophyRoad.json"
+        },
+        "chromaticRarity": {
+            "@name": {
+                "EN":        "Chromatic Rarity",
+                "RU":        "Хроматическая редкость"
+            },
+            "@enabled": true,
+            "@priority": 1,
+            "@patches":   [  "logic/rarities/chroma.json",
+                             "locale/chromaPatch.json"   
+                          ]
+        },
+        "v47stats": {
+            "@name": {
+                "EN":        "v47 Урон и показатели здоровья"
+            },
+            "@enabled": true,
+            "@priority": 1,
+            "@root":      "swfPatch/buddy/v47/"
+        },
+        "v27stats": {
+            "@name": {
+                "EN":        "v27 Utility Bars",
+                "RU":        "v27 Вспомогательные полоски"
+            },
+            "@enabled": false,
+            "@priority": 1,
+            "@root":      "swfPatch/buddy/v27/"
         }
     },
     "@patches": [
                             "locale/btcCustomStrings.json",
-                            "locale/chromaPatch.json",
                             "locale/starPoints.json",
                             "locale/tokens.json",
                             "locale/oldHeroDesc.json",
@@ -562,7 +655,6 @@
                             "logic/skinBackgroundPatch.json",
                             "logic/noPets.json",
                             "logic/skinShopNameFix.json",
-                            "logic/rarities.json",
                             "swfPatch/emojiPatches/oldPins.json",
                             "logic/battleIntroHeroOffsets.json",
                             "logic/noUnlockVO.json",

@@ -26,7 +26,7 @@
       "ClutterModel": "sc3d/windstock_clutter_geo.glb",
       "ClutterSubmesh": "clutter_1",
       "ClutterAngleStep": 1,
-      "MineGemSpawnModelOverride": "sc3d/windstock_gem_spawn_geo.glb",
+      "MineGemSpawnModelOverride": "sc3d/mine_gem_spawn_ice.glb",
       "MapPreviewBGColorRed": 47,
       "MapPreviewBGColorGreen": 162,
       "MapPreviewBGColorBlue": 255,
@@ -50,10 +50,10 @@
         0
       ],
       "WaterTileModel": [
-        "sc3d/windstock_water_geo.glb"
+        "sc3d/water_tile_snowy.glb"
       ],
       "FenceModel": [
-        "sc3d/windstock_fence_geo.glb"
+        "sc3d/wooden_fence.glb"
       ],
       "RopeFenceModel": [
         "sc3d/windstock_rope_geo.glb"

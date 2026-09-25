@@ -1,19 +1,19 @@
 {
     "skin_confs": {
         "RangedBotDefault": {
-            "Model": "rangedbot_geo.scw"
+            "Model": "rangedbot_geo.glb"
         },
         "MeleeFastBotDefault": {
-            "Model": "fastmeleebot_geo.scw"
+            "Model": "fastmeleebot_geo.glb"
         },
         "MeleeBotDefault": {
-            "Model": "meleebot_geo.scw"
+            "Model": "meleebot_geo.glb"
         },
         "BossBotDefault": {
-            "Model": "bossbot_geo.scw"
+            "Model": "bossbot_geo.glb"
         },
         "BigBotDefault": {
-            "Model": "bossbot_geo.scw"
+            "Model": "bossbot_geo.glb"
         }
     },
 
@@ -41,16 +41,16 @@
     },
         "animations": {
         "RangedBotIdle": {
-            "FileName": "rangedbot_idle.scw",
+            "FileName": "rangedbot_idle.glb",
             "StartFrame": -1
         },
         "RangedBotWalk": {
-            "FileName": "rangedbot_walk.scw",
+            "FileName": "rangedbot_walk.glb",
             "StartFrame": -1,
             "Speed": 100
         },
         "RangedBotPrimary": {
-            "FileName": "rangedbot_attack1.scw",
+            "FileName": "rangedbot_attack1.glb",
             "StartFrame": -1,
             "EndFrame": -1,
             "TransitionInMs": 100,
@@ -59,7 +59,7 @@
             "Priority": "ChestBone#3"
         },
         "RangedBotSecondary": {
-            "FileName": "rangedbot_attack1.scw",
+            "FileName": "rangedbot_attack1.glb",
             "StartFrame": -1,
             "EndFrame": -1,
             "TransitionInMs": 100,
@@ -68,7 +68,7 @@
             "Priority": "ChestBone#3"
         },
         "RangedBotRecoil": {
-            "FileName": "rangedbot_recoil.scw",
+            "FileName": "rangedbot_recoil.glb",
             "StartFrame": -1,
             "TransitionInMs": 100,
             "TransitionOutMs": 200,
@@ -76,124 +76,124 @@
             "Priority": "ChestBone#4"
         },
         "RangedBotReload": {
-            "FileName": "rangedbot_reload.scw",
+            "FileName": "rangedbot_reload.glb",
             "StartFrame": -1,
             "Priority": "ChestBone#2"
         },
         "RangedBotPushback": {
-            "FileName": "rangedbot_idle.scw",
+            "FileName": "rangedbot_idle.glb",
             "StartFrame": -1
         },
         "RangedBotWin": {
-            "FileName": "rangedbot_win1.scw",
+            "FileName": "rangedbot_win1.glb",
             "StartFrame": -1
         },
         "RangedBotWinloop": {
-            "FileName": "rangedbot_winloop1.scw",
+            "FileName": "rangedbot_winloop1.glb",
             "StartFrame": -1
         },
         "RangedBotLose": {
-            "FileName": "rangedbot_lose1.scw",
+            "FileName": "rangedbot_lose1.glb",
             "StartFrame": -1
         },
         "RangedBotLoseloop": {
-            "FileName": "rangedbot_loseloop1.scw",
+            "FileName": "rangedbot_loseloop1.glb",
             "StartFrame": -1
         },
         "FastMeleeBotIdle": {
-            "FileName": "fastmeleebot_idle.scw",
+            "FileName": "fastmeleebot_idle.glb",
             "StartFrame": -1,
             "TransitionInMs": 500,
             "TransitionOutMs": 500
         },
         "FastMeleeBotWalk": {
-            "FileName": "fastmeleebot_walk.scw",
+            "FileName": "fastmeleebot_walk.glb",
             "StartFrame": -1,
             "TransitionInMs": 120
         },
         "FastMeleeBotRecoil": {
-            "FileName": "fastmeleebot_recoil.scw",
+            "FileName": "fastmeleebot_recoil.glb",
             "StartFrame": -1,
             "AutoFadeMs": 200,
             "Priority": "PelvisBone#4+RLegBone#0+LLegBone#0"
         },
         "FastMeleeBotPushback": {
-            "FileName": "fastmeleebot_idle.scw",
+            "FileName": "fastmeleebot_idle.glb",
             "StartFrame": -1,
             "EndFrame": -1
         },
         "FastMeleeBotWin": {
-            "FileName": "fastmeleebot_idle.scw",
+            "FileName": "fastmeleebot_idle.glb",
             "StartFrame": -1
         },
         "FastMeleeBotWinloop": {
-            "FileName": "fastmeleebot_idle.scw",
+            "FileName": "fastmeleebot_idle.glb",
             "StartFrame": -1
         },
         "FastMeleeBotLose": {
-            "FileName": "fastmeleebot_idle.scw",
+            "FileName": "fastmeleebot_idle.glb",
             "StartFrame": -1
         },
         "FastMeleeBotLoseloop": {
-            "FileName": "fastmeleebot_idle.scw",
+            "FileName": "fastmeleebot_idle.glb",
             "StartFrame": -1
         },
         "MeleeBotIdle": {
-            "FileName": "meleebot_idle.scw",
+            "FileName": "meleebot_idle.glb",
             "StartFrame": -1,
             "TransitionInMs": 500,
             "TransitionOutMs": 500
         },
         "MeleeBotWalk": {
-            "FileName": "meleebot_walk.scw",
+            "FileName": "meleebot_walk.glb",
             "StartFrame": -1,
             "Speed": 150,
             "TransitionInMs": 120
         },
         "MeleeBotRecoil": {
-            "FileName": "recoil.scw",
+            "FileName": "recoil.glb",
             "StartFrame": -1,
             "EndFrame": -1,
             "AutoFadeMs": 200,
             "Priority": "PelvisBone#4+RLegBone#0+LLegBone#0"
         },
         "MeleeBotPushback": {
-            "FileName": "meleebot_idle.scw",
+            "FileName": "meleebot_idle.glb",
             "StartFrame": -1
         },
         "MeleeBotRecoil2": {
-            "FileName": "recoil_2.scw",
+            "FileName": "recoil_2.glb",
             "StartFrame": -1,
             "AutoFadeMs": 200,
             "Priority": "PelvisBone#4+RLegBone#0+LLegBone#0"
         },
         "MeleeBotWin": {
-            "FileName": "meleebot_idle.scw",
+            "FileName": "meleebot_idle.glb",
             "StartFrame": -1
         },
         "MeleeBotWinloop": {
-            "FileName": "meleebot_idle.scw",
+            "FileName": "meleebot_idle.glb",
             "StartFrame": -1
         },
         "MeleeBotLose": {
-            "FileName": "meleebot_idle.scw",
+            "FileName": "meleebot_idle.glb",
             "StartFrame": -1
         },
         "MeleeBotLoseloop": {
-            "FileName": "meleebot_idle.scw",
+            "FileName": "meleebot_idle.glb",
             "StartFrame": -1
         },
         "BossBotIdle": {
-            "FileName": "bossbot_idle.scw",
+            "FileName": "bossbot_idle.glb",
             "StartFrame": -1
         },
         "BossBotWalk": {
-            "FileName": "bossbot_walk.scw",
+            "FileName": "bossbot_walk.glb",
             "StartFrame": -1,
             "Speed": 150
         },
         "BossBotPrimary": {
-            "FileName": "bossbot_shoot_recoil.scw",
+            "FileName": "bossbot_shoot_recoil.glb",
             "StartFrame": -1,
             "EndFrame": -1,
             "TransitionInMs": 1,
@@ -201,7 +201,7 @@
             "Priority": "ChestBone#3"
         },
         "BossBotRecoil": {
-            "FileName": "bossbot_recoil_1.scw",
+            "FileName": "bossbot_recoil_1.glb",
             "StartFrame": -1,
             "EndFrame": -1,
             "TransitionInMs": 1,
@@ -210,13 +210,13 @@
             "Priority": "PelvisBone#4+RLegBone#0+LLegBone#0"
         },
         "BossBotPushback": {
-            "FileName": "bossbot_idle.scw",
+            "FileName": "bossbot_idle.glb",
             "TransitionInMs": 100,
             "TransitionOutMs": 100,
             "AutoFadeMs": 400
         },
         "BossBotRecoil2": {
-            "FileName": "bossbot_recoil_2.scw",
+            "FileName": "bossbot_recoil_2.glb",
             "StartFrame": -1,
             "EndFrame": -1,
             "TransitionInMs": 1,
@@ -225,19 +225,19 @@
             "Priority": "PelvisBone#4+RLegBone#0+LLegBone#0"
         },
         "BossBotWin": {
-            "FileName": "bossbot_idle.scw",
+            "FileName": "bossbot_idle.glb",
             "StartFrame": -1
         },
         "BossBotWinloop": {
-            "FileName": "bossbot_idle.scw",
+            "FileName": "bossbot_idle.glb",
             "StartFrame": -1
         },
         "BossBotLose": {
-            "FileName": "bossbot_idle.scw",
+            "FileName": "bossbot_idle.glb",
             "StartFrame": -1
         },
         "BossBotLoseloop": {
-            "FileName": "bossbot_idle.scw",
+            "FileName": "bossbot_idle.glb",
             "StartFrame": -1
         }
     },

@@ -27,10 +27,10 @@
     },
     "skin_confs": {
         "TurretDefault": {
-            "Model": "turret_jessie_geo.scw"
+            "Model": "turret_jessie_geo.glb"
         },
         "MechanicDefault": {
-            "Model": "jessie_geo.scw",
+            "Model": "jessie_geo.glb",
             "IdleFace": "JessieStill",
             "WalkFace": "JessieStill",
             "HappyFace": "JessieWin",
@@ -47,87 +47,87 @@
             "IntroFace": "JessieStill"
         },
         "MechanicGold": {
-            "Model": "jessie_geo.scw"
+            "Model": "jessie_geo.glb"
         },
         "MechanicSilver": {
-            "Model": "jessie_geo.scw"
+            "Model": "jessie_geo.glb"
         }
     },
    
     "animations": {
         "Turret": {
-            "FileName": "turret_jessie_geo.scw"
+            "FileName": "turret_jessie_geo.glb"
         },
         "TurretSpawn": {
-            "FileName": "turret_jessie_spawn.scw"
+            "FileName": "turret_jessie_spawn.glb"
         },
         "TurretIdle": {
-            "FileName": "turret_jessie_idle.scw"
+            "FileName": "turret_jessie_idle.glb"
         },
         "TurretAttack": {
-            "FileName": "turret_jessie_attack.scw"
+            "FileName": "turret_jessie_attack.glb"
         },
         "JessieIdle": {
-            "FileName": "jessie_idle.scw"
+            "FileName": "jessie_idle.glb"
         },
         "JessieWalk": {
-            "FileName": "jessie_walk.scw"
+            "FileName": "jessie_walk.glb"
         },
         "JessiePrimary": {
-            "FileName": "jessie_attack.scw",
+            "FileName": "jessie_attack.glb",
             "StartFrame": 1,
             "EndFrame": 5
         },
         "JessieUltiAttack": {
-            "FileName": "jessie_idle.scw"
+            "FileName": "jessie_idle.glb"
         },
         "JessieRecoil": {
-            "FileName": "jessie_attack.scw",
+            "FileName": "jessie_attack.glb",
             "StartFrame": 5
         },
         "JessieUltiRecoil": {
-            "FileName": "jessie_idle.scw"
+            "FileName": "jessie_idle.glb"
         },
         "JessieReload": {
-            "FileName": "jessie_idle.scw",
+            "FileName": "jessie_idle.glb",
             "EndFrame": -1
         },
         "JessiePushback": {
-            "FileName": "jessie_pushback.scw",
+            "FileName": "jessie_pushback.glb",
             "EndFrame": -1
         },
         "JessieWin": {
-            "FileName": "jessie_win.scw",
+            "FileName": "jessie_win.glb",
             "EndFrame": 107
         },
         "JessieWinloop": {
-            "FileName": "jessie_win.scw",
+            "FileName": "jessie_win.glb",
             "StartFrame": 107,
             "EndFrame": 139
         },
         "JessieLose": {
-            "FileName": "jessie_lose.scw",
+            "FileName": "jessie_lose.glb",
             "EndFrame": 56
         },
         "JessieLoseloop": {
-            "FileName": "jessie_lose.scw",
+            "FileName": "jessie_lose.glb",
             "StartFrame": 56,
             "EndFrame": 70
         },
         "JessieProfile": {
-            "FileName": "jessie_portrait.scw",
+            "FileName": "jessie_portrait.glb",
             "StartFrame": 1,
             "EndFrame": 1
         },
         "JessieTurretIdle": {
-            "FileName": "turret_jessie_idle.scw"
+            "FileName": "turret_jessie_idle.glb"
         },
         "JessieTurretAttack": {
-            "FileName": "turret_jessie_attack.scw",
+            "FileName": "turret_jessie_attack.glb",
             "EndFrame": -1
         },
         "JessieTurretSpawn": {
-            "FileName": "turret_jessie_spawn.scw"
+            "FileName": "turret_jessie_spawn.glb"
         }
     },
     

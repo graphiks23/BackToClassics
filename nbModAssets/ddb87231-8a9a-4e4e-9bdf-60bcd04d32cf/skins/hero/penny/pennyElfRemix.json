@@ -3,7 +3,7 @@
   
   "skin_confs": {
     "ArtilleryGalElf": {
-      "Model": "penny_elf_geo.scw",
+      "Model": "penny_elf_geo.glb",
       "IdleAnim": "PennyIdle",
       "WalkAnim": "PennyWalk",
       "PrimarySkillAnim": "PennyPrimary",
@@ -28,7 +28,7 @@
       "ProfileAnim": "PennyProfile"
     },
     "ArtilleryTurretElf": {
-      "Model": "penny_elf_turret_geo.scw"
+      "Model": "penny_elf_turret_geo.glb"
     }
   },
   "skins": {

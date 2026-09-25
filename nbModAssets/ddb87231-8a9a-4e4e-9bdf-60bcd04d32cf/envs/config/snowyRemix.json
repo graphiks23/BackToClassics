@@ -39,10 +39,10 @@
       "MapWidth": 21,
       "MapHeight": 33,
       "FragileModel": [
-        "sc3d/present_pile_xmas.glb"
+        "sc3d/windstock_fragile_geo.glb"
       ],
       "FragileSubmesh": [
-        "present_pile_xmas"
+        "null"
       ],
       "FragileAngleStep": [
         1

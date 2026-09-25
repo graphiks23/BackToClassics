@@ -3293,6 +3293,120 @@
         },
         "MechaDudeCybernoodlesChroma2": {
             "ShopTID": "TID_CYBERNOODLES_MEG_CHROMA_2_SKIN"
+        },
+        "BarrelBotBrawlacademy": {
+            "ShopTID": "TID_BACK_TO_SCHOOL_DARRYL_SKIN"
+        },
+        "KatanaKidTrueSilver": {
+            "ShopTID": "TID_TRUE_SILVER_NORI_SKIN"
+        },
+        "KatanaKidTrueGold": {
+            "ShopTID": "TID_TRUE_GOLD_NORI_SKIN"
+        },
+        "AmbusherMake": {
+            "ShopTID": "TID_MAKE_LILY_SKIN"
+        },
+        "SpawnerDudeBrawloween": {
+            "ShopTID": "TID_BRAWLOWEEN_MRP_SKIN"
+        },
+        "ReviverMake": {
+            "ShopTID": "TID_MAKE_DOUG_SKIN"
+        },
+        "GladiatorBrawloween": {
+            "ShopTID": "TID_BRAWLOWEEN_DAMIAN_SKIN"
+        },
+        "FutureGirlTrueGold": {
+            "ShopTID": "TID_TRUE_GOLD_WENDY_SKIN"
+        },
+        "FutureGirlTrueSilver": {
+            "ShopTID": "TID_TRUE_SILVER_WENDY_SKIN"
+        },
+        "AssaultShotgunMake": {
+            "ShopTID": "TID_MAKE_GRIFF_SKIN"
+        },
+        "StalkerMake": {
+            "ShopTID": "TID_MAKE_ALLI_SKIN"
+        },
+        "FishTankBrawlacademy": {
+            "ShopTID": "TID_BACK_TO_SCHOOL_HANK_SKIN"
+        },
+        "RedirecterBrawlacademy": {
+            "ShopTID": "TID_BACK_TO_SCHOOL_NAJIA_SKIN"
+        },
+        "ConductorBrawloween": {
+            "ShopTID": "TID_BRAWLOWEEN_CHUCK_SKIN"
+        },
+        "AttacherMake": {
+            "ShopTID": "TID_MAKE_KIT_SKIN"
+        },
+        "SkaterBrawlacademy": {
+            "ShopTID": "TID_BACK_TO_SCHOOL_OLLIE_SKIN"
+        },
+        "FleaMoonfestival": {
+            "ShopTID": "TID_MOON_FESTIVAL_EVE_SKIN"
+        },
+        "ElectroSniperBrawloween": {
+            "ShopTID": "TID_BRAWLOWEEN_BELLE_SKIN"
+        },
+        "SniperBrawloween": {
+            "ShopTID": "TID_BRAWLOWEEN_PIPER_SKIN"
+        },
+        "GhostBrawloween": {
+            "ShopTID": "TID_BRAWLOWEEN_SHADE_SKIN"
+        },
+        "BeamerUniversity": {
+            "ShopTID": "TID_BACK_TO_SCHOOL_MANDY_SKIN"
+        },
+        "ControllerBrawlacademy": {
+            "ShopTID": "TID_BACK_TO_SCHOOL_NANI_SKIN"
+        },
+        "DuplicatorLunarevent": {
+            "ShopTID": "TID_MOON_FESTIVAL_LOLA_SKIN"
+        },
+        "SpeedyMisc": {
+            "ShopTID": "TID_BRAWLOWEEN_MISC_MAX_SKIN"
+        },
+        "GhostBrawloweenChroma1": {
+            "ShopTID": "TID_BRAWLOWEEN_SHADE_CHROMA_1_SKIN"
+        },
+        "GhostBrawloweenChroma2": {
+            "ShopTID": "TID_BRAWLOWEEN_SHADE_CHROMA_2_SKIN"
+        },
+        "EnragerBuddyGhostly": {
+            "ShopTID": "TID_EDGAR_BUDDY_GHOSTLY_SKIN"
+        },
+        "AssaultShotgunBuddyGhostly": {
+            "ShopTID": "TID_GRIFF_BUDDY_GHOSTLY_SKIN"
+        },
+        "PercenterBuddyGhostly": {
+            "ShopTID": "TID_COLETTE_BUDDY_GHOSTLY_SKIN"
+        },
+        "MummyBuddyGhostly": {
+            "ShopTID": "TID_EMZ_BUDDY_GHOSTLY_SKIN"
+        },
+        "HammerDudeBuddyGhostly": {
+            "ShopTID": "TID_FRANK_BUDDY_GHOSTLY_SKIN"
+        },
+        "UndertakerBuddyGhostly": {
+            "ShopTID": "TID_MORTIS_BUDDY_GHOSTLY_SKIN"
+        },
+        "FishTankBrawlacademyChroma1": {
+            "ShopTID": "TID_BACK_TO_SCHOOL_HANK_CHROMA_1_SKIN"
+        },
+        "FishTankBrawlacademyChroma2": {
+            "ShopTID": "TID_BACK_TO_SCHOOL_HANK_CHROMA_2_SKIN"
+        },
+        "ControllerBrawlacademyChroma1": {
+            "ShopTID": "TID_BACK_TO_SCHOOL_NANI_CHROMA_1_SKIN"
+        },
+        "ControllerBrawlacademyChroma2": {
+            "ShopTID": "TID_BACK_TO_SCHOOL_NANI_CHROMA_2_SKIN"
+        },
+        "SpawnerDudeBrawloweenChroma1": {
+            "ShopTID": "TID_BRAWLOWEEN_MRP_CHROMA_1_SKIN"
+        },
+        "SpawnerDudeBrawloweenChroma2": {
+            "ShopTID": "TID_BRAWLOWEEN_MRP_CHROMA_2_SKIN"
         }
     }
 }

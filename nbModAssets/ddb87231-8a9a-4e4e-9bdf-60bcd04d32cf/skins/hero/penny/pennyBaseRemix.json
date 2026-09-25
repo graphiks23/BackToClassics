@@ -3,75 +3,75 @@
   
   "animations": {
     "PennyIdle": {
-      "FileName": "mari_idle.scw",
+      "FileName": "mari_idle.glb",
       "Speed": null
     },
     "PennyWalk": {
-      "FileName": "mari_walk.scw",
+      "FileName": "mari_walk.glb",
       "EndFrame": 28,
       "Speed": 150
     },
     "PennyPrimary": {
-      "FileName": "mari_attack.scw",
+      "FileName": "mari_attack.glb",
       "EndFrame": 5,
       "AutoFadeMs": 1,
       "Priority": "hips_s#4+L_upperLeg_s#0+R_upperLeg_s#0"
     },
     "PennyUltiAttack": {
-      "FileName": "mari_ult.scw"
+      "FileName": "mari_ult.glb"
     },
     "PennyRecoil": {
-      "FileName": "mari_attack.scw",
+      "FileName": "mari_attack.glb",
       "StartFrame": 5
     },
     "PennyUltiRecoil": {
-      "FileName": "mari_ult.scw",
+      "FileName": "mari_ult.glb",
       "EndFrame": 20
     },
     "PennyReload": {
-      "FileName": "mari_idle.scw"
+      "FileName": "mari_idle.glb"
     },
     "PennyPushback": {
-      "FileName": "mari_pushback.scw"
+      "FileName": "mari_pushback.glb"
     },
     "PennyWin": {
-      "FileName": "mari_win.scw",
+      "FileName": "mari_win.glb",
       "EndFrame": 62
     },
     "PennyWinloop": {
-      "FileName": "mari_win.scw",
+      "FileName": "mari_win.glb",
       "StartFrame": 63,
       "EndFrame": 92
     },
     "PennyLose": {
-      "FileName": "mari_lose.scw",
+      "FileName": "mari_lose.glb",
       "EndFrame": 50
     },
     "PennyLoseloop": {
-      "FileName": "mari_lose.scw",
+      "FileName": "mari_lose.glb",
       "StartFrame": 40,
       "EndFrame": 50
     },
     "PennyProfile": {
-      "FileName": "mari_win.scw",
+      "FileName": "mari_win.glb",
       "StartFrame": null,
       "EndFrame": null,
       "Looping": null
     },
     "ArtilleryTurretDefaultIdle": {
-      "FileName": "turret_idle.scw",
+      "FileName": "turret_idle.glb",
       "StartFrame": -1,
       "TransitionInMs": null,
       "TransitionOutMs": null
     },
     "ArtilleryTurretDefaultAttack": {
-      "FileName": "turret_attack.scw",
+      "FileName": "turret_attack.glb",
       "StartFrame": -1,
       "Speed": 100,
       "AutoFadeMs": 1
     },
     "ArtilleryTurretDefaultSpawn": {
-      "FileName": "turret_spawn.scw",
+      "FileName": "turret_spawn.glb",
       "StartFrame": -1,
       "EndFrame": -1,
       "AutoFadeMs": 1
@@ -79,11 +79,11 @@
   },
   "skin_confs": {
     "ArtilleryGalDefault": {
-      "Model": "mari_geo.scw"
+      "Model": "mari_geo.glb"
     },
 
   "ArtilleryTurretDefault": {
-       "Model": "turret_geo.scw"
+       "Model": "turret_geo.glb"
         }
         
   },
