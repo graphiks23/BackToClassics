@@ -5,7 +5,7 @@
 
 <h1 align="center">Back To Classics</h1>
 <p align="center">
-  A total conversion mod for Brawl Stars version 68
+  A total conversion mod for Brawl Stars version 69
 </p>
 
 <p align="center"> <img src="theme/screenshot.png" width="800"> </p>
