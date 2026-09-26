@@ -39,7 +39,7 @@
             "SpecularTexture": "bossbot_remix_tex.sctx"
         }
     },
-        "animations": {
+    "animations": {
         "RangedBotIdle": {
             "FileName": "rangedbot_idle.glb",
             "StartFrame": -1

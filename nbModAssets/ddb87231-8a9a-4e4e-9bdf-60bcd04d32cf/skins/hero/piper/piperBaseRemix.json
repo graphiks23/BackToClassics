@@ -1,0 +1,106 @@
+{
+
+  "skin_confs": {
+    "SniperDefault": {
+      "Model": "sniper_remix_geo.glb"
+    }
+  },
+       "skins": {
+        "SniperDefault": {
+            "DiffuseTexture": "sniper_remix_tex.sctx",
+            "SpecularTexture": "sniper_remix_tex.sctx"
+        }
+    },
+
+  "animations": {
+    "SniperRecoil": {
+      "FileName": "sniper_recoil1.glb",
+      "StartFrame": -1,
+      "EndFrame": -1,
+      "TransitionInMs": 50,
+      "TransitionOutMs": 50,
+      "AutoFadeMs": 200,
+      "Priority": 5
+    },
+    "SniperPushback": {
+      "FileName": "sniper_idle1.glb",
+      "StartFrame": -1,
+      "EndFrame": -1,
+      "TransitionInMs": 200,
+      "TransitionOutMs": 300,
+      "AutoFadeMs": 500,
+      "Priority": 5
+    },
+    "SniperWalk": {
+      "FileName": "sniper_walk1.glb",
+      "StartFrame": -1,
+      "EndFrame": -1,
+      "Speed": 150,
+      "TransitionInMs": 100,
+      "TransitionOutMs": 100,
+      "Looping": true,
+      "Priority": 1
+    },
+    "SniperSuper": {
+      "FileName": "sniper_ulti1.glb",
+      "StartFrame": -1,
+      "EndFrame": -1,
+      "TransitionInMs": 50,
+      "TransitionOutMs": 50,
+      "AutoFadeMs": 200,
+      "Priority": 5
+    },
+    "SniperIdle": {
+      "FileName": "sniper_idle1.glb",
+      "StartFrame": -1,
+      "EndFrame": -1,
+      "TransitionInMs": 100,
+      "TransitionOutMs": 100,
+      "Looping": true
+    },
+    "SniperAttack": {
+      "FileName": "sniper_attack1.glb",
+      "StartFrame": -1,
+      "EndFrame": -1,
+      "TransitionInMs": 50,
+      "TransitionOutMs": 50,
+      "AutoFadeMs": 200,
+      "Priority": 5
+    },
+    "SniperLose": {
+      "FileName": "sniper_lose1.glb",
+      "StartFrame": 0,
+      "EndFrame": 30,
+      "Priority": 5
+    },
+    "SniperLoseLoop": {
+      "FileName": "sniper_lose1.glb",
+      "StartFrame": 30,
+      "EndFrame": 39,
+      "Looping": true,
+      "Priority": 1
+    },
+    "SniperWin": {
+      "FileName": "sniper_win1.glb",
+      "StartFrame": 0,
+      "EndFrame": 26,
+      "Priority": 5
+    },
+    "SniperWinLoop": {
+      "FileName": "sniper_win1.glb",
+      "StartFrame": 26,
+      "EndFrame": 60,
+      "Looping": true,
+      "Priority": 1
+    },
+    "SniperReload": {
+      "FileName": "sniper_idle1.glb",
+      "StartFrame": -1,
+      "EndFrame": -1,
+      "TransitionInMs": 100,
+      "TransitionOutMs": 200,
+      "AutoFadeMs": 500,
+      "Priority": "ChestBone#2"
+    }
+  }
+}

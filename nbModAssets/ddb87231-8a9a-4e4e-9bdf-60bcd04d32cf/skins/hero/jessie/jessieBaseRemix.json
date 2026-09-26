@@ -30,7 +30,7 @@
             "Model": "turret_jessie_geo.glb"
         },
         "MechanicDefault": {
-            "Model": "jessie_geo.glb",
+            "Model": "jessie_remix_geo.glb",
             "IdleFace": "JessieStill",
             "WalkFace": "JessieStill",
             "HappyFace": "JessieWin",
@@ -47,10 +47,10 @@
             "IntroFace": "JessieStill"
         },
         "MechanicGold": {
-            "Model": "jessie_geo.glb"
+            "Model": "jessie_remix_geo.glb"
         },
         "MechanicSilver": {
-            "Model": "jessie_geo.glb"
+            "Model": "jessie_remix_geo.glb"
         }
     },
    
@@ -68,54 +68,54 @@
             "FileName": "turret_jessie_attack.glb"
         },
         "JessieIdle": {
-            "FileName": "jessie_idle.glb"
+            "FileName": "jessie_remix_idle.glb"
         },
         "JessieWalk": {
-            "FileName": "jessie_walk.glb"
+            "FileName": "jessie_remix_walk.glb"
         },
         "JessiePrimary": {
-            "FileName": "jessie_attack.glb",
+            "FileName": "jessie_remix_attack.glb",
             "StartFrame": 1,
             "EndFrame": 5
         },
         "JessieUltiAttack": {
-            "FileName": "jessie_idle.glb"
+            "FileName": "jessie_remix_idle.glb"
         },
         "JessieRecoil": {
-            "FileName": "jessie_attack.glb",
+            "FileName": "jessie_remix_attack.glb",
             "StartFrame": 5
         },
         "JessieUltiRecoil": {
-            "FileName": "jessie_idle.glb"
+            "FileName": "jessie_remix_idle.glb"
         },
         "JessieReload": {
-            "FileName": "jessie_idle.glb",
+            "FileName": "jessie_remix_idle.glb",
             "EndFrame": -1
         },
         "JessiePushback": {
-            "FileName": "jessie_pushback.glb",
+            "FileName": "jessie_remix_pushback.glb",
             "EndFrame": -1
         },
         "JessieWin": {
-            "FileName": "jessie_win.glb",
+            "FileName": "jessie_remix_win.glb",
             "EndFrame": 107
         },
         "JessieWinloop": {
-            "FileName": "jessie_win.glb",
+            "FileName": "jessie_remix_win.glb",
             "StartFrame": 107,
             "EndFrame": 139
         },
         "JessieLose": {
-            "FileName": "jessie_lose.glb",
+            "FileName": "jessie_remix_lose.glb",
             "EndFrame": 56
         },
         "JessieLoseloop": {
-            "FileName": "jessie_lose.glb",
+            "FileName": "jessie_remix_lose.glb",
             "StartFrame": 56,
             "EndFrame": 70
         },
         "JessieProfile": {
-            "FileName": "jessie_portrait.glb",
+            "FileName": "jessie_remix_portrait.glb",
             "StartFrame": 1,
             "EndFrame": 1
         },
